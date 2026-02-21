@@ -1,35 +1,27 @@
-Damascus announced new procedures for Kurdish residents to apply for Syrian citizenship as the government works to integrate formerly autonomous regions under central control.
+A Syrian government delegation arrived at Qamishli Airport to coordinate its [planned reopening](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/), marking another step in integrating Kurdish-controlled areas with Damascus. The move comes as the SDF released 51 detainees in al-Hasakah, calling for a "[phase of forgiveness](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/)" and rebuilding.
 
 ## Syria
 
-• The SDF [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah as part of what it calls a "phase of forgiveness and rebuilding." The move comes as Syrian government officials arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) to prepare for its reopening under Damascus control.
+• The Interior Ministry outlined [new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Syrian citizenship applications for Kurdish residents, part of broader efforts to integrate previously autonomous areas. According to Enab Baladi, the move addresses long-standing statelessness issues in northeastern Syria.
 
-• Ahmad al-Sharaa issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan, according to Enab Baladi.
+• According to Enab Baladi, Islamic State militants [claimed responsibility](https://english.enabbaladi.net/archives/2026/02/islamic-state/) for attacks on government forces in Deir Ezzor. The strikes underscore ongoing security challenges in eastern Syria despite territorial gains against ISIS.
 
-• Islamic State fighters [claimed responsibility](https://english.enabbaladi.net/archives/2026/02/islamic-state/) for an attack on government forces in Deir Ezzor, per Enab Baladi.
+• Canada [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria while targeting "new perpetrators," according to Enab Baladi. The policy shift reflects international recalibration following the government transition.
 
-• Canada [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria while introducing new measures targeting what Ottawa calls "new perpetrators," Reuters reports.
-
-• The UN coordinated the [return of 191 Iraqis](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) from al-Hol camp, continuing efforts to reduce the facility's population.
+• According to Enab Baladi, Israeli forces [detained two](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) young Syrian men in the Yarmouk Basin area of Daraa province.
 
 ## Lebanon
 
-• Hezbollah's parliamentary bloc chief Mohammad Raad met with Speaker Nabih Berri to discuss [unity ahead](https://nna-leb.gov.lb/en/news/short/152213) of this year's parliamentary elections, NNA Lebanon reports.
+• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in southern Lebanon via leaflets, calling such attacks violations of international law, OLN News (Lebanon) reports. The syndicate demanded international protection for healthcare facilities.
 
-• Lebanese Forces leader Samir Geagea [announced candidates](https://nna-leb.gov.lb/en/news/short/152209) for the Bsharri constituency in the 2026 parliamentary elections, according to NNA Lebanon.
-
-• Former Prime Minister Tammam Salam called for [citizenship reform](https://nna-leb.gov.lb/en/news/short/152208) and changes to sectarian quotas at a conference on state sovereignty, per NNA Lebanon.
-
-• The Economy Ministry [warned against](https://nna-leb.gov.lb/en/news/short/152214) unjustified price hikes while intensifying market inspections, NNA Lebanon reports.
+• Lebanon's educational sector faces significant challenges as schools prepare for a [national forum](https://olnnews.com/181379/) on K-12 education organized by the National School and American University of Beirut, according to OLN News (Lebanon). The event will address systemic issues in Lebanese education following years of economic crisis.
 
 ## Broader Levant
 
-• Iranian Revolutionary Guards are [running Hezbollah](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) operations and preparing the group for potential war with Israel if Washington strikes Iran, according to Times of Israel.
+• Jordan joined Egypt and Saudi Arabia in [denouncing remarks](https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss) by US Ambassador Mike Huckabee suggesting Israel has biblical rights to much of the Middle East. Al Jazeera reports the statements sparked regional diplomatic backlash.
 
-• US Ambassador to Israel Mike Huckabee sparked [diplomatic protests](https://www.timesofisrael.com/arab-and-muslim-states-fume-after-huckabee-says-israel-has-biblical-right-to-much-of-mideast/) from Arab and Muslim states after claiming Israel has biblical rights to much of the Middle East, Times of Israel reports.
-
-• Israeli airstrikes [killed at least](https://www.aljazeera.com/news/2025/1/28/at-least-10-killed-in-israeli-attacks-on-gaza-says-palestinian-health-ministry) 10 people in Gaza according to Palestinian health officials, Al Jazeera reports.
+• According to the Times of Israel, Iran's Revolutionary Guards are reportedly [running Hezbollah](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) operations and preparing the group for potential conflict with Israel if the US strikes Iran.
 
 ## Regional Spillover
 
-• Iraq transferred [157 juvenile](https://english.enabbaladi.net/archives/2026/02/iraq-transfers-157-juvenile-is-detainees-to-rehabilitation-centers/) Islamic State detainees to rehabilitation centers, continuing regional efforts to address the group's legacy, Enab Baladi reports.
+• The UN coordinated the [return of](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) 191 Iraqis from Syria's al-Hol camp, part of ongoing repatriation efforts. Iraq separately transferred 157 juvenile Islamic State detainees to rehabilitation centers, per Enab Baladi.

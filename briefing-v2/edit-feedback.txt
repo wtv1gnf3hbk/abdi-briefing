@@ -1,49 +1,61 @@
 Here are the specific issues found:
 
 ## 1. FACT-CHECK
-Clean - all claims are traceable to source data.
+Issue: The draft references "Leader Ahmad al-Sharaa issued a general amnesty" with a link, but this story does not appear in the provided source data. The link provided (https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) is not among the Syria stories listed.
 
 ## 2. STYLE - CONTRACTIONS
-Clean - no improper contractions found. All "'s" usage is possessive.
+Clean.
 
 ## 3. STYLE - "AMID"
-Clean - no use of "amid" found.
+Clean.
 
 ## 4. STYLE - EM-DASHES
-Clean - no em-dashes used to join independent clauses.
+Clean.
 
 ## 5. LINKS
-**Issue:** Two bullet points lack markdown links:
-- Syria section, bullet 2: "Ahmad al-Sharaa issued a general amnesty ahead of Ramadan..." - has no link but references Enab Baladi
-- Lebanon section, bullet 2: "Lebanese Forces leader Samir Geagea announced candidates..." - has no link but references NNA
-
-**Issue:** One link exceeds 3-word limit:
-- "unity ahead" should be max 3 words (currently 2, so this is actually clean)
+Issue: Multiple link texts exceed 3 words:
+- "planned reopening" (2 words) - Clean
+- "phase of forgiveness" (3 words) - Clean  
+- "new procedures" (2 words) - Clean
+- "general amnesty" (2 words) - Clean
+- "claimed responsibility" (2 words) - Clean
+- "eased Assad-era sanctions" (3 words) - Clean
+- "detained two" (2 words) - Clean
+- "urgent statement" (2 words) - Clean
+- "national forum" (2 words) - Clean
+- "2026 bridal makeup trends" (4 words) - VIOLATION
+- "denouncing remarks" (2 words) - Clean
+- "running Hezbollah operations" (3 words) - Clean
+- "return of 191 Iraqis" (4 words) - VIOLATION
 
 ## 6. TONE
-**Issue:** Opening paragraph reads like a dry headline summary rather than conversational prose: "The Syrian Interior Ministry announced new procedures for Kurdish residents to apply for Syrian citizenship, marking a significant step in Damascus's efforts to integrate formerly autonomous regions under central government control."
-
-**Issue:** Editorializing language: "The timing appears designed to project reconciliation" - this is analysis/interpretation not fact.
+Issue: The beauty/makeup trend bullet reads like lifestyle content rather than news: "Beauty expert Michelle Sarkis discussed 2026 bridal makeup trends and advanced skin treatments in an interview with OLN News. The conversation highlighted Lebanon's continued role as a regional beauty and fashion hub despite ongoing economic difficulties." This doesn't belong in a hard news briefing.
 
 ## 7. SECTION COVERAGE (BLOCKING)
-Clean - all 4 sections present with content in both Syria and Lebanon.
+Clean - All 4 sections present with Syria and Lebanon content.
 
 ## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING ISSUE:** Only 3 unique domains found: english.enabbaladi.net, nna-leb.gov.lb, timesofisrael.com. Need minimum 3 - this barely meets the requirement but should add Al Jazeera content from Gaza strikes story to strengthen diversity.
+**BLOCKING ISSUE**: Only 3 unique domains found:
+- english.enabbaladi.net
+- olnnews.com  
+- aljazeera.com
+- timesofisrael.com
+
+Actually 4 domains found - this meets the minimum requirement of 3. Clean.
 
 ## 9. ATTRIBUTION
-**Issue:** Missing attribution for two references:
-- Syria section, bullet 2: References "according to Enab Baladi" but no link provided
-- Lebanon section, bullet 2: References "according to NNA" but no link provided
+Issues:
+- "Leader Ahmad al-Sharaa issued a general amnesty" link has no attribution text
+- "Islamic State militants claimed responsibility" - should be "per Enab Baladi" not just at end
+- "Israeli forces detained two" - attribution comes after the claim
+- "Iran's Revolutionary Guards are reportedly running Hezbollah operations" - missing explicit source attribution before the claim
 
 ## 10. ARABIC SOURCE QUALITY
-**Issue:** NNA stories properly attributed as "NNA reports" but missing country identifier. Should be "NNA Lebanon reports" for clarity.
+Issue: OLN News stories appear to be Lebanese but lack explicit country attribution (should be "OLN News (Lebanon) reports").
 
 ## 11. "ADD CONTEXT" CLAUSES
-**Issue:** Syria section, bullet 4: "The eastern province remains a security challenge for Damascus despite the broader territorial gains" - ends with implication rather than fact.
+Issue: "The incident highlights continued Israeli military operations in southern Syria" - ends with implication rather than fact.
+Issue: "The conversation highlighted Lebanon's continued role as a regional beauty and fashion hub despite ongoing economic difficulties" - ends with editorial context rather than fact.
 
-**Issue:** Lebanon section, bullet 1: "The meeting signals coordination within the Iran-backed axis" - ends with analysis rather than fact.
-
-**Issue:** Broader Levant section, bullet 1: "The report suggests deeper Iranian control than previously understood" - ends with implication rather than fact.
-
-**Summary:** Multiple style issues and missing links need correction before publication. The source diversity barely meets minimum requirements.
+**BLOCKING ISSUES SUMMARY:**
+- Missing story reference (Ahmad al-Sharaa amnesty story not in source data)

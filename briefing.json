@@ -4,16 +4,16 @@
     "owner": "Abdi Latif Dahir",
     "timezone": "Africa/Nairobi",
     "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context",
-    "generated": "2026-02-21T21:26:54.717Z",
-    "generatedTimestamp": 1771709214717
+    "generated": "2026-02-21T21:42:01.090Z",
+    "generatedTimestamp": 1771710121090
   },
   "stats": {
     "sourceCount": 25,
     "successCount": 25,
-    "totalStories": 199,
+    "totalStories": 196,
     "totalScreenshots": 3,
-    "beatFlaggedCount": 34,
-    "elapsed": "72.9s"
+    "beatFlaggedCount": 38,
+    "elapsed": "31.8s"
   },
   "stories": {
     "all": [
@@ -978,171 +978,6 @@
         "originalHeadline": "العدل تباشر تنفيذ المرسوم الرئاسي رقم 39"
       },
       {
-        "headline": "Morcos Inspects Radio Lebanon Archive, Orders Safety Upgrades and Digitization Acceleration",
-        "url": "https://nna-leb.gov.lb/en/news/short/152215",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 14:37:23 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Economy Ministry Intensifies Market Inspections, Warns Against Unjustified Price Hikes",
-        "url": "https://nna-leb.gov.lb/en/news/short/152214",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 14:31:00 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Berri Meets Loyalty to the Resistance Bloc; Raad Stresses Unity Ahead of Elections",
-        "url": "https://nna-leb.gov.lb/en/news/short/152213",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 14:21:57 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Karami Tours Tripoli Public Schools to Assess Structural Safety",
-        "url": "https://nna-leb.gov.lb/en/news/short/152212",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 12:32:24 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Saad Hariri Departs Beirut Bound for UAE",
-        "url": "https://nna-leb.gov.lb/en/news/short/152211",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 12:27:43 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Gold prices tick up amid US-Iran tensions, Fed caution; set for weekly loss",
-        "url": "https://nna-leb.gov.lb/en/news/short/152210",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 12:23:30 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Geagea Announces Lebanese Forces Candidates in Bsharri for 2026 Parliamentary Elections",
-        "url": "https://nna-leb.gov.lb/en/news/short/152209",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 12:18:52 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Salam Calls for Full Citizenship, Reform of Sectarian Quotas at “Citizenship and State Sovereignty” Conference",
-        "url": "https://nna-leb.gov.lb/en/news/short/152208",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 12:15:00 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Berri Meets Loyalty to the Resistance Bloc Head Mohammad Raad in Ain El-Tineh",
-        "url": "https://nna-leb.gov.lb/en/news/short/152207",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 11:41:49 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Oil prices in Lebanon today",
-        "url": "https://nna-leb.gov.lb/en/news/short/152206",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 11:39:42 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Lebanese Newspapers Headlines for February 20, 2025",
-        "url": "https://nna-leb.gov.lb/en/news/short/152205",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 11:02:16 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Finance Minister meets with Lebanon's Central Bank Governor",
-        "url": "https://nna-leb.gov.lb/en/news/short/152204",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 16:45:27 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Salameh discusses strengthening cooperation in antiquities with Louvre Delegation",
-        "url": "https://nna-leb.gov.lb/en/news/short/152203",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 16:42:00 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Minister Morcos and Lebanese University President sign cooperation agreement between Ministry of Information and ''CNAM''",
-        "url": "https://nna-leb.gov.lb/en/news/short/152202",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 16:04:00 +0200",
-        "description": ""
-      },
-      {
-        "headline": "Salameh receives Abu Zaki in preparation for his participation in Al-Iktissad Wal-Aamal Group Conferences",
-        "url": "https://nna-leb.gov.lb/en/news/short/152201",
-        "source": "NNA Lebanon",
-        "sourceId": "nna",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 15:33:00 +0200",
-        "description": ""
-      },
-      {
         "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
         "url": "https://olnnews.com/181437/",
         "source": "OLN News",
@@ -1247,7 +1082,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-        "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+        "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
         "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
       },
       {
@@ -1272,7 +1107,7 @@
         "language": "ar",
         "date": "Fri, 20 Feb 2026 23:06:20 +0000",
         "description": "Issued by the Office of the Minister of Information, Attorney Dr. Paul Morcos the following statement: “In addition to the decision and announcement of the Election Supervisory Authority regarding the participation of the media in the electoral process, the Ministry of Information, in direct coordination with the Election Supervisory Authority, conducted a review of the provisions of Law No. 44/2017, especially Article 71 of it related to advertising.",
-        "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابية بين الإعلام الرسمي والخاص"
+        "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابي�� بين الإعلام الرسمي والخاص"
       },
       {
         "headline": "Sunrise and Sunset - Written by Khalil Al-Khoury - United States - Iran: The frantic hours",
@@ -1381,6 +1216,99 @@
         "date": "Fri, 20 Feb 2026 22:01:44 +0000",
         "description": "",
         "originalHeadline": "سلام: قرار الحكومة ألاّ نقوم بأي إنفاق قبل تأمين التمويل"
+      },
+      {
+        "headline": "Trump, once unstoppable, hits snag after snag ahead of major US address - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5\" "
+      },
+      {
+        "headline": "US aircraft carrier enters Mediterranean as Trump mulls Iran strikes - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 09:18:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5\" ta"
+      },
+      {
+        "headline": "8 Hezbollah members, including commander, killed in Israel's Bekaa strikes - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 09:41:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?"
+      },
+      {
+        "headline": "Serbia urges citizens to quit Iran 'as soon as possible' - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5\" target=\"_blank\"&gt;Serbia "
+      },
+      {
+        "headline": "Aoun strongly condemns Israeli strikes on Bekaa and Sidon, urges int'l action - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWFuaTA0?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 09:30:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
+      },
+      {
+        "headline": "US 'Strongly Condemns' Turkey Car Bombings near Syria - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Fri, 20 Feb 2026 21:59:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5\" target=\"_blank\"&gt;US 'Strongly Cond"
+      },
+      {
+        "headline": "Ramadan's first Friday prayers are held at Jerusalem's Al-Aqsa Mosque - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE84S0M4?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Sat, 21 Feb 2026 13:54:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE8"
+      },
+      {
+        "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
+        "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 21:31:19 +0000",
+        "description": "Egypt, Jordan, Saudi Arabia denounce US ambassador&#039;s remarks suggesting Israel has right to much of the Middle East.",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Assad",
+          "Jordan"
+        ]
       },
       {
         "headline": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
@@ -1557,17 +1485,6 @@
         ]
       },
       {
-        "headline": "Tottenham Hotspur vs Arsenal: Premier League – team news, start, lineups",
-        "url": "https://www.aljazeera.com/sports/2026/2/21/tottenham-hotspur-vs-arsenal-premier-league-team-news-start?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "wire",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 09:54:51 +0000",
-        "description": "Igor Tudor&#039;s first game in charge of Spurs is a north London derby against wobbling Premier League leaders Arsenal."
-      },
-      {
         "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
         "source": "Reuters",
@@ -1636,6 +1553,36 @@
         ]
       },
       {
+        "headline": "Life in Damascus - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Wed, 29 Oct 2025 01:55:20 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5\" target=\"_blank\"&gt;Life in Damascus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Damascus"
+        ]
+      },
+      {
+        "headline": "The Syrian front - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
+      },
+      {
         "headline": "Air strikes on Kobani - Reuters",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
         "source": "Reuters",
@@ -1678,6 +1625,17 @@
         "language": "en",
         "date": "Sun, 20 Oct 2024 03:05:37 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+      },
+      {
+        "headline": "Rise of the Taliban - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
       },
       {
         "headline": "Relics of war - Reuters",
@@ -1740,7 +1698,7 @@
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Sat, 21 Feb 2026 15:40:00 GMT",
+        "date": "Sat, 21 Feb 2026 18:26:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5\" targ",
         "beatRelevant": true,
         "beatKeywords": [
@@ -1748,26 +1706,15 @@
         ]
       },
       {
-        "headline": "Ukraine strikes key industrial site deep inside Russia - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5",
+        "headline": "Las Vegas police investigate terrorism event after vehicle rammed into power substation - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5",
         "source": "AP",
         "sourceId": "ap_levant",
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Sat, 21 Feb 2026 15:46:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5\" "
-      },
-      {
-        "headline": "'Fools and lap dogs:' Trump launches furious attacks at Supreme Court justices over tariff ruling - AP News",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelVTQ21GOGxzejVob1M0ZDNTRVl0dU8zbTN5NFE1azlIdi1jWlBNTmt0LUFVMENQbEk?oc=5",
-        "source": "AP",
-        "sourceId": "ap_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 21:31:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelV"
+        "date": "Sat, 21 Feb 2026 01:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5\" target=\"_blank\"&gt;Las Vegas police investigate terro"
       },
       {
         "headline": "Israeli strikes in Lebanon kill at least 12 people, intensifying rising regional tensions - AP News",
@@ -1905,6 +1852,17 @@
         ]
       },
       {
+        "headline": "AP top stories February 20 - AP News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5",
+        "source": "AP",
+        "sourceId": "ap_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Fri, 20 Feb 2026 23:34:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5\" target=\"_blank\"&gt;AP top stories February 20&lt;/"
+      },
+      {
         "headline": "Iran students stage first anti-government protests since deadly crackdown",
         "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -1955,7 +1913,7 @@
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Sat, 21 Feb 2026 05:56:27 GMT",
+        "date": "Sat, 21 Feb 2026 21:27:07 GMT",
         "description": "Nasrallah Abu Siyam was the sixth American citizen killed by Israeli settlers or soldiers in the West Bank in the last two years.",
         "beatRelevant": true,
         "beatKeywords": [
@@ -2302,6 +2260,17 @@
         ]
       },
       {
+        "headline": "'Evading responsibility': Thousands rally against Netanyahu gov't over October 7 - Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5nTVM5Qkl1MklhNlRMUUZab0F5bXQxV0NacU1XODAtc0plUE50RUs3c2JQeEZ2WXJh?oc=5",
+        "source": "Haaretz",
+        "sourceId": "haaretz",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 19:59:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5"
+      },
+      {
         "headline": "Arab states slam Huckabee for saying 'fine' for Israel to take over Middle East - Haaretz",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUndpTGhJQ2NqLUhxYW1OU1p1bHdsMmhqSzdOa2hKTjZTc3ZINl9QajkzVUlZZXdvcnRqT2lxQ2pMRnIycTZsdERTN0dOOWg0QVlPek9Wbmd0VnJzaC1IMExyTjRuX2QybU9vOEtOV21BaVJhMVRITEtOZTYxVnQ4U202Tlhtb3ZpYVV6SkxzUjlwUzgtelNNSjVhTWgzUFhQT0VMN3EyR0ZvZ3RMNVJNenBfM3pNeWJ1a01CVkVPSFBZOHRrUVZMMXpSd0VoMS1nNUpvZ3NEU2Q5WVZGbUVZWFl6YnBFcjRRZC1oNWtkSUMtSklDVTQxRkVvTkZSWk5oNVJQempaTTg?oc=5",
         "source": "Haaretz",
@@ -2370,6 +2339,21 @@
         "language": "en",
         "date": "Sat, 21 Feb 2026 19:23:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
+      },
+      {
+        "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
+        "source": "Haaretz",
+        "sourceId": "haaretz",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 03:48:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Lebanon"
+        ]
       },
       {
         "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
@@ -3363,171 +3347,6 @@
       ],
       "lebanon": [
         {
-          "headline": "Morcos Inspects Radio Lebanon Archive, Orders Safety Upgrades and Digitization Acceleration",
-          "url": "https://nna-leb.gov.lb/en/news/short/152215",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 14:37:23 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Economy Ministry Intensifies Market Inspections, Warns Against Unjustified Price Hikes",
-          "url": "https://nna-leb.gov.lb/en/news/short/152214",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 14:31:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Berri Meets Loyalty to the Resistance Bloc; Raad Stresses Unity Ahead of Elections",
-          "url": "https://nna-leb.gov.lb/en/news/short/152213",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 14:21:57 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Karami Tours Tripoli Public Schools to Assess Structural Safety",
-          "url": "https://nna-leb.gov.lb/en/news/short/152212",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:32:24 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Saad Hariri Departs Beirut Bound for UAE",
-          "url": "https://nna-leb.gov.lb/en/news/short/152211",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:27:43 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Gold prices tick up amid US-Iran tensions, Fed caution; set for weekly loss",
-          "url": "https://nna-leb.gov.lb/en/news/short/152210",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:23:30 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Geagea Announces Lebanese Forces Candidates in Bsharri for 2026 Parliamentary Elections",
-          "url": "https://nna-leb.gov.lb/en/news/short/152209",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:18:52 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salam Calls for Full Citizenship, Reform of Sectarian Quotas at “Citizenship and State Sovereignty” Conference",
-          "url": "https://nna-leb.gov.lb/en/news/short/152208",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:15:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Berri Meets Loyalty to the Resistance Bloc Head Mohammad Raad in Ain El-Tineh",
-          "url": "https://nna-leb.gov.lb/en/news/short/152207",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:41:49 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Oil prices in Lebanon today",
-          "url": "https://nna-leb.gov.lb/en/news/short/152206",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:39:42 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Lebanese Newspapers Headlines for February 20, 2025",
-          "url": "https://nna-leb.gov.lb/en/news/short/152205",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:02:16 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Finance Minister meets with Lebanon's Central Bank Governor",
-          "url": "https://nna-leb.gov.lb/en/news/short/152204",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:45:27 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salameh discusses strengthening cooperation in antiquities with Louvre Delegation",
-          "url": "https://nna-leb.gov.lb/en/news/short/152203",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:42:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Minister Morcos and Lebanese University President sign cooperation agreement between Ministry of Information and ''CNAM''",
-          "url": "https://nna-leb.gov.lb/en/news/short/152202",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:04:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salameh receives Abu Zaki in preparation for his participation in Al-Iktissad Wal-Aamal Group Conferences",
-          "url": "https://nna-leb.gov.lb/en/news/short/152201",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 15:33:00 +0200",
-          "description": ""
-        },
-        {
           "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
           "url": "https://olnnews.com/181437/",
           "source": "OLN News",
@@ -3632,7 +3451,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -3657,7 +3476,7 @@
           "language": "ar",
           "date": "Fri, 20 Feb 2026 23:06:20 +0000",
           "description": "Issued by the Office of the Minister of Information, Attorney Dr. Paul Morcos the following statement: “In addition to the decision and announcement of the Election Supervisory Authority regarding the participation of the media in the electoral process, the Ministry of Information, in direct coordination with the Election Supervisory Authority, conducted a review of the provisions of Law No. 44/2017, especially Article 71 of it related to advertising.",
-          "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابية بين الإعلام الرسمي والخاص"
+          "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابي�� بين الإعلام الرسمي والخاص"
         },
         {
           "headline": "Sunrise and Sunset - Written by Khalil Al-Khoury - United States - Iran: The frantic hours",
@@ -3766,9 +3585,102 @@
           "date": "Fri, 20 Feb 2026 22:01:44 +0000",
           "description": "",
           "originalHeadline": "سلام: قرار الحكومة ألاّ نقوم بأي إنفاق قبل تأمين التمويل"
+        },
+        {
+          "headline": "Trump, once unstoppable, hits snag after snag ahead of major US address - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5\" "
+        },
+        {
+          "headline": "US aircraft carrier enters Mediterranean as Trump mulls Iran strikes - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 09:18:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5\" ta"
+        },
+        {
+          "headline": "8 Hezbollah members, including commander, killed in Israel's Bekaa strikes - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 09:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?"
+        },
+        {
+          "headline": "Serbia urges citizens to quit Iran 'as soon as possible' - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5\" target=\"_blank\"&gt;Serbia "
+        },
+        {
+          "headline": "Aoun strongly condemns Israeli strikes on Bekaa and Sidon, urges int'l action - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWFuaTA0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 09:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
+        },
+        {
+          "headline": "US 'Strongly Condemns' Turkey Car Bombings near Syria - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Fri, 20 Feb 2026 21:59:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5\" target=\"_blank\"&gt;US 'Strongly Cond"
+        },
+        {
+          "headline": "Ramadan's first Friday prayers are held at Jerusalem's Al-Aqsa Mosque - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE84S0M4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Sat, 21 Feb 2026 13:54:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE8"
         }
       ],
       "wire": [
+        {
+          "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
+          "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 21:31:19 +0000",
+          "description": "Egypt, Jordan, Saudi Arabia denounce US ambassador&#039;s remarks suggesting Israel has right to much of the Middle East.",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Assad",
+            "Jordan"
+          ]
+        },
         {
           "headline": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
           "url": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss",
@@ -3944,17 +3856,6 @@
           ]
         },
         {
-          "headline": "Tottenham Hotspur vs Arsenal: Premier League – team news, start, lineups",
-          "url": "https://www.aljazeera.com/sports/2026/2/21/tottenham-hotspur-vs-arsenal-premier-league-team-news-start?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 09:54:51 +0000",
-          "description": "Igor Tudor&#039;s first game in charge of Spurs is a north London derby against wobbling Premier League leaders Arsenal."
-        },
-        {
           "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
           "source": "Reuters",
@@ -4023,6 +3924,36 @@
           ]
         },
         {
+          "headline": "Life in Damascus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Wed, 29 Oct 2025 01:55:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5\" target=\"_blank\"&gt;Life in Damascus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Damascus"
+          ]
+        },
+        {
+          "headline": "The Syrian front - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
+        },
+        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -4065,6 +3996,17 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+        },
+        {
+          "headline": "Rise of the Taliban - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
         },
         {
           "headline": "Relics of war - Reuters",
@@ -4127,7 +4069,7 @@
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 15:40:00 GMT",
+          "date": "Sat, 21 Feb 2026 18:26:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5\" targ",
           "beatRelevant": true,
           "beatKeywords": [
@@ -4135,26 +4077,15 @@
           ]
         },
         {
-          "headline": "Ukraine strikes key industrial site deep inside Russia - AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5",
+          "headline": "Las Vegas police investigate terrorism event after vehicle rammed into power substation - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5",
           "source": "AP",
           "sourceId": "ap_levant",
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 15:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5\" "
-        },
-        {
-          "headline": "'Fools and lap dogs:' Trump launches furious attacks at Supreme Court justices over tariff ruling - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelVTQ21GOGxzejVob1M0ZDNTRVl0dU8zbTN5NFE1azlIdi1jWlBNTmt0LUFVMENQbEk?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 21:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelV"
+          "date": "Sat, 21 Feb 2026 01:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5\" target=\"_blank\"&gt;Las Vegas police investigate terro"
         },
         {
           "headline": "Israeli strikes in Lebanon kill at least 12 people, intensifying rising regional tensions - AP News",
@@ -4292,6 +4223,17 @@
           ]
         },
         {
+          "headline": "AP top stories February 20 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Fri, 20 Feb 2026 23:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5\" target=\"_blank\"&gt;AP top stories February 20&lt;/"
+        },
+        {
           "headline": "Iran students stage first anti-government protests since deadly crackdown",
           "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -4342,7 +4284,7 @@
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 05:56:27 GMT",
+          "date": "Sat, 21 Feb 2026 21:27:07 GMT",
           "description": "Nasrallah Abu Siyam was the sixth American citizen killed by Israeli settlers or soldiers in the West Bank in the last two years.",
           "beatRelevant": true,
           "beatKeywords": [
@@ -4691,6 +4633,17 @@
           ]
         },
         {
+          "headline": "'Evading responsibility': Thousands rally against Netanyahu gov't over October 7 - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5nTVM5Qkl1MklhNlRMUUZab0F5bXQxV0NacU1XODAtc0plUE50RUs3c2JQeEZ2WXJh?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 19:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5"
+        },
+        {
           "headline": "Arab states slam Huckabee for saying 'fine' for Israel to take over Middle East - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUndpTGhJQ2NqLUhxYW1OU1p1bHdsMmhqSzdOa2hKTjZTc3ZINl9QajkzVUlZZXdvcnRqT2lxQ2pMRnIycTZsdERTN0dOOWg0QVlPek9Wbmd0VnJzaC1IMExyTjRuX2QybU9vOEtOV21BaVJhMVRITEtOZTYxVnQ4U202Tlhtb3ZpYVV6SkxzUjlwUzgtelNNSjVhTWgzUFhQT0VMN3EyR0ZvZ3RMNVJNenBfM3pNeWJ1a01CVkVPSFBZOHRrUVZMMXpSd0VoMS1nNUpvZ3NEU2Q5WVZGbUVZWFl6YnBFcjRRZC1oNWtkSUMtSklDVTQxRkVvTkZSWk5oNVJQempaTTg?oc=5",
           "source": "Haaretz",
@@ -4759,6 +4712,21 @@
           "language": "en",
           "date": "Sat, 21 Feb 2026 19:23:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
+        },
+        {
+          "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 03:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Lebanon"
+          ]
         },
         {
           "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
@@ -5521,169 +5489,86 @@
           "originalHeadline": "مصرع طفل وإصابة آخر بانفجار مخلفات حرب قرب تل الحارة في درعا"
         },
         {
-          "headline": "Morcos Inspects Radio Lebanon Archive, Orders Safety Upgrades and Digitization Acceleration",
-          "url": "https://nna-leb.gov.lb/en/news/short/152215",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "Trump, once unstoppable, hits snag after snag ahead of major US address - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 14:37:23 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFJiVUNwUXcxVEwxQ0w5b0RsQlBGNS1sUWl1ZEFYb1lONzN6NC1HWldXeGZMdzhabkJOblc5cjZLeTZPbWRnZzBJc3ZWelNfajRDOWFiTUVMQWhCVlFnUW9ZZnBNX0FhNlRPYUpTOTFGS3JiYWNGcEMyLU5MWENielhWdFQ2QzNhT2ZlUnNjaXZhZVAxT0o3Rl9SR21wa3dDQ1AwZkh0QUZNS1dWR2xLWVNB?oc=5\" "
         },
         {
-          "headline": "Economy Ministry Intensifies Market Inspections, Warns Against Unjustified Price Hikes",
-          "url": "https://nna-leb.gov.lb/en/news/short/152214",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "US aircraft carrier enters Mediterranean as Trump mulls Iran strikes - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 14:31:00 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 09:18:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0NES2RyZzVNMTFBQ0RJUzg1U21XU2g3NmcxR2RVd25Od0xGSlUxQTJCS2oyQzUyck1CdEd3YmNKSExlSHgwcTFQTkUycjJpMksweUluZGhRSTh2V2ZjQmNUREhQUWtkeG1MWmtnenVsR2hSN2RUZHlZMy13LW8wWkxCRXZmVkNWQXFCeC1Tc1hVVnRTbjE3endIS2t3OFBsUG14Nk1lUjBoSkZpY1c0TA?oc=5\" ta"
         },
         {
-          "headline": "Berri Meets Loyalty to the Resistance Bloc; Raad Stresses Unity Ahead of Elections",
-          "url": "https://nna-leb.gov.lb/en/news/short/152213",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "8 Hezbollah members, including commander, killed in Israel's Bekaa strikes - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 14:21:57 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 09:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2pVVG5jUEUxZFBzOVVXdk5LQjVoeWwzVUhETVhvM2pCcjJXZTFtQTkwak0tRzFldDRPX2tkaDI5UXN3VVUxVHExN0E1UURuNVZIbGpLRDZfYXNiY0I5bHV3ZXVyWjV6T2tqWTRxeU9OZHJkRHd3Uld5emlRY3ZWOE5ZczI0N24yeE1ieE5RT3ZMRnRQM25ESVc2UlJIc0lTYTJvTVFFY1o4bE1JcjhZRXdrejA3Zw?"
         },
         {
-          "headline": "Karami Tours Tripoli Public Schools to Assess Structural Safety",
-          "url": "https://nna-leb.gov.lb/en/news/short/152212",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "Serbia urges citizens to quit Iran 'as soon as possible' - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 12:32:24 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 09:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPU25UQXYyT1EwMEJoYTlqblc4X0FsRi1COTJiMmc3V2NYYk1Gc2s5aE5FOUUxbjV3M3FxNUN0NTl5aXhaVXhCLWNDVGRiQkx1V1RmRFBwSzg2VnFsRkpQMkhENWV5c2RyMkVRYlFkVTFRSFZfc0ZEQWprbTRIZmZWaWdPT004emxKXzJnMXRqTkdiUlBBZktZdklEcjYtdw?oc=5\" target=\"_blank\"&gt;Serbia "
         },
         {
-          "headline": "Saad Hariri Departs Beirut Bound for UAE",
-          "url": "https://nna-leb.gov.lb/en/news/short/152211",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "Aoun strongly condemns Israeli strikes on Bekaa and Sidon, urges int'l action - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWFuaTA0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 12:27:43 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 09:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
         },
         {
-          "headline": "Gold prices tick up amid US-Iran tensions, Fed caution; set for weekly loss",
-          "url": "https://nna-leb.gov.lb/en/news/short/152210",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
+          "headline": "US 'Strongly Condemns' Turkey Car Bombings near Syria - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
           "category": "lebanon",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 12:23:30 +0200",
-          "description": ""
+          "date": "Fri, 20 Feb 2026 21:59:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGlNQmt3a0s5bU1Td05PMWZrN3Y5b0lBZFpXT1FLWEp5bm55UXpaNENLbXp2ZjZ4cS02MUtGaTROT3hFRTRNYjBNZnJoZ1pzZjFoaU9FUVZRMWtWWXJyQllZT3YzQ1E3bUc4dGhyYUtqVmIydnBsSkJQdndzV1VsYnFRMmNHX2k5eUVZUkdpekxYV0o4eDZ3?oc=5\" target=\"_blank\"&gt;US 'Strongly Cond"
         },
         {
-          "headline": "Geagea Announces Lebanese Forces Candidates in Bsharri for 2026 Parliamentary Elections",
-          "url": "https://nna-leb.gov.lb/en/news/short/152209",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
+          "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
+          "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
           "priority": "primary",
           "language": "en",
-          "date": "Fri, 20 Feb 2026 12:18:52 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salam Calls for Full Citizenship, Reform of Sectarian Quotas at “Citizenship and State Sovereignty” Conference",
-          "url": "https://nna-leb.gov.lb/en/news/short/152208",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 12:15:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Berri Meets Loyalty to the Resistance Bloc Head Mohammad Raad in Ain El-Tineh",
-          "url": "https://nna-leb.gov.lb/en/news/short/152207",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:41:49 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Oil prices in Lebanon today",
-          "url": "https://nna-leb.gov.lb/en/news/short/152206",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:39:42 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Lebanese Newspapers Headlines for February 20, 2025",
-          "url": "https://nna-leb.gov.lb/en/news/short/152205",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 11:02:16 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Finance Minister meets with Lebanon's Central Bank Governor",
-          "url": "https://nna-leb.gov.lb/en/news/short/152204",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:45:27 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salameh discusses strengthening cooperation in antiquities with Louvre Delegation",
-          "url": "https://nna-leb.gov.lb/en/news/short/152203",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:42:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Minister Morcos and Lebanese University President sign cooperation agreement between Ministry of Information and ''CNAM''",
-          "url": "https://nna-leb.gov.lb/en/news/short/152202",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 16:04:00 +0200",
-          "description": ""
-        },
-        {
-          "headline": "Salameh receives Abu Zaki in preparation for his participation in Al-Iktissad Wal-Aamal Group Conferences",
-          "url": "https://nna-leb.gov.lb/en/news/short/152201",
-          "source": "NNA Lebanon",
-          "sourceId": "nna",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 15:33:00 +0200",
-          "description": ""
+          "date": "Sat, 21 Feb 2026 21:31:19 +0000",
+          "description": "Egypt, Jordan, Saudi Arabia denounce US ambassador&#039;s remarks suggesting Israel has right to much of the Middle East.",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Assad",
+            "Jordan"
+          ]
         },
         {
           "headline": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
@@ -5858,17 +5743,6 @@
           "beatKeywords": [
             "HTS"
           ]
-        },
-        {
-          "headline": "Tottenham Hotspur vs Arsenal: Premier League – team news, start, lineups",
-          "url": "https://www.aljazeera.com/sports/2026/2/21/tottenham-hotspur-vs-arsenal-premier-league-team-news-start?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 09:54:51 +0000",
-          "description": "Igor Tudor&#039;s first game in charge of Spurs is a north London derby against wobbling Premier League leaders Arsenal."
         }
       ],
       "secondary": [
@@ -6207,7 +6081,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -6232,7 +6106,7 @@
           "language": "ar",
           "date": "Fri, 20 Feb 2026 23:06:20 +0000",
           "description": "Issued by the Office of the Minister of Information, Attorney Dr. Paul Morcos the following statement: “In addition to the decision and announcement of the Election Supervisory Authority regarding the participation of the media in the electoral process, the Ministry of Information, in direct coordination with the Election Supervisory Authority, conducted a review of the provisions of Law No. 44/2017, especially Article 71 of it related to advertising.",
-          "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابية بين الإعلام الرسمي والخاص"
+          "originalHeadline": "مرقص: للمساواة في الدعاية الانتخابي�� بين الإعلام الرسمي والخاص"
         },
         {
           "headline": "Sunrise and Sunset - Written by Khalil Al-Khoury - United States - Iran: The frantic hours",
@@ -6343,6 +6217,17 @@
           "originalHeadline": "سلام: قرار الحكومة ألاّ نقوم بأي إنفاق قبل تأمين التمويل"
         },
         {
+          "headline": "Ramadan's first Friday prayers are held at Jerusalem's Al-Aqsa Mosque - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE84S0M4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Sat, 21 Feb 2026 13:54:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnJtZjZpYjUxOHJXaHVWYXUxQkVGcXhMdm9wdVVIOWQ1RnVubmVjNU5iT0xQTlc5YVhmaGNLRDY0WjdNeEpvYjN3cHlTVUlxMzRZd0ZnNWVZRkxlekZPSmEtcl9zS1BPSi1jZmM1am04aUNyX2dmSE5vNXZhMTIxc0hQMjlEaU5XaXFLQ1I1Sk1uQWRDY3FVR080c0tlTGJjaHR3bHkyYXhVeC1peXJ2WWdPMTlTTE8"
+        },
+        {
           "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
           "source": "Reuters",
@@ -6411,6 +6296,36 @@
           ]
         },
         {
+          "headline": "Life in Damascus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Wed, 29 Oct 2025 01:55:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5\" target=\"_blank\"&gt;Life in Damascus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Damascus"
+          ]
+        },
+        {
+          "headline": "The Syrian front - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
+        },
+        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -6453,6 +6368,17 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+        },
+        {
+          "headline": "Rise of the Taliban - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
         },
         {
           "headline": "Relics of war - Reuters",
@@ -6515,7 +6441,7 @@
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 15:40:00 GMT",
+          "date": "Sat, 21 Feb 2026 18:26:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5\" targ",
           "beatRelevant": true,
           "beatKeywords": [
@@ -6523,26 +6449,15 @@
           ]
         },
         {
-          "headline": "Ukraine strikes key industrial site deep inside Russia - AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5",
+          "headline": "Las Vegas police investigate terrorism event after vehicle rammed into power substation - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5",
           "source": "AP",
           "sourceId": "ap_levant",
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 15:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONkdSdy04c3d0R0liT2x1dHBZY21zNGlseGQxUkxqbHNaa0NGc2Y2V0tIQ1JwZUxlNGR3NnhMQjVBZVhySE5DbEppelN6RkRiWjlwOElDVmFwWHZKdlNTNm5RQmdBVTVQN09MZHQwVlNrY2tvVDdzdFc4bHZ2cGl1ODIxRjZXQ0ZteGRNVXRQMk5oS1BKa2M0YmhXdTY5UURpLUtPRXpkR0ZqT3E4cXd2dFFB?oc=5\" "
-        },
-        {
-          "headline": "'Fools and lap dogs:' Trump launches furious attacks at Supreme Court justices over tariff ruling - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelVTQ21GOGxzejVob1M0ZDNTRVl0dU8zbTN5NFE1azlIdi1jWlBNTmt0LUFVMENQbEk?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 21:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVJIQ2ZRWENmb0pWWVkwdHJMdWZ6TG5KZEliNGtnZU5Jcm50SXNkRmNNZ0FDS3lDMGVRdW5NOGxDRUNKRW01RWRwcFBPRGZmQlhTckFndEdRRlAyUUY4QzVRZ20tb0F1WWRHcXRVX0hwclR5Wkh2T1pmc3FWR1hESXJzbHpiWmg3SDBQU0FWd25DTmVKcFQxQmxrdXdfckRjTncyV0ppRHBLaUdVYzJMMnhVdVJDelV"
+          "date": "Sat, 21 Feb 2026 01:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWFJTy1heGVhRzhRbVVKWTZVcWliRUJWdWdlTk1ONlMxQjBqVHc5ZkpaZWJONTgzY1pETURSdkVzYVF1WTNTZEp5V2lRVjZCZHk4aWo4Ym5oNkp0S0lKZVY0TE5HQnpXaW9nVXVWWlEtZkNjVk9xZGk2SFE5RXhsZER4aEdrVnRqM3c?oc=5\" target=\"_blank\"&gt;Las Vegas police investigate terro"
         },
         {
           "headline": "Israeli strikes in Lebanon kill at least 12 people, intensifying rising regional tensions - AP News",
@@ -6680,6 +6595,17 @@
           ]
         },
         {
+          "headline": "AP top stories February 20 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Fri, 20 Feb 2026 23:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVBDN2hvbXp4cXZhSl9fWG9Pdl9ZTW9vaWtORmstRlBPcmQxT290ZGNodDlGcUY2dm9ITmVyWUduejFLZG91YVJPSHNxYkRWNTdlcDg4bzV5Z0E4c2dUc2laSUR5dURfLVA0dFRqS3lOUzRWSjV3TUcwSzR3MzF6Z2dYc1ktRkZFMXFqdA?oc=5\" target=\"_blank\"&gt;AP top stories February 20&lt;/"
+        },
+        {
           "headline": "Iran students stage first anti-government protests since deadly crackdown",
           "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -6730,7 +6656,7 @@
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Sat, 21 Feb 2026 05:56:27 GMT",
+          "date": "Sat, 21 Feb 2026 21:27:07 GMT",
           "description": "Nasrallah Abu Siyam was the sixth American citizen killed by Israeli settlers or soldiers in the West Bank in the last two years.",
           "beatRelevant": true,
           "beatKeywords": [
@@ -7077,6 +7003,17 @@
           ]
         },
         {
+          "headline": "'Evading responsibility': Thousands rally against Netanyahu gov't over October 7 - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5nTVM5Qkl1MklhNlRMUUZab0F5bXQxV0NacU1XODAtc0plUE50RUs3c2JQeEZ2WXJh?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 19:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFk5X3VPLW5RZGFPMjYxcTd1MHFIdWdZbG9URW9WQjFTQUsxZXJpN2N6R3gxNGhtVVBMb0wtX1lzX3V4WkgyU1dWZk9JUzU4dHlTLVdrUzdneDNDZjU4RmtpVDZHaThuY3RIbjhoLVVrQ0FvM013M3RTd1JNSFMwWlJuWmFwbC1wOExhcVFvQU1UN1M0a0RIMERRYUEtZnphZmE1TUZSdElnaHczN3A2RjZJMEF2TW5"
+        },
+        {
           "headline": "Arab states slam Huckabee for saying 'fine' for Israel to take over Middle East - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUndpTGhJQ2NqLUhxYW1OU1p1bHdsMmhqSzdOa2hKTjZTc3ZINl9QajkzVUlZZXdvcnRqT2lxQ2pMRnIycTZsdERTN0dOOWg0QVlPek9Wbmd0VnJzaC1IMExyTjRuX2QybU9vOEtOV21BaVJhMVRITEtOZTYxVnQ4U202Tlhtb3ZpYVV6SkxzUjlwUzgtelNNSjVhTWgzUFhQT0VMN3EyR0ZvZ3RMNVJNenBfM3pNeWJ1a01CVkVPSFBZOHRrUVZMMXpSd0VoMS1nNUpvZ3NEU2Q5WVZGbUVZWFl6YnBFcjRRZC1oNWtkSUMtSklDVTQxRkVvTkZSWk5oNVJQempaTTg?oc=5",
           "source": "Haaretz",
@@ -7147,6 +7084,21 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
         },
         {
+          "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 03:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Lebanon"
+          ]
+        },
+        {
           "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
           "source": "Haaretz",
@@ -7176,6 +7128,22 @@
       "tertiary": []
     },
     "beatFlagged": [
+      {
+        "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
+        "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 21:31:19 +0000",
+        "description": "Egypt, Jordan, Saudi Arabia denounce US ambassador&#039;s remarks suggesting Israel has right to much of the Middle East.",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Assad",
+          "Jordan"
+        ]
+      },
       {
         "headline": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
         "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss",
@@ -7298,6 +7266,36 @@
         ]
       },
       {
+        "headline": "Life in Damascus - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Wed, 29 Oct 2025 01:55:20 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZFdfRTJjNk1Kb2Nkb1BXbURSelBxNWlHSjZOSkV0RU1GbWIxUnM2Y1NYMElBUllVUG0tSVF2N3FmWWlWMDRLTmZ0OC1jTGIxVTFuN0FFSjc3WmhFbk13R0ZZakt4ZmxETVA4a3ZxY3VYeGFR?oc=5\" target=\"_blank\"&gt;Life in Damascus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Damascus"
+        ]
+      },
+      {
+        "headline": "The Syrian front - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
+      },
+      {
         "headline": "Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say - AP News",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5",
         "source": "AP",
@@ -7336,7 +7334,7 @@
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Sat, 21 Feb 2026 15:40:00 GMT",
+        "date": "Sat, 21 Feb 2026 18:26:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5\" targ",
         "beatRelevant": true,
         "beatKeywords": [
@@ -7474,7 +7472,7 @@
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Sat, 21 Feb 2026 05:56:27 GMT",
+        "date": "Sat, 21 Feb 2026 21:27:07 GMT",
         "description": "Nasrallah Abu Siyam was the sixth American citizen killed by Israeli settlers or soldiers in the West Bank in the last two years.",
         "beatRelevant": true,
         "beatKeywords": [
@@ -7679,6 +7677,21 @@
         "beatRelevant": true,
         "beatKeywords": [
           "Iran"
+        ]
+      },
+      {
+        "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
+        "source": "Haaretz",
+        "sourceId": "haaretz",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 03:48:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Lebanon"
         ]
       },
       {

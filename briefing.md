@@ -1,35 +1,33 @@
-Syrian leader Ahmed al-Sharaa has issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan, marking another significant gesture toward national reconciliation in the post-Assad era. The move comes as Damascus works to integrate Kurdish-controlled areas and rebuild state institutions across Syria.
+Syria is moving to formalize the citizenship status of Kurdish residents, with the Interior Ministry publishing [new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for applications. The step comes as government-SDF integration continues across northeastern regions.
 
-## Syria
+**Syria**
 
-• The SDF [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah yesterday, calling for a "phase of forgiveness and rebuilding" that echoes al-Sharaa's reconciliation messaging. Damascus appears to be coordinating these releases as part of broader efforts to stabilize former Kurdish autonomous areas.
+• The SDF [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah, calling for a "phase of forgiveness and rebuilding" as part of broader reconciliation efforts.
 
-• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) to prepare for its reopening, according to Enab Baladi. The airport's return to government control would mark another milestone in the integration of northeastern Syria.
+• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) to prepare for its reopening, marking another step in restoring state control over northeastern infrastructure.
 
-• The Interior Ministry has established [new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Syrian citizenship applications for Kurdish residents, per Enab Baladi. The move addresses longstanding statelessness issues that affected hundreds of thousands under Assad's discriminatory policies.
+• Leader Ahmed al-Sharaa issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan, according to Enab Baladi, continuing the transitional government's prisoner release initiatives.
 
-• Islamic State militants [claimed responsibility](https://english.enabbaladi.net/archives/2026/02/islamic-state/) for an attack on government forces in Deir Ezzor, Reuters reports. The incident underscores ongoing security challenges in eastern Syria despite territorial gains against the group.
+• Canada [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria while targeting "new perpetrators," per Enab Baladi, reflecting international reassessment of the post-Assad landscape.
 
-• Canada has [eased sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) targeting the Assad era while imposing new measures on "new perpetrators," signaling international recognition of Syria's changed political landscape.
+• Islamic State claimed an [attack on government forces](https://english.enabbaladi.net/archives/2026/02/islamic-state/) in Deir Ezzor, highlighting ongoing security challenges in eastern Syria.
 
-## Lebanon
+**Lebanon**
 
-• Speaker Nabih Berri met with Hezbollah's parliamentary bloc head Mohammad Raad, who [stressed unity](https://nna-leb.gov.lb/en/news/short/152213) ahead of the 2026 parliamentary elections. The meeting comes as political parties position themselves for the upcoming polls.
+• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, calling the leaflet campaign a violation of international law.
 
-• Lebanese Forces leader Samir Geagea [announced candidates](https://nna-leb.gov.lb/en/news/short/152209) in Bsharri for the 2026 parliamentary elections, NNA reports. The early campaign moves suggest parties are preparing for a competitive election cycle.
+• A national forum on [school education](https://olnnews.com/181379/) challenges and opportunities was organized by the National School with the American University of Beirut, according to OLN News (Lebanon).
 
-• Former Prime Minister Tammam Salam called for [sectarian quota reform](https://nna-leb.gov.lb/en/news/short/152208) at a citizenship conference, according to NNA. His remarks reflect ongoing debates about Lebanon's confessional political system.
+• Beauty expert Michelle Sarkis discussed [2026 bridal makeup](https://olnnews.com/181383/) trends and advanced skin treatments in an interview with OLN News (Lebanon).
 
-• The Economy Ministry has [intensified market inspections](https://nna-leb.gov.lb/en/news/short/152214) and warned against unjustified price hikes, NNA reports. The crackdown comes as Lebanon grapples with persistent economic challenges.
+**Broader Levant**
 
-• Former Prime Minister Saad Hariri [departed for](https://nna-leb.gov.lb/en/news/short/152211) the UAE, per NNA, continuing his frequent travels since stepping back from active politics.
+• US Ambassador Mike Huckabee faced [Arab condemnation](https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance) after suggesting Israel has biblical rights to much of the Middle East, with Egypt, Jordan, and Saudi Arabia calling the remarks "absurd and provocative."
 
-## Broader Levant
+• Iran's Revolutionary Guards are reportedly [running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) and preparing the group for potential war with Israel if the US strikes Iran, according to Times of Israel.
 
-• The UN coordinated the [return of](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) 191 Iraqis from al-Hol camp, Enab Baladi reports. Iraq also transferred 157 juvenile IS detainees to rehabilitation centers as Baghdad continues repatriation efforts.
+**Regional Spillover**
 
-• Intelligence reports suggest Iran's Revolutionary Guards are [running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) and preparing the group for potential conflict with Israel if the US strikes Iran, according to Times of Israel.
+• UN officials coordinated the [return of 191 Iraqis](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) from al-Hol camp, Reuters reports, as repatriation efforts from Syrian detention facilities continue.
 
-## Regional Spillover
-
-• The US embassy is reportedly coordinating with Syrian authorities on reconstruction projects, though details remain limited. International donors are watching Damascus's integration progress closely before committing to major aid packages.
+• Iraq separately transferred [157 juvenile IS detainees](https://english.enabbaladi.net/archives/2026/02/iraq-transfers-157-juvenile-is-detainees-to-rehabilitation-centers/) to rehabilitation centers, per Enab Baladi, as regional governments work to process former extremist affiliates.
