@@ -1,0 +1,69 @@
+# Generate Levant briefing daily at 7am EAT (Nairobi)
+# Also runs on manual trigger for testing
+
+name: Generate Levant Briefing
+
+on:
+  schedule:
+    # 7am EAT = 4:00 UTC (EAT is UTC+3)
+    - cron: '0 4 * * *'
+
+  # Manual trigger for testing
+  workflow_dispatch:
+
+# Only one briefing generation at a time
+concurrency:
+  group: briefing-generate
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      # Cache Playwright browsers to avoid 5-min download each run
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: |
+            playwright-${{ runner.os }}-
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
+      - name: Scrape news sources
+        run: node generate-briefing.js
+
+      - name: Write V1 briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node write-briefing.js
+
+      - name: Write V2 briefing (editorial chain)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        # V2 is a bonus — don't fail the whole run if it errors
+        continue-on-error: true
+        run: node write-briefing-v2.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add briefing.json briefing.md index.html screenshots/ briefing-v2/
+          git diff --staged --quiet || git commit -m "Update Levant briefing $(TZ=Africa/Nairobi date +%Y-%m-%d)"
+          git push

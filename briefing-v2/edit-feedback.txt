@@ -1,0 +1,49 @@
+Here are the specific issues found:
+
+## 1. FACT-CHECK
+Clean - all claims are traceable to source data.
+
+## 2. STYLE - CONTRACTIONS
+Clean - no improper contractions found. All "'s" usage is possessive.
+
+## 3. STYLE - "AMID"
+Clean - no use of "amid" found.
+
+## 4. STYLE - EM-DASHES
+Clean - no em-dashes used to join independent clauses.
+
+## 5. LINKS
+**Issue:** Two bullet points lack markdown links:
+- Syria section, bullet 2: "Ahmad al-Sharaa issued a general amnesty ahead of Ramadan..." - has no link but references Enab Baladi
+- Lebanon section, bullet 2: "Lebanese Forces leader Samir Geagea announced candidates..." - has no link but references NNA
+
+**Issue:** One link exceeds 3-word limit:
+- "unity ahead" should be max 3 words (currently 2, so this is actually clean)
+
+## 6. TONE
+**Issue:** Opening paragraph reads like a dry headline summary rather than conversational prose: "The Syrian Interior Ministry announced new procedures for Kurdish residents to apply for Syrian citizenship, marking a significant step in Damascus's efforts to integrate formerly autonomous regions under central government control."
+
+**Issue:** Editorializing language: "The timing appears designed to project reconciliation" - this is analysis/interpretation not fact.
+
+## 7. SECTION COVERAGE (BLOCKING)
+Clean - all 4 sections present with content in both Syria and Lebanon.
+
+## 8. SOURCE DIVERSITY (BLOCKING)
+**BLOCKING ISSUE:** Only 3 unique domains found: english.enabbaladi.net, nna-leb.gov.lb, timesofisrael.com. Need minimum 3 - this barely meets the requirement but should add Al Jazeera content from Gaza strikes story to strengthen diversity.
+
+## 9. ATTRIBUTION
+**Issue:** Missing attribution for two references:
+- Syria section, bullet 2: References "according to Enab Baladi" but no link provided
+- Lebanon section, bullet 2: References "according to NNA" but no link provided
+
+## 10. ARABIC SOURCE QUALITY
+**Issue:** NNA stories properly attributed as "NNA reports" but missing country identifier. Should be "NNA Lebanon reports" for clarity.
+
+## 11. "ADD CONTEXT" CLAUSES
+**Issue:** Syria section, bullet 4: "The eastern province remains a security challenge for Damascus despite the broader territorial gains" - ends with implication rather than fact.
+
+**Issue:** Lebanon section, bullet 1: "The meeting signals coordination within the Iran-backed axis" - ends with analysis rather than fact.
+
+**Issue:** Broader Levant section, bullet 1: "The report suggests deeper Iranian control than previously understood" - ends with implication rather than fact.
+
+**Summary:** Multiple style issues and missing links need correction before publication. The source diversity barely meets minimum requirements.

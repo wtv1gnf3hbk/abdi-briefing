@@ -1,0 +1,19 @@
+{
+  "name": "abdi-briefing",
+  "version": "1.0.0",
+  "description": "Daily Syria/Lebanon/Levant briefing for Abdi Latif Dahir — runs on GitHub Actions",
+  "main": "generate-briefing.js",
+  "scripts": {
+    "generate": "node generate-briefing.js",
+    "write": "node write-briefing.js",
+    "write-v2": "node write-briefing-v2.js",
+    "briefing": "node generate-briefing.js && node write-briefing.js",
+    "briefing:full": "node generate-briefing.js && node write-briefing.js && node write-briefing-v2.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

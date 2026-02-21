@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Levant Briefing (V2)</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.7;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background: #fafafa;
+      color: #1a1a1a;
+    }
+    .header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .version-badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      background: #333;
+      color: #fff;
+      padding: 2px 6px;
+      border-radius: 3px;
+      vertical-align: middle;
+      margin-left: 8px;
+    }
+    .timestamp {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .refresh-link {
+      color: #666;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    h1, h2, strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    p { margin-bottom: 16px; }
+    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
+    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
+    li::before { content: "\2022"; position: absolute; left: 0; color: #999; }
+    a {
+      color: #1a1a1a;
+      text-decoration: underline;
+      text-decoration-color: #999;
+      text-underline-offset: 2px;
+    }
+    a:hover { text-decoration-color: #333; }
+    strong { font-weight: 600; }
+    .section-header { margin-top: 24px; margin-bottom: 12px; }
+    .screenshots-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshots-header {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .screenshots-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .screenshot-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      background: white;
+    }
+    .screenshot-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .screenshot-card .label {
+      padding: 8px 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      background: #f5f5f5;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshot-card .label a {
+      color: #666;
+      text-decoration: none;
+    }
+    .screenshot-card .label a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title">Levant Briefing<span class="version-badge">V2</span></div>
+    <div class="timestamp">
+      Generated Sunday, February 22, 2026 at 12:28 AM GMT+3
+      \u00B7 <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+    </div>
+  </div>
+
+  <script>
+    const WORKER_URL = 'https://abdi-briefing-refresh.adampasick.workers.dev';
+
+    async function refreshBriefing() {
+      const link = event.target;
+      const originalText = link.textContent;
+
+      try {
+        link.textContent = 'Triggering...';
+        const triggerRes = await fetch(WORKER_URL + '/trigger', { method: 'POST' });
+        if (!triggerRes.ok) throw new Error('Failed to trigger');
+
+        link.textContent = 'Starting...';
+        await new Promise(r => setTimeout(r, 3000));
+
+        link.textContent = 'Finding run...';
+        const runsRes = await fetch(WORKER_URL + '/runs');
+        const runsData = await runsRes.json();
+        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
+
+        const runId = runsData.workflow_runs[0].id;
+        const runUrl = runsData.workflow_runs[0].html_url;
+
+        var attempts = 0;
+        while (attempts < 60) {
+          const statusRes = await fetch(WORKER_URL + '/status/' + runId);
+          const statusData = await statusRes.json();
+
+          if (statusData.status === 'completed') {
+            if (statusData.conclusion === 'success') {
+              link.textContent = 'Done! Reloading...';
+              await new Promise(r => setTimeout(r, 5000));
+              location.reload(true);
+              return;
+            } else {
+              link.innerHTML = 'Failed (<a href="' + runUrl + '" target="_blank">logs</a>)';
+              return;
+            }
+          }
+
+          link.textContent = 'Running... ' + (attempts * 5) + 's';
+          await new Promise(r => setTimeout(r, 5000));
+          attempts++;
+        }
+
+        link.innerHTML = 'Timeout (<a href="' + runUrl + '" target="_blank">check</a>)';
+      } catch (error) {
+        console.error('Refresh error:', error);
+        link.textContent = 'Error';
+        setTimeout(function() { link.textContent = originalText; }, 3000);
+      }
+    }
+  </script>
+
+  <div id="content">
+<p>Damascus announced new procedures for Kurdish residents to apply for Syrian citizenship as the government works to integrate formerly autonomous regions under central control.
+
+## Syria
+
+• The SDF <a href="https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/" target="_blank">released 51 detainees</a> in al-Hasakah as part of what it calls a "phase of forgiveness and rebuilding." The move comes as Syrian government officials arrived at <a href="https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/" target="_blank">Qamishli Airport</a> to prepare for its reopening under Damascus control.
+
+• Ahmad al-Sharaa issued a <a href="https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/" target="_blank">general amnesty</a> ahead of Ramadan, according to Enab Baladi.
+
+• Islamic State fighters <a href="https://english.enabbaladi.net/archives/2026/02/islamic-state/" target="_blank">claimed responsibility</a> for an attack on government forces in Deir Ezzor, per Enab Baladi.
+
+• Canada <a href="https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/" target="_blank">eased Assad-era sanctions</a> on Syria while introducing new measures targeting what Ottawa calls "new perpetrators," Reuters reports.
+
+• The UN coordinated the <a href="https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/" target="_blank">return of 191 Iraqis</a> from al-Hol camp, continuing efforts to reduce the facility's population.
+
+## Lebanon
+
+• Hezbollah's parliamentary bloc chief Mohammad Raad met with Speaker Nabih Berri to discuss <a href="https://nna-leb.gov.lb/en/news/short/152213" target="_blank">unity ahead</a> of this year's parliamentary elections, NNA Lebanon reports.
+
+• Lebanese Forces leader Samir Geagea <a href="https://nna-leb.gov.lb/en/news/short/152209" target="_blank">announced candidates</a> for the Bsharri constituency in the 2026 parliamentary elections, according to NNA Lebanon.
+
+• Former Prime Minister Tammam Salam called for <a href="https://nna-leb.gov.lb/en/news/short/152208" target="_blank">citizenship reform</a> and changes to sectarian quotas at a conference on state sovereignty, per NNA Lebanon.
+
+• The Economy Ministry <a href="https://nna-leb.gov.lb/en/news/short/152214" target="_blank">warned against</a> unjustified price hikes while intensifying market inspections, NNA Lebanon reports.
+
+## Broader Levant
+
+• Iranian Revolutionary Guards are <a href="https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/" target="_blank">running Hezbollah</a> operations and preparing the group for potential war with Israel if Washington strikes Iran, according to Times of Israel.
+
+• US Ambassador to Israel Mike Huckabee sparked <a href="https://www.timesofisrael.com/arab-and-muslim-states-fume-after-huckabee-says-israel-has-biblical-right-to-much-of-mideast/" target="_blank">diplomatic protests</a> from Arab and Muslim states after claiming Israel has biblical rights to much of the Middle East, Times of Israel reports.
+
+• Israeli airstrikes <a href="https://www.aljazeera.com/news/2025/1/28/at-least-10-killed-in-israeli-attacks-on-gaza-says-palestinian-health-ministry" target="_blank">killed at least</a> 10 people in Gaza according to Palestinian health officials, Al Jazeera reports.
+
+## Regional Spillover
+
+• Iraq transferred <a href="https://english.enabbaladi.net/archives/2026/02/iraq-transfers-157-juvenile-is-detainees-to-rehabilitation-centers/" target="_blank">157 juvenile</a> Islamic State detainees to rehabilitation centers, continuing regional efforts to address the group's legacy, Enab Baladi reports.</p>
+  </div>
+
+  
+  <div class="screenshots-section">
+    <div class="screenshots-header">Homepage Screenshots</div>
+    <div class="screenshots-grid">
+      
+      <div class="screenshot-card">
+        <a href="https://www.shaam.org/" target="_blank">
+          <img src="../screenshots/shaamtv.png" alt="Shaam TV" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.shaam.org/" target="_blank">Shaam TV</a>
+          <span style="color:#999">(ar)</span>
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.aljazeera.com" target="_blank">
+          <img src="../screenshots/aljazeera_homepage.png" alt="Al Jazeera Homepage" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.aljazeera.com" target="_blank">Al Jazeera Homepage</a>
+          
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.bbc.com/news/topics/c8nq32jw5r5t/middle-east" target="_blank">
+          <img src="../screenshots/bbc_middleeast_homepage.png" alt="BBC Middle East" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.bbc.com/news/topics/c8nq32jw5r5t/middle-east" target="_blank">BBC Middle East</a>
+          
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+</body>
+</html>

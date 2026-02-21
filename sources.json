@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "name": "Levant Briefing",
+    "owner": "Abdi Latif Dahir",
+    "timezone": "Africa/Nairobi",
+    "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context"
+  },
+  "sources": [
+    {
+      "_comment": "=== SYRIA — ENGLISH RSS ==="
+    },
+    {
+      "id": "enabbaladi",
+      "name": "Enab Baladi",
+      "type": "rss",
+      "url": "https://english.enabbaladi.net/feed/",
+      "priority": "primary",
+      "category": "syria",
+      "language": "en"
+    },
+    {
+      "id": "syrianobserver",
+      "name": "Syrian Observer",
+      "type": "rss",
+      "url": "https://syrianobserver.com/feed/",
+      "priority": "primary",
+      "category": "syria",
+      "language": "en"
+    },
+    {
+      "id": "syriadirect",
+      "name": "Syria Direct",
+      "type": "rss",
+      "url": "https://syriadirect.org/feed/",
+      "priority": "primary",
+      "category": "syria",
+      "language": "en"
+    },
+    {
+      "id": "sana",
+      "name": "SANA",
+      "type": "rss",
+      "url": "https://sana.sy/en/?feed=rss2",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "Syrian state news agency — feed sometimes lags"
+    },
+    {
+      "id": "levant24",
+      "name": "Levant24",
+      "type": "rss",
+      "url": "https://levant24.com/feed/",
+      "priority": "primary",
+      "category": "syria",
+      "language": "en"
+    },
+    {
+      "_comment": "=== SYRIA — ARABIC RSS ==="
+    },
+    {
+      "id": "syriatv",
+      "name": "Syria TV",
+      "type": "rss",
+      "url": "https://www.syria.tv/rss",
+      "priority": "primary",
+      "category": "syria",
+      "language": "ar"
+    },
+    {
+      "id": "aleppo_today",
+      "name": "Aleppo Today",
+      "type": "rss",
+      "url": "https://halabtodaytv.net/feed/",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "ar"
+    },
+    {
+      "_comment": "=== SYRIA — GOOGLE NEWS PROXY ==="
+    },
+    {
+      "id": "syrianews",
+      "name": "Syria.News",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:syria.news&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "ar",
+      "notes": "Google News proxy — no direct RSS"
+    },
+    {
+      "_comment": "=== SYRIA — LIVE SCRAPE ==="
+    },
+    {
+      "id": "shaamtv",
+      "name": "Shaam TV",
+      "type": "screenshot",
+      "url": "https://www.shaam.org/",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "ar",
+      "notes": "No RSS — screenshot homepage for editorial priority"
+    },
+    {
+      "_comment": "=== LEBANON — ENGLISH RSS ==="
+    },
+    {
+      "id": "nna",
+      "name": "NNA Lebanon",
+      "type": "rss",
+      "url": "https://www.nna-leb.gov.lb/en/rss",
+      "priority": "primary",
+      "category": "lebanon",
+      "language": "en"
+    },
+    {
+      "_comment": "=== LEBANON — ARABIC RSS ==="
+    },
+    {
+      "id": "olnnews",
+      "name": "OLN News",
+      "type": "rss",
+      "url": "https://olnnews.com/feed/",
+      "priority": "secondary",
+      "category": "lebanon",
+      "language": "ar"
+    },
+    {
+      "id": "elsharkonline",
+      "name": "El Shark",
+      "type": "rss",
+      "url": "https://www.elsharkonline.com/feed",
+      "priority": "secondary",
+      "category": "lebanon",
+      "language": "ar"
+    },
+    {
+      "_comment": "=== LEBANON — GOOGLE NEWS PROXY ==="
+    },
+    {
+      "id": "lorienttoday",
+      "name": "L'Orient Today",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:today.lorientlejour.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "lebanon",
+      "language": "en",
+      "notes": "Google News proxy — English-language Lebanese daily"
+    },
+    {
+      "id": "naharnet",
+      "name": "Nahar Net",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:naharnet.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "lebanon",
+      "language": "en"
+    },
+    {
+      "id": "annahar",
+      "name": "An Nahar",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:annahar.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "lebanon",
+      "language": "ar"
+    },
+    {
+      "id": "elnashra",
+      "name": "ElNashra",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:elnashra.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "lebanon",
+      "language": "ar"
+    },
+    {
+      "id": "alakhbar",
+      "name": "Al Akhbar",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:al-akhbar.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "lebanon",
+      "language": "ar",
+      "notes": "Hezbollah-aligned daily"
+    },
+    {
+      "_comment": "=== WIRE / INTERNATIONAL ==="
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "priority": "primary",
+      "category": "wire",
+      "language": "en"
+    },
+    {
+      "id": "reuters_levant",
+      "name": "Reuters",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(Syria+OR+Lebanon+OR+Damascus+OR+Beirut)+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire",
+      "language": "en"
+    },
+    {
+      "id": "ap_levant",
+      "name": "AP",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(Syria+OR+Lebanon+OR+Damascus+OR+Beirut)+site:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire",
+      "language": "en"
+    },
+    {
+      "id": "bbc_middleeast",
+      "name": "BBC",
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "priority": "secondary",
+      "category": "wire",
+      "language": "en"
+    },
+    {
+      "_comment": "=== REGIONAL / COMPETITORS ==="
+    },
+    {
+      "id": "timesofisrael",
+      "name": "Times of Israel",
+      "type": "rss",
+      "url": "https://www.timesofisrael.com/feed/",
+      "priority": "secondary",
+      "category": "regional",
+      "language": "en"
+    },
+    {
+      "id": "haaretz",
+      "name": "Haaretz",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:haaretz.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "regional",
+      "language": "en"
+    },
+    {
+      "_comment": "=== EDITORIAL SCREENSHOTS ==="
+    },
+    {
+      "id": "aljazeera_homepage",
+      "name": "Al Jazeera Homepage",
+      "type": "screenshot",
+      "url": "https://www.aljazeera.com",
+      "priority": "secondary",
+      "category": "wire",
+      "language": "en"
+    },
+    {
+      "id": "bbc_middleeast_homepage",
+      "name": "BBC Middle East",
+      "type": "screenshot",
+      "url": "https://www.bbc.com/news/topics/c8nq32jw5r5t/middle-east",
+      "priority": "secondary",
+      "category": "wire",
+      "language": "en"
+    }
+  ],
+
+  "beat_keywords": [
+    "Syria", "Damascus", "Aleppo", "Idlib", "HTS", "Jolani", "Assad", "al-Sharaa",
+    "Lebanon", "Beirut", "Hezbollah", "Nasrallah", "Berri", "Hariri",
+    "Levant", "Jordan", "Iraq", "Turkey", "Erdogan",
+    "refugee", "reconstruction", "sanctions", "ceasefire",
+    "UNIFIL", "SDF", "Kurdish", "Rojava", "Bekaa", "Sidon",
+    "Iran", "Tehran", "IRGC"
+  ]
+}
