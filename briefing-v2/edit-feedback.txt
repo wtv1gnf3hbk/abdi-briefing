@@ -1,65 +1,70 @@
-Here are the specific issues found in the briefing:
+Here are the specific issues found:
 
-**1. FACT-CHECK:**
-1. The lead paragraph claims "Israeli airstrikes killed at least 10 people in Lebanon overnight, including a senior Hezbollah official" but this information does not appear anywhere in the provided source data. This appears to be fabricated content.
+## 1. FACT-CHECK
+**Issue 1:** The lead paragraph cites Reuters but the Reuters link appears to be a Google News aggregator URL, not a direct Reuters article. The actual source data only shows Enab Baladi coverage of ISIS attacks.
 
-2. The lead references "according to Reuters" with a Google News link, but no Reuters story about Lebanese airstrikes appears in the source data.
+**Issue 2:** The draft mentions "Canada eased Assad-era sanctions" but this story is not present in the source data provided.
 
-3. Syria bullet claiming "Syrian leader Ahmed al-Sharaa issued a general amnesty" links to a story about amnesty, but the source data title doesn't mention al-Sharaa specifically.
+**Issue 3:** The draft includes a bullet about "A Syrian government delegation arrived at Qamishli Airport" but this story is not in the source data.
 
-4. Syria bullet about "ISIS claimed two attacks" with Reuters attribution - no such Reuters story appears in the source data.
+**Issue 4:** The draft mentions "Israeli forces detained two Syrian men" but this story is not in the source data.
 
-5. Lebanon bullet about "Prime Minister Salam announced the government will not undertake any spending" - this story does not appear in the provided source data.
-
-6. Several Broader Levant bullets reference stories not in the provided source data (Canada sanctions, Iraqi transfers, Israeli detentions).
-
-**2. STYLE - CONTRACTIONS:**
+## 2. STYLE - CONTRACTIONS
 Clean.
 
-**3. STYLE - "AMID":**
+## 3. STYLE - "AMID" 
 Clean.
 
-**4. STYLE - EM-DASHES:**
+## 4. STYLE - EM-DASHES
 Clean.
 
-**5. LINKS:**
-7. "according to Reuters" - 3 words (acceptable)
-8. "reporting raids" - 2 words (acceptable)  
-9. "will not bow" - 3 words (acceptable)
-10. All other link texts are within 3-word limit
-11. All bullet points contain at least one markdown link
+## 5. LINKS
+**Issue 5:** Several links exceed 3-word maximum:
+- "set procedures" (2 words - OK)
+- "eased Assad-era sanctions" (3 words - OK) 
+- "released 51 detainees" (3 words - OK)
+- "Qamishli Airport" (2 words - OK)
+- "detained two" (2 words - OK)
+- "urgent statement" (2 words - OK)
+- "rallied as universities" (3 words - OK)
+- "deny saying" (2 words - OK)
+- "unwilling to leave" (3 words - OK)
+- "coordinated the return" (3 words - OK)
 
-**6. TONE:**
-12. Syria bullet: "marking another significant gesture toward national reconciliation in the post-Assad era" - ends with editorializing context rather than facts.
-13. Syria bullet: "as Damascus works to integrate minority communities" - editorializing about government intentions.
-14. Syria bullet: "as the militant group seeks to exploit the post-Assad security vacuum" - editorializing about ISIS motivations.
+All links are within limits.
 
-**7. SECTION COVERAGE (BLOCKING):**
+**Issue 6:** Missing links in bullets - all bullets have at least one link.
+
+## 6. TONE
+**Issue 7:** Several bullets read like dry headline summaries rather than conversational prose:
+- "The Syrian Interior Ministry set procedures for Kurdish residents to apply for Syrian citizenship"
+- "Canada eased Assad-era sanctions on Syria while targeting 'new perpetrators'"
+- "Syrian Democratic Forces released 51 detainees in al-Hasakah"
+
+## 7. SECTION COVERAGE (BLOCKING)
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-**8. SOURCE DIVERSITY (BLOCKING):**
-URLs extracted show only 3 domains:
-- english.enabbaladi.net
-- elsharkonline.com  
-- aljazeera.com
-Meets minimum requirement of 3 different outlets.
+## 8. SOURCE DIVERSITY (BLOCKING)
+**BLOCKING Issue 8:** Only 3 unique domains found:
+1. english.enabbaladi.net
+2. olnnews.com  
+3. aljazeera.com
 
-**9. ATTRIBUTION:**
-14. First link "according to Reuters" has proper attribution
-15. Second link "El Shark (Lebanon) reporting raids" has proper attribution  
-16. Third link "Iranian President Pezeshkian vowing Tehran will not bow" - missing explicit source attribution (should say "per Al Jazeera" or similar)
-17. All subsequent links have proper attribution format
+The Reuters link appears to be a Google News aggregator, not a direct Reuters URL. Need to add more diverse sources from the provided data.
 
-**10. ARABIC SOURCE QUALITY:**
-Clean - El Shark (Lebanon) properly identified with country attribution.
+## 9. ATTRIBUTION
+**Issue 9:** Missing explicit attribution for several links:
+- First "targeted forces" link has no attribution text nearby
+- "set procedures" link has no "according to" or "per" attribution
+- Several other links rely on attribution at end of bullet rather than near the link
 
-**11. "ADD CONTEXT" CLAUSES:**
-18. "marking another significant gesture toward national reconciliation in the post-Assad era"
-19. "as Damascus works to integrate minority communities" 
-20. "as the militant group seeks to exploit the post-Assad security vacuum"
-21. "in a sign of coordination with the Kurdish-held northeast"
+## 10. ARABIC SOURCE QUALITY
+**Issue 10:** The OLN News citation shows "(Lebanon)" but should show "OLN News (Lebanon) reports" format for consistency.
 
-**12. LEAD QUALITY (BLOCKING):**
-22. **BLOCKING ISSUE:** The lead paragraph contains fabricated content not supported by source data. The entire premise about Israeli airstrikes in Lebanon killing 10 people including a Hezbollah official does not appear in any provided sources. This makes the lead factually unsupported and requires complete rewrite based on actual source material.
+## 11. "ADD CONTEXT" CLAUSES
+Clean.
 
-The briefing has serious factual accuracy problems with fabricated content in the lead and several unsupported claims throughout. This cannot be published without major revision using only verified source material.
+## 12. LEAD QUALITY (BLOCKING)
+**BLOCKING Issue 11:** The lead reads like expanded headline copy rather than written-through prose with proper context and stakes. It follows the problematic "X announced Y, marking a significant step toward Z" pattern. Needs expansion with more context about why ISIS resurgence matters now, what it means for Syria's transition, and broader implications for regional stability.
+
+**SUMMARY:** 2 BLOCKING issues found (Source Diversity and Lead Quality) plus multiple fact-checking problems with unsupported claims.
