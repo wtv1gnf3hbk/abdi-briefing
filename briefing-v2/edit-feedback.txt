@@ -1,64 +1,65 @@
-## ISSUES FOUND:
+Here are the specific issues found in the briefing:
 
-**1. FACT-CHECK**
-- Issue #1: The lead paragraph claims Huckabee "sparked a regional diplomatic crisis" and cites reactions from Egypt, Jordan, and Saudi Arabia, but the provided source data contains NO story about Huckabee or his remarks. The Al Jazeera link in the draft (https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance) does not appear in the source data provided.
-- Issue #2: ISIS claim story - the draft links to "https://english.enabbaladi.net/archives/2026/02/islamic-state/" but the source data shows no such URL. The closest match is a different Enab Baladi URL.
-- Issue #3: Al-Sharaa amnesty story - links to URL not in source data.
-- Issue #4: Canada sanctions story - links to URL not in source data.
-- Issue #5: Israeli detention story - the URL "https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/" appears malformed and is not in source data.
-- Issue #6: Australia story attribution to Reuters but links to Google News, not a Reuters source.
+**1. FACT-CHECK:**
+1. The lead paragraph claims "Israeli airstrikes killed at least 10 people in Lebanon overnight, including a senior Hezbollah official" but this information does not appear anywhere in the provided source data. This appears to be fabricated content.
 
-**2. STYLE - CONTRACTIONS**
+2. The lead references "according to Reuters" with a Google News link, but no Reuters story about Lebanese airstrikes appears in the source data.
+
+3. Syria bullet claiming "Syrian leader Ahmed al-Sharaa issued a general amnesty" links to a story about amnesty, but the source data title doesn't mention al-Sharaa specifically.
+
+4. Syria bullet about "ISIS claimed two attacks" with Reuters attribution - no such Reuters story appears in the source data.
+
+5. Lebanon bullet about "Prime Minister Salam announced the government will not undertake any spending" - this story does not appear in the provided source data.
+
+6. Several Broader Levant bullets reference stories not in the provided source data (Canada sanctions, Iraqi transfers, Israeli detentions).
+
+**2. STYLE - CONTRACTIONS:**
 Clean.
 
-**3. STYLE - "AMID"**
+**3. STYLE - "AMID":**
 Clean.
 
-**4. STYLE - EM-DASHES**
+**4. STYLE - EM-DASHES:**
 Clean.
 
-**5. LINKS**
-- Issue #7: "issued a general amnesty" = 4 words (exceeds 3-word limit)
-- Issue #8: "established procedures" = 2 words (acceptable)
-- Issue #9: "arrived at Qamishli Airport" = 4 words (exceeds 3-word limit)
-- Issue #10: "eased Assad-era sanctions" = 3 words (acceptable)
-- Issue #11: "issued an urgent statement" = 4 words (exceeds 3-word limit)
-- Issue #12: "announced a national forum" = 4 words (exceeds 3-word limit)
-- Issue #13: "coordinated the return" = 3 words (acceptable)
-- Issue #14: "transferred 157 juvenile" = 3 words (acceptable)
-- Issue #15: "detained two Syrian men" = 4 words (exceeds 3-word limit)
+**5. LINKS:**
+7. "according to Reuters" - 3 words (acceptable)
+8. "reporting raids" - 2 words (acceptable)  
+9. "will not bow" - 3 words (acceptable)
+10. All other link texts are within 3-word limit
+11. All bullet points contain at least one markdown link
 
-**6. TONE**
-Clean.
+**6. TONE:**
+12. Syria bullet: "marking another significant gesture toward national reconciliation in the post-Assad era" - ends with editorializing context rather than facts.
+13. Syria bullet: "as Damascus works to integrate minority communities" - editorializing about government intentions.
+14. Syria bullet: "as the militant group seeks to exploit the post-Assad security vacuum" - editorializing about ISIS motivations.
 
-**7. SECTION COVERAGE (BLOCKING)**
+**7. SECTION COVERAGE (BLOCKING):**
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-**BLOCKING ISSUE**: Only 2 unique outlet domains found:
-- english.enabbaladi.net (Enab Baladi)
-- olnnews.com (OLN News)
+**8. SOURCE DIVERSITY (BLOCKING):**
+URLs extracted show only 3 domains:
+- english.enabbaladi.net
+- elsharkonline.com  
+- aljazeera.com
+Meets minimum requirement of 3 different outlets.
 
-Missing required third outlet. Should add Al Jazeera or Times of Israel stories from source data to meet 3-outlet minimum.
+**9. ATTRIBUTION:**
+14. First link "according to Reuters" has proper attribution
+15. Second link "El Shark (Lebanon) reporting raids" has proper attribution  
+16. Third link "Iranian President Pezeshkian vowing Tehran will not bow" - missing explicit source attribution (should say "per Al Jazeera" or similar)
+17. All subsequent links have proper attribution format
 
-**9. ATTRIBUTION**
-- Issue #16: "claimed responsibility" link missing source attribution
-- Issue #17: "issued a general amnesty" link missing source attribution  
-- Issue #18: "established procedures" link missing source attribution
-- Issue #19: "arrived at Qamishli Airport" link missing source attribution
-- Issue #20: "eased Assad-era sanctions" link missing source attribution
-- Issue #21: "issued an urgent statement" link missing source attribution
-- Issue #22: "announced a national forum" link missing source attribution
-- Issue #23: "coordinated the return" link missing source attribution
-- Issue #24: "transferred 157 juvenile" link missing source attribution
-- Issue #25: "detained two Syrian men" link missing source attribution
-- Issue #26: "rejected reports" link missing source attribution
+**10. ARABIC SOURCE QUALITY:**
+Clean - El Shark (Lebanon) properly identified with country attribution.
 
-**10. ARABIC SOURCE QUALITY**
-Clean - OLN News properly attributed as "(Lebanon)".
+**11. "ADD CONTEXT" CLAUSES:**
+18. "marking another significant gesture toward national reconciliation in the post-Assad era"
+19. "as Damascus works to integrate minority communities" 
+20. "as the militant group seeks to exploit the post-Assad security vacuum"
+21. "in a sign of coordination with the Kurdish-held northeast"
 
-**11. "ADD CONTEXT" CLAUSES**
-Clean.
+**12. LEAD QUALITY (BLOCKING):**
+22. **BLOCKING ISSUE:** The lead paragraph contains fabricated content not supported by source data. The entire premise about Israeli airstrikes in Lebanon killing 10 people including a Hezbollah official does not appear in any provided sources. This makes the lead factually unsupported and requires complete rewrite based on actual source material.
 
-**12. LEAD QUALITY (BLOCKING)**
-**BLOCKING ISSUE**: The lead paragraph discusses Huckabee's remarks which are completely unsupported by the provided source data. The entire lead needs to be rewritten using actual stories from the source data provided.
+The briefing has serious factual accuracy problems with fabricated content in the lead and several unsupported claims throughout. This cannot be published without major revision using only verified source material.
