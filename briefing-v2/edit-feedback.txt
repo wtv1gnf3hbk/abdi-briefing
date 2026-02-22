@@ -2,54 +2,54 @@ Here are the specific issues found:
 
 ## BLOCKING ISSUES
 
-**12. LEAD QUALITY (BLOCKING):** Clean - The lead is well-developed with 3 sentences providing context, stakes, and proper attribution.
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph has several problems:
+- Opens with "US Ambassador Mike Huckabee sparked a diplomatic firestorm" - this reads like a headline restatement
+- The ISIS reference feels abruptly tacked on without smooth transition
+- Missing deeper context about why Huckabee's comments matter now or broader regional implications
+- Needs expansion to 3-5 sentences with more background and stakes
 
-**7. SECTION COVERAGE (BLOCKING):** Clean - All three required sections (Syria, Lebanon, Broader Levant) are present with content.
+**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains found:
+- Al Jazeera (1 link)
+- Enab Baladi (8 links) 
+- OLN News (1 link)
+- Times of Israel (1 link)
+Actually 4 domains - this meets the minimum requirement. Clean.
 
-**8. SOURCE DIVERSITY (BLOCKING):** VIOLATION - Only 3 unique outlet domains found:
-- aljazeera.com
-- english.enabbaladi.net  
-- olnnews.com
-- timesofisrael.com
+**7. SECTION COVERAGE (BLOCKING):** All required sections present with content. Clean.
 
-Wait, that's 4 domains, so this is actually Clean.
+## OTHER ISSUES
 
-## STYLE ISSUES
+**1. FACT-CHECK:** 
+- Lead mentions ISIS "claimed two recent attacks on Syrian forces" but source data only shows one attack claim in Deir Ezzor
+- Lead references a Google News link for ISIS "new phase" operations, but this URL is not in the provided source data
+- Syria bullet about "Islamic State claimed an attack" links to incomplete URL "https://english.enabbaladi.net/archives/2026/02/islamic-state/" - appears truncated
 
-**2. STYLE - CONTRACTIONS:** Clean - No improper contractions found.
+**2. STYLE - CONTRACTIONS:** Clean.
 
-**3. STYLE - "AMID":** VIOLATION
-- "4 injured after drone-dropped grenade hits house amid gunfight in northern Arab town" (in source data, but this phrase doesn't appear in the draft)
-Actually reviewing the draft: Clean - No use of "amid" found.
+**3. STYLE - "AMID":** Clean.
 
-**4. STYLE - EM-DASHES:** Clean - No em-dashes used to join independent clauses.
+**4. STYLE - EM-DASHES:** Clean.
 
-## CONTENT ISSUES
+**5. LINKS:** 
+- "new phase" = 2 words ✓
+- "issued a general amnesty" = 4 words ✗ (MAX 3)
+- "set procedures" = 2 words ✓
+- "released 51 detainees" = 3 words ✓
+- All other links are 1-3 words ✓
+- All bullets have at least one link ✓
 
-**1. FACT-CHECK:** VIOLATIONS
-- "Islamic State claimed an [attack on government forces](https://english.enabbaladi.net/archives/2026/02/islamic-state/) in Deir Ezzor, per Enab Baladi, announcing a 'new phase' of operations according to Reuters." - The Reuters attribution is not supported by source data; only Enab Baladi link is provided.
-- "Syrian leader Ahmed al-Sharaa issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan" - This story is not in the provided source data.
-- "Israeli forces [detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) in the Yarmouk Basin" - This story is not in the provided source data.
-- "Canada has [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria" - This story is not in the provided source data.
+**6. TONE:** Clean - conversational prose throughout, no editorializing.
 
-**5. LINKS:** VIOLATIONS
-- "[set new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/)" - 3 words, acceptable
-- "[Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/)" - 2 words, acceptable
-- "[attack on government forces](https://english.enabbaladi.net/archives/2026/02/islamic-state/)" - 4 words, VIOLATION (max 3 words)
-- "[general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/)" - 2 words, acceptable
-- "[released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/)" - 3 words, acceptable
-- "[urgent statement](https://olnnews.com/181415/)" - 2 words, acceptable
-- "[running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/)" - 3 words, acceptable
-- "[detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/)" - 4 words, VIOLATION (max 3 words)
-- "[eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/)" - 3 words, acceptable
+**9. ATTRIBUTION:** 
+- "new phase" link has "Reuters reports" attribution ✓
+- All other links have proper attribution ✓
 
-**9. ATTRIBUTION:** Clean - All links have proper source attribution nearby.
+**10. ARABIC SOURCE QUALITY:** 
+- OLN News properly attributed as "(Lebanon)" ✓
 
-**10. ARABIC SOURCE QUALITY:** Clean - OLN News properly attributed as "(Lebanon)".
+**11. "ADD CONTEXT" CLAUSES:** Clean - bullets end with facts, not implications.
 
-**6. TONE:** Clean - No dry headlines or editorializing detected.
-
-**11. "ADD CONTEXT" CLAUSES:** Clean - No bullets end with implication clauses.
-
-## SUMMARY
-4 fact-check violations for unsupported stories, 2 link text violations exceeding 3-word limit. The briefing cannot publish until the unsupported stories are either removed or replaced with stories from the provided source data.
+**SUMMARY:**
+- 1 BLOCKING issue (lead quality)
+- 3 fact-check issues (ISIS claims discrepancy, unsourced Google News link, broken Enab Baladi URL)
+- 1 link length violation ("issued a general amnesty" = 4 words)

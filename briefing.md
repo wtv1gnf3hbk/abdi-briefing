@@ -1,25 +1,29 @@
-US Ambassador to Israel Mike Huckabee sparked a diplomatic firestorm across the Middle East after suggesting Israel has a biblical right to much of the region, according to [Al Jazeera](https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss). Egypt, Jordan, and Saudi Arabia denounced the remarks as "absurd and provocative," with officials saying the comments undermine regional stability. The controversy comes as Syria's new government works to establish diplomatic ties with neighboring Arab states and as Iran reportedly increases its control over Hezbollah operations. Huckabee's statements also coincided with Islamic State claiming a [renewed offensive](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTRvazJHMFNQWDF4UkNnLTJ0VGw1VVNEVndaZ3NtX0M0b25ZM0dfSUtUREhWaUY0X1M0V0Y2eFpNZ0JuSlhfRDhIeE4xTUxCVjFpTDhkWDBqWnZUQkRGMG5MX2J6X0hSdXpkU0tXUlZzLW1pYk5OWnFnWEhrZ2p2VTlLQ2RnU0JabFZLdC1lUUNnRWdYY2pUS0lQQ2tEZWwyTy1nNEI2eFlFQ29PMFFzZE8tRFpFOTA) against Syrian forces, announcing what Reuters calls a "new phase" of operations.
+US Ambassador Mike Huckabee sparked a diplomatic firestorm across the Middle East after suggesting Israel has biblical rights to vast swaths of regional territory, according to [Al Jazeera](https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss). Egypt, Jordan, and Saudi Arabia denounced the remarks as "absurd and provocative," [Times of Israel reports](https://www.timesofisrael.com/arab-and-muslim-states-fume-after-huckabee-says-israel-has-biblical-right-to-much-of-mideast/). The comments come as regional powers are already on edge over Israeli actions in Gaza and the West Bank. Jordan, which hosts millions of Palestinian refugees and maintains a peace treaty with Israel, faces particular pressure from the ambassador's suggestion that Israeli territorial claims could extend well beyond current borders.
 
 **Syria**
 
-• Syrian leader Ahmed al-Sharaa issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan, marking another gesture toward national reconciliation in the post-Assad era, Enab Baladi reports.
+• The SDF [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah, calling for a "phase of forgiveness and rebuilding" as integration talks with Damascus continue, Enab Baladi reports.
 
-• The Syrian Interior Ministry published [new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Kurdish residents to apply for Syrian citizenship, per Enab Baladi, as Damascus works to integrate marginalized communities.
+• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) ahead of its planned reopening, per Enab Baladi, marking another step in restoring state control over Kurdish-held areas.
 
-• Syrian government officials arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) ahead of its planned reopening, according to Enab Baladi, in another sign of growing cooperation between Damascus and SDF-controlled areas.
+• Damascus [set procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Syrian citizenship applications for Kurdish residents, according to Enab Baladi, addressing a longstanding grievance in northeastern Syria.
 
-• The Syrian Democratic Forces [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah and called for a "phase of forgiveness and rebuilding," Enab Baladi reports.
+• Canada [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) while targeting "new perpetrators," Enab Baladi reports, following similar moves by European allies.
 
-• Canada announced it was [easing Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria while targeting "new perpetrators," per Enab Baladi, as Western governments recalibrate their approach to the new Damascus government.
+• Islamic State [claimed attacks](https://english.enabbaladi.net/archives/2026/02/islamic-state/) on government forces in Deir Ezzor and announced a "new phase" of operations, Reuters reports, highlighting ongoing security challenges.
 
 **Lebanon**
 
-• The Lebanese Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats made against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling the targeting of medical facilities a violation of international law.
+• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in southern Lebanon, calling it a violation of international law, OLN News (Lebanon) reports.
+
+• Iran's Revolutionary Guards are reportedly [running Hezbollah](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) and preparing the group for potential war with Israel if the US strikes Iran, according to Times of Israel.
 
 **Broader Levant**
 
-• Iran's Revolutionary Guards are reportedly [running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) and preparing the group for potential war with Israel if the US strikes Iran, according to Times of Israel, signaling increased Iranian control over the Lebanese militia.
+• Israel [killed two Palestinians](https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss) in Gaza strikes during Ramadan, bringing the total death toll since the October ceasefire to 614, Al Jazeera reports.
 
-• Israeli forces [detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) in the Yarmouk Basin area of Daraa province, Enab Baladi reports, amid continued Israeli operations in Syrian territory.
+• Israeli forces [detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) in the Yarmouk Basin area of Daraa, Enab Baladi reports, as tensions persist along the Israeli-Syrian border.
 
-• The UN coordinated the [return of 191 Iraqis](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) from Syria's al-Hol camp, per Enab Baladi, as international efforts continue to repatriate foreign nationals from detention facilities.
+• Palestinian Red Crescent claims [settlers raided](https://www.timesofisrael.com/red-crescent-claims-settlers-raided-west-bank-compound-shot-2-palestinians/) a West Bank compound and shot two Palestinians, Times of Israel reports.
+
+• The UN coordinated the [return of 191 Iraqis](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) from al-Hol camp, per Enab Baladi, continuing efforts to empty the notorious detention facility.

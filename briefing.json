@@ -4,16 +4,16 @@
     "owner": "Abdi Latif Dahir",
     "timezone": "Africa/Nairobi",
     "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context",
-    "generated": "2026-02-22T01:56:25.631Z",
-    "generatedTimestamp": 1771725385631
+    "generated": "2026-02-22T02:06:09.383Z",
+    "generatedTimestamp": 1771725969383
   },
   "stats": {
     "sourceCount": 25,
     "successCount": 25,
-    "totalStories": 198,
+    "totalStories": 197,
     "totalScreenshots": 3,
-    "beatFlaggedCount": 34,
-    "elapsed": "35.0s"
+    "beatFlaggedCount": 33,
+    "elapsed": "88.7s"
   },
   "stories": {
     "all": [
@@ -686,7 +686,7 @@
         "priority": "primary",
         "language": "ar",
         "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-        "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
+        "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
         "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
       },
       {
@@ -794,7 +794,7 @@
         "priority": "primary",
         "language": "ar",
         "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-        "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
+        "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
         "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
       },
       {
@@ -989,7 +989,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaXV0UlFlRFJJQTFSNVJlVTdtWG9wYS1UMGluWWVHNUJSUUh0RWNOVGFhYlk1U3phczhMdUw5bDhsaHpoaHY4aEZaUEJmR29KeEM2VXBjUVJWMVBLd0ozaTFsY1pySWVQUnJVQ1hPc1ZhdjZyWHcxXzFJSEk?oc=5\" target=\"_blank\"&gt;In Afrin, breathing easier again&lt;/a&gt;&amp;nbsp;&a"
       },
       {
-        "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+        "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
         "url": "https://olnnews.com/181437/",
         "source": "OLN News",
         "sourceId": "olnnews",
@@ -1021,7 +1021,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-        "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+        "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
         "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
       },
       {
@@ -1057,7 +1057,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-        "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+        "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
         "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
       },
       {
@@ -1069,7 +1069,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-        "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
+        "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
         "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
       },
       {
@@ -1093,7 +1093,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-        "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+        "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
         "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
       },
       {
@@ -1129,7 +1129,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-        "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, Sunday, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+        "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
         "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
       },
       {
@@ -1177,7 +1177,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:05:24 +0000",
-        "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and praying, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
+        "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and prayers, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
         "originalHeadline": "حديث رمضان_شهر رمضان شهر الرحمة والغفران"
       },
       {
@@ -1189,7 +1189,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:03:10 +0000",
-        "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, A",
+        "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, he gives",
         "originalHeadline": "اتفاق أم ضربة؟"
       },
       {
@@ -1213,7 +1213,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-        "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
+        "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
         "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
       },
       {
@@ -1282,17 +1282,6 @@
         "language": "en",
         "date": "Sat, 21 Feb 2026 09:30:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
-      },
-      {
-        "headline": "Salam once again defends controversial tax hike - Naharnet",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5",
-        "source": "Nahar Net",
-        "sourceId": "naharnet",
-        "category": "lebanon",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 01:58:11 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5\" target=\"_blank\"&gt;Salam once again defend"
       },
       {
         "headline": "Ramadan's first Friday prayers are held at Jerusalem's Al-Aqsa Mosque - annahar.com",
@@ -1518,28 +1507,6 @@
         ]
       },
       {
-        "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 19:22:27 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
-      },
-      {
-        "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
-      },
-      {
         "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fb0Vjd29CRUVucWV3cnJ3QjFMMFVpVlh3VTlyVXBrYTA4XzBtNTBBMHNxYnd4bFhXY1M3Q1pEOTFJanJuZWJFYkFzcnAzOEtLLURZeGFIS25rc2xCN1JlOW51RzNpUUE?oc=5",
         "source": "Reuters",
@@ -1612,21 +1579,6 @@
         ]
       },
       {
-        "headline": "The Syrian front - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Syria"
-        ]
-      },
-      {
         "headline": "Air strikes on Kobani - Reuters",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
         "source": "Reuters",
@@ -1680,6 +1632,39 @@
         "language": "en",
         "date": "Sun, 20 Oct 2024 03:05:37 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+      },
+      {
+        "headline": "Rise of the Taliban - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
+      },
+      {
+        "headline": "Relics of war - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sun, 26 Oct 2025 18:16:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
+      },
+      {
+        "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 21 Apr 2022 20:44:55 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
       },
       {
         "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -2336,6 +2321,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
       },
       {
+        "headline": "Far-right Pundit Tucker Carlson Walks Back Claim Israeli President Herzog Visited Epstein Island - Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkwwR0RUamlMWlpYVjNWa2p3N3ZUM1NMb01yc2tYRGtGcHFibHZxd2xuRzNFbDhkMzB2ODljX2doVmg1VTFCaEJmakdKYWpMS3JDT2l3Y0o2VE0?oc=5",
+        "source": "Haaretz",
+        "sourceId": "haaretz",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sun, 22 Feb 2026 00:29:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkw"
+      },
+      {
         "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
         "source": "Haaretz",
@@ -2351,28 +2347,6 @@
         ]
       },
       {
-        "headline": "Footage shows Israeli troops waiting in ambush and opening fire on a Palestinian teen - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVpkc1ozVlBlNUdDYUpUVEhpZGN4d0lFajY0b0xuUmdKcDBsTGR3QndfaXl6RkRMenpOMmdyQXZoTkhjWmdYYVVYaXJHTklVV29Cd2lLNzdZZ0RjcExiZTYtUC1EM2hBQks0dFRxNTFmR24zak4xTXhuRWtXRjU2VHBaTEc0NVU1ejdaZ1hWUmc?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 05:48:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVp"
-      },
-      {
-        "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sat, 21 Feb 2026 04:32:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
-      },
-      {
         "headline": "Anti-regime Protests Break Out in Top Iran Universities as U.S. Strike Appears Imminent - Haaretz",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRTF1eHFQUU5YWVlOVEJBZmF4UGhTUDh6Nk5oQVZUMmlmQmlTRlRRRjBOaFJSWmZJQmNmNmRoZkdEYmpRY3dXM3B4WmhBOUt0b3drS3NLWmNOYW1uMDQ3UEpZNUVobERCa3hXektLdG5aeHhFdDZTLVRoT0lGUmRMSkFLYXVBeFhmNXRIamFzazcyZy13LXZMRC1wNlJDdnY0X2FJSmpnU1ZqdENEUHJyNjdrQ3FTbEU3VURKN2VMSkkzMWdhX0p0aVB1N3lKVTlvTElHRlo0V0NJT0dQMDg2c3pxR3FFV0pVRW1RV2xxVDQ4dU5rWVVWYTRIbjV2NGRKOVg5NXhBNUNPZFo0MDcxNzVVUFU?oc=5",
         "source": "Haaretz",
@@ -2386,6 +2360,17 @@
         "beatKeywords": [
           "Iran"
         ]
+      },
+      {
+        "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
+        "source": "Haaretz",
+        "sourceId": "haaretz",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 04:32:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
       }
     ],
     "byCategory": {
@@ -3059,7 +3044,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
+          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
           "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
         },
         {
@@ -3167,7 +3152,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-          "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
+          "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
           "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
         },
         {
@@ -3364,7 +3349,7 @@
       ],
       "lebanon": [
         {
-          "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+          "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
           "url": "https://olnnews.com/181437/",
           "source": "OLN News",
           "sourceId": "olnnews",
@@ -3396,7 +3381,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-          "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+          "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
           "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
         },
         {
@@ -3432,7 +3417,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
           "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
         },
         {
@@ -3444,7 +3429,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -3468,7 +3453,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -3504,7 +3489,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-          "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, Sunday, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+          "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
           "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
         },
         {
@@ -3552,7 +3537,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:05:24 +0000",
-          "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and praying, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
+          "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and prayers, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
           "originalHeadline": "حديث رمضان_شهر رمضان شهر الرحمة والغفران"
         },
         {
@@ -3564,7 +3549,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:03:10 +0000",
-          "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, A",
+          "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, he gives",
           "originalHeadline": "اتفاق أم ضربة؟"
         },
         {
@@ -3588,7 +3573,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
+          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
           "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
         },
         {
@@ -3657,17 +3642,6 @@
           "language": "en",
           "date": "Sat, 21 Feb 2026 09:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
-        },
-        {
-          "headline": "Salam once again defends controversial tax hike - Naharnet",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5",
-          "source": "Nahar Net",
-          "sourceId": "naharnet",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 01:58:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5\" target=\"_blank\"&gt;Salam once again defend"
         },
         {
           "headline": "Ramadan's first Friday prayers are held at Jerusalem's Al-Aqsa Mosque - annahar.com",
@@ -3895,28 +3869,6 @@
           ]
         },
         {
-          "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 19:22:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
-        },
-        {
-          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
-        },
-        {
           "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fb0Vjd29CRUVucWV3cnJ3QjFMMFVpVlh3VTlyVXBrYTA4XzBtNTBBMHNxYnd4bFhXY1M3Q1pEOTFJanJuZWJFYkFzcnAzOEtLLURZeGFIS25rc2xCN1JlOW51RzNpUUE?oc=5",
           "source": "Reuters",
@@ -3989,21 +3941,6 @@
           ]
         },
         {
-          "headline": "The Syrian front - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Syria"
-          ]
-        },
-        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -4057,6 +3994,39 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+        },
+        {
+          "headline": "Rise of the Taliban - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
+        },
+        {
+          "headline": "Relics of war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sun, 26 Oct 2025 18:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
+        },
+        {
+          "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 21 Apr 2022 20:44:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
         },
         {
           "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -4715,6 +4685,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
         },
         {
+          "headline": "Far-right Pundit Tucker Carlson Walks Back Claim Israeli President Herzog Visited Epstein Island - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkwwR0RUamlMWlpYVjNWa2p3N3ZUM1NMb01yc2tYRGtGcHFibHZxd2xuRzNFbDhkMzB2ODljX2doVmg1VTFCaEJmakdKYWpMS3JDT2l3Y0o2VE0?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 00:29:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkw"
+        },
+        {
           "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
           "source": "Haaretz",
@@ -4730,28 +4711,6 @@
           ]
         },
         {
-          "headline": "Footage shows Israeli troops waiting in ambush and opening fire on a Palestinian teen - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVpkc1ozVlBlNUdDYUpUVEhpZGN4d0lFajY0b0xuUmdKcDBsTGR3QndfaXl6RkRMenpOMmdyQXZoTkhjWmdYYVVYaXJHTklVV29Cd2lLNzdZZ0RjcExiZTYtUC1EM2hBQks0dFRxNTFmR24zak4xTXhuRWtXRjU2VHBaTEc0NVU1ejdaZ1hWUmc?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 05:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVp"
-        },
-        {
-          "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 04:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
-        },
-        {
           "headline": "Anti-regime Protests Break Out in Top Iran Universities as U.S. Strike Appears Imminent - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRTF1eHFQUU5YWVlOVEJBZmF4UGhTUDh6Nk5oQVZUMmlmQmlTRlRRRjBOaFJSWmZJQmNmNmRoZkdEYmpRY3dXM3B4WmhBOUt0b3drS3NLWmNOYW1uMDQ3UEpZNUVobERCa3hXektLdG5aeHhFdDZTLVRoT0lGUmRMSkFLYXVBeFhmNXRIamFzazcyZy13LXZMRC1wNlJDdnY0X2FJSmpnU1ZqdENEUHJyNjdrQ3FTbEU3VURKN2VMSkkzMWdhX0p0aVB1N3lKVTlvTElHRlo0V0NJT0dQMDg2c3pxR3FFV0pVRW1RV2xxVDQ4dU5rWVVWYTRIbjV2NGRKOVg5NXhBNUNPZFo0MDcxNzVVUFU?oc=5",
           "source": "Haaretz",
@@ -4765,6 +4724,17 @@
           "beatKeywords": [
             "Iran"
           ]
+        },
+        {
+          "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 04:32:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
         }
       ]
     },
@@ -5329,7 +5299,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
+          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
           "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
         },
         {
@@ -5437,7 +5407,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-          "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
+          "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
           "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
         },
         {
@@ -5554,17 +5524,6 @@
           "language": "en",
           "date": "Sat, 21 Feb 2026 09:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnRjaHg2b1RlUEdVQWlDMkhXZmViUGpsdG9kMFNRd05NNEJFTEduUmx0MHcydExtQkE5WndFM3lkdlB0ay1XcW1sVXN0NXV0bmtCWC1EOEhSNmpUMjdLUVhEYUE2WUh2SUVrV3ZRcEQ3UnI0T2IxVl8yams4QnNEeUdOSEdvX05YSjlVM0hMWnF1Mm85OXNjeGpFcmozVmJNS1p5OFJ5aV94LW5uMVVCdUxISTYwUWF"
-        },
-        {
-          "headline": "Salam once again defends controversial tax hike - Naharnet",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5",
-          "source": "Nahar Net",
-          "sourceId": "naharnet",
-          "category": "lebanon",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 01:58:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9ETDFISzhTalhCOVo3OEFYRVJPcUt6M3pXOGMtX3JOQU9DSVZPQTZkdnZRYmMzdHZmb0dGeGpWZjZadjE4b09MVUQ2dTIzaVkzb0l1aVdtQkpneTZrUzNIaUVtdVZOMEJZVHpDSE1oNnAtLTY2Z2pWZ3NBWnI3ZHJUazVuaUVmOVliUzJBMDFtZw?oc=5\" target=\"_blank\"&gt;Salam once again defend"
         },
         {
           "headline": "Pakistan carries out strikes in Afghanistan after spate of suicide attacks",
@@ -5992,7 +5951,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaXV0UlFlRFJJQTFSNVJlVTdtWG9wYS1UMGluWWVHNUJSUUh0RWNOVGFhYlk1U3phczhMdUw5bDhsaHpoaHY4aEZaUEJmR29KeEM2VXBjUVJWMVBLd0ozaTFsY1pySWVQUnJVQ1hPc1ZhdjZyWHcxXzFJSEk?oc=5\" target=\"_blank\"&gt;In Afrin, breathing easier again&lt;/a&gt;&amp;nbsp;&a"
         },
         {
-          "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+          "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
           "url": "https://olnnews.com/181437/",
           "source": "OLN News",
           "sourceId": "olnnews",
@@ -6024,7 +5983,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-          "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+          "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
           "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
         },
         {
@@ -6060,7 +6019,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
           "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
         },
         {
@@ -6072,7 +6031,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -6096,7 +6055,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -6132,7 +6091,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-          "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, Sunday, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+          "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
           "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
         },
         {
@@ -6180,7 +6139,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:05:24 +0000",
-          "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and praying, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
+          "description": "Dr. Osama Mohio Praise be to God, Lord of the Worlds, and may blessings and peace be upon the most honorable of the prophets and messengers, our master Muhammad, and upon all his family and companions. The month of Ramadan is the month of goodness and blessings, the month of fasting and prayers, the month of the Qur’an and forgiveness. In this holy month, God’s mercy is revealed to His servants, and the doors of repentance and forgiveness are opened for them. The month of Ramadan is an opportunity for a Muslim",
           "originalHeadline": "حديث رمضان_شهر رمضان شهر الرحمة والغفران"
         },
         {
@@ -6192,7 +6151,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:03:10 +0000",
-          "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, A",
+          "description": "Which comes first: reaching an agreement that satisfies Trump with the Iranians, or his impatience with the endless procrastination and conditions from the Iranian delegation? Compromise or impatience? An enforceable written agreement or military action by American naval vessels and fighter bombers in the Gulf region? From the legacy of real estate negotiation in Trump’s character, he gives",
           "originalHeadline": "اتفاق أم ضربة؟"
         },
         {
@@ -6216,7 +6175,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
+          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
           "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
         },
         {
@@ -6271,28 +6230,6 @@
           "beatKeywords": [
             "Syria"
           ]
-        },
-        {
-          "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 19:22:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
-        },
-        {
-          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
         },
         {
           "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
@@ -6367,21 +6304,6 @@
           ]
         },
         {
-          "headline": "The Syrian front - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Syria"
-          ]
-        },
-        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -6435,6 +6357,39 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
+        },
+        {
+          "headline": "Rise of the Taliban - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
+        },
+        {
+          "headline": "Relics of war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sun, 26 Oct 2025 18:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
+        },
+        {
+          "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 21 Apr 2022 20:44:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
         },
         {
           "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -7091,6 +7046,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUy1ydFpIeU9pNEdYZnQ5YUNRT0Z0ZGZXZ2ZWWHQyT2Z2T0RlTkNhUzl4WkFhMmE2OUcwQXMzRkFFT1RGamlwQ3NzX2NxQVR0RVpXcFFlVnJOaWRHeGZFcS1xb3V2Yi1Ka21CZl80V0JWU3FUZ0ZDd09Fd0xQRW8wbTFXczJQbUNNLWRxTTRWVDlEcjc3bHRLcHZyd1pwSDVHVU9mQzd2VWtCbVZqNEdrTVZ1LWJDbVB"
         },
         {
+          "headline": "Far-right Pundit Tucker Carlson Walks Back Claim Israeli President Herzog Visited Epstein Island - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkwwR0RUamlMWlpYVjNWa2p3N3ZUM1NMb01yc2tYRGtGcHFibHZxd2xuRzNFbDhkMzB2ODljX2doVmg1VTFCaEJmakdKYWpMS3JDT2l3Y0o2VE0?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 00:29:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnRmVm9WQndYYmNPWmVidS1takRka0FVV2syTThEblJwOWp4QUZtcGJqd2ZLck90a3pJZUtnMFIwVFY4VlU5bk9BaDRZUUJEMmZTV242bXE4S0trNlZuQ1dGTGVRX0p5QWNrZ1ZKZFZZeG5hRVp1VFU0OXFETFgzUDd3ajRxV1dDOXNqQWJpeVJGdkthWkRYalU3a1R6ODVIT1poa3ViRWJtTzJxemNhYXlVSTBGTkw"
+        },
+        {
           "headline": "Israeli Strikes Kill Ten in Lebanon, Wound at Least 50 - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdjhxOVg1UkY0N0dPeDRROXNKNFAwaDZDR3lYTEd6UE12OTZDMVlUd2h3Skg1cmcwMUhFamEtdTV0S1J2RzFiZVA5T0pfRUFWSzlfOU1FZlZIR3dlY2FBXzVBRkt5TUUzSHZrQ25TcVMxSXVjd3dCd2ZGb0s5Q2loeDJKRXVnbnI2QnA3VDhId1FXbkhrQ24waHRPT3dhZlh2R2Q4bkYwamFSOGZYQXJ3aXlLY3E5bkp5Y3pLX0ZRT1dkZ2wzS2taRlo1WWd1RC1uYkFyRmZMVTdzcEMwb0ZwNTJHdUhMMzE0YXc0aW5HTDZ0OUZaUlFwaWFKNWlaOUdsN0VLYlBlOFg2ejVH?oc=5",
           "source": "Haaretz",
@@ -7106,28 +7072,6 @@
           ]
         },
         {
-          "headline": "Footage shows Israeli troops waiting in ambush and opening fire on a Palestinian teen - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVpkc1ozVlBlNUdDYUpUVEhpZGN4d0lFajY0b0xuUmdKcDBsTGR3QndfaXl6RkRMenpOMmdyQXZoTkhjWmdYYVVYaXJHTklVV29Cd2lLNzdZZ0RjcExiZTYtUC1EM2hBQks0dFRxNTFmR24zak4xTXhuRWtXRjU2VHBaTEc0NVU1ejdaZ1hWUmc?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 05:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmY1OVdmajgtMjdLRUQ2TzVlN0ZaNGZxOUdndWxRcmxKOWp1NHpLOUhpS19lR1BGNHg2dkczSjdNeUZCZlFxNFVhUFdPZDNPYTdEeEkxVm0wNVRLYV93ZnN6Zzdvc0JFTG1vbF9BNUhhSkgzemcydkhIMlo0VGlVR2JIRHNmZEM5ZDQ1cC15WlFCX19IdUZtZ255VUQzZ09ncWtPWm40OTVzNHNJQ0NKSUtBdE5TMVp"
-        },
-        {
-          "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 21 Feb 2026 04:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
-        },
-        {
           "headline": "Anti-regime Protests Break Out in Top Iran Universities as U.S. Strike Appears Imminent - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRTF1eHFQUU5YWVlOVEJBZmF4UGhTUDh6Nk5oQVZUMmlmQmlTRlRRRjBOaFJSWmZJQmNmNmRoZkdEYmpRY3dXM3B4WmhBOUt0b3drS3NLWmNOYW1uMDQ3UEpZNUVobERCa3hXektLdG5aeHhFdDZTLVRoT0lGUmRMSkFLYXVBeFhmNXRIamFzazcyZy13LXZMRC1wNlJDdnY0X2FJSmpnU1ZqdENEUHJyNjdrQ3FTbEU3VURKN2VMSkkzMWdhX0p0aVB1N3lKVTlvTElHRlo0V0NJT0dQMDg2c3pxR3FFV0pVRW1RV2xxVDQ4dU5rWVVWYTRIbjV2NGRKOVg5NXhBNUNPZFo0MDcxNzVVUFU?oc=5",
           "source": "Haaretz",
@@ -7141,6 +7085,17 @@
           "beatKeywords": [
             "Iran"
           ]
+        },
+        {
+          "headline": "Israeli Prosecution Shuts Down Probe Into Arab MK for 'Insulting Police' - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmhNc05vUzVDOTJIeXlrN29FN0d2WlNUNk43OGVGU3lnNmgwYWF0OEY4VXdaakdERnBoVm9QZzdsWFZsZ2FWcTZKUjBzSQ?oc=5",
+          "source": "Haaretz",
+          "sourceId": "haaretz",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 04:32:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2RiNVpkQThfb0tQbHNtMEhyS21MYnRoUGNsaUZtUzBfNlZBRlhTQzg1UUsxLVdSUDFqWEdhS05EMUhNd2VxYVpKdkg3bGJ4bnhRLWU3Q0dDS3hKMGRLSk9HUVFFYnJualBJbkpmU1J0ZWFXalpMZVY0RmFuU1JHRmszN0JPMUc1ajlpcmUwR1NFb3dTZi10M1pHc1dhYi1uMF9ZYXdIVmZrY29GdTFhT2hvZUpLdmh"
         }
       ],
       "tertiary": []
@@ -7296,21 +7251,6 @@
         "beatRelevant": true,
         "beatKeywords": [
           "Aleppo"
-        ]
-      },
-      {
-        "headline": "The Syrian front - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Syria"
         ]
       },
       {
