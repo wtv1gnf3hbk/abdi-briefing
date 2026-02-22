@@ -1,70 +1,63 @@
 Here are the specific issues found:
 
-## 1. FACT-CHECK
-**Issue 1:** The lead paragraph cites Reuters but the Reuters link appears to be a Google News aggregator URL, not a direct Reuters article. The actual source data only shows Enab Baladi coverage of ISIS attacks.
+**1. FACT-CHECK**
+- Issue: The lead paragraph links to "https://english.enabbaladi.net/archives/2026/02/islamic-state/" which is an incomplete URL not matching any source in the data. Should link to the full ISIS escalation story URL.
+- Issue: Syria bullet about "new procedures" links to a URL not provided in the source data.
+- Issue: Syria bullet about "Qamishli Airport" links to a URL not provided in the source data.
+- Issue: Syria bullet about "Canada eased Assad-era sanctions" links to a URL not provided in the source data.
+- Issue: Syria bullet about "UN coordinated return" links to a URL not provided in the source data.
+- Issue: Broader Levant bullet about "detained two Syrian men" links to "https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/" which is malformed and not in source data.
+- Issue: Broader Levant bullet about "Iranian students rallied" links to a URL not provided in the source data.
 
-**Issue 2:** The draft mentions "Canada eased Assad-era sanctions" but this story is not present in the source data provided.
-
-**Issue 3:** The draft includes a bullet about "A Syrian government delegation arrived at Qamishli Airport" but this story is not in the source data.
-
-**Issue 4:** The draft mentions "Israeli forces detained two Syrian men" but this story is not in the source data.
-
-## 2. STYLE - CONTRACTIONS
+**2. STYLE - CONTRACTIONS**
 Clean.
 
-## 3. STYLE - "AMID" 
+**3. STYLE - "AMID"**
 Clean.
 
-## 4. STYLE - EM-DASHES
+**4. STYLE - EM-DASHES**
 Clean.
 
-## 5. LINKS
-**Issue 5:** Several links exceed 3-word maximum:
-- "set procedures" (2 words - OK)
-- "eased Assad-era sanctions" (3 words - OK) 
-- "released 51 detainees" (3 words - OK)
-- "Qamishli Airport" (2 words - OK)
-- "detained two" (2 words - OK)
-- "urgent statement" (2 words - OK)
-- "rallied as universities" (3 words - OK)
-- "deny saying" (2 words - OK)
-- "unwilling to leave" (3 words - OK)
-- "coordinated the return" (3 words - OK)
+**5. LINKS**
+- Issue: "claimed an attack" is only 2 words but the link is broken/incomplete
+- Issue: "new procedures" is exactly 2 words, acceptable
+- Issue: All other link texts are 3 words or fewer - acceptable
+- Issue: All bullet points have at least one link - acceptable
 
-All links are within limits.
+**6. TONE**
+Clean - bullets read conversationally with proper context.
 
-**Issue 6:** Missing links in bullets - all bullets have at least one link.
-
-## 6. TONE
-**Issue 7:** Several bullets read like dry headline summaries rather than conversational prose:
-- "The Syrian Interior Ministry set procedures for Kurdish residents to apply for Syrian citizenship"
-- "Canada eased Assad-era sanctions on Syria while targeting 'new perpetrators'"
-- "Syrian Democratic Forces released 51 detainees in al-Hasakah"
-
-## 7. SECTION COVERAGE (BLOCKING)
+**7. SECTION COVERAGE (BLOCKING)**
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING Issue 8:** Only 3 unique domains found:
-1. english.enabbaladi.net
-2. olnnews.com  
-3. aljazeera.com
+**8. SOURCE DIVERSITY (BLOCKING)**
+- Domains found: english.enabbaladi.net, olnnews.com, aljazeera.com
+- Count: 3 unique domains
+- Clean - meets minimum requirement.
 
-The Reuters link appears to be a Google News aggregator, not a direct Reuters URL. Need to add more diverse sources from the provided data.
+**9. ATTRIBUTION**
+- Issue: Syria bullet about "new procedures" has attribution "according to Enab Baladi"
+- Issue: Syria bullet about "Qamishli Airport" has attribution "Enab Baladi reports"
+- Issue: Syria bullet about SDF releases has attribution "per Enab Baladi"
+- Issue: Syria bullet about Canada sanctions has attribution "according to Enab Baladi"
+- Issue: Syria bullet about UN return has attribution "Enab Baladi reports"
+- Issue: Lebanon bullet about Hospital Syndicate lacks source attribution
+- Issue: Lebanon bullet about Al-Mutawa lacks source attribution
+- Issue: Broader Levant bullet about US-Iran talks has attribution "Al Jazeera reports"
+- Issue: Broader Levant bullet about Iranian students has attribution "according to Al Jazeera"
+- Issue: Broader Levant bullet about Netanyahu has attribution "Al Jazeera reports"
+- Issue: Broader Levant bullet about detained Syrians has attribution "per Enab Baladi"
 
-## 9. ATTRIBUTION
-**Issue 9:** Missing explicit attribution for several links:
-- First "targeted forces" link has no attribution text nearby
-- "set procedures" link has no "according to" or "per" attribution
-- Several other links rely on attribution at end of bullet rather than near the link
+**10. ARABIC SOURCE QUALITY**
+- Issue: Lebanon bullets sourcing OLN News lack country attribution (should be "OLN News (Lebanon) reports")
 
-## 10. ARABIC SOURCE QUALITY
-**Issue 10:** The OLN News citation shows "(Lebanon)" but should show "OLN News (Lebanon) reports" format for consistency.
-
-## 11. "ADD CONTEXT" CLAUSES
+**11. "ADD CONTEXT" CLAUSES**
 Clean.
 
-## 12. LEAD QUALITY (BLOCKING)
-**BLOCKING Issue 11:** The lead reads like expanded headline copy rather than written-through prose with proper context and stakes. It follows the problematic "X announced Y, marking a significant step toward Z" pattern. Needs expansion with more context about why ISIS resurgence matters now, what it means for Syria's transition, and broader implications for regional stability.
+**12. LEAD QUALITY (BLOCKING)**
+Clean - lead is 3 sentences with context, stakes, and attribution.
 
-**SUMMARY:** 2 BLOCKING issues found (Source Diversity and Lead Quality) plus multiple fact-checking problems with unsupported claims.
+**SUMMARY OF BLOCKING ISSUES:**
+- Multiple fact-check failures due to broken/missing URLs
+- Missing source attribution for Lebanon bullets
+- Missing country attribution for Arabic sources
