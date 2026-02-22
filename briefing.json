@@ -4,16 +4,16 @@
     "owner": "Abdi Latif Dahir",
     "timezone": "Africa/Nairobi",
     "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context",
-    "generated": "2026-02-22T02:06:09.383Z",
-    "generatedTimestamp": 1771725969383
+    "generated": "2026-02-22T02:11:41.712Z",
+    "generatedTimestamp": 1771726301712
   },
   "stats": {
     "sourceCount": 25,
-    "successCount": 25,
-    "totalStories": 197,
+    "successCount": 24,
+    "totalStories": 182,
     "totalScreenshots": 3,
-    "beatFlaggedCount": 33,
-    "elapsed": "88.7s"
+    "beatFlaggedCount": 34,
+    "elapsed": "36.6s"
   },
   "stories": {
     "all": [
@@ -180,171 +180,6 @@
         "priority": "primary",
         "language": "en",
         "date": "Tue, 17 Feb 2026 17:59:15 +0000",
-        "description": ""
-      },
-      {
-        "headline": "U.S. cuts forces in Syria as its new government fights terror threat",
-        "url": "https://syrianobserver.com/youtube/u-s-cuts-forces-in-syria-as-its-new-government-fights-terror-threat.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Fri, 20 Feb 2026 09:05:12 +0000",
-        "description": ""
-      },
-      {
-        "headline": "US Begins Full Troop Withdrawal from Syria, Completion Expected Within Two Months: Wall Street Journal",
-        "url": "https://syrianobserver.com/syrian-actors/us-begins-full-troop-withdrawal-from-syria-completion-expected-within-two-months-wall-street-journal.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 21:00:44 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Damascus–Baghdad Ties Move Into a New Era",
-        "url": "https://syrianobserver.com/syrian-actors/damascus-baghdad-ties-move-into-a-new-era.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 21:00:11 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Canada Sanctions Six Figures Tied to Syrian Military Formations as Policy Shifts Toward Economic Reengagement",
-        "url": "https://syrianobserver.com/foreign-actors/canada-sanctions-six-figures-tied-to-syrian-military-formations-as-policy-shifts-toward-economic-reengagement.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 19 Feb 2026 21:00:03 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syria’s Dangerous Illusion of Victory",
-        "url": "https://syrianobserver.com/syrian-actors/syrias-dangerous-illusion-of-victory.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 18 Feb 2026 21:01:33 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syrian President Grants General Amnesty, Excluding ‘Grave Violations Against the Syrian People’",
-        "url": "https://syrianobserver.com/syrian-actors/syrian-president-grants-general-amnesty-excluding-grave-violations-against-the-syrian-people.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 18 Feb 2026 21:00:20 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Conference on the Unity of Islamic Discourse Held in Damascus",
-        "url": "https://syrianobserver.com/syrian-actors/conference-on-the-unity-of-islamic-discourse-held-in-damascus.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 18 Feb 2026 21:00:13 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Is the Damascus Government Cementing an Unjust Judiciary?",
-        "url": "https://syrianobserver.com/syrian-actors/is-the-damascus-government-cementing-an-unjust-judiciary.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 18 Feb 2026 21:00:06 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Unexpected Departure of Prince Hassan Al-Atrash from Suweida and His Arrival in Damascus",
-        "url": "https://syrianobserver.com/syrian-actors/unexpected-departure-of-prince-hassan-al-atrash-from-suweida-and-his-arrival-in-damascus.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 18 Feb 2026 21:00:04 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Ministry of Energy Explains Gas Shortage to Al-Thawra, Promises Imminent Improvement",
-        "url": "https://syrianobserver.com/society/ministry-of-energy-explains-gas-shortage-to-al-thawra-promises-imminent-improvement.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 17 Feb 2026 21:00:55 +0000",
-        "description": ""
-      },
-      {
-        "headline": "President Sharaa: Charter for the Unity of Islamic Discourse Strengthens National Cohesion, Consolidates Moderation, and Protects the Social Fabric",
-        "url": "https://syrianobserver.com/syrian-actors/president-sharaa-charter-for-the-unity-of-islamic-discourse-strengthens-national-cohesion-consolidates-moderation-and-protects-the-social-fabric.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 17 Feb 2026 21:00:37 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Political Disinformation in the Syrian Landscape: Media Desperation in Search of Illusory Victories",
-        "url": "https://syrianobserver.com/syrian-actors/political-disinformation-in-the-syrian-landscape-media-desperation-in-search-of-illusory-victories.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 17 Feb 2026 21:00:05 +0000",
-        "description": ""
-      },
-      {
-        "headline": "SDF Integration into Syrian Ministry of Defense: Mazloum Abdi Outlines Agreement Mechanisms and Remaining Challenges",
-        "url": "https://syrianobserver.com/syrian-actors/sdf-integration-into-syrian-ministry-of-defense-mazloum-abdi-outlines-agreement-mechanisms-and-remaining-challenges.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 17 Feb 2026 21:00:03 +0000",
-        "description": ""
-      },
-      {
-        "headline": "After Its Conference Was Barred in Damascus, the Feminist Movement Calls for a Constitution Enshrining Citizenship and Justice",
-        "url": "https://syrianobserver.com/society/after-its-conference-was-barred-in-damascus-the-feminist-movement-calls-for-a-constitution-enshrining-citizenship-and-justice.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 17 Feb 2026 21:00:02 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Europe’s Invitation to the SDF in Munich Was No Accident — It Was a Message to Damascus and Washington",
-        "url": "https://syrianobserver.com/syrian-actors/europes-invitation-to-the-sdf-in-munich-was-no-accident-it-was-a-message-to-damascus-and-washington.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Mon, 16 Feb 2026 21:10:29 +0000",
         "description": ""
       },
       {
@@ -686,7 +521,7 @@
         "priority": "primary",
         "language": "ar",
         "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-        "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
+        "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
         "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
       },
       {
@@ -794,7 +629,7 @@
         "priority": "primary",
         "language": "ar",
         "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-        "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
+        "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
         "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
       },
       {
@@ -989,7 +824,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaXV0UlFlRFJJQTFSNVJlVTdtWG9wYS1UMGluWWVHNUJSUUh0RWNOVGFhYlk1U3phczhMdUw5bDhsaHpoaHY4aEZaUEJmR29KeEM2VXBjUVJWMVBLd0ozaTFsY1pySWVQUnJVQ1hPc1ZhdjZyWHcxXzFJSEk?oc=5\" target=\"_blank\"&gt;In Afrin, breathing easier again&lt;/a&gt;&amp;nbsp;&a"
       },
       {
-        "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+        "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
         "url": "https://olnnews.com/181437/",
         "source": "OLN News",
         "sourceId": "olnnews",
@@ -1021,7 +856,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-        "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+        "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
         "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
       },
       {
@@ -1057,7 +892,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-        "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+        "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
         "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
       },
       {
@@ -1069,7 +904,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-        "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+        "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
         "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
       },
       {
@@ -1093,7 +928,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-        "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+        "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
         "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
       },
       {
@@ -1129,7 +964,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-        "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+        "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
         "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
       },
       {
@@ -1213,7 +1048,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-        "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
+        "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
         "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
       },
       {
@@ -1507,6 +1342,28 @@
         ]
       },
       {
+        "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 19:22:27 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
+      },
+      {
+        "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
+      },
+      {
         "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fb0Vjd29CRUVucWV3cnJ3QjFMMFVpVlh3VTlyVXBrYTA4XzBtNTBBMHNxYnd4bFhXY1M3Q1pEOTFJanJuZWJFYkFzcnAzOEtLLURZeGFIS25rc2xCN1JlOW51RzNpUUE?oc=5",
         "source": "Reuters",
@@ -1579,6 +1436,21 @@
         ]
       },
       {
+        "headline": "The Syrian front - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
+      },
+      {
         "headline": "Air strikes on Kobani - Reuters",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
         "source": "Reuters",
@@ -1632,39 +1504,6 @@
         "language": "en",
         "date": "Sun, 20 Oct 2024 03:05:37 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
-      },
-      {
-        "headline": "Rise of the Taliban - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sat, 25 Oct 2025 21:43:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
-      },
-      {
-        "headline": "Relics of war - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Sun, 26 Oct 2025 18:16:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
-      },
-      {
-        "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 21 Apr 2022 20:44:55 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
       },
       {
         "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -2541,171 +2380,6 @@
           "description": ""
         },
         {
-          "headline": "U.S. cuts forces in Syria as its new government fights terror threat",
-          "url": "https://syrianobserver.com/youtube/u-s-cuts-forces-in-syria-as-its-new-government-fights-terror-threat.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 09:05:12 +0000",
-          "description": ""
-        },
-        {
-          "headline": "US Begins Full Troop Withdrawal from Syria, Completion Expected Within Two Months: Wall Street Journal",
-          "url": "https://syrianobserver.com/syrian-actors/us-begins-full-troop-withdrawal-from-syria-completion-expected-within-two-months-wall-street-journal.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:44 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Damascus–Baghdad Ties Move Into a New Era",
-          "url": "https://syrianobserver.com/syrian-actors/damascus-baghdad-ties-move-into-a-new-era.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:11 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Canada Sanctions Six Figures Tied to Syrian Military Formations as Policy Shifts Toward Economic Reengagement",
-          "url": "https://syrianobserver.com/foreign-actors/canada-sanctions-six-figures-tied-to-syrian-military-formations-as-policy-shifts-toward-economic-reengagement.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syria’s Dangerous Illusion of Victory",
-          "url": "https://syrianobserver.com/syrian-actors/syrias-dangerous-illusion-of-victory.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:01:33 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian President Grants General Amnesty, Excluding ‘Grave Violations Against the Syrian People’",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-president-grants-general-amnesty-excluding-grave-violations-against-the-syrian-people.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:20 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Conference on the Unity of Islamic Discourse Held in Damascus",
-          "url": "https://syrianobserver.com/syrian-actors/conference-on-the-unity-of-islamic-discourse-held-in-damascus.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:13 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Is the Damascus Government Cementing an Unjust Judiciary?",
-          "url": "https://syrianobserver.com/syrian-actors/is-the-damascus-government-cementing-an-unjust-judiciary.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:06 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Unexpected Departure of Prince Hassan Al-Atrash from Suweida and His Arrival in Damascus",
-          "url": "https://syrianobserver.com/syrian-actors/unexpected-departure-of-prince-hassan-al-atrash-from-suweida-and-his-arrival-in-damascus.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:04 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ministry of Energy Explains Gas Shortage to Al-Thawra, Promises Imminent Improvement",
-          "url": "https://syrianobserver.com/society/ministry-of-energy-explains-gas-shortage-to-al-thawra-promises-imminent-improvement.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:55 +0000",
-          "description": ""
-        },
-        {
-          "headline": "President Sharaa: Charter for the Unity of Islamic Discourse Strengthens National Cohesion, Consolidates Moderation, and Protects the Social Fabric",
-          "url": "https://syrianobserver.com/syrian-actors/president-sharaa-charter-for-the-unity-of-islamic-discourse-strengthens-national-cohesion-consolidates-moderation-and-protects-the-social-fabric.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:37 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Political Disinformation in the Syrian Landscape: Media Desperation in Search of Illusory Victories",
-          "url": "https://syrianobserver.com/syrian-actors/political-disinformation-in-the-syrian-landscape-media-desperation-in-search-of-illusory-victories.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:05 +0000",
-          "description": ""
-        },
-        {
-          "headline": "SDF Integration into Syrian Ministry of Defense: Mazloum Abdi Outlines Agreement Mechanisms and Remaining Challenges",
-          "url": "https://syrianobserver.com/syrian-actors/sdf-integration-into-syrian-ministry-of-defense-mazloum-abdi-outlines-agreement-mechanisms-and-remaining-challenges.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "After Its Conference Was Barred in Damascus, the Feminist Movement Calls for a Constitution Enshrining Citizenship and Justice",
-          "url": "https://syrianobserver.com/society/after-its-conference-was-barred-in-damascus-the-feminist-movement-calls-for-a-constitution-enshrining-citizenship-and-justice.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:02 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Europe’s Invitation to the SDF in Munich Was No Accident — It Was a Message to Damascus and Washington",
-          "url": "https://syrianobserver.com/syrian-actors/europes-invitation-to-the-sdf-in-munich-was-no-accident-it-was-a-message-to-damascus-and-washington.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 16 Feb 2026 21:10:29 +0000",
-          "description": ""
-        },
-        {
           "headline": "Hasakah at a crossroads: Real integration, or recreating ‘security squares’?",
           "url": "https://syriadirect.org/hasakah-crossroads-real-integration-or-recreating-security-squares/",
           "source": "Syria Direct",
@@ -3044,7 +2718,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
+          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
           "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
         },
         {
@@ -3152,7 +2826,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-          "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
+          "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
           "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
         },
         {
@@ -3349,7 +3023,7 @@
       ],
       "lebanon": [
         {
-          "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+          "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
           "url": "https://olnnews.com/181437/",
           "source": "OLN News",
           "sourceId": "olnnews",
@@ -3381,7 +3055,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-          "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+          "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
           "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
         },
         {
@@ -3417,7 +3091,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
           "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
         },
         {
@@ -3429,7 +3103,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -3453,7 +3127,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -3489,7 +3163,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-          "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+          "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
           "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
         },
         {
@@ -3573,7 +3247,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
+          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
           "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
         },
         {
@@ -3869,6 +3543,28 @@
           ]
         },
         {
+          "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 19:22:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
+        },
+        {
+          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
+        },
+        {
           "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fb0Vjd29CRUVucWV3cnJ3QjFMMFVpVlh3VTlyVXBrYTA4XzBtNTBBMHNxYnd4bFhXY1M3Q1pEOTFJanJuZWJFYkFzcnAzOEtLLURZeGFIS25rc2xCN1JlOW51RzNpUUE?oc=5",
           "source": "Reuters",
@@ -3941,6 +3637,21 @@
           ]
         },
         {
+          "headline": "The Syrian front - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
+        },
+        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -3994,39 +3705,6 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
-        },
-        {
-          "headline": "Rise of the Taliban - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
-        },
-        {
-          "headline": "Relics of war - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sun, 26 Oct 2025 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
-        },
-        {
-          "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 21 Apr 2022 20:44:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
         },
         {
           "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -4906,171 +4584,6 @@
           "description": ""
         },
         {
-          "headline": "U.S. cuts forces in Syria as its new government fights terror threat",
-          "url": "https://syrianobserver.com/youtube/u-s-cuts-forces-in-syria-as-its-new-government-fights-terror-threat.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Fri, 20 Feb 2026 09:05:12 +0000",
-          "description": ""
-        },
-        {
-          "headline": "US Begins Full Troop Withdrawal from Syria, Completion Expected Within Two Months: Wall Street Journal",
-          "url": "https://syrianobserver.com/syrian-actors/us-begins-full-troop-withdrawal-from-syria-completion-expected-within-two-months-wall-street-journal.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:44 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Damascus–Baghdad Ties Move Into a New Era",
-          "url": "https://syrianobserver.com/syrian-actors/damascus-baghdad-ties-move-into-a-new-era.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:11 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Canada Sanctions Six Figures Tied to Syrian Military Formations as Policy Shifts Toward Economic Reengagement",
-          "url": "https://syrianobserver.com/foreign-actors/canada-sanctions-six-figures-tied-to-syrian-military-formations-as-policy-shifts-toward-economic-reengagement.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 19 Feb 2026 21:00:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syria’s Dangerous Illusion of Victory",
-          "url": "https://syrianobserver.com/syrian-actors/syrias-dangerous-illusion-of-victory.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:01:33 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian President Grants General Amnesty, Excluding ‘Grave Violations Against the Syrian People’",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-president-grants-general-amnesty-excluding-grave-violations-against-the-syrian-people.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:20 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Conference on the Unity of Islamic Discourse Held in Damascus",
-          "url": "https://syrianobserver.com/syrian-actors/conference-on-the-unity-of-islamic-discourse-held-in-damascus.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:13 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Is the Damascus Government Cementing an Unjust Judiciary?",
-          "url": "https://syrianobserver.com/syrian-actors/is-the-damascus-government-cementing-an-unjust-judiciary.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:06 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Unexpected Departure of Prince Hassan Al-Atrash from Suweida and His Arrival in Damascus",
-          "url": "https://syrianobserver.com/syrian-actors/unexpected-departure-of-prince-hassan-al-atrash-from-suweida-and-his-arrival-in-damascus.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 18 Feb 2026 21:00:04 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ministry of Energy Explains Gas Shortage to Al-Thawra, Promises Imminent Improvement",
-          "url": "https://syrianobserver.com/society/ministry-of-energy-explains-gas-shortage-to-al-thawra-promises-imminent-improvement.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:55 +0000",
-          "description": ""
-        },
-        {
-          "headline": "President Sharaa: Charter for the Unity of Islamic Discourse Strengthens National Cohesion, Consolidates Moderation, and Protects the Social Fabric",
-          "url": "https://syrianobserver.com/syrian-actors/president-sharaa-charter-for-the-unity-of-islamic-discourse-strengthens-national-cohesion-consolidates-moderation-and-protects-the-social-fabric.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:37 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Political Disinformation in the Syrian Landscape: Media Desperation in Search of Illusory Victories",
-          "url": "https://syrianobserver.com/syrian-actors/political-disinformation-in-the-syrian-landscape-media-desperation-in-search-of-illusory-victories.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:05 +0000",
-          "description": ""
-        },
-        {
-          "headline": "SDF Integration into Syrian Ministry of Defense: Mazloum Abdi Outlines Agreement Mechanisms and Remaining Challenges",
-          "url": "https://syrianobserver.com/syrian-actors/sdf-integration-into-syrian-ministry-of-defense-mazloum-abdi-outlines-agreement-mechanisms-and-remaining-challenges.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "After Its Conference Was Barred in Damascus, the Feminist Movement Calls for a Constitution Enshrining Citizenship and Justice",
-          "url": "https://syrianobserver.com/society/after-its-conference-was-barred-in-damascus-the-feminist-movement-calls-for-a-constitution-enshrining-citizenship-and-justice.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 17 Feb 2026 21:00:02 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Europe’s Invitation to the SDF in Munich Was No Accident — It Was a Message to Damascus and Washington",
-          "url": "https://syrianobserver.com/syrian-actors/europes-invitation-to-the-sdf-in-munich-was-no-accident-it-was-a-message-to-damascus-and-washington.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 16 Feb 2026 21:10:29 +0000",
-          "description": ""
-        },
-        {
           "headline": "Hasakah at a crossroads: Real integration, or recreating ‘security squares’?",
           "url": "https://syriadirect.org/hasakah-crossroads-real-integration-or-recreating-security-squares/",
           "source": "Syria Direct",
@@ -5299,7 +4812,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sun, 22 Feb 2026 03:10:19 +0300",
-          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing this process from being completed.",
+          "description": "Al-Bakour confirmed the state's readiness to release detainees from both sides, but pointed out that there are internal obstacles preventing the completion of this process.",
           "originalHeadline": "محافظ السويداء ينفي وجود حصار ويؤكد دخول الطحين والمساعدات بانتظام"
         },
         {
@@ -5407,7 +4920,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Sat, 21 Feb 2026 17:48:25 +0300",
-          "description": "Bombing and shooting continue to threaten Palestinian families, and Gaza Strip crossings face restrictions on movement and aid",
+          "description": "Bombing and shooting continue to threaten Palestinian families, and the Gaza Strip’s crossings face restrictions on movement and aid",
           "originalHeadline": "مقتل 614 شخصاً في قطاع غزة منذ بدء اتفاق وقف إطلاق النار"
         },
         {
@@ -5951,7 +5464,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaXV0UlFlRFJJQTFSNVJlVTdtWG9wYS1UMGluWWVHNUJSUUh0RWNOVGFhYlk1U3phczhMdUw5bDhsaHpoaHY4aEZaUEJmR29KeEM2VXBjUVJWMVBLd0ozaTFsY1pySWVQUnJVQ1hPc1ZhdjZyWHcxXzFJSEk?oc=5\" target=\"_blank\"&gt;In Afrin, breathing easier again&lt;/a&gt;&amp;nbsp;&a"
         },
         {
-          "headline": "Shafiqa Al-Mutawa: Love of charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
+          "headline": "Shafiqa Al-Mutawa: Love for charitable work is a value passed down from generation to generation in Kuwait, and I hope to visit afflicted areas abroad to provide support. Kuwait",
           "url": "https://olnnews.com/181437/",
           "source": "OLN News",
           "sourceId": "olnnews",
@@ -5983,7 +5496,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 13 Feb 2026 15:22:37 +0000",
-          "description": "  In an age where technology is intertwined with every detail of our lives, and in which artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
+          "description": "  In an age where technology is intertwined with every detail of our lives, and where artificial intelligence and social media have become an essential part of our daily lives, the need to understand the impact of these tools on our awareness and behavior is increasing. Iman Ghanem, a coach and certified trainer in Neuro-Linguistic Programming (NLP), entered this field with a personal motivation to understand the human psyche.",
           "originalHeadline": "بعد مشاركة معظم الناس أفكارهم ومشاكلهم مع الذكاء الاصطناعي..المدرّبة إيمان غانم تدق ناقوس الخطر!"
         },
         {
@@ -6019,7 +5532,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 27 Jan 2026 20:00:33 +0000",
-          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings the theater back to life and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
+          "description": "  In a world where children are increasingly interested in screens, Yendy stands out as a true space of joy that brings back the pulse of theater and its magic to childhood. With her lovable personality and humanitarian message, Yendy has been able to reserve her place in the hearts of children and parents alike, presenting shows that combine entertainment, interaction, and positive values. Under the management of Jean Charbel,",
           "originalHeadline": "مع Yendy..يصبح عيد ميلاد الأطفال مغامرة رائعة لا تُنسى!"
         },
         {
@@ -6031,7 +5544,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -6055,7 +5568,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Tue, 20 Jan 2026 12:37:21 +0000",
-          "description": "  Organized by the National School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the National School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
+          "description": "  Organized by the Ahliyya School in partnership with the Department of Education at the American University of Beirut under the patronage of Her Excellency the Minister of Education and Higher Education.   On the occasion of International Education Day, the Ahliyya School, in cooperation with the Department of Education at the American University of Beirut (AUB), is organizing a national forum entitled “School Education (K-12) in Lebanon: The",
           "originalHeadline": "منتدى وطني حول التعليم المدرسي في لبنان: التحديات والفرص"
         },
         {
@@ -6091,7 +5604,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:06:32 +0000",
-          "description": "From the night of last Thursday until an early hour of dawn today, Saturday, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
+          "description": "From last Thursday night until the early hours of Saturday morning, our region lived through very hectic hours that are likely to continue until tomorrow, which is the date of the arrival of the American aircraft carrier “Gerald Ford” to settle in the eastern Mediterranean, thus completing, with its arrival, American preparations for the confrontation with Iran. This was reported to President Donald T",
           "originalHeadline": "شروق وغروب – بقلم خليل الخوري &#8211; الولايات المتحدة &#8211; إيران: الساعات المحمومة"
         },
         {
@@ -6175,7 +5688,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Fri, 20 Feb 2026 22:01:45 +0000",
-          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to residents of Lebanon. We see in this opinion &#82",
+          "description": "Written by Dr. Ibrahim Al-Arab We appreciate the opinion of the Legislation and Consultation Commission, which stressed the necessity of protecting the natural and constitutional right of expatriates to vote, and the possibility of organizing their voting according to their electoral constituencies to choose the entire members of the House of Representatives under the current circumstances, meaning the 128 representatives, similar to those residing in Lebanon. We see in this opinion &#82",
           "originalHeadline": "رأي هيئة التشريع والاستشارات: حجر الزاوية في دولة القانون والمؤسسات"
         },
         {
@@ -6230,6 +5743,28 @@
           "beatKeywords": [
             "Syria"
           ]
+        },
+        {
+          "headline": "Venezuela has received more than 1,550 requests under amnesty law - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko0OVhJQ2Jn?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 19:22:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3hUdEU1TkNubHp5U00ydjByVFg4R04xMzZwNXdGQzdUYVRadTlUS19VVmRFVkFxT2tvWlNITUJGcUlzS2VVM0pQV2ozc0RDNl94d2U4d3RicVo2RGJWRzF3Y0Zzb3FVQ1lMNG9rSU1YTFpvSjlnaWpZRk1ZWHZSZi1peXpxd1BpYjZPQUIxSlhuTzdTOEp5MTVHNHNGS05wZldzSExIUWVMMlFMOXVQQy1qOU5Gcko"
+        },
+        {
+          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDF"
         },
         {
           "headline": "Israeli strikes in Lebanon kill at least 10, including senior Hezbollah official - Reuters",
@@ -6304,6 +5839,21 @@
           ]
         },
         {
+          "headline": "The Syrian front - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
+        },
+        {
           "headline": "Air strikes on Kobani - Reuters",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TTczcG5kWk1ZRm1sVUV4TTdoV0E2NVhpRWNGa3MyeVJIZV9UOWxLTEVGQ2FicktxVmVwQU92cERSRnRmbmxRUzVGLU1sZW5iUjVCSWpncWlZZ25RZllxXzFOSjNKYjZtdzc1blhZTHliMDFyd19jUE00RG8?oc=5",
           "source": "Reuters",
@@ -6357,39 +5907,6 @@
           "language": "en",
           "date": "Sun, 20 Oct 2024 03:05:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTFM0M29EajBVTzZoWVNPdURkSkNjNDFDaGlWVXloOFlmZ3liNWQzNHltcDhla3VLZmp0eGp3TzJHQ0NuaWF4Qms3MVJtbUNhUXQ4aWNhZ2tUaUx6YU84RUVpOS1fVTdrWWhpVk4wVEc5Z09ZbnNvTzhqTk1vMFU?oc=5\" target=\"_blank\"&gt;Farming a war-torn land&lt;/a&gt;&amp;nbsp;&amp;nb"
-        },
-        {
-          "headline": "Rise of the Taliban - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sat, 25 Oct 2025 21:43:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3bVNRaGRTYWxHV1RXdXRXYnNqeVhNbldVbzFCQzNPa3VUYkNhWVhveGdaLVNhVkZCa1BTbTNieUlQeEtpcTBhaWtHVV80V2Z6U0o3d2daZmJiRVVpbkM1SlhxUXowdVZaLWZmTDEtNFFEZjFUNlp4WA?oc=5\" target=\"_blank\"&gt;Rise of the Taliban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c"
-        },
-        {
-          "headline": "Relics of war - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Sun, 26 Oct 2025 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjE1c0J3OHg0akhFVkR5OTNVV19uOFFmTlQtMlZHdnVpMTdKdUNxa1JFc1A3eGFQRmhlNXlUbmdzRFQ2czBPZ2huUkktY3FCYVlmN25MS2ozSFpYSW0wd2RfLXpPWW9TdnM5emdPRXY?oc=5\" target=\"_blank\"&gt;Relics of war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt"
-        },
-        {
-          "headline": "(GS.N) | Stock Price &amp; Latest News - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 21 Apr 2022 20:44:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUjBsZGZMSTVQNVlXbVZuZ3k4QkVPeVY1QXBaeGNwc3UtankwYzh4Y2R2dXRFamJCQlJ3OVA3eHluSEVXZFlJNGRfdkFDZUZQQlg2Z1ZoUy1adw?oc=5\" target=\"_blank\"&gt;(GS.N) | Stock Price &amp; Latest News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Reu"
         },
         {
           "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
@@ -7254,6 +6771,21 @@
         ]
       },
       {
+        "headline": "The Syrian front - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Tue, 04 Nov 2025 02:35:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdEFsT0drdGg1SkRDaUVHcjc5VnoyTDF3QlVqZTBnRUFmWWtLbndJMHVjZ0JrV3NuWXBUVkJfMVpuUXpzdS0yWFhYN01NWjB2VGxFRzBqMmwzUTBBUTZMdVFkUWtrY3dTbFJsaUZZQWtMZ2dsQ3c?oc=5\" target=\"_blank\"&gt;The Syrian front&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
+      },
+      {
         "headline": "Islamic State lashes out at Syria’s interim president as 'puppet without a soul,' urges new attacks - AP News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWQ3ckRHQllPZjAtNXlfRGRHMmowMkRtUDdnS1kyZHB6V1RfelVlak5zZXJ4eUd1dTJjREJFOW1MTFI0WjhtLXRTdHRqdEVvOEFuUnJ5cXJKZXVsTjhPUllxOW9Bc1FrRlIxY2MzVk9GN0NfZkJ2SlBubnh4djU3Nlg2QnhxVWtoREl0SVFQRktmSGdqM2dxd0R4QlBkb3cy?oc=5",
         "source": "AP",
@@ -7639,6 +7171,11 @@
     }
   ],
   "feedHealth": {
-    "failed": []
+    "failed": [
+      {
+        "name": "Syrian Observer",
+        "error": "Timeout"
+      }
+    ]
   }
 }

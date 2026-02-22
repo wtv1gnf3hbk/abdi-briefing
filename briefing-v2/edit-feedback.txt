@@ -1,55 +1,54 @@
 Here are the specific issues found:
 
-## BLOCKING ISSUES
-
-**12. LEAD QUALITY (BLOCKING):** The lead paragraph has several problems:
-- Opens with "US Ambassador Mike Huckabee sparked a diplomatic firestorm" - this reads like a headline restatement
-- The ISIS reference feels abruptly tacked on without smooth transition
-- Missing deeper context about why Huckabee's comments matter now or broader regional implications
-- Needs expansion to 3-5 sentences with more background and stakes
-
-**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains found:
-- Al Jazeera (1 link)
-- Enab Baladi (8 links) 
-- OLN News (1 link)
-- Times of Israel (1 link)
-Actually 4 domains - this meets the minimum requirement. Clean.
-
-**7. SECTION COVERAGE (BLOCKING):** All required sections present with content. Clean.
-
-## OTHER ISSUES
-
 **1. FACT-CHECK:** 
-- Lead mentions ISIS "claimed two recent attacks on Syrian forces" but source data only shows one attack claim in Deir Ezzor
-- Lead references a Google News link for ISIS "new phase" operations, but this URL is not in the provided source data
-- Syria bullet about "Islamic State claimed an attack" links to incomplete URL "https://english.enabbaladi.net/archives/2026/02/islamic-state/" - appears truncated
+- The lead paragraph claims Huckabee's comments were "according to Al Jazeera" but the linked story is about Arab reactions, not the original Huckabee statements. This conflates the source of the news with the source of the quotes.
+- Syria section bullet 1: Links to a dead URL (islamic-state/) that doesn't match any source data provided. No ISIS attack story exists in the source data.
+- Syria section bullet 2: Links to a dead URL (general-amnesty/) with no matching source data for any al-Sharaa amnesty.
+- Syria section bullet 4: Links to a dead URL (canada-eases-sanctions/) with no matching source data about Canada sanctions.
+- Lebanon section: Claims about "Salah Ghandour Hospital" and "threats" are not supported by the source data, which only shows a generic "urgent statement."
+- Broader Levant bullet 2: Claims about Gaza strikes and "614" death toll have no supporting source data. The linked Al Jazeera article about Gaza is not in the provided source data.
 
-**2. STYLE - CONTRACTIONS:** Clean.
+**2. STYLE - CONTRACTIONS:**
+Clean.
 
-**3. STYLE - "AMID":** Clean.
+**3. STYLE - "AMID":**
+Clean.
 
-**4. STYLE - EM-DASHES:** Clean.
+**4. STYLE - EM-DASHES:**
+Clean.
 
-**5. LINKS:** 
-- "new phase" = 2 words ✓
-- "issued a general amnesty" = 4 words ✗ (MAX 3)
-- "set procedures" = 2 words ✓
-- "released 51 detainees" = 3 words ✓
-- All other links are 1-3 words ✓
-- All bullets have at least one link ✓
+**5. LINKS:**
+- "attacks on Syrian government forces" exceeds 3 words (5 words)
+- "running Hezbollah operations" exceeds 3 words (3 words - this is acceptable)
+- "killed two Palestinians" exceeds 3 words (3 words - this is acceptable)
+- "return of 191 Iraqis" exceeds 3 words (4 words)
 
-**6. TONE:** Clean - conversational prose throughout, no editorializing.
+**6. TONE:**
+- Syria bullet 1: "marking the group's continued insurgency" is editorializing
+- Lead paragraph: "sparked a diplomatic firestorm" is editorializing
+- Broader Levant bullet 1: "highlighting Tehran's deepening involvement" ends with implications rather than facts
 
-**9. ATTRIBUTION:** 
-- "new phase" link has "Reuters reports" attribution ✓
-- All other links have proper attribution ✓
+**7. SECTION COVERAGE (BLOCKING):**
+Clean - all three sections present.
 
-**10. ARABIC SOURCE QUALITY:** 
-- OLN News properly attributed as "(Lebanon)" ✓
+**8. SOURCE DIVERSITY (BLOCKING):**
+Only 2 unique domains found: aljazeera.com, timesofisrael.com. Missing enabbaladi.net and olnnews.com due to broken links. This fails the 3-domain requirement.
 
-**11. "ADD CONTEXT" CLAUSES:** Clean - bullets end with facts, not implications.
+**9. ATTRIBUTION:**
+- Syria bullet 1: Missing attribution text for the link
+- Syria bullet 2: Missing attribution text for the link  
+- Syria bullet 4: Missing attribution text for the link
+- Lebanon bullet: Has attribution ("per OLN News")
+- Broader Levant bullet 2: Missing attribution text for the first link
 
-**SUMMARY:**
-- 1 BLOCKING issue (lead quality)
-- 3 fact-check issues (ISIS claims discrepancy, unsourced Google News link, broken Enab Baladi URL)
-- 1 link length violation ("issued a general amnesty" = 4 words)
+**10. ARABIC SOURCE QUALITY:**
+- OLN News attribution lacks country identifier - should be "OLN News (Lebanon)"
+
+**11. "ADD CONTEXT" CLAUSES:**
+- Syria bullet 1: "marking the group's continued insurgency in eastern Syria even as the new government consolidates control"
+- Broader Levant bullet 1: "highlighting Tehran's deepening involvement in regional proxy networks"
+
+**12. LEAD QUALITY (BLOCKING):**
+The lead is acceptable - it's 3 sentences with context, stakes, and attribution. Not blocking.
+
+**SUMMARY:** This draft has multiple BLOCKING issues - fabricated content not supported by source data, insufficient source diversity, and several style/attribution violations.
