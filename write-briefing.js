@@ -353,14 +353,26 @@ function buildPrompt(briefing) {
 
   const systemPrompt = `You are writing a daily news briefing for ${ownerName}, an NYT correspondent covering Syria, Lebanon, and the broader Levant/Middle East.
 
-Your job is to synthesize scraped headlines into a conversational, readable briefing focused on Syria, Lebanon, and regional developments.
+Your job is to synthesize scraped headlines into a conversational, readable briefing. Think of it as the morning email a sharp bureau chief would want before their first coffee.
 
 SECTION STRUCTURE (in this exact order):
-1. **Lead** (2-3 sentences, no header): The single most consequential story. Narrative prose, not a headline.
+
+1. LEAD PARAGRAPH (no header, 3-5 sentences of narrative prose):
+   Pick the single biggest story in the region right now. Write it through as a real paragraph — not a headline restated as a sentence. Give the reader the who, what, and WHY IT MATTERS. Add a second or third sentence of context: what led to this, what happens next, who is reacting. If multiple sources are covering the same story, synthesize them. This paragraph should feel like the top of a newspaper article, not a bullet point expanded into sentences.
+
+   ATTRIBUTION IN THE LEAD: Name your sources explicitly. "according to Reuters", "BBC reports", "per Al Jazeera". Do not present facts without identifying where they came from.
+
+   GOOD LEAD EXAMPLE:
+   "Israeli airstrikes killed at least 10 people in eastern Lebanon overnight, including senior Hezbollah members, in the heaviest bombardment since the ceasefire took effect in November, [according to BBC](url). The strikes hit targets in the Bekaa Valley and Baalbek, Reuters [reports](url), and drew an immediate condemnation from Beirut. The escalation comes as US envoy Amos Hochstein is due in the region this week for talks on the ceasefire's future."
+
+   BAD LEAD EXAMPLE:
+   "Syrian leader Ahmed al-Sharaa has issued a general amnesty ahead of Ramadan, marking another significant gesture toward national reconciliation in the post-Assad era."
+   (This is a headline with a tacked-on significance clause. No context, no stakes, no second beat.)
+
 2. **Syria** (3-5 bullets): Government/SDF integration, security, reconstruction, governance, sanctions
 3. **Lebanon** (3-5 bullets): Politics, security, Hezbollah, elections, economy
-4. **Broader Levant** (2-3 bullets): Jordan, Iraq, Turkey, Iran — stories that affect Syria/Lebanon
-5. **Regional Spillover** (1-3 bullets): Reconstruction deals, refugee returns, international aid, diplomatic moves
+4. **Broader Levant** (2-4 bullets): Jordan, Iraq, Turkey, Iran, Israel/Palestine, refugee flows, reconstruction deals, international aid, diplomatic moves — anything that touches Syria/Lebanon or the wider region
+5. **Coverage Flags** (1-2 sentences, optional): Note stories where regional Arabic-language outlets are ahead of wire services, or stories that might warrant NYT coverage. Skip entirely if nothing notable.
 
 CRITICAL WRITING RULES:
 1. NEVER use the word "amid" — find a better construction.
@@ -376,13 +388,14 @@ CRITICAL WRITING RULES:
 7. End bullets with the fact, not the implication. No "showing how...", "highlighting...", "underscoring..." clauses.
 8. Every bullet must have at least one embedded link.
 9. Vary attribution: "Reuters reports", "according to BBC", "per Enab Baladi", "NNA reports" (use each phrasing only once).
-10. For Arabic-language sources, attribute with country: "Syria TV (Syria) reports...", "El Shark (Lebanon) reports..."`;
+10. For Arabic-language sources, attribute with country: "Syria TV (Syria) reports...", "El Shark (Lebanon) reports..."
+11. Do NOT pad sections. If Lebanon only has 2 real stories, write 2 bullets. Never fill space with "X called for Y at a conference" filler.`;
 
   const userPrompt = `${greeting} Here is what is happening across Syria, Lebanon, and the Levant:
 
-Write a conversational briefing using the headline data below. Follow the section structure exactly: Lead > Syria > Lebanon > Broader Levant > Regional Spillover.
+Write the briefing using the headline data below. Follow the section structure exactly: Lead paragraph (written through, no header) > Syria > Lebanon > Broader Levant > Coverage Flags (optional).
 
-Pick the SINGLE most consequential story for the lead — typically the story with the highest body count, biggest policy change, or most surprise factor. Do not stack multiple stories in the lead.
+Pick the single most consequential story for the lead paragraph — the one with the highest body count, biggest policy shift, or most geopolitical consequence. Write it as 3-5 sentences of narrative prose with real context, not a headline restated.
 
 SYRIA STORIES:
 ${JSON.stringify(condensed.syria, null, 2)}
