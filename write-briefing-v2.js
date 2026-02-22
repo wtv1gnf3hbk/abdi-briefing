@@ -107,14 +107,83 @@ function formatTimestamp(timezone = 'Africa/Nairobi') {
 }
 
 // ============================================
+// MARKDOWN → HTML CONVERSION
+// ============================================
+
+// Done OUTSIDE the template literal to avoid escaping nightmares.
+// Handles: **bold**, [links](url), • bullets, - bullets, paragraphs, section headers
+function markdownToHTML(md) {
+  // Step 1: Convert markdown links to <a> tags
+  let html = md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+  // Step 2: Convert **bold** to <strong>
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+
+  // Step 3: Convert ## headers to section headers
+  html = html.replace(/^## (.+)$/gm, '<p class="section-header"><strong>$1</strong></p>');
+
+  // Step 4: Process line by line
+  const lines = html.split('\n');
+  const output = [];
+  let inList = false;
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    // Bullet lines: match both "• " and "- " prefixes
+    const bulletMatch = trimmed.match(/^[•\-\*] (.+)$/);
+    if (bulletMatch) {
+      if (!inList) {
+        output.push('<ul>');
+        inList = true;
+      }
+      output.push(`<li>${bulletMatch[1]}</li>`);
+      continue;
+    }
+
+    // Close list if we were in one
+    if (inList) {
+      output.push('</ul>');
+      inList = false;
+    }
+
+    // Empty lines: skip (spacing handled by CSS)
+    if (!trimmed) continue;
+
+    // Section headers (bold text on its own line, already converted to <strong>)
+    if (trimmed.match(/^<strong>[^<]+<\/strong>$/) && !trimmed.includes('<a ')) {
+      output.push(`<p class="section-header">${trimmed}</p>`);
+      continue;
+    }
+
+    // Already has HTML tags from ## conversion
+    if (trimmed.startsWith('<p class="section-header">')) {
+      output.push(trimmed);
+      continue;
+    }
+
+    // Regular paragraph
+    output.push(`<p>${trimmed}</p>`);
+  }
+
+  // Close any trailing list
+  if (inList) output.push('</ul>');
+
+  return output.join('\n');
+}
+
+// ============================================
 // HTML GENERATION
 // ============================================
 
 function generateHTML(briefingText, config) {
   const timezone = config.metadata?.timezone || 'Africa/Nairobi';
   const timestamp = formatTimestamp(timezone);
-  const title = config.metadata?.name || 'Levant Briefing';
+  const title = config.metadata?.name || "Abdi's Briefing";
   const screenshots = config.screenshots || [];
+
+  // Convert markdown to HTML BEFORE the template literal
+  const contentHTML = markdownToHTML(briefingText);
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -227,7 +296,7 @@ function generateHTML(briefingText, config) {
     <div class="title">${title}<span class="version-badge">V2</span></div>
     <div class="timestamp">
       Generated ${timestamp.full}
-      \\u00B7 <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
 
@@ -286,19 +355,7 @@ function generateHTML(briefingText, config) {
   </script>
 
   <div id="content">
-${briefingText
-  .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
-  .replace(/^- (.+)$/gm, '<li>$1</li>')
-  .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
-  .split('\\n')
-  .map(line => {
-    if (line.startsWith('<ul>') || line.startsWith('<li>') || line.startsWith('</ul>')) return line;
-    if (line.startsWith('<strong>')) return '<p class="section-header">' + line + '</p>';
-    if (line.trim() && !line.startsWith('<')) return '<p>' + line + '</p>';
-    return line;
-  })
-  .join('\\n')}
+${contentHTML}
   </div>
 
   ${screenshots.length > 0 ? `
@@ -411,6 +468,8 @@ CRITICAL WRITING RULES:
 Write the briefing using the headline data below. Follow the section structure exactly: Lead paragraph (written through, no header) > Syria > Lebanon > Broader Levant > Coverage Flags (optional).
 
 Pick the single most consequential story for the lead paragraph — the one with the highest body count, biggest policy shift, or most geopolitical consequence. Write it as 3-5 sentences of narrative prose with real context and explicit source attribution, not a headline restated.
+
+LEAD SELECTION PRIORITY: Stories covered by MULTIPLE sources are almost always more important than stories from a single outlet. Scan ALL categories below — Syria, Lebanon, wire, regional, AND beat-flagged — for the same event appearing in 2+ sources. That is your strongest lead candidate. ISIS/camp stories, mass displacement, and security events that appear across outlets should get special weight.
 
 SYRIA STORIES:
 ${JSON.stringify(condensed.syria, null, 2)}
