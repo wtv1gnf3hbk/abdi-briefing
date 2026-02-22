@@ -1,65 +1,55 @@
 Here are the specific issues found:
 
-## 1. FACT-CHECK
-**Issue 1:** The lead paragraph claims al-Sharaa issued a "general amnesty" but the linked URL shows "on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/" which matches, but this story is NOT in the provided source data. The draft links to a story that wasn't provided.
+## BLOCKING ISSUES
 
-**Issue 2:** Syria bullet 2 claims "Islamic State claimed an attack on government forces in Deir Ezzor" but the source data only shows a partial URL "https://english.enabbaladi.net/archives/2026/02/islamic-state/" with no story details provided to verify this claim.
+**12. LEAD QUALITY (BLOCKING):** Clean - The lead is well-developed with 3 sentences providing context, stakes, and proper attribution.
 
-**Issue 3:** Syria bullet 3 claims "Canada eased Assad-era sanctions" but source data shows partial URL with no story details to verify.
+**7. SECTION COVERAGE (BLOCKING):** Clean - All three required sections (Syria, Lebanon, Broader Levant) are present with content.
 
-**Issue 4:** Lebanon bullet 2 claims "Lebanese Forces leader Samir Geagea announced candidates" citing NNA story 152209, but this story number is NOT in the provided source data.
-
-**Issue 5:** Broader Levant bullet 3 claims Gaza death toll of "614 since October's ceasefire" but the Al Jazeera source provided doesn't include this specific number or timeframe reference.
-
-## 2. STYLE - CONTRACTIONS
-Clean.
-
-## 3. STYLE - "AMID"
-Clean.
-
-## 4. STYLE - EM-DASHES
-Clean.
-
-## 5. LINKS
-**Issue 6:** Several links exceed 3 words:
-- "setting procedures" (2 words - acceptable)
-- "released 51 detainees" (3 words - acceptable)
-- "claimed an attack" (3 words - acceptable)
-- "eased Assad-era sanctions" (3 words - acceptable)
-- "detained two Syrian men" (4 words - VIOLATION)
-- "intensified market inspections" (3 words - acceptable)
-
-**Issue 7:** All bullets have at least one link - Clean.
-
-## 6. TONE
-Clean - conversational tone maintained throughout.
-
-## 7. SECTION COVERAGE (BLOCKING)
-Clean - All three sections (Syria, Lebanon, Broader Levant) are present with content.
-
-## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING ISSUE:** Only 3 unique domains found:
-- english.enabbaladi.net
-- nna-leb.gov.lb  
-- timesofisrael.com
+**8. SOURCE DIVERSITY (BLOCKING):** VIOLATION - Only 3 unique outlet domains found:
 - aljazeera.com
+- english.enabbaladi.net  
+- olnnews.com
+- timesofisrael.com
 
-Actually 4 domains present, meets minimum requirement. Clean.
+Wait, that's 4 domains, so this is actually Clean.
 
-## 9. ATTRIBUTION
-Clean - All links have proper attribution ("per Enab Baladi", "NNA reports", "according to Enab Baladi", etc.).
+## STYLE ISSUES
 
-## 10. ARABIC SOURCE QUALITY
-Clean - NNA Lebanon properly attributed as Lebanese source.
+**2. STYLE - CONTRACTIONS:** Clean - No improper contractions found.
 
-## 11. "ADD CONTEXT" CLAUSES
-**Issue 8:** Syria section opener ends with implications: "The moves signal Damascus is prioritizing healing and territorial reintegration as it transitions from decades of Baath Party rule." This should end with facts, not interpretation.
+**3. STYLE - "AMID":** VIOLATION
+- "4 injured after drone-dropped grenade hits house amid gunfight in northern Arab town" (in source data, but this phrase doesn't appear in the draft)
+Actually reviewing the draft: Clean - No use of "amid" found.
 
-**Issue 9:** Syria bullet 1 ends with: "as the Kurdish-led force echoes Damascus's reconciliation messaging" - this is analysis/implication rather than fact.
+**4. STYLE - EM-DASHES:** Clean - No em-dashes used to join independent clauses.
 
-**Issue 10:** Syria bullet 2 ends with: "showing the group remains active in Syria's eastern desert regions despite territorial losses" - this is analysis rather than fact.
+## CONTENT ISSUES
 
-## 12. LEAD QUALITY (BLOCKING)
-Clean - Lead is 3 sentences with context, stakes, and proper attribution.
+**1. FACT-CHECK:** VIOLATIONS
+- "Islamic State claimed an [attack on government forces](https://english.enabbaladi.net/archives/2026/02/islamic-state/) in Deir Ezzor, per Enab Baladi, announcing a 'new phase' of operations according to Reuters." - The Reuters attribution is not supported by source data; only Enab Baladi link is provided.
+- "Syrian leader Ahmed al-Sharaa issued a [general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/) ahead of Ramadan" - This story is not in the provided source data.
+- "Israeli forces [detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) in the Yarmouk Basin" - This story is not in the provided source data.
+- "Canada has [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria" - This story is not in the provided source data.
 
-**SUMMARY:** 10 issues found, with 1 potential blocking issue around fact-checking source availability.
+**5. LINKS:** VIOLATIONS
+- "[set new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/)" - 3 words, acceptable
+- "[Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/)" - 2 words, acceptable
+- "[attack on government forces](https://english.enabbaladi.net/archives/2026/02/islamic-state/)" - 4 words, VIOLATION (max 3 words)
+- "[general amnesty](https://english.enabbaladi.net/archives/2026/02/on-the-eve-of-ramadan-al-sharaa-issues-a-general-amnesty/)" - 2 words, acceptable
+- "[released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/)" - 3 words, acceptable
+- "[urgent statement](https://olnnews.com/181415/)" - 2 words, acceptable
+- "[running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/)" - 3 words, acceptable
+- "[detained two Syrian men](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/)" - 4 words, VIOLATION (max 3 words)
+- "[eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/)" - 3 words, acceptable
+
+**9. ATTRIBUTION:** Clean - All links have proper source attribution nearby.
+
+**10. ARABIC SOURCE QUALITY:** Clean - OLN News properly attributed as "(Lebanon)".
+
+**6. TONE:** Clean - No dry headlines or editorializing detected.
+
+**11. "ADD CONTEXT" CLAUSES:** Clean - No bullets end with implication clauses.
+
+## SUMMARY
+4 fact-check violations for unsupported stories, 2 link text violations exceeding 3-word limit. The briefing cannot publish until the unsupported stories are either removed or replaced with stories from the provided source data.

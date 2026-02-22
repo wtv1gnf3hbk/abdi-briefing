@@ -1,22 +1,19 @@
-Syrian leader Ahmed al-Sharaa issued a general amnesty ahead of Ramadan, marking another significant gesture toward national reconciliation in the post-Assad era. The amnesty comes as Syria's new government continues efforts to integrate Kurdish-majority areas, with a government delegation visiting Qamishli Airport ahead of its reopening and the Interior Ministry [setting procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Syrian citizenship applications for Kurdish residents. The moves follow Damascus's efforts to reintegrate territory after decades of Baath Party rule.
+US Ambassador to Israel Mike Huckabee is facing a diplomatic firestorm after claiming Israel has biblical rights to "much of the Middle East," according to [Al Jazeera](https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss). Egypt, Jordan and Saudi Arabia denounced the remarks as "absurd and provocative," while Palestinian officials called them a dangerous escalation that undermines regional stability. The comments come as the Trump administration pushes forward with expanded settlement policies, raising tensions across the Levant just as Syria works to rebuild diplomatic relationships with its neighbors.
 
 **Syria**
-• The Syrian Democratic Forces [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah, calling for a "phase of forgiveness and rebuilding," per Enab Baladi.
 
-• Canada [eased Assad-era sanctions](https://english.enabbaladi.net/archives/2026/02/canada-eases-sanctions/) on Syria while targeting "new perpetrators," Enab Baladi reports, as Western nations recalibrate their approach to al-Sharaa's government.
+• Syrian Interior Ministry has [set new procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Kurdish residents to apply for Syrian citizenship, according to Enab Baladi. The move represents a significant policy shift toward integration of minorities who were previously marginalized under Assad.
 
-• Israeli forces [detained two Syrian](https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/) men in the Yarmouk Basin near Daraa, per Enab Baladi, continuing Israeli operations in Syrian border areas.
+• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) ahead of its planned reopening, Enab Baladi reports. The airport has been closed since 2012 and its reopening would mark another step in Damascus extending control over Kurdish-held areas.
+
+• Islamic State claimed an [attack](https://english.enabbaladi.net/archives/2026/02/islamic-state/) on government forces in Deir Ezzor, per Enab Baladi, announcing a "new phase" of operations. The group has stepped up attacks since Assad's fall, exploiting security gaps during the transition.
+
+• SDF forces [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah, calling for a "phase of forgiveness and rebuilding," according to Enab Baladi. The releases signal coordination between the SDF and central government.
 
 **Lebanon**
-• Parliament Speaker Nabih Berri [met with](https://nna-leb.gov.lb/en/news/short/152213) Hezbollah's parliamentary bloc head Mohammad Raad, who stressed unity ahead of this year's parliamentary elections, NNA reports.
 
-• Former Prime Minister Saad Hariri [departed Beirut](https://nna-leb.gov.lb/en/news/short/152211) for the UAE, NNA reports, continuing his political activities from abroad.
-
-• Lebanon's Economy Ministry [intensified market inspections](https://nna-leb.gov.lb/en/news/short/152214) and warned against unjustified price hikes, per NNA, as authorities try to contain inflation pressures.
+• Lebanon's Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, OLN News (Lebanon) reports. The syndicate called the leaflet threats a "flagrant violation of international law" and urged international protection for the health sector.
 
 **Broader Levant**
-• The UN [coordinated the return](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) of 191 Iraqis from al-Hol camp in northeast Syria, according to Enab Baladi, as repatriation efforts for ISIS families continue.
 
-• Iran's Revolutionary Guards are running Hezbollah operations and preparing the group for potential war with Israel if the US strikes Iran, the Times of Israel [reports](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/), citing intelligence sources.
-
-• Israeli strikes in Gaza [killed two Palestinians](https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss) during Ramadan, Al Jazeera reports.
+• Times of Israel reports the IRGC is [running Hezbollah operations](https://www.timesofisrael.com/report-irgc-running-hezbollah-preparing-it-for-war-with-israel-if-us-strikes-iran/) and preparing the group for potential war with Israel if the US strikes Iran. The report suggests Tehran has significantly increased its direct control over the Lebanese militia since the ceasefire.
