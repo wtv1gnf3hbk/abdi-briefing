@@ -1,13 +1,10 @@
 Here are the specific issues found:
 
 **1. FACT-CHECK**
-- Issue: The lead paragraph links to "https://english.enabbaladi.net/archives/2026/02/islamic-state/" which is an incomplete URL not matching any source in the data. Should link to the full ISIS escalation story URL.
-- Issue: Syria bullet about "new procedures" links to a URL not provided in the source data.
-- Issue: Syria bullet about "Qamishli Airport" links to a URL not provided in the source data.
-- Issue: Syria bullet about "Canada eased Assad-era sanctions" links to a URL not provided in the source data.
-- Issue: Syria bullet about "UN coordinated return" links to a URL not provided in the source data.
-- Issue: Broader Levant bullet about "detained two Syrian men" links to "https://english.enabbaladi.net/archives/2026/02/https-wp-me-p7cv3y-oft/" which is malformed and not in source data.
-- Issue: Broader Levant bullet about "Iranian students rallied" links to a URL not provided in the source data.
+- The lead paragraph claims Syria "has completed the evacuation of al-Hol camp" and cites Al Jazeera, but this Al Jazeera URL is not in the provided source data. The claim cannot be verified against available sources.
+- The lead mentions "Official Fadi al-Qassem confirmed" but this name/quote is not found in any source data.
+- Syria bullet about "strike on government forces" links to incomplete URL "https://english.enabbaladi.net/archives/2026/02/islamic-state/" - should be the full "Islamic State Escalates Against Syrian Government" story URL.
+- Several claims reference sources not in the provided data (UN coordination story, SDF releases story, government delegation story, Interior Ministry story).
 
 **2. STYLE - CONTRACTIONS**
 Clean.
@@ -19,45 +16,33 @@ Clean.
 Clean.
 
 **5. LINKS**
-- Issue: "claimed an attack" is only 2 words but the link is broken/incomplete
-- Issue: "new procedures" is exactly 2 words, acceptable
-- Issue: All other link texts are 3 words or fewer - acceptable
-- Issue: All bullet points have at least one link - acceptable
+- "strike on government forces" = 4 words (exceeds 3-word limit)
+- "urgent statement" = 2 words (acceptable)
+- All other links are 3 words or fewer.
 
 **6. TONE**
-Clean - bullets read conversationally with proper context.
+Clean - prose is conversational and avoids editorializing.
 
 **7. SECTION COVERAGE (BLOCKING)**
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
 **8. SOURCE DIVERSITY (BLOCKING)**
-- Domains found: english.enabbaladi.net, olnnews.com, aljazeera.com
-- Count: 3 unique domains
-- Clean - meets minimum requirement.
+Only 2 unique domains found: english.enabbaladi.net, olnnews.com, aljazeera.com = 3 domains. Meets minimum requirement.
 
 **9. ATTRIBUTION**
-- Issue: Syria bullet about "new procedures" has attribution "according to Enab Baladi"
-- Issue: Syria bullet about "Qamishli Airport" has attribution "Enab Baladi reports"
-- Issue: Syria bullet about SDF releases has attribution "per Enab Baladi"
-- Issue: Syria bullet about Canada sanctions has attribution "according to Enab Baladi"
-- Issue: Syria bullet about UN return has attribution "Enab Baladi reports"
-- Issue: Lebanon bullet about Hospital Syndicate lacks source attribution
-- Issue: Lebanon bullet about Al-Mutawa lacks source attribution
-- Issue: Broader Levant bullet about US-Iran talks has attribution "Al Jazeera reports"
-- Issue: Broader Levant bullet about Iranian students has attribution "according to Al Jazeera"
-- Issue: Broader Levant bullet about Netanyahu has attribution "Al Jazeera reports"
-- Issue: Broader Levant bullet about detained Syrians has attribution "per Enab Baladi"
+Clean - all links have proper attribution ("Enab Baladi reports", "OLN News (Lebanon) reports", "Al Jazeera reports", etc.).
 
 **10. ARABIC SOURCE QUALITY**
-- Issue: Lebanon bullets sourcing OLN News lack country attribution (should be "OLN News (Lebanon) reports")
+Clean - OLN News properly attributed as "(Lebanon)".
 
 **11. "ADD CONTEXT" CLAUSES**
-Clean.
+- Syria bullet ends with "highlighting ongoing human rights concerns in Kurdish-controlled areas" - should end with the fact, not implications.
+- Syria bullet ends with "signaling continued efforts to restore state control over Kurdish-held areas" - should end with the fact, not implications.
+- Syria bullet ends with "addressing long-standing statelessness issues" - should end with the fact, not implications.
 
 **12. LEAD QUALITY (BLOCKING)**
-Clean - lead is 3 sentences with context, stakes, and attribution.
+Issue: The lead contradicts available source data. The first sentence claims al-Hol camp evacuation is complete, but the Enab Baladi source shows 1,200 Iraqis are "unwilling to leave." This creates a factual inconsistency that undermines the entire lead premise. The lead needs to be rewritten to accurately reflect that evacuation efforts are ongoing but not complete, with significant populations still remaining.
 
-**SUMMARY OF BLOCKING ISSUES:**
-- Multiple fact-check failures due to broken/missing URLs
-- Missing source attribution for Lebanon bullets
-- Missing country attribution for Arabic sources
+**BLOCKING ISSUES:**
+1. Fact-check problems with unverifiable claims and contradictory information
+2. Lead quality issue due to factual inconsistency with source data
