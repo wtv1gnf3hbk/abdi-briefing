@@ -1,23 +1,27 @@
-Syria continues evacuation efforts at al-Hol camp, the sprawling detention facility that housed tens of thousands of relatives of alleged Islamic State members for years, though significant challenges remain. [Enab Baladi reports](https://english.enabbaladi.net/archives/2026/02/1200-iraqis-unwilling-to-leave-al-hol-camp/) that 1,200 Iraqi nationals remain reluctant to leave the camp in northeastern Syria, while the [UN coordinated](https://english.enabbaladi.net/archives/2026/02/un-coordinates-return-of-191-iraqis-from-al-hol-camp/) the return of 191 other Iraqis earlier this week. The ongoing evacuation represents one of the most complex legacies of the fight against ISIS as the new Syrian government works to address inherited humanitarian and security challenges.
+The Syrian Network for Human Rights documented the execution of [Kobani executions](https://english.enabbaladi.net/archives/2026/02/syrian-network-for-human-rights-documents-execution-of-21-detainees-in-kobani/), per Enab Baladi, highlighting ongoing security challenges as the US military begins [US withdrawal](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWRtbjByQmpsOUVqcnBlYTh6ZXVhQXdKOVV1UzBKeG9GMElheW5kbVNxb2ZyaXJrSkFTVDFCT2lYRHNBeU1yRzQxdTh0MXZPMDlWeDdNNDlsd1AtSklGN0Z5eEZzd0wzVGpkVmcwc1lCc1VQbGthQnNEaHdublJHOWljajM5T2kzZ1dIYkwxZl9FM25TenQ0djZIVFc3SkE3ZldwaW9sSnZaazlPeHp5TV9raVdGX19iRzluNy1VTHkyMHR0ZmlXeg?oc=5) from its main base in northeast Syria, Reuters reports, potentially complicating security coordination between Damascus and the Kurdish-led SDF.
 
 **Syria**
 
-• ISIS has [claimed two attacks](https://english.enabbaladi.net/archives/2026/02/islamic-state-claims-two-attacks-after-rallying-supporters-in-syria/) after rallying supporters across Syria, including a [strike on forces](https://english.enabbaladi.net/archives/2026/02/islamic-state-escalates-against-syrian-government-with-attacks-in-deir-ezzor/) in Deir Ezzor, as Enab Baladi reports the group is escalating operations against the new Syrian government.
+• President al-Sharaa's [general amnesty decree](https://english.enabbaladi.net/archives/2026/02/did-president-al-sharaa-violate-the-constitutional-declaration-by-issuing-a-general-amnesty/) may have violated the Constitutional Declaration, Enab Baladi reports, raising questions about the legal framework governing Syria's transitional government.
 
-• The Syrian Network for Human Rights has [documented the execution](https://english.enabbaladi.net/archives/2026/02/syrian-network-for-human-rights-documents-execution-of-21-detainees-in-kobani/) of 21 detainees in Kobani, per Enab Baladi.
+• The Interior Ministry set new [Kurdish citizenship](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) procedures for Kurdish residents, according to Enab Baladi, as Damascus works to integrate populations in former SDF-controlled areas.
 
-• Syrian Democratic Forces [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah while calling for a "phase of forgiveness and rebuilding," according to Enab Baladi.
+• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) ahead of its planned reopening, per Enab Baladi, signaling progress in reunifying transportation infrastructure.
 
-• A Syrian government delegation arrived at [Qamishli Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-delegation-at-qamishli-airport-ahead-of-reopening/) ahead of its planned reopening, Enab Baladi reports.
+• Over [1,200 Iraqi nationals](https://english.enabbaladi.net/archives/2026/02/1200-iraqis-unwilling-to-leave-al-hol-camp/) remain unwilling to leave al-Hol camp, Enab Baladi reports, complicating efforts to close the facility housing ISIS families.
 
-• The Interior Ministry has [set procedures](https://english.enabbaladi.net/archives/2026/02/the-syrian-interior-ministry-sets-procedures-for-syrian-citizenship-applications-for-kurdish-residents/) for Syrian citizenship applications for Kurdish residents, per Enab Baladi.
+• New administrative [arrangements loom in Suwayda](https://english.enabbaladi.net/archives/2026/02/suwayda-new-arrangements-loom-on-the-horizon/) as the government works to integrate the Druze-majority province, according to Enab Baladi.
 
 **Lebanon**
 
-• The Hospital Syndicate in Lebanon issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south via leaflets, calling the targeting of any medical facility a violation of international law, OLN News (Lebanon) reports.
+• The US began [pulling non-essential staff](https://news.google.com/rss/articles/CBMiugFBVV85cUxPRXpxZFJVOEhjZ29CTUppX2dmT2F2ZXZRMERGSnlTTjVLRURaNG9XTDkxaTJlVV93ekxubGluU1c4cVdxekRETW5QOFluS1VXcFBFQUtYQXI4V3RUc0ZNVGxpQll4c3lHR2RVYjg2TTNyQ3FDSENMcTNQSlFXLVhfV2s3RHBDU2FubmxydHJlVlRvNE40d3ctZlJsLXdvU0h0ZVdkQVhvdkxxZlMyTUFJR2VoMTJWTW9mT2c?oc=5) from its Beirut embassy due to rising US-Iran tensions, Reuters reports.
+
+• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, OLN News reports.
 
 **Broader Levant**
 
-• Arab states, including Syria, are [confronting US remarks](https://english.enabbaladi.net/archives/2026/02/including-syria-arab-states-confront-us-remarks-on-israels-claimed-expansion-rights/) supporting Israel's claimed expansion rights, according to Enab Baladi.
+• Trump [disputed reports](https://www.aljazeera.com/news/2026/2/24/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran?traffic_source=rss) that his top general warned against attacking Iran, claiming the general thinks such a war would be "easily won," Al Jazeera reports.
 
-• Iran has expressed cautious optimism about [nuclear talks](https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss) with the US set for Thursday in Geneva, with President Pezeshkian citing "encouraging signals" from Washington, Al Jazeera reports.
+• Arab states including Syria [confronted US remarks](https://english.enabbaladi.net/archives/2026/02/including-syria-arab-states-confront-us-remarks-on-israels-claimed-expansion-rights/) on Israel's claimed expansion rights, per Enab Baladi.
+
+• The SDF [released 51 detainees](https://english.enabbaladi.net/archives/2026/02/sdf-releases-51-detainees-in-al-hasakah-calls-for-a-phase-of-forgiveness-and-rebuilding/) in al-Hasakah while calling for a "phase of forgiveness and rebuilding," Enab Baladi reports.

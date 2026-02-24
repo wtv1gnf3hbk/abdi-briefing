@@ -1,48 +1,42 @@
-Here are the specific issues found:
+## Review Issues Found
 
-**1. FACT-CHECK**
-- The lead paragraph claims Syria "has completed the evacuation of al-Hol camp" and cites Al Jazeera, but this Al Jazeera URL is not in the provided source data. The claim cannot be verified against available sources.
-- The lead mentions "Official Fadi al-Qassem confirmed" but this name/quote is not found in any source data.
-- Syria bullet about "strike on government forces" links to incomplete URL "https://english.enabbaladi.net/archives/2026/02/islamic-state/" - should be the full "Islamic State Escalates Against Syrian Government" story URL.
-- Several claims reference sources not in the provided data (UN coordination story, SDF releases story, government delegation story, Interior Ministry story).
+**1. FACT-CHECK:** Clean
 
-**2. STYLE - CONTRACTIONS**
-Clean.
+**2. STYLE - CONTRACTIONS:** Clean
 
-**3. STYLE - "AMID"**
-Clean.
+**3. STYLE - "AMID":** Clean
 
-**4. STYLE - EM-DASHES**
-Clean.
+**4. STYLE - EM-DASHES:** Clean
 
-**5. LINKS**
-- "strike on government forces" = 4 words (exceeds 3-word limit)
-- "urgent statement" = 2 words (acceptable)
-- All other links are 3 words or fewer.
+**5. LINKS:** 
+- Issue: Link text "21 detainees in Kobani" exceeds 3-word maximum (4 words)
+- Issue: Link text "withdrawing from its main base" exceeds 3-word maximum (5 words)
+- Issue: Link text "general amnesty decree" exceeds 3-word maximum (3 words) - Actually this is exactly 3, so acceptable
+- Issue: Link text "citizenship procedures for Kurdish residents" exceeds 3-word maximum (5 words)
+- Issue: Link text "pulling non-essential staff" exceeds 3-word maximum (3 words) - Actually this is exactly 3, so acceptable
 
-**6. TONE**
-Clean - prose is conversational and avoids editorializing.
+**6. TONE:** Clean
 
-**7. SECTION COVERAGE (BLOCKING)**
-Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+**7. SECTION COVERAGE (BLOCKING):** Clean - All required sections present with content
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-Only 2 unique domains found: english.enabbaladi.net, olnnews.com, aljazeera.com = 3 domains. Meets minimum requirement.
+**8. SOURCE DIVERSITY (BLOCKING):** 
+- Issue: Only 4 unique domains found: english.enabbaladi.net, news.google.com, olnnews.com, aljazeera.com
+- However, this meets the minimum requirement of 3 different outlets, so not blocking
 
-**9. ATTRIBUTION**
-Clean - all links have proper attribution ("Enab Baladi reports", "OLN News (Lebanon) reports", "Al Jazeera reports", etc.).
+**9. ATTRIBUTION:** Clean - All links have proper attribution
 
-**10. ARABIC SOURCE QUALITY**
-Clean - OLN News properly attributed as "(Lebanon)".
+**10. ARABIC SOURCE QUALITY:** Clean - OLN News properly attributed as Lebanese outlet
 
-**11. "ADD CONTEXT" CLAUSES**
-- Syria bullet ends with "highlighting ongoing human rights concerns in Kurdish-controlled areas" - should end with the fact, not implications.
-- Syria bullet ends with "signaling continued efforts to restore state control over Kurdish-held areas" - should end with the fact, not implications.
-- Syria bullet ends with "addressing long-standing statelessness issues" - should end with the fact, not implications.
+**11. "ADD CONTEXT" CLAUSES:** Clean
 
-**12. LEAD QUALITY (BLOCKING)**
-Issue: The lead contradicts available source data. The first sentence claims al-Hol camp evacuation is complete, but the Enab Baladi source shows 1,200 Iraqis are "unwilling to leave." This creates a factual inconsistency that undermines the entire lead premise. The lead needs to be rewritten to accurately reflect that evacuation efforts are ongoing but not complete, with significant populations still remaining.
+**12. LEAD QUALITY (BLOCKING):**
+- Issue: The lead is strong with multiple sentences, context, and attribution, but there's a factual problem - the ISIS attacks story referenced in the lead ("ISIS claimed responsibility for two attacks") is not actually in the provided source data. The link appears to be fabricated as it references a story about ISIS claiming attacks that doesn't exist in the Syria stories list. This is a blocking issue as the lead contains unsupported claims.
 
+## Summary
 **BLOCKING ISSUES:**
-1. Fact-check problems with unverifiable claims and contradictory information
-2. Lead quality issue due to factual inconsistency with source data
+1. Lead paragraph references ISIS attacks story not present in source data - the Enab Baladi link about ISIS claiming attacks is fabricated
+2. Multiple link texts exceed 3-word maximum
+
+**Recommended fixes:**
+- Remove or replace the ISIS attacks reference in the lead with content from actual source stories
+- Shorten link texts: "Kobani executions", "US withdrawal", "Kurdish citizenship"
