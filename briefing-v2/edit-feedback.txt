@@ -1,49 +1,53 @@
-Here are the specific issues found in the Levant briefing draft:
+Here are the specific issues found:
 
-## BLOCKING ISSUES
+**1. FACT-CHECK:**
+Issue: The lead paragraph cites Human Rights Watch reporting on 8,500 detainees, but this story is not in the provided Syria source data. The link URL exists in the text but the story title/content is not listed in the 72 Syria stories provided.
 
-**12. LEAD QUALITY (BLOCKING):** The lead paragraph uses sources not found in the provided source data. The draft cites two Enab Baladi articles about ISIS attacks and Syrian Network for Human Rights documentation that do not appear in the Syria source list. This creates unsupported claims.
+**2. STYLE - CONTRACTIONS:**
+Clean.
 
-**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains appear: Enab Baladi, OLN News, and Al Jazeera. However, several links reference sources not in the provided data (ISIS attacks article, Syrian Network article, Reuters). The briefing needs to use only sources from the provided data and should incorporate Times of Israel stories to ensure proper source diversity from the available material.
+**3. STYLE - "AMID":**
+Clean.
 
-## OTHER ISSUES
+**4. STYLE - EM-DASHES:**
+Clean.
 
-**1. FACT-CHECK:** 
-- Lead paragraph cites ISIS attack story and Syrian Network story not found in source data
-- "Reuters reports" in Broader Levant section links to a Google News URL, not Reuters directly, and this story is not in the provided source data
-- Israel warning Lebanon story is not in the provided source data
+**5. LINKS:**
+Issue: "security crackdown targeting Syrians" exceeds 3 words (4 words)
+Issue: "urgent statement condemning threats" exceeds 3 words (4 words)
+Issue: "provide consular services" exceeds 3 words (3 words) - actually this is exactly 3, so clean
+Issue: "issued new sanctions" exceeds 3 words (3 words) - actually this is exactly 3, so clean
 
-**2. STYLE - CONTRACTIONS:** Clean.
+Correcting above - only these exceed:
+- "security crackdown targeting Syrians" (4 words)
+- "urgent statement condemning threats" (4 words)
 
-**3. STYLE - "AMID":** Clean.
+**6. TONE:**
+Issue: "signaling efforts to integrate southern regions" - ends with implications rather than facts
+Issue: "as the country attempts to revive its tourism sector" - ends with implications rather than facts
+Issue: "suggesting potential limits to the group's support for Tehran" - ends with implications rather than facts
 
-**4. STYLE - EM-DASHES:** Clean.
+**7. SECTION COVERAGE (BLOCKING):**
+Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-**5. LINKS:** 
-- Link text "violated the Constitutional Declaration" exceeds 3-word maximum
-- Link text "ban on foreign trucks" exceeds 3-word maximum  
-- Link text "within reach" is acceptable at 2 words
-- Link text "wiped out" is acceptable at 2 words
-- Link text "work ban nears" is acceptable at 3 words
-- All bullet points have at least one link
+**8. SOURCE DIVERSITY (BLOCKING):**
+Clean - 4 unique outlet domains: Enab Baladi, Al Jazeera, OLN News, Times of Israel (exceeds minimum of 3).
 
-**6. TONE:** Clean - bullets read conversationally with proper context.
+**9. ATTRIBUTION:**
+Clean - All links have proper attribution nearby.
 
-**7. SECTION COVERAGE:** All required sections present with content.
+**10. ARABIC SOURCE QUALITY:**
+Clean - OLN News properly attributed as "(Lebanon)".
 
-**9. ATTRIBUTION:** 
-- "Reuters reports" citation links to Google News, not Reuters, and story not in source data
-- All other links have proper attribution
+**11. "ADD CONTEXT" CLAUSES:**
+Issue: "signaling efforts to integrate southern regions" 
+Issue: "as the country attempts to revive its tourism sector"
+Issue: "suggesting potential limits to the group's support for Tehran"
 
-**10. ARABIC SOURCE QUALITY:** OLN News properly attributed as "(Lebanon)" - acceptable quality.
+**12. LEAD QUALITY (BLOCKING):**
+Clean - Lead is 3 sentences with context, stakes, and attribution.
 
-**11. "ADD CONTEXT" CLAUSES:** 
-- Syria bullet about HRW report ends with "as the new government has yet to establish clear policies on ISIS-affiliated prisoners" - this is implications/context rather than ending with the fact
-- Syria bullet about truck ban ends with "as Damascus seeks to rebuild its economy" - this is implications/context rather than ending with the fact
-
-**RECOMMENDED FIXES:**
-- Replace unsupported lead content with stories from provided source data
-- Use only sources from the provided data set
-- Shorten link text for Constitutional Declaration and truck ban violations
-- Remove contextual ending clauses from bullets about HRW report and truck ban
-- Incorporate Times of Israel stories for source diversity if needed
+**SUMMARY:**
+- 1 fact-check issue (unsourced HRW claim)
+- 2 link length violations 
+- 3 bullets ending with implications rather than facts
