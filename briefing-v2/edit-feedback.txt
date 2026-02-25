@@ -1,42 +1,49 @@
-## Review Issues Found
+Here are the specific issues found in the Levant briefing draft:
 
-**1. FACT-CHECK:** Clean
+## BLOCKING ISSUES
 
-**2. STYLE - CONTRACTIONS:** Clean
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph uses sources not found in the provided source data. The draft cites two Enab Baladi articles about ISIS attacks and Syrian Network for Human Rights documentation that do not appear in the Syria source list. This creates unsupported claims.
 
-**3. STYLE - "AMID":** Clean
+**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains appear: Enab Baladi, OLN News, and Al Jazeera. However, several links reference sources not in the provided data (ISIS attacks article, Syrian Network article, Reuters). The briefing needs to use only sources from the provided data and should incorporate Times of Israel stories to ensure proper source diversity from the available material.
 
-**4. STYLE - EM-DASHES:** Clean
+## OTHER ISSUES
+
+**1. FACT-CHECK:** 
+- Lead paragraph cites ISIS attack story and Syrian Network story not found in source data
+- "Reuters reports" in Broader Levant section links to a Google News URL, not Reuters directly, and this story is not in the provided source data
+- Israel warning Lebanon story is not in the provided source data
+
+**2. STYLE - CONTRACTIONS:** Clean.
+
+**3. STYLE - "AMID":** Clean.
+
+**4. STYLE - EM-DASHES:** Clean.
 
 **5. LINKS:** 
-- Issue: Link text "21 detainees in Kobani" exceeds 3-word maximum (4 words)
-- Issue: Link text "withdrawing from its main base" exceeds 3-word maximum (5 words)
-- Issue: Link text "general amnesty decree" exceeds 3-word maximum (3 words) - Actually this is exactly 3, so acceptable
-- Issue: Link text "citizenship procedures for Kurdish residents" exceeds 3-word maximum (5 words)
-- Issue: Link text "pulling non-essential staff" exceeds 3-word maximum (3 words) - Actually this is exactly 3, so acceptable
+- Link text "violated the Constitutional Declaration" exceeds 3-word maximum
+- Link text "ban on foreign trucks" exceeds 3-word maximum  
+- Link text "within reach" is acceptable at 2 words
+- Link text "wiped out" is acceptable at 2 words
+- Link text "work ban nears" is acceptable at 3 words
+- All bullet points have at least one link
 
-**6. TONE:** Clean
+**6. TONE:** Clean - bullets read conversationally with proper context.
 
-**7. SECTION COVERAGE (BLOCKING):** Clean - All required sections present with content
+**7. SECTION COVERAGE:** All required sections present with content.
 
-**8. SOURCE DIVERSITY (BLOCKING):** 
-- Issue: Only 4 unique domains found: english.enabbaladi.net, news.google.com, olnnews.com, aljazeera.com
-- However, this meets the minimum requirement of 3 different outlets, so not blocking
+**9. ATTRIBUTION:** 
+- "Reuters reports" citation links to Google News, not Reuters, and story not in source data
+- All other links have proper attribution
 
-**9. ATTRIBUTION:** Clean - All links have proper attribution
+**10. ARABIC SOURCE QUALITY:** OLN News properly attributed as "(Lebanon)" - acceptable quality.
 
-**10. ARABIC SOURCE QUALITY:** Clean - OLN News properly attributed as Lebanese outlet
+**11. "ADD CONTEXT" CLAUSES:** 
+- Syria bullet about HRW report ends with "as the new government has yet to establish clear policies on ISIS-affiliated prisoners" - this is implications/context rather than ending with the fact
+- Syria bullet about truck ban ends with "as Damascus seeks to rebuild its economy" - this is implications/context rather than ending with the fact
 
-**11. "ADD CONTEXT" CLAUSES:** Clean
-
-**12. LEAD QUALITY (BLOCKING):**
-- Issue: The lead is strong with multiple sentences, context, and attribution, but there's a factual problem - the ISIS attacks story referenced in the lead ("ISIS claimed responsibility for two attacks") is not actually in the provided source data. The link appears to be fabricated as it references a story about ISIS claiming attacks that doesn't exist in the Syria stories list. This is a blocking issue as the lead contains unsupported claims.
-
-## Summary
-**BLOCKING ISSUES:**
-1. Lead paragraph references ISIS attacks story not present in source data - the Enab Baladi link about ISIS claiming attacks is fabricated
-2. Multiple link texts exceed 3-word maximum
-
-**Recommended fixes:**
-- Remove or replace the ISIS attacks reference in the lead with content from actual source stories
-- Shorten link texts: "Kobani executions", "US withdrawal", "Kurdish citizenship"
+**RECOMMENDED FIXES:**
+- Replace unsupported lead content with stories from provided source data
+- Use only sources from the provided data set
+- Shorten link text for Constitutional Declaration and truck ban violations
+- Remove contextual ending clauses from bullets about HRW report and truck ban
+- Incorporate Times of Israel stories for source diversity if needed
