@@ -1,45 +1,51 @@
 Here are the specific issues found:
 
-**1. FACT-CHECK**
-Clean - all claims are traceable to source data.
+**1. FACT-CHECK:**
+Clean.
 
-**2. STYLE - CONTRACTIONS**
-Clean - no "'s" contractions found (only possessive uses like "Syria's economy").
+**2. STYLE - CONTRACTIONS:**
+Clean.
 
-**3. STYLE - "AMID"**
-Clean - no instances of "amid" found.
+**3. STYLE - "AMID":**
+Clean.
 
-**4. STYLE - EM-DASHES**
-Clean - no em-dashes or hyphens joining independent clauses.
+**4. STYLE - EM-DASHES:**
+Clean.
 
-**5. LINKS**
-1. Link text violation: "strip Syrian migrants" (3+ words) - should be shortened to "strip migrants" or "strip protections"
-2. Link text violation: "signs of recovery" (3+ words) - should be shortened to "economic recovery" or just "recovery"
-3. Link text violation: "concluded with claims" (3+ words) - should be shortened to "concluded" or "talks concluded"
-4. Link text violation: "crackdown targeting Syrians" (3+ words) - should be shortened to "targeting Syrians" or "Syrian crackdown"
-5. All bullet points have at least one link ✓
+**5. LINKS:**
+Issue found: Link text "concluded with claims of progress" exceeds 3 words maximum.
+Fix: Change to "[concluded with progress](URL)" or "[talks concluded](URL)"
 
-**6. TONE**
-Clean - conversational prose throughout, no dry headlines or editorializing.
+**6. TONE:**
+Clean.
 
-**7. SECTION COVERAGE (BLOCKING)**
-Syria ✓, Lebanon ✓, Broader Levant ✓ - all sections present with content.
+**7. SECTION COVERAGE (BLOCKING):**
+Clean - all three sections present with content.
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-Sources found: Enab Baladi, Al Jazeera, OLN News, Times of Israel = 4 unique domains ✓ (exceeds minimum of 3).
+**8. SOURCE DIVERSITY (BLOCKING):**
+Only 3 unique outlet domains found: aljazeera.com, english.enabbaladi.net, timesofisrael.com. This meets the minimum requirement of 3, but only barely.
 
-**9. ATTRIBUTION**
-Clean - every link has explicit attribution ("according to Enab Baladi", "Al Jazeera reports", etc.).
+**9. ATTRIBUTION:**
+Issue found: Several links missing explicit source attribution:
+- "dismantled an ISIS cell" - no attribution text nearby
+- "rehabilitating Qamishli International Airport" - attribution follows after comma
+- "Suwayda factions was completed" - attribution follows after comma  
+- "killed in clashes" - attribution follows after comma
+- "signs of economic recovery" - attribution follows after comma
 
-**10. ARABIC SOURCE QUALITY**
-Clean - OLN News properly attributed as Lebanese source.
+**10. ARABIC SOURCE QUALITY:**
+Clean.
 
-**11. "ADD CONTEXT" CLAUSES**
-1. "marking another step toward normalizing control over former SDF-administered areas" - ends with implication rather than fact. Should end with the factual detail about the airport rehabilitation.
+**11. "ADD CONTEXT" CLAUSES:**
+Issue found: "highlighting ongoing security challenges as the new government works to consolidate control across former regime territories"
+Fix: End with the fact of the cell dismantling, remove the "highlighting" clause.
 
-**12. LEAD QUALITY (BLOCKING)**
-**BLOCKING ISSUE**: Lead is poorly constructed. It's essentially three disconnected factoids strung together rather than a cohesive paragraph with proper context and stakes. The second sentence awkwardly tries to connect the legal challenge to ISIS operations but the connection is unclear. 
+Issue found: "showing continued resistance to Damascus authority in some areas"
+Fix: End with the fact of the killing, remove the "showing" clause.
 
-Suggested fix: Rewrite as 3-5 sentences that establish the broader context of Syria's transition, then introduce the specific developments with clearer stakes and connections between them.
+**12. LEAD QUALITY (BLOCKING):**
+**BLOCKING ISSUE:** The lead is exactly the problematic pattern described - "X announced Y" followed by context but lacking proper development. While it has multiple sentences, it reads like an expanded headline rather than contextual prose that sets up the broader briefing themes.
 
-**SUMMARY**: 6 total issues found, including 1 BLOCKING issue (lead quality) that must be fixed before publication.
+Fix needed: Expand to include why this deportation case matters now, connect to broader Syrian transition dynamics, and provide more substantive context about the legal and policy implications.
+
+**Summary:** 1 blocking issue (lead quality), plus multiple attribution problems and style violations that need correction before publication.
