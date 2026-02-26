@@ -1,43 +1,45 @@
-Here are the specific issues found in the draft:
+Here are the specific issues found:
 
-## 1. FACT-CHECK
-Clean - all claims, numbers, names, and attributions are traceable to the source data.
+**1. FACT-CHECK**
+Clean - all claims are traceable to source data.
 
-## 2. STYLE - CONTRACTIONS
-Clean - no contractions using "'s" for "is" or "has" found.
+**2. STYLE - CONTRACTIONS**
+Clean - no "'s" contractions found (only possessive uses like "Syria's economy").
 
-## 3. STYLE - "AMID"
-Clean - no use of "amid" found.
+**3. STYLE - "AMID"**
+Clean - no instances of "amid" found.
 
-## 4. STYLE - EM-DASHES
-Clean - no em-dashes or hyphens joining independent clauses found.
+**4. STYLE - EM-DASHES**
+Clean - no em-dashes or hyphens joining independent clauses.
 
-## 5. LINKS
-**Issue**: One bullet point lacks a markdown link:
-- "• The Hospital Syndicate issued an urgent statement condemning threats against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling the intimidation a violation of international law."
+**5. LINKS**
+1. Link text violation: "strip Syrian migrants" (3+ words) - should be shortened to "strip migrants" or "strip protections"
+2. Link text violation: "signs of recovery" (3+ words) - should be shortened to "economic recovery" or just "recovery"
+3. Link text violation: "concluded with claims" (3+ words) - should be shortened to "concluded" or "talks concluded"
+4. Link text violation: "crackdown targeting Syrians" (3+ words) - should be shortened to "targeting Syrians" or "Syrian crackdown"
+5. All bullet points have at least one link ✓
 
-**Fix**: Add markdown link for [issued an urgent statement] pointing to https://olnnews.com/181415/
+**6. TONE**
+Clean - conversational prose throughout, no dry headlines or editorializing.
 
-## 6. TONE
-Clean - all bullets use conversational prose without editorializing language.
+**7. SECTION COVERAGE (BLOCKING)**
+Syria ✓, Lebanon ✓, Broader Levant ✓ - all sections present with content.
 
-## 7. SECTION COVERAGE (BLOCKING)
-Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
+**8. SOURCE DIVERSITY (BLOCKING)**
+Sources found: Enab Baladi, Al Jazeera, OLN News, Times of Israel = 4 unique domains ✓ (exceeds minimum of 3).
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING Issue**: Only 3 outlet domains appear (Al Jazeera, Enab Baladi, Times of Israel, OLN News = 4 domains). This meets the minimum requirement of 3.
-Actually Clean - 4 unique domains found: aljazeera.com, english.enabbaladi.net, timesofisrael.com, olnnews.com.
+**9. ATTRIBUTION**
+Clean - every link has explicit attribution ("according to Enab Baladi", "Al Jazeera reports", etc.).
 
-## 9. ATTRIBUTION
-Clean - all links have proper source attribution nearby.
+**10. ARABIC SOURCE QUALITY**
+Clean - OLN News properly attributed as Lebanese source.
 
-## 10. ARABIC SOURCE QUALITY
-Clean - OLN News properly attributed as "(Lebanon)".
+**11. "ADD CONTEXT" CLAUSES**
+1. "marking another step toward normalizing control over former SDF-administered areas" - ends with implication rather than fact. Should end with the factual detail about the airport rehabilitation.
 
-## 11. "ADD CONTEXT" CLAUSES
-Clean - no bullets end with implication clauses.
+**12. LEAD QUALITY (BLOCKING)**
+**BLOCKING ISSUE**: Lead is poorly constructed. It's essentially three disconnected factoids strung together rather than a cohesive paragraph with proper context and stakes. The second sentence awkwardly tries to connect the legal challenge to ISIS operations but the connection is unclear. 
 
-## 12. LEAD QUALITY (BLOCKING)
-Clean - lead paragraph is 3 sentences of written-through prose with context, stakes, and proper source attribution. Not a headline restatement.
+Suggested fix: Rewrite as 3-5 sentences that establish the broader context of Syria's transition, then introduce the specific developments with clearer stakes and connections between them.
 
-**SUMMARY**: 1 non-blocking issue found - missing markdown link in Lebanon section bullet point about Hospital Syndicate statement.
+**SUMMARY**: 6 total issues found, including 1 BLOCKING issue (lead quality) that must be fixed before publication.

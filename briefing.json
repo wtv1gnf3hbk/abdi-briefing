@@ -4,16 +4,16 @@
     "owner": "Abdi Latif Dahir",
     "timezone": "Africa/Nairobi",
     "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context",
-    "generated": "2026-02-26T20:47:01.026Z",
-    "generatedTimestamp": 1772138821026
+    "generated": "2026-02-26T20:51:04.410Z",
+    "generatedTimestamp": 1772139064410
   },
   "stats": {
     "sourceCount": 25,
-    "successCount": 25,
-    "totalStories": 190,
+    "successCount": 24,
+    "totalStories": 186,
     "totalScreenshots": 3,
-    "beatFlaggedCount": 26,
-    "elapsed": "61.3s"
+    "beatFlaggedCount": 24,
+    "elapsed": "80.1s"
   },
   "stories": {
     "all": [
@@ -180,171 +180,6 @@
         "priority": "primary",
         "language": "en",
         "date": "Mon, 23 Feb 2026 08:28:03 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
-        "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
-        "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
-        "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 21:00:40 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
-        "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 21:00:16 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
-        "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 24 Feb 2026 21:00:46 +0000",
-        "description": ""
-      },
-      {
-        "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
-        "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 24 Feb 2026 21:00:31 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
-        "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 24 Feb 2026 21:00:27 +0000",
-        "description": ""
-      },
-      {
-        "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
-        "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Tue, 24 Feb 2026 21:00:09 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
-        "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Mon, 23 Feb 2026 21:00:59 +0000",
-        "description": ""
-      },
-      {
-        "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
-        "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Mon, 23 Feb 2026 21:00:43 +0000",
-        "description": ""
-      },
-      {
-        "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
-        "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Mon, 23 Feb 2026 21:00:08 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
-        "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sun, 22 Feb 2026 21:00:55 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
-        "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sun, 22 Feb 2026 21:00:35 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Former Eighth Brigade Commander Surrenders to Military Police as Clan Announces His Banishment from Daraa",
-        "url": "https://syrianobserver.com/syrian-actors/former-eighth-brigade-commander-surrenders-to-military-police-as-clan-announces-his-banishment-from-daraa.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sun, 22 Feb 2026 21:00:12 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Anti-Illicit Gains Authority Seizes 80% of Samer Fawwaz’s Assets Under Settlement Deal",
-        "url": "https://syrianobserver.com/syrian-actors/anti-illicit-gains-authority-seizes-80-of-samer-fawwazs-assets-under-settlement-deal.html",
-        "source": "Syrian Observer",
-        "sourceId": "syrianobserver",
-        "category": "syria",
-        "priority": "primary",
-        "language": "en",
-        "date": "Sun, 22 Feb 2026 21:00:08 +0000",
         "description": ""
       },
       {
@@ -722,7 +557,7 @@
         "priority": "primary",
         "language": "ar",
         "date": "Thu, 26 Feb 2026 20:32:24 +0300",
-        "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of Foreign Affairs and Expatriates.",
+        "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of...",
         "originalHeadline": "الشيباني يلتقي وفداً من الاتحاد الأوروبي في دمشق"
       },
       {
@@ -1105,7 +940,7 @@
         "priority": "secondary",
         "language": "ar",
         "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-        "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+        "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
         "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
       },
       {
@@ -1227,6 +1062,226 @@
         "date": "Thu, 26 Feb 2026 20:02:58 +0000",
         "description": "",
         "originalHeadline": "شقير يهيب بـ&#8221;حزب الله&#8221;: أبعدوا عنكم وعنا هذه الكأس المرّة!"
+      },
+      {
+        "headline": "Israel says struck 8 Hezbollah compounds in Baalbek district - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 19:38:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5\" target=\"_blank\"&"
+      },
+      {
+        "headline": "US, Ukraine hold talks in Geneva as Russia says 'no deadlines' to end war - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:53:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5"
+      },
+      {
+        "headline": "Hillary Clinton is testifying as part of House investigation into Jeffrey Epstein - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ1bzdRbHNWdlE2UQ?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:23:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ"
+      },
+      {
+        "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkhZZ3dEelBJWmswS01rcGVrSjJyUQ?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:27:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkh"
+      },
+      {
+        "headline": "Instagram says to notify parents if teens 'repeatedly' search for suicide related terms - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJWeFpraVNEVUpkVFZrOGRF?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:38:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJ"
+      },
+      {
+        "headline": "Soaring cost of food and other staples squeezes Iranians as threat of US attack looms - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21OWkdzRTFwTC1OVUxVMms0?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:33:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21"
+      },
+      {
+        "headline": "Cuba will defend itself against any 'terrorist aggression' - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:50:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5\" target=\"_blank\"&gt;Cuba "
+      },
+      {
+        "headline": "Russia launched 420 drones, 39 missiles at Ukraine - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 13:39:47 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5\" target=\"_blank\"&gt;Russia launched 420 d"
+      },
+      {
+        "headline": "Syria govt swap dozens of detainees with Druze factions - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 13:39:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5\" target=\"_blank\"&gt;Syria govt"
+      },
+      {
+        "headline": "Israel boycotts Mechanism meeting - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 13:15:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5\" target=\"_blank\"&gt;Israel boycotts Mechanism meeting&lt;/a&gt;&a"
+      },
+      {
+        "headline": "Israeli strike kills at least 2 Palestinians in Gaza - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 14:17:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5\" target=\"_blank\"&gt;Israeli str"
+      },
+      {
+        "headline": "Israeli drone strikes Nabatieh's Ali Taher - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 13:38:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5\" target=\"_blank\"&gt;Israeli drone strikes Nabatie"
+      },
+      {
+        "headline": "Reports: Hezbollah reassures state, Presidency threatens Hezbollah - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 11:47:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5\" target=\"_"
+      },
+      {
+        "headline": "Salam says army can finish N. Litani plan in 4 months - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 12:39:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5\" target=\"_blank\"&gt;Salam says "
+      },
+      {
+        "headline": "Aoun, Salam sign decree for extraordinary legislative session - Naharnet",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5",
+        "source": "Nahar Net",
+        "sourceId": "naharnet",
+        "category": "lebanon",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 11:25:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5\" target=\"_blank\"&gt;Aoun,"
+      },
+      {
+        "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+      },
+      {
+        "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+      },
+      {
+        "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+      },
+      {
+        "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+      },
+      {
+        "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
       },
       {
         "headline": "US-Iran talks conclude with claims of progress but few details",
@@ -1432,17 +1487,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUthRjNMX2JNQVNZVDB5MGU5YXRXd1ctS0paV2R0NjBLSXFkWHg3SXdRYXhwZTR6OXB0NTRsVFoxMVNmd2RTcENBZTFYbXRoMFFZTXhHM3A4UDJJbno3T3Z4TGx4bGFPYzRVX09PVmNKcEVXVmZQWWJuTUZXRjVPeThoMzFveVFDUGRpR0Zpd0NMaXJMUFBPQldxaEtTUDBTY2xnV0ZSaXpZZTktQlh5aw?oc=5\" ta"
       },
       {
-        "headline": "South Korea, UAE sign MOU on $35 billion defence cooperation, envoy says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ5NXFxczRB?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 08:34:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
-      },
-      {
         "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
         "source": "Reuters",
@@ -1485,17 +1529,6 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 02:10:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHkyYW9US0o0cTlnV1FxSzEwa2htdWFPbGlqY3FqR1pxQWVvYVlZVW85XzgxX1VYcUR0QXdOVGtRVlF4RHJsVGhRUmZfNHlMU3ZJb0xVcEhpSS1PQ3hfakVfeXg2STlXR0lBNWd2cm52XzBjcTRKcnJjY3pSUWpkUVRHUEIwNmQwUzRaSWxLMmpyRGU2d0dUcHlqU3dBaXNzeWRzTFFBRFBCd0tUaXpHUGxHN1FmeFU"
-      },
-      {
-        "headline": "Hungary's Orban asks EU to go verify Druzhba pipeline damage - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 10:37:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5\" target=\"_blan"
       },
       {
         "headline": "Kremlin says Cuba situation is escalating, humanitarian needs must be solved - Reuters",
@@ -1550,6 +1583,17 @@
         ]
       },
       {
+        "headline": "Hillary Clinton to testify in congressional Epstein probe - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 11:02:29 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5\" target=\"_blank\"&gt;Hillary Cl"
+      },
+      {
         "headline": "Russia pounds Ukraine with missiles and drones, injuring at least 26 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWRWQWliUG5lQVhvQkJXT0xn?oc=5",
         "source": "Reuters",
@@ -1587,15 +1631,15 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
       },
       {
-        "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-        "source": "AP",
-        "sourceId": "ap_levant",
+        "headline": "Exclusive: Broadcom expects to sell 1 million 3D stacked chips by 2027 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
         "category": "wire",
         "priority": "secondary",
         "language": "en",
-        "date": "Thu, 26 Feb 2026 19:01:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
+        "date": "Thu, 26 Feb 2026 14:02:35 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5\" ta"
       },
       {
         "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -1611,6 +1655,17 @@
         "beatKeywords": [
           "Iran"
         ]
+      },
+      {
+        "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
+        "source": "AP",
+        "sourceId": "ap_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 17:51:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
       },
       {
         "headline": "Walmart to pay $100 million to settle FTC allegations over deceptive practices for delivery drivers - AP News",
@@ -2151,113 +2206,6 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 13:57:11 +0000",
         "description": ""
-      },
-      {
-        "headline": "Smotrich Is Weakening as the Fight for Leading Israel's Religious Right Heats Up - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJrVlFRMVdiVXVNemZZYnFMN3dHc3NiVG44enFHZkMzMzZHUTFUV1laTmdiWUR0Mks5S1ZFZ08zc29ueWVmX2xvSWZETVBUMjVoLVp4NXpfbHlLWWFSRGFFa2wxUDJlSW1sUjVibFVvT1VuVURaa3c?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 19:04:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJ"
-      },
-      {
-        "headline": "'No Treason': Shin Bet Chief Rejects Conspiracy Theories on Hamas' Oct. 7 Attack - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 19:31:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDh"
-      },
-      {
-        "headline": "Israel waged a war of annihilation. Now it wants everyone but itself to disarm | Opinion - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2FIREdvTVpKanRIYWt3aUxjQTVXQW1NRjFaZnZTTXRTNjlGcEJZa0pfQWRUZE5xeVVrVFJFQXpUU3d2bVlibi16b2E2WUZ2bTJTT3Q2TFEwaGRTOWd5Z2dnankxYw?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 21:58:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2F"
-      },
-      {
-        "headline": "Fourth Time in Five Days: Far-right Agitators Harass Arab Israeli Journalist Outside Her Home - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjdUcG41NW9vdFJzLTFnQVN4ak9sWThpVnQtalZ4dkJmR251b2tISDdGSlhoZGV2YThZbGp3UURwS1ZWazNOVW4tc1dSUENSdEpxbVBKT0Q1aXVLdXBNMmpjODhTSzA2MkdHdmN4RUxxWlQ?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Wed, 25 Feb 2026 20:58:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjd"
-      },
-      {
-        "headline": "How did we get our Neanderthal genes? New study reveals the secret - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDNRXzFFRVZyNmwzZXJORkJ6Ml9wVi1TY1NXMUkycS1UTFQtNGNqTnNQUEdBdzZfVk1jb3ROUWc3Z2J1Zw?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 18:59:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDN"
-      },
-      {
-        "headline": "Finance Minister Smotrich Slams 'Likud's Communist Faction' for Nixing $150 VAT Exemption Order - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g5V0NOLS15RWNZWDEyWGxTNjhIZ2dZUVNyRFNmNTUzV3k0dTZzMFFOUGpoMVZPVkJYQUFVM2RVbGJWUG9EU0I3NkxrOFpRVzhHTHpXU2djZ2ZDTWxoajBDMjJ1ZmYtSXRzNEpFQVNndw?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 10:41:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g"
-      },
-      {
-        "headline": "Egyptian Ramadan series accused of turning Gaza war into nationalist propaganda - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ0ZXhtSTBZMnZObjlaVzR5TV9qT1A0RUJTbUxtMUt1YUtYekhhLTk1V0JtNUJCYlFtRnJvT2ktcGRRZFRib2I3Yy1kOEVQR3R2bGZoSkJBQ1cyeng3c3UwZ1ZHWXpqcEFCdVVHb29pd0tSYUs3cnJvV3dKSQ?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 07:07:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ"
-      },
-      {
-        "headline": "'Significant Progress' Made in Iran-U.S. Talks, Oman's Foreign Minister Says - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN1VktPcmtWWkl1Wm10VGN1OHl4ME1HRllGMS12OGJfQW9EUXFCeElLdXY5UGlyTFgxcTBLLUhDRGdmUkF2ZGloYnlwXzZfTm5wSm1Fc0l0dEliX3Q1M0E?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 08:13:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
-      },
-      {
-        "headline": "U.S. VP Vance: We've Seen Evidence Iran Trying to Rebuild a Nuclear Weapon - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE5SHlNaGxDOEg2VHFFaUNHSmNlYk5wMHVUWFhJQW5SWHRLUWdmUDZTQ0tIZ2hMbmptVmpmR1Ftby04dEo1YmRONzhxeGtNb3poU0YwRjhRMXNKYXQxVk9pcjdXZHVFY1hJaHAwdG8yZnI?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 00:38:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
       }
     ],
     "byCategory": {
@@ -2425,171 +2373,6 @@
           "priority": "primary",
           "language": "en",
           "date": "Mon, 23 Feb 2026 08:28:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
-          "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
-          "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:40 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
-          "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:16 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
-          "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:46 +0000",
-          "description": ""
-        },
-        {
-          "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
-          "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:31 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:27 +0000",
-          "description": ""
-        },
-        {
-          "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
-          "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:09 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
-          "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:59 +0000",
-          "description": ""
-        },
-        {
-          "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
-          "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:43 +0000",
-          "description": ""
-        },
-        {
-          "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
-          "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:08 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
-          "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:55 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:35 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Former Eighth Brigade Commander Surrenders to Military Police as Clan Announces His Banishment from Daraa",
-          "url": "https://syrianobserver.com/syrian-actors/former-eighth-brigade-commander-surrenders-to-military-police-as-clan-announces-his-banishment-from-daraa.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:12 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Anti-Illicit Gains Authority Seizes 80% of Samer Fawwaz’s Assets Under Settlement Deal",
-          "url": "https://syrianobserver.com/syrian-actors/anti-illicit-gains-authority-seizes-80-of-samer-fawwazs-assets-under-settlement-deal.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:08 +0000",
           "description": ""
         },
         {
@@ -2967,7 +2750,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Thu, 26 Feb 2026 20:32:24 +0300",
-          "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of Foreign Affairs and Expatriates.",
+          "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of...",
           "originalHeadline": "الشيباني يلتقي وفداً من الاتحاد الأوروبي في دمشق"
         },
         {
@@ -3352,7 +3135,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -3474,6 +3257,226 @@
           "date": "Thu, 26 Feb 2026 20:02:58 +0000",
           "description": "",
           "originalHeadline": "شقير يهيب بـ&#8221;حزب الله&#8221;: أبعدوا عنكم وعنا هذه الكأس المرّة!"
+        },
+        {
+          "headline": "Israel says struck 8 Hezbollah compounds in Baalbek district - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 19:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5\" target=\"_blank\"&"
+        },
+        {
+          "headline": "US, Ukraine hold talks in Geneva as Russia says 'no deadlines' to end war - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5"
+        },
+        {
+          "headline": "Hillary Clinton is testifying as part of House investigation into Jeffrey Epstein - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ1bzdRbHNWdlE2UQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ"
+        },
+        {
+          "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkhZZ3dEelBJWmswS01rcGVrSjJyUQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:27:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkh"
+        },
+        {
+          "headline": "Instagram says to notify parents if teens 'repeatedly' search for suicide related terms - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJWeFpraVNEVUpkVFZrOGRF?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJ"
+        },
+        {
+          "headline": "Soaring cost of food and other staples squeezes Iranians as threat of US attack looms - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21OWkdzRTFwTC1OVUxVMms0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21"
+        },
+        {
+          "headline": "Cuba will defend itself against any 'terrorist aggression' - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5\" target=\"_blank\"&gt;Cuba "
+        },
+        {
+          "headline": "Russia launched 420 drones, 39 missiles at Ukraine - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:39:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5\" target=\"_blank\"&gt;Russia launched 420 d"
+        },
+        {
+          "headline": "Syria govt swap dozens of detainees with Druze factions - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:39:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5\" target=\"_blank\"&gt;Syria govt"
+        },
+        {
+          "headline": "Israel boycotts Mechanism meeting - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:15:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5\" target=\"_blank\"&gt;Israel boycotts Mechanism meeting&lt;/a&gt;&a"
+        },
+        {
+          "headline": "Israeli strike kills at least 2 Palestinians in Gaza - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:17:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5\" target=\"_blank\"&gt;Israeli str"
+        },
+        {
+          "headline": "Israeli drone strikes Nabatieh's Ali Taher - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5\" target=\"_blank\"&gt;Israeli drone strikes Nabatie"
+        },
+        {
+          "headline": "Reports: Hezbollah reassures state, Presidency threatens Hezbollah - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:47:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5\" target=\"_"
+        },
+        {
+          "headline": "Salam says army can finish N. Litani plan in 4 months - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:39:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5\" target=\"_blank\"&gt;Salam says "
+        },
+        {
+          "headline": "Aoun, Salam sign decree for extraordinary legislative session - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5\" target=\"_blank\"&gt;Aoun,"
+        },
+        {
+          "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+        },
+        {
+          "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+        },
+        {
+          "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+        },
+        {
+          "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+        },
+        {
+          "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
         }
       ],
       "wire": [
@@ -3681,17 +3684,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUthRjNMX2JNQVNZVDB5MGU5YXRXd1ctS0paV2R0NjBLSXFkWHg3SXdRYXhwZTR6OXB0NTRsVFoxMVNmd2RTcENBZTFYbXRoMFFZTXhHM3A4UDJJbno3T3Z4TGx4bGFPYzRVX09PVmNKcEVXVmZQWWJuTUZXRjVPeThoMzFveVFDUGRpR0Zpd0NMaXJMUFBPQldxaEtTUDBTY2xnV0ZSaXpZZTktQlh5aw?oc=5\" ta"
         },
         {
-          "headline": "South Korea, UAE sign MOU on $35 billion defence cooperation, envoy says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ5NXFxczRB?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 08:34:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
-        },
-        {
           "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
           "source": "Reuters",
@@ -3734,17 +3726,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 02:10:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHkyYW9US0o0cTlnV1FxSzEwa2htdWFPbGlqY3FqR1pxQWVvYVlZVW85XzgxX1VYcUR0QXdOVGtRVlF4RHJsVGhRUmZfNHlMU3ZJb0xVcEhpSS1PQ3hfakVfeXg2STlXR0lBNWd2cm52XzBjcTRKcnJjY3pSUWpkUVRHUEIwNmQwUzRaSWxLMmpyRGU2d0dUcHlqU3dBaXNzeWRzTFFBRFBCd0tUaXpHUGxHN1FmeFU"
-        },
-        {
-          "headline": "Hungary's Orban asks EU to go verify Druzhba pipeline damage - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 10:37:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5\" target=\"_blan"
         },
         {
           "headline": "Kremlin says Cuba situation is escalating, humanitarian needs must be solved - Reuters",
@@ -3799,6 +3780,17 @@
           ]
         },
         {
+          "headline": "Hillary Clinton to testify in congressional Epstein probe - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:02:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5\" target=\"_blank\"&gt;Hillary Cl"
+        },
+        {
           "headline": "Russia pounds Ukraine with missiles and drones, injuring at least 26 - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWRWQWliUG5lQVhvQkJXT0xn?oc=5",
           "source": "Reuters",
@@ -3836,15 +3828,15 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
         },
         {
-          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
+          "headline": "Exclusive: Broadcom expects to sell 1 million 3D stacked chips by 2027 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Thu, 26 Feb 2026 19:01:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
+          "date": "Thu, 26 Feb 2026 14:02:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5\" ta"
         },
         {
           "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -3860,6 +3852,17 @@
           "beatKeywords": [
             "Iran"
           ]
+        },
+        {
+          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 17:51:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
         },
         {
           "headline": "Walmart to pay $100 million to settle FTC allegations over deceptive practices for delivery drivers - AP News",
@@ -4402,113 +4405,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 13:57:11 +0000",
           "description": ""
-        },
-        {
-          "headline": "Smotrich Is Weakening as the Fight for Leading Israel's Religious Right Heats Up - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJrVlFRMVdiVXVNemZZYnFMN3dHc3NiVG44enFHZkMzMzZHUTFUV1laTmdiWUR0Mks5S1ZFZ08zc29ueWVmX2xvSWZETVBUMjVoLVp4NXpfbHlLWWFSRGFFa2wxUDJlSW1sUjVibFVvT1VuVURaa3c?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJ"
-        },
-        {
-          "headline": "'No Treason': Shin Bet Chief Rejects Conspiracy Theories on Hamas' Oct. 7 Attack - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDh"
-        },
-        {
-          "headline": "Israel waged a war of annihilation. Now it wants everyone but itself to disarm | Opinion - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2FIREdvTVpKanRIYWt3aUxjQTVXQW1NRjFaZnZTTXRTNjlGcEJZa0pfQWRUZE5xeVVrVFJFQXpUU3d2bVlibi16b2E2WUZ2bTJTT3Q2TFEwaGRTOWd5Z2dnankxYw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2F"
-        },
-        {
-          "headline": "Fourth Time in Five Days: Far-right Agitators Harass Arab Israeli Journalist Outside Her Home - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjdUcG41NW9vdFJzLTFnQVN4ak9sWThpVnQtalZ4dkJmR251b2tISDdGSlhoZGV2YThZbGp3UURwS1ZWazNOVW4tc1dSUENSdEpxbVBKT0Q1aXVLdXBNMmpjODhTSzA2MkdHdmN4RUxxWlQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 20:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjd"
-        },
-        {
-          "headline": "How did we get our Neanderthal genes? New study reveals the secret - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDNRXzFFRVZyNmwzZXJORkJ6Ml9wVi1TY1NXMUkycS1UTFQtNGNqTnNQUEdBdzZfVk1jb3ROUWc3Z2J1Zw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 18:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDN"
-        },
-        {
-          "headline": "Finance Minister Smotrich Slams 'Likud's Communist Faction' for Nixing $150 VAT Exemption Order - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g5V0NOLS15RWNZWDEyWGxTNjhIZ2dZUVNyRFNmNTUzV3k0dTZzMFFOUGpoMVZPVkJYQUFVM2RVbGJWUG9EU0I3NkxrOFpRVzhHTHpXU2djZ2ZDTWxoajBDMjJ1ZmYtSXRzNEpFQVNndw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 10:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g"
-        },
-        {
-          "headline": "Egyptian Ramadan series accused of turning Gaza war into nationalist propaganda - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ0ZXhtSTBZMnZObjlaVzR5TV9qT1A0RUJTbUxtMUt1YUtYekhhLTk1V0JtNUJCYlFtRnJvT2ktcGRRZFRib2I3Yy1kOEVQR3R2bGZoSkJBQ1cyeng3c3UwZ1ZHWXpqcEFCdVVHb29pd0tSYUs3cnJvV3dKSQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 07:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ"
-        },
-        {
-          "headline": "'Significant Progress' Made in Iran-U.S. Talks, Oman's Foreign Minister Says - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN1VktPcmtWWkl1Wm10VGN1OHl4ME1HRllGMS12OGJfQW9EUXFCeElLdXY5UGlyTFgxcTBLLUhDRGdmUkF2ZGloYnlwXzZfTm5wSm1Fc0l0dEliX3Q1M0E?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 08:13:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
-        },
-        {
-          "headline": "U.S. VP Vance: We've Seen Evidence Iran Trying to Rebuild a Nuclear Weapon - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE5SHlNaGxDOEg2VHFFaUNHSmNlYk5wMHVUWFhJQW5SWHRLUWdmUDZTQ0tIZ2hMbmptVmpmR1Ftby04dEo1YmRONzhxeGtNb3poU0YwRjhRMXNKYXQxVk9pcjdXZHVFY1hJaHAwdG8yZnI?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 00:38:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
         }
       ]
     },
@@ -4677,171 +4573,6 @@
           "priority": "primary",
           "language": "en",
           "date": "Mon, 23 Feb 2026 08:28:03 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
-          "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
-          "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:40 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
-          "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:00:16 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
-          "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:46 +0000",
-          "description": ""
-        },
-        {
-          "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
-          "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:31 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:27 +0000",
-          "description": ""
-        },
-        {
-          "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
-          "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Tue, 24 Feb 2026 21:00:09 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
-          "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:59 +0000",
-          "description": ""
-        },
-        {
-          "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
-          "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:43 +0000",
-          "description": ""
-        },
-        {
-          "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
-          "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Mon, 23 Feb 2026 21:00:08 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
-          "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:55 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
-          "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:35 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Former Eighth Brigade Commander Surrenders to Military Police as Clan Announces His Banishment from Daraa",
-          "url": "https://syrianobserver.com/syrian-actors/former-eighth-brigade-commander-surrenders-to-military-police-as-clan-announces-his-banishment-from-daraa.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:12 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Anti-Illicit Gains Authority Seizes 80% of Samer Fawwaz’s Assets Under Settlement Deal",
-          "url": "https://syrianobserver.com/syrian-actors/anti-illicit-gains-authority-seizes-80-of-samer-fawwazs-assets-under-settlement-deal.html",
-          "source": "Syrian Observer",
-          "sourceId": "syrianobserver",
-          "category": "syria",
-          "priority": "primary",
-          "language": "en",
-          "date": "Sun, 22 Feb 2026 21:00:08 +0000",
           "description": ""
         },
         {
@@ -5109,7 +4840,7 @@
           "priority": "primary",
           "language": "ar",
           "date": "Thu, 26 Feb 2026 20:32:24 +0300",
-          "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of Foreign Affairs and Expatriates.",
+          "description": "Today, Thursday, in the capital, Damascus, the Syrian Minister of Foreign Affairs and Expatriates, Asaad Al-Shaibani, received a diplomatic delegation from the European Union, headed by Rosa Maria Gelli, Director of the Directorate of...",
           "originalHeadline": "الشيباني يلتقي وفداً من الاتحاد الأوروبي في دمشق"
         },
         {
@@ -5243,6 +4974,171 @@
           "date": "Thu, 26 Feb 2026 16:01:14 +0300",
           "description": "A German official revealed that a meeting was held with the newly appointed Chargé d'Affaires of the Syrian Embassy, ​​Muhammad Baraa Shukri, during which they discussed the transitional phase in Syria and joint cooperation to combat...",
           "originalHeadline": "برلين ودمشق تبحثان التعاون المشترك لمحاربة \"داعش\" وجهود تحقيق الاستقرار"
+        },
+        {
+          "headline": "Israel says struck 8 Hezbollah compounds in Baalbek district - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 19:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE1XcjJMcWtBZnhtRGdrT1hZRnIzeXVJcXJrd2xraFNLdXBST0E2TzJ5UVBoVGk5Y3lzcUVWbUNLRFpjeGE4VjhGd1l0aE5Mclo2NWM5NGJCTWxJVTFfRHNDNUY5c3lETWY3Qk44ZWljZzExVExDcExidXpVbUF3UDcwa0dHNW5NRmthS1hvZm1vcDFESm9pclBJdGFfNW1jUXRXN3NR?oc=5\" target=\"_blank\"&"
+        },
+        {
+          "headline": "US, Ukraine hold talks in Geneva as Russia says 'no deadlines' to end war - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDhJeThrbm9FRGl4bmtkQk5pclZKdDJTbG5GS0RQVFpKSExMcGlGWjJsdXdyVlQxMnBUeGttS2ZOczhYZHB3UXhBdVZUR2dTdE1TR1BrbzFIcERjSDJ6SzRUZ2ZsQk9qRU5FU3E4cUFSeDlJclByakM0c0N4WktUemVPSm55Rk5rUzJMNHM5ZmU0ZlZKRjRfWHpoTXdPX1pMMDd4bi1sN1dqWnNtbUthcmg2RQ?oc=5"
+        },
+        {
+          "headline": "Hillary Clinton is testifying as part of House investigation into Jeffrey Epstein - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ1bzdRbHNWdlE2UQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWTJZUlY1cTdKVThRblhsaGRkUEdneHc2UWpHV1J3YjM4QU5GUFNsZ0ZoNE1wbmtFNE9FbkN6djBlZU9idm9EYzBwQUxOQml3aXk2SUZCNGpDMjZ5Rkx4MTBmSVBmUTVDUDV4UjE5X0NocW9Dd0NqcHN5TS16VUJZUDducWNzM3g5WmdGSktwSjlQTjNuaXBWQVQ5U0xKNGFnejVveWJQb2tsTWF4TUFaSlFOUUpTZHZ"
+        },
+        {
+          "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkhZZ3dEelBJWmswS01rcGVrSjJyUQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:27:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk5SNGRkU3BKQmJNSTJTMXd3Mm5UOGF0cjhTZnFZWjZVNmk2VjU1Q2VWSENMdjFKRi0ycUY3MWlQdDVaUno5TWc0QkFBR0tvZWtHNVloRlZjNHJuYVU0UE56Yk81ekZ4N09YcFpMTFg4a2ZnczFEb3ZhSFlpWUtReGFRX2ZrbWU3bTZBY0hBNTJBTDFRRTF6V2gxOE5PWHdDZmZwRmhmSkdQNV9QZkhja0FzY0lhMkh"
+        },
+        {
+          "headline": "Instagram says to notify parents if teens 'repeatedly' search for suicide related terms - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJWeFpraVNEVUpkVFZrOGRF?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUldUcVlrM01fbGRBOEpGZXpxdXhaelVEb3NINXZKVTZwZ1lmZXBaMVA2bV80b3hTYlRUMUcyX2JQUjNDamY3Zk9UNFRvaTlSVC1kTXBwYjJxa2RidGFFVDFIdTZxblcxWUhQZDhiQndGV01zTVNKcmpZU3ZDVnowdE9HcExJdVk5enp2Z3JfZk5jNUtlQ09WVTI2QThNaW5IMWlkMlRGU0ZnU1YtZFBLOFM5MXZWblJ"
+        },
+        {
+          "headline": "Soaring cost of food and other staples squeezes Iranians as threat of US attack looms - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21OWkdzRTFwTC1OVUxVMms0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXdJNzVDSW95VVRUR20yRmxCVFpTS2ZqN0JCWVdZZkNtZ3l6aUJvUG9HQ2JiT0dhOVA3NkdoY1Nmdko5TEM1Ri1jWElsZUdwZFBUU0I2a213ZzU4cHBBY2w1bFl3MHJ4VDN0dUY4Y0JRUWtkaVc5NVNNSDRMOFRrRDVQT3F2ZlNDb0xzd25BQmpnQk8zZHZ6a1ZQY1N5LTFTYzlIM0pFMnFlaXNJVWtUWS1BR0tLS21"
+        },
+        {
+          "headline": "Cuba will defend itself against any 'terrorist aggression' - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmFQcDNDZ0ZKZFlDbUNvc2p5cURxNEw3aHNRQXByRkg2aW04U09RUENiYWpJbHl5MmcyaDM3TUNjUUY3VUJMX2dtLWtseExCNGxkUkxBZ1ZQcXlSR0ZkbVZlT25YaEVLdWhsRVV2UnhIdUZYQmp4bm02ZWV6STdCSUpBaUFDdGttVjd2cDRUb3VJY0ZjZ0JTY25mTlN6bzR0?oc=5\" target=\"_blank\"&gt;Cuba "
+        },
+        {
+          "headline": "Russia launched 420 drones, 39 missiles at Ukraine - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:39:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2xtZWlNS2dJOVpldGMyQWVCRkpLYjA3eC1HLXhWR2ZrcEJmSGFvT19DTEF3TzU3WXMzNjZJNHE0VEtwbHhkbVIyeWFxb2VDaFhIcm5tOENXUmZDdVhKUzZld3F0TE0wNjkzUm5YZHdoLWtwOHVjY2ZqblZUSGdJRkxILXkxcFNmbnoxNWdGeTN5Skt3?oc=5\" target=\"_blank\"&gt;Russia launched 420 d"
+        },
+        {
+          "headline": "Syria govt swap dozens of detainees with Druze factions - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:39:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdPQXdYZkFUaE5jUjZ3Z09za3N3YXdBSzY5YkpWOG0xOGxPbWFYTUZ1aVBXNlVEZDhyLUY3WTlyelJQVUJrNnVsSUtxNW9FZkhGOUpwellzQnJCMHRRdXBwVnozM0ZHVnB1aE1pN2hCZ0NPTm1tOUVlMVU2bExXb0I2X00wUFAzck1oZ0U4OFRYS2ZDVHVIQ1lFTC0?oc=5\" target=\"_blank\"&gt;Syria govt"
+        },
+        {
+          "headline": "Israel boycotts Mechanism meeting - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:15:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1hnbjJDY09rZDJNQVhQbVVNTXJ3MUJKc1ZMTWhRM2xUT2VQaDhFUHZabEEzNV9YTXJWM3d4aW9HeEVSYUJvVG9zREMybnhxU2NxZmZ2RDNVU1Q3cE1aekVSRGZLR1NXX2VpdXRxN0NxUV96VEFJMm01UWl6MUZYdGdR?oc=5\" target=\"_blank\"&gt;Israel boycotts Mechanism meeting&lt;/a&gt;&a"
+        },
+        {
+          "headline": "Israeli strike kills at least 2 Palestinians in Gaza - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 14:17:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2hVNERqbHFWTVFsdjZxTHRjLVZ1dFVFVmtOZEdiVjNIVy1ZV2k4UVZUZzV0ZDgtSjFpVXVmMXd2RFpzZGRBRXJZWFBBVEhDYy1wN3BHRENuOFIxemxCcUxFZFItUklscllPUUtYbWVVYUp4TmtWSHJZdVNFNUpfRW9UMmUzX29tRXVRWkxmNXd4Z2VHYlZDdWpoZw?oc=5\" target=\"_blank\"&gt;Israeli str"
+        },
+        {
+          "headline": "Israeli drone strikes Nabatieh's Ali Taher - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 13:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZldUSVpuUHhpd3FSd29qQ2V0WEVkVUVCR0NjYjVTbTNRQ19wTGRLSVBfYnZhMmRzc0FVTlQ2Q1JHakFiTXV0VzhOTHVNNDh2eS1PUkhfVC1oYm5hQ1FCLTJwQmdqX1dvRi1Dc0ZvcXFfbFlzY1VkSnZocHNTcERMZ09BUWVMZWpVOG9SMVJ3?oc=5\" target=\"_blank\"&gt;Israeli drone strikes Nabatie"
+        },
+        {
+          "headline": "Reports: Hezbollah reassures state, Presidency threatens Hezbollah - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:47:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0xOdTVPM1ZMZ2FYN2MydVhVTzFReGVxRlhwSFY0UlpIYTVzc0JxXzg0bE82T1prSTRpcjhKR0NJeGYySDhVZmdkMldOY21lME1mNmM3b2xvb0c5dEI5c3hRN0Z2bmNFOV9Nc0VUdnlHMF91UEFvWkxlUml2VFFjVVFrYXdRZmE4VVp2SzllUFh3MFFpTXloajhTSWZrbUduVDFSNWhTbXFKTms?oc=5\" target=\"_"
+        },
+        {
+          "headline": "Salam says army can finish N. Litani plan in 4 months - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:39:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjFfVGZ6R0tDaU94LU0zd09MVWtIWGZFeFJqNnNTVGx2ajRfZVV0Yk5lMl9oV1NHMTRBRUQ3UW1ibUVWQ2RTSHBiRmhWZXp2WHdlQ3FfSEFQRzB1VXdtWW9HOTcyaFFQN0loV3k4QWR6elliUW9Mc2VoS0ZtdXlUZk9PTmpxRHNSQ05weWN4Zjl2UWlEVmNESmpVTQ?oc=5\" target=\"_blank\"&gt;Salam says "
+        },
+        {
+          "headline": "Aoun, Salam sign decree for extraordinary legislative session - Naharnet",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5",
+          "source": "Nahar Net",
+          "sourceId": "naharnet",
+          "category": "lebanon",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1RiZXJQcG1fMVpqWTBNYVNXOXk4RG96NjFyS2tDdWcxM05xQjhaTl9jbmVFUEtLNDJPM0xCSmFXZ1ZYOEVaZGxmVVozTWlTQm8yMGpfNXZvTjhaZTNyeXFjTGhYb0JnV252MzBXaFUzdG04WGJYV2xiM0hzY0VQUjItSzdkRGx3VE9iMkQybGNZZUNMOWxKVnBQWG1fZGh3?oc=5\" target=\"_blank\"&gt;Aoun,"
         },
         {
           "headline": "US-Iran talks conclude with claims of progress but few details",
@@ -5781,7 +5677,7 @@
           "priority": "secondary",
           "language": "ar",
           "date": "Thu, 22 Jan 2026 07:44:34 +0000",
-          "description": "  London: Al Arabiya.net Confusing questions continue to dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of alien beings to our planet, a date that was scheduled last month, while no one has been certain.",
+          "description": "  London: Al Arabiya.net Confusing questions still dominate scientists after the pace of doubts has recently escalated regarding an “alien invasion” of the Earth. These doubts have led to one of the most prominent scientists setting an exact date for the arrival of aliens to our planet, a date that was scheduled last month, while no one has been certain.",
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
@@ -5905,6 +5801,61 @@
           "originalHeadline": "شقير يهيب بـ&#8221;حزب الله&#8221;: أبعدوا عنكم وعنا هذه الكأس المرّة!"
         },
         {
+          "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+        },
+        {
+          "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+        },
+        {
+          "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+        },
+        {
+          "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+        },
+        {
+          "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
+        },
+        {
           "headline": "Trump asks US Supreme Court to end protections for Syrian immigrants - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFgwMmNPTkNBY1laMy0welNlTHQ2RWY2c1B1QU9kVWQyVUVqdkhjRXBDT2swQVhjQVlsSElfUnhYZFVtYmMzbEIzcG1oSkp3YmdROGpqWnA2X3Z1ODZQYXl0TzdockpLdHVSbUVFZThvN2JOVlBRNG8wZGRIUGl0X1J4MWlMOTQzQjFhY1kxdkc3RlJsVUtKdXBKUG0tY293TER4S0lZbGN2bHpzb1ZDNFYtd2c?oc=5",
           "source": "Reuters",
@@ -5929,17 +5880,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 00:16:43 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUthRjNMX2JNQVNZVDB5MGU5YXRXd1ctS0paV2R0NjBLSXFkWHg3SXdRYXhwZTR6OXB0NTRsVFoxMVNmd2RTcENBZTFYbXRoMFFZTXhHM3A4UDJJbno3T3Z4TGx4bGFPYzRVX09PVmNKcEVXVmZQWWJuTUZXRjVPeThoMzFveVFDUGRpR0Zpd0NMaXJMUFBPQldxaEtTUDBTY2xnV0ZSaXpZZTktQlh5aw?oc=5\" ta"
-        },
-        {
-          "headline": "South Korea, UAE sign MOU on $35 billion defence cooperation, envoy says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ5NXFxczRB?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 08:34:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
         },
         {
           "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
@@ -5984,17 +5924,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 02:10:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHkyYW9US0o0cTlnV1FxSzEwa2htdWFPbGlqY3FqR1pxQWVvYVlZVW85XzgxX1VYcUR0QXdOVGtRVlF4RHJsVGhRUmZfNHlMU3ZJb0xVcEhpSS1PQ3hfakVfeXg2STlXR0lBNWd2cm52XzBjcTRKcnJjY3pSUWpkUVRHUEIwNmQwUzRaSWxLMmpyRGU2d0dUcHlqU3dBaXNzeWRzTFFBRFBCd0tUaXpHUGxHN1FmeFU"
-        },
-        {
-          "headline": "Hungary's Orban asks EU to go verify Druzhba pipeline damage - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 10:37:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX09JZWdpTHBINWRtdWFMdU0zQUs0QVgwdUdBX05LUG9YcXQwQWNPNzVxUzBKZW5qZHU0UTVoZkdQdzlhYnFCZ3ZFZXhhX21OUnloLWpqQ0p2ZEQ3dlpLWnNtQjkxdlVVbTMwRkFUOFA0OTNCQy1OdVlmel9sa2szWDVnTW1haGZsZjRuUUZyRnJQY0RJSFRBTDRoTHFtbTNPNUxQNTFscU4?oc=5\" target=\"_blan"
         },
         {
           "headline": "Kremlin says Cuba situation is escalating, humanitarian needs must be solved - Reuters",
@@ -6049,6 +5978,17 @@
           ]
         },
         {
+          "headline": "Hillary Clinton to testify in congressional Epstein probe - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 11:02:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3NLWWN4a0NKWUNzQTFQQ2FCQmVvd3BHb3lkVk51Y0l1d3ZVaHBTM3RGM2JSbjJETUhlU2ZBRDhYNG5sWHdZSHZwNklWeENYcmFKY1NiTzZ3YTdMSDNOSHVRcE1hNnVkZUs1UmNkTk1QSjg3aHJNWEI0dW1tdXRrUVZLd0tlNDRJSk1aN2U2YUpOUGtxYjRpZnk0MkY?oc=5\" target=\"_blank\"&gt;Hillary Cl"
+        },
+        {
           "headline": "Russia pounds Ukraine with missiles and drones, injuring at least 26 - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWRWQWliUG5lQVhvQkJXT0xn?oc=5",
           "source": "Reuters",
@@ -6086,15 +6026,15 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
         },
         {
-          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
+          "headline": "Exclusive: Broadcom expects to sell 1 million 3D stacked chips by 2027 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
           "category": "wire",
           "priority": "secondary",
           "language": "en",
-          "date": "Thu, 26 Feb 2026 19:01:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
+          "date": "Thu, 26 Feb 2026 14:02:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXg0TU1sNFJpR3MwT3BHQmk2MmJibGo2TGFwZ0pBQUJTQ2FjejVTOVA3bnIxdnF2dVRwX3VJNTVSRlhQMk9YR1llU1hySmFsRnc0ckJpQU50aHJhWk92eUhLNXlDZTlPckVKcEwxelZ0TGVGUXluSEcyemdsSmNaQTVsNGx3ZXpLOWpEcDlrbzM2RW1wSUNCNi1TQlVnVmNSS2l2andFM2dzbUFRRVRILQ?oc=5\" ta"
         },
         {
           "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -6110,6 +6050,17 @@
           "beatKeywords": [
             "Iran"
           ]
+        },
+        {
+          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 17:51:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
         },
         {
           "headline": "Walmart to pay $100 million to settle FTC allegations over deceptive practices for delivery drivers - AP News",
@@ -6650,113 +6601,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 13:57:11 +0000",
           "description": ""
-        },
-        {
-          "headline": "Smotrich Is Weakening as the Fight for Leading Israel's Religious Right Heats Up - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJrVlFRMVdiVXVNemZZYnFMN3dHc3NiVG44enFHZkMzMzZHUTFUV1laTmdiWUR0Mks5S1ZFZ08zc29ueWVmX2xvSWZETVBUMjVoLVp4NXpfbHlLWWFSRGFFa2wxUDJlSW1sUjVibFVvT1VuVURaa3c?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxPOHdkSllkWFVDUGtrX1FURkZRa0Rtcy13bEJ2ZmZTSEpXejNVNkpRYjBld2Y4SlhBTVQyc3RkWlRqX0NkcWtRMDE2WDJQVG05bnhQVjl0eXdYdU9Ob0d5a2pNLVc1Y3hmOHlxV1pPRWdPb2Rycm9aOFR3dHlsTGtMLXQ4bjMxUGt6UHA1N1RlZU14a1RTaHV4VDMtZFRWUHVYeDJxeDM1MTh0djJBVzVoTkRYUXE3aUJ"
-        },
-        {
-          "headline": "'No Treason': Shin Bet Chief Rejects Conspiracy Theories on Hamas' Oct. 7 Attack - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDh"
-        },
-        {
-          "headline": "Israel waged a war of annihilation. Now it wants everyone but itself to disarm | Opinion - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2FIREdvTVpKanRIYWt3aUxjQTVXQW1NRjFaZnZTTXRTNjlGcEJZa0pfQWRUZE5xeVVrVFJFQXpUU3d2bVlibi16b2E2WUZ2bTJTT3Q2TFEwaGRTOWd5Z2dnankxYw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 21:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPcUtyeEdmTXFMaThaaWlMbHR2UkhOUlhOcWlFcFc4ZmsxNHd6MFFMcWxoRDdrbjlkYUZOd2ZVdzJlRHJCMVNKR2M1UXRNemFuU2REZFZPMDJxZkpJbElGblBKMkFyTDYxa21VSEJrdXNYRWMxLTBUZjZuSnpHMFN3V0ltc2NWRkhpeWpOODRNVjdyWGNqdEdEaFQ2NkFjY3JvTnQxdVFIX1d0b1pSeGh2NWlkMUNjX2F"
-        },
-        {
-          "headline": "Fourth Time in Five Days: Far-right Agitators Harass Arab Israeli Journalist Outside Her Home - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjdUcG41NW9vdFJzLTFnQVN4ak9sWThpVnQtalZ4dkJmR251b2tISDdGSlhoZGV2YThZbGp3UURwS1ZWazNOVW4tc1dSUENSdEpxbVBKT0Q1aXVLdXBNMmpjODhTSzA2MkdHdmN4RUxxWlQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Wed, 25 Feb 2026 20:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVi1LbGFZVkh4Q0JodDg5YTlvbF9Cc0Q2N1ZRN2ZLRGFocEVoaDFzd1F1WVdHZ0FET0VTeEQ5NWlOeTRoWkZDeGRfTjZ6MXdldkZLNU8wRWRxck1wVmZjMWY1UHhoa0R1REJhSW8yUVVNRzJCbV9ZVG1Sa3pXTnJSbG9scTEyUGFxbFF6OE5ZbnQtM2lCVVhVZkIzc2I2MXY2dmVCTkp3UnNHSmFNeExYV0xhUDNaRjd"
-        },
-        {
-          "headline": "How did we get our Neanderthal genes? New study reveals the secret - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDNRXzFFRVZyNmwzZXJORkJ6Ml9wVi1TY1NXMUkycS1UTFQtNGNqTnNQUEdBdzZfVk1jb3ROUWc3Z2J1Zw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 18:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEcxVmVndDdIdFlHU0hHZ2Q4SjFQc3dOMUFldm1QakZIaXNpZjNyVUFjR0JTU0lLa2I5R2hCTlQ2dFpGdG9DVkRnYmZtcXBVQTltOGpFd2NUalRoakk5QUtOejFOcThIQ1FMZU5UcWU1NHE1ZnlMYUp6X2JXSHpMSFlCVGVLc1dDcUM3UHo3VWhIX1E2cmtQd1lpWkpXNUxVU3k5ejY2eEdnT2h3LTNvVWxLWWZ1aDN"
-        },
-        {
-          "headline": "Finance Minister Smotrich Slams 'Likud's Communist Faction' for Nixing $150 VAT Exemption Order - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g5V0NOLS15RWNZWDEyWGxTNjhIZ2dZUVNyRFNmNTUzV3k0dTZzMFFOUGpoMVZPVkJYQUFVM2RVbGJWUG9EU0I3NkxrOFpRVzhHTHpXU2djZ2ZDTWxoajBDMjJ1ZmYtSXRzNEpFQVNndw?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 10:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxORjZteTFseEZnZ0hRMVR1QmJsVndoWFNOeF9keVdJZ0l0Zm9feFBVVnUwVVdBVUMydHNJTnlvMjJaaVk1Nm8tV2prVDBBWU8zUExpZXRTQzhaRDZhTTA4WmNPNjRYU0o2NTYzM0ctTFVjUlhvSnFmVzlWUVA2M0trRVl2QkE2amZKaVk0QkllN2pJSDZpMEcxdUowV1lKZDZmMWpCd0NyUHBicTRuYnViUDVyZHFJX3g"
-        },
-        {
-          "headline": "Egyptian Ramadan series accused of turning Gaza war into nationalist propaganda - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ0ZXhtSTBZMnZObjlaVzR5TV9qT1A0RUJTbUxtMUt1YUtYekhhLTk1V0JtNUJCYlFtRnJvT2ktcGRRZFRib2I3Yy1kOEVQR3R2bGZoSkJBQ1cyeng3c3UwZ1ZHWXpqcEFCdVVHb29pd0tSYUs3cnJvV3dKSQ?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 07:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1JFcW8ydUNrVV9fVEQtcHhjT3YzTjUwTHNGTDl6cUNUUnFiZjl0MUYxMDdFZllETmEzZlpYZ19ZTkV3RTdGd2ZMSmFaRmdvQ2otWWpXbTBsdGw3ZFFPeW42UXBfS0FKd1Q4NC1tdVFqVVkwR21PRUFXM3FkVEdzY2hqWVV3WGNaQVdtVHF2YV9vUC1USDA4RWhBbWNPYjFDS3VvSXpPWWdIOWVtR0Q2V2c0cENqREJ"
-        },
-        {
-          "headline": "'Significant Progress' Made in Iran-U.S. Talks, Oman's Foreign Minister Says - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN1VktPcmtWWkl1Wm10VGN1OHl4ME1HRllGMS12OGJfQW9EUXFCeElLdXY5UGlyTFgxcTBLLUhDRGdmUkF2ZGloYnlwXzZfTm5wSm1Fc0l0dEliX3Q1M0E?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 08:13:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
-        },
-        {
-          "headline": "U.S. VP Vance: We've Seen Evidence Iran Trying to Rebuild a Nuclear Weapon - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE5SHlNaGxDOEg2VHFFaUNHSmNlYk5wMHVUWFhJQW5SWHRLUWdmUDZTQ0tIZ2hMbmptVmpmR1Ftby04dEo1YmRONzhxeGtNb3poU0YwRjhRMXNKYXQxVk9pcjdXZHVFY1hJaHAwdG8yZnI?oc=5",
-          "source": "Haaretz",
-          "sourceId": "haaretz",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 00:38:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
         }
       ],
       "tertiary": []
@@ -7124,36 +6968,6 @@
         "beatKeywords": [
           "Iran"
         ]
-      },
-      {
-        "headline": "'Significant Progress' Made in Iran-U.S. Talks, Oman's Foreign Minister Says - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN1VktPcmtWWkl1Wm10VGN1OHl4ME1HRllGMS12OGJfQW9EUXFCeElLdXY5UGlyTFgxcTBLLUhDRGdmUkF2ZGloYnlwXzZfTm5wSm1Fc0l0dEliX3Q1M0E?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 08:13:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1hpc014eXhlZUJMdW1JejZvdlRJdmc4OUhudWR4Tjg2UzdCeDhoWkdYS3ZIVmx3RzQ0LVNOcHFjekltT2NKelNRUkQ3Z0hXTmFjUmpNWHc3NVQtSWxwOW5nUjBaU0RBc0dNTnM4VXpmcE1jNzhxWExIUHpNUlZSSlRBMVI0SFRyOGNZNGxRbFl5R0NYcW9uYUgxeTdhLVIzWVg3VEVHczhRX2k1VUlldzV6MG04YkN",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
-      },
-      {
-        "headline": "U.S. VP Vance: We've Seen Evidence Iran Trying to Rebuild a Nuclear Weapon - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE5SHlNaGxDOEg2VHFFaUNHSmNlYk5wMHVUWFhJQW5SWHRLUWdmUDZTQ0tIZ2hMbmptVmpmR1Ftby04dEo1YmRONzhxeGtNb3poU0YwRjhRMXNKYXQxVk9pcjdXZHVFY1hJaHAwdG8yZnI?oc=5",
-        "source": "Haaretz",
-        "sourceId": "haaretz",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 00:38:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNU3BBQ2txZVRYQ2FPY0ZmbnUtSjJmTEhvTkw0azFOelRYZVk2MEU1Y2hGRjR3bEJZLVpsVnlDc2ZVRV9idGQxd1JtSjJTSnc5ODBsZVdVTTNiZ0dHTGpPY21TN2NmQ00ycWU5NzVZZWdfeUlyU0tKQzhaSkhnR1VFU3VBaXR6d0Q0OTFkZnFtMF9TcVgxdFRVbkdhM1hrSVJXYkd0MXFzbE9UMTRGQ3dpd2U2WXNLckE",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
       }
     ]
   },
@@ -7187,6 +7001,11 @@
     }
   ],
   "feedHealth": {
-    "failed": []
+    "failed": [
+      {
+        "name": "Syrian Observer",
+        "error": "socket hang up"
+      }
+    ]
   }
 }
