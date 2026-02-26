@@ -1,18 +1,23 @@
-Syrian security forces [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, part of ongoing operations to root out remnants of the extremist group. The arrests come as the new Syrian government works to establish control across territories previously held by various factions.
-
 **Syria**
-• Security forces [killed the leader](https://english.enabbaladi.net/archives/2026/02/leader-of-saraya-al-jawad-killed-in-clashes-with-internal-security/) of "Saraya al-Jawad" during clashes with Internal Security, per Enab Baladi, as authorities move against remaining armed groups.
-• [Negotiations are underway](https://english.enabbaladi.net/archives/2026/02/negotiations-underway-for-prisoner-exchange-between-syrian-government-and-suwayda-factions/) for a prisoner exchange between the Syrian government and Suwayda factions, Enab Baladi reports.
-• Syrian authorities have [banned foreign trucks](https://english.enabbaladi.net/archives/2026/02/jordanian-freight-forwarding-and-customs-clearance-firms-protest-syrias-ban-on-foreign-trucks-entering-the-country/) from entering the country, prompting protests from Jordanian freight and customs clearance firms, according to Enab Baladi.
-• Egypt is conducting a [security crackdown](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians with arrests and deportations, Enab Baladi reports.
-• Damascus will host the [first Syrian Travel Expo](https://english.enabbaladi.net/archives/2026/02/first-edition-of-the-syrian-travel-expo-to-be-held-in-damascus/), per Enab Baladi.
+
+• Syrian Internal Security [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, as the group [killed four security personnel](https://news.google.com/rss/articles/CBMixAFBVV85cUxPZTQ2eEJXNjU5UmVMaTc3MXZUQk5yZlJfV3ZNb0k3dUVhaVRDVkJUcVFYLVlJQzk0bU9Iam1CeGM3bk96Z3d3andFT2VZS243R041aW1PYV9oRnREblMwd1NYYmh1YVZnZkkxM3Fac1Y1bUhoMU1CRGRQS1Q3MFkzcFJOa3FnTmhMclIwX292R2xFeXZkTU9udExZZUV6MjNHQ3ZQeGJGNFJ0ZlpQN2RfZlc4bFQ1V2JCNXVMcHoxTDJwQ2Rj?oc=5) elsewhere in the country, Reuters reports.
+
+• The leader of armed group Saraya al-Jawad was [killed in clashes](https://english.enabbaladi.net/archives/2026/02/leader-of-saraya-al-jawad-killed-in-clashes-with-internal-security/) with Internal Security forces, Enab Baladi reports.
+
+• Human Rights Watch says the [fate of 8,500 detainees](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) in northeast Syria camps remains unknown, per Enab Baladi.
+
+• The IMF sees [signs of recovery](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) in Syria's economy and has launched a financial reform program, Enab Baladi reports.
+
+• Syria has banned foreign trucks from entering the country, prompting [Jordanian freight companies](https://english.enabbaladi.net/archives/2026/02/jordanian-freight-forwarding-and-customs-clearance-firms-protest-syrias-ban-on-foreign-trucks-entering-the-country/) to protest the move, according to Enab Baladi.
 
 **Lebanon**
-• Lebanon's [second airport could receive passengers](https://www.aljazeera.com/features/2026/2/25/lebanons-second-airport-could-receive-passengers-by-summer-officials-say?traffic_source=rss) by summer, Al Jazeera reports, as long-discussed plans for an alternative to Beirut's main airport move closer to reality.
-• The Hospital Syndicate in Lebanon issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, OLN News (Lebanon) reports, calling them violations of international law.
+
+• Lebanon's Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, calling any attack on medical facilities a violation of international law, OLN News (Lebanon) reports.
 
 **Broader Levant**
-• A Hezbollah official told Times of Israel that the group [will not intervene](https://www.timesofisrael.com/hezbollah-official-we-will-not-intervene-in-event-of-limited-us-strikes-on-iran/) in the event of "limited" US strikes on Iran.
-• The US [issued new sanctions](https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss) targeting Iranian oil vessels as the Trump administration intensifies its "maximum pressure" campaign, Al Jazeera reports.
-• Iran [rejected "fictional narratives"](https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss) of a power grab after recent protest killings, with former President Hassan Rouhani denying reports he wants to replace Supreme Leader Ali Khamenei, per Al Jazeera.
-• The US move to [provide consular services](https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss) in the illegal Israeli settlement of Efrat was condemned by Palestinian authorities and Hamas as a breach of international law, Al Jazeera reports.
+
+• Prince Harry and Meghan met with [hospitalized Gazan children](https://www.timesofisrael.com/harry-and-meghan-meet-with-hospitalized-gazan-children-during-visit-to-jordan/) during a visit to Jordan, Times of Israel reports.
+
+• Egypt has launched a [security crackdown](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians with arrests and deportations, according to Enab Baladi.
+
+• Several countries are issuing [Middle East travel](https://news.google.com/rss/articles/CBMivAFBVV85cUxOaDhwbGtwbjFldGkyaFd6c3MyeDFhY283Z0IwTlBjOXFxZTdBLXJidm9SWS1aWWtUbjhxNGNQSjZNVUlfSnJZeUhTZzF6U1daeDZXeFRkZmIwQjEzX0gtWWJwRlYtWm82dTZjMjJqMjhVb1cyUl9vUDJpNlBTQ0xvOFUzaFNmTmFTbk4tZUMwZVVwM2l3V3RyUXJEN1E5dUJ2MExDQjB3S1lka1Y4N1k3Rjd1UTVsb0dQZGloRw?oc=5) advisories as Iran tensions rise, Reuters reports.

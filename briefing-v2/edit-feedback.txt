@@ -1,53 +1,54 @@
-Here are the specific issues found:
+Here are the issues found in this Levant briefing draft:
 
-**1. FACT-CHECK:**
-Issue: The lead paragraph cites Human Rights Watch reporting on 8,500 detainees, but this story is not in the provided Syria source data. The link URL exists in the text but the story title/content is not listed in the 72 Syria stories provided.
+## BLOCKING ISSUES
 
-**2. STYLE - CONTRACTIONS:**
-Clean.
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph is poorly constructed and contains fabricated information. The opening claim about Iran's Foreign Minister arriving in Geneva is not supported by any source data provided. The lead also lacks proper context and stakes development beyond restating events.
 
-**3. STYLE - "AMID":**
-Clean.
+**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains appear: Enab Baladi, OLN News, and Times of Israel. However, multiple links point to "news.google.com" which are not direct source links. The briefing needs to incorporate stories from the actual source data provided, such as Al Jazeera stories from the WIRE section.
 
-**4. STYLE - EM-DASHES:**
-Clean.
+**7. SECTION COVERAGE (BLOCKING):** Lebanon section is extremely thin with only one bullet point, while substantial Lebanon source data was provided (including 5 OLN News stories). More Lebanon content from the source data should be included.
 
-**5. LINKS:**
-Issue: "security crackdown targeting Syrians" exceeds 3 words (4 words)
-Issue: "urgent statement condemning threats" exceeds 3 words (4 words)
-Issue: "provide consular services" exceeds 3 words (3 words) - actually this is exactly 3, so clean
-Issue: "issued new sanctions" exceeds 3 words (3 words) - actually this is exactly 3, so clean
+## FACT-CHECK ISSUES
 
-Correcting above - only these exceed:
-- "security crackdown targeting Syrians" (4 words)
-- "urgent statement condemning threats" (4 words)
+1. The entire lead paragraph about Iran's Foreign Minister Abbas Araghchi and Geneva talks is not supported by any source data provided. This appears to be fabricated content.
 
-**6. TONE:**
-Issue: "signaling efforts to integrate southern regions" - ends with implications rather than facts
-Issue: "as the country attempts to revive its tourism sector" - ends with implications rather than facts
-Issue: "suggesting potential limits to the group's support for Tehran" - ends with implications rather than facts
+2. The claim about Trump threatening military force and Australian diplomatic personnel evacuation is not traceable to the source data.
 
-**7. SECTION COVERAGE (BLOCKING):**
-Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+3. Multiple Syria bullet points reference stories not in the provided source data (ISIS cell dismantling, Saraya al-Jawad leader killing, HRW detainee report, Jordanian freight company protests).
 
-**8. SOURCE DIVERSITY (BLOCKING):**
-Clean - 4 unique outlet domains: Enab Baladi, Al Jazeera, OLN News, Times of Israel (exceeds minimum of 3).
+## STYLE ISSUES
 
-**9. ATTRIBUTION:**
-Clean - All links have proper attribution nearby.
+**3. STYLE - "AMID":** Clean.
 
-**10. ARABIC SOURCE QUALITY:**
-Clean - OLN News properly attributed as "(Lebanon)".
+**4. STYLE - EM-DASHES:** Clean.
 
-**11. "ADD CONTEXT" CLAUSES:**
-Issue: "signaling efforts to integrate southern regions" 
-Issue: "as the country attempts to revive its tourism sector"
-Issue: "suggesting potential limits to the group's support for Tehran"
+**2. STYLE - CONTRACTIONS:** Clean.
 
-**12. LEAD QUALITY (BLOCKING):**
-Clean - Lead is 3 sentences with context, stakes, and attribution.
+## LINK ISSUES
 
-**SUMMARY:**
-- 1 fact-check issue (unsourced HRW claim)
-- 2 link length violations 
-- 3 bullets ending with implications rather than facts
+**5. LINKS:** Multiple violations:
+- "according to Al Jazeera" (4 words, should be max 3)
+- "per Reuters" is acceptable (2 words)
+- "ordering families" is acceptable (2 words)
+- Several links point to "news.google.com" instead of direct sources
+
+## OTHER ISSUES
+
+**9. ATTRIBUTION:** The following links lack explicit source attribution:
+- "urgent statement" link needs "OLN News reports" or similar
+- "hospitalized Gazan children" needs clearer attribution placement
+
+**6. TONE:** The lead paragraph reads like dry headline summary rather than conversational prose, particularly the opening sentence structure.
+
+**11. "ADD CONTEXT" CLAUSES:** Clean.
+
+**10. ARABIC SOURCE QUALITY:** The OLN News attribution needs country specification (e.g., "OLN News (Lebanon) reports").
+
+## RECOMMENDATIONS
+
+1. Rewrite the lead paragraph using actual source data provided
+2. Add more Lebanon content from the OLN News stories in source data  
+3. Replace fabricated Syria stories with actual stories from Enab Baladi source data
+4. Fix link text length violations
+5. Add proper source attributions where missing
+6. Use direct source links instead of Google News redirects
