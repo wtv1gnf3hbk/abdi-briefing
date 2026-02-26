@@ -461,7 +461,8 @@ CRITICAL WRITING RULES:
 8. Every bullet must have at least one embedded link.
 9. Vary attribution: "Reuters reports", "according to BBC", "per Enab Baladi", "NNA reports" (use each phrasing only once).
 10. For Arabic-language sources, attribute with country: "Syria TV (Syria) reports...", "El Shark (Lebanon) reports..."
-11. Do NOT pad sections. If Lebanon only has 2 real stories, write 2 bullets. Never fill space with "X called for Y at a conference" filler.`;
+11. Do NOT pad sections. If Lebanon only has 2 real stories, write 2 bullets. Never fill space with "X called for Y at a conference" filler.
+12. SOURCE DIVERSITY: No single source should account for more than 30% of all links or attributions. Spread across your available sources — wire services (Al Jazeera, Reuters, BBC), Syrian outlets (Enab Baladi, Syrian Observer, Syria Direct, SANA, Levant24), and Lebanese outlets (NNA, L'Orient Today). If you find yourself citing the same source 3+ times, actively seek coverage from other outlets in the story data.`;
 
   const userPrompt = `${greeting} Here is what is happening across Syria, Lebanon, and the Levant:
 
@@ -583,6 +584,96 @@ Output the final revised briefing now.`;
 }
 
 // ============================================
+// SOURCE DIVERSITY ENFORCEMENT
+// Code gate: counts link domains AND source name mentions in the text.
+// If any single source exceeds 30%, retries Pass 3 with explicit feedback.
+// Prose rules alone don't work (CLAUDE.md Rule 11).
+// ============================================
+
+function analyzeDiversity(markdown) {
+  // --- Link domain analysis ---
+  const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g;
+  const domains = {};
+  let totalLinks = 0;
+  let match;
+
+  while ((match = linkRegex.exec(markdown)) !== null) {
+    try {
+      const hostname = new URL(match[2]).hostname.replace(/^www\./, '');
+      domains[hostname] = (domains[hostname] || 0) + 1;
+      totalLinks++;
+    } catch (e) { /* skip malformed URLs */ }
+  }
+
+  // --- Source attribution analysis ---
+  // Count how many times each outlet name appears in the text
+  const sourceNames = [
+    'Enab Baladi', 'Syrian Observer', 'Syria Direct', 'SANA',
+    'Levant24', 'Syria TV', 'Aleppo Today', 'Shaam TV',
+    'NNA', 'L\'Orient Today', 'Nahar', 'An Nahar', 'ElNashra', 'Al Akhbar',
+    'Al Jazeera', 'Reuters', 'AP', 'BBC',
+    'Times of Israel', 'Haaretz', 'OLN News', 'El Shark'
+  ];
+  const attributions = {};
+  let totalAttributions = 0;
+
+  for (const name of sourceNames) {
+    const regex = new RegExp(name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    const count = (markdown.match(regex) || []).length;
+    if (count > 0) {
+      attributions[name] = count;
+      totalAttributions += count;
+    }
+  }
+
+  return { domains, totalLinks, attributions, totalAttributions };
+}
+
+function checkDiversity(markdown) {
+  const MAX_SHARE = 0.30;
+  const { domains, totalLinks, attributions, totalAttributions } = analyzeDiversity(markdown);
+
+  // Log link distribution
+  if (totalLinks > 0) {
+    console.log(`\nLink diversity check (${totalLinks} links):`);
+    for (const [domain, count] of Object.entries(domains).sort((a, b) => b[1] - a[1])) {
+      const pct = ((count / totalLinks) * 100).toFixed(0);
+      const flag = (count / totalLinks) > MAX_SHARE ? ' ⚠ OVER 30%' : '';
+      console.log(`  ${domain}: ${count}/${totalLinks} (${pct}%)${flag}`);
+    }
+  }
+
+  // Log attribution distribution
+  if (totalAttributions > 0) {
+    console.log(`\nAttribution diversity check (${totalAttributions} mentions):`);
+    for (const [name, count] of Object.entries(attributions).sort((a, b) => b[1] - a[1])) {
+      const pct = ((count / totalAttributions) * 100).toFixed(0);
+      const flag = (count / totalAttributions) > MAX_SHARE ? ' ⚠ OVER 30%' : '';
+      console.log(`  ${name}: ${count}/${totalAttributions} (${pct}%)${flag}`);
+    }
+  }
+
+  // Find violations
+  const violations = [];
+  for (const [domain, count] of Object.entries(domains)) {
+    if (totalLinks > 0 && (count / totalLinks) > MAX_SHARE) {
+      violations.push({ name: domain, count, total: totalLinks, type: 'link' });
+    }
+  }
+  for (const [name, count] of Object.entries(attributions)) {
+    if (totalAttributions > 0 && (count / totalAttributions) > MAX_SHARE) {
+      violations.push({ name, count, total: totalAttributions, type: 'attribution' });
+    }
+  }
+
+  if (violations.length === 0) {
+    console.log('  ✓ Diversity check passed');
+  }
+
+  return violations;
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -639,9 +730,44 @@ async function main() {
     console.log('Pass 3/3: Revising...');
     const reviseStart = Date.now();
     const { systemPrompt: reviseSys, userPrompt: reviseUser } = buildRevisePrompt(draft, editFeedback);
-    const finalBriefing = await callClaude(reviseUser, reviseSys, 3000);
+    let finalBriefing = await callClaude(reviseUser, reviseSys, 3000);
     const reviseTime = ((Date.now() - reviseStart) / 1000).toFixed(1);
     console.log(`   Done in ${reviseTime}s`);
+
+    // ---- DIVERSITY CODE GATE ----
+    // Check link domains + source attributions. If any single source > 30%,
+    // do one more revision pass with explicit diversity feedback.
+    const violations = checkDiversity(finalBriefing);
+    if (violations.length > 0) {
+      const violationDesc = violations
+        .map(v => `${v.name} has ${v.count}/${v.total} ${v.type}s (${((v.count / v.total) * 100).toFixed(0)}%)`)
+        .join('; ');
+
+      const overusedNames = new Set(violations.map(v => v.name.toLowerCase()));
+      const alternatives = [
+        'Al Jazeera', 'Reuters', 'BBC', 'Syrian Observer', 'Syria Direct',
+        'SANA', 'Levant24', 'NNA', 'L\'Orient Today', 'Times of Israel'
+      ].filter(s => !overusedNames.has(s.toLowerCase()));
+
+      console.log(`\n  ⚠ Diversity violation: ${violationDesc}`);
+      console.log('  Running diversity fix pass...');
+
+      const diversityFeedback = `SOURCE DIVERSITY FIX REQUIRED: ${violationDesc}. No single source should exceed 30%. Replace some references with coverage from: ${alternatives.slice(0, 5).join(', ')}. The original story data has URLs from all these outlets — swap in their URLs and attribution.`;
+
+      try {
+        const { systemPrompt: fixSys, userPrompt: fixUser } = buildRevisePrompt(finalBriefing, diversityFeedback);
+        const fixedBriefing = await callClaude(fixUser, fixSys, 3000);
+        const fixViolations = checkDiversity(fixedBriefing);
+        if (fixViolations.length < violations.length) {
+          console.log('  ✓ Diversity fix improved sourcing');
+          finalBriefing = fixedBriefing;
+        } else {
+          console.log('  ⚠ Diversity fix did not improve — using previous version');
+        }
+      } catch (e) {
+        console.warn('  Diversity fix pass failed:', e.message);
+      }
+    }
 
     const totalTime = ((Date.now() - totalStart) / 1000).toFixed(1);
 

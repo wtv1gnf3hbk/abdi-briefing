@@ -446,7 +446,8 @@ CRITICAL WRITING RULES:
 8. Every bullet must have at least one embedded link.
 9. Vary attribution: "Reuters reports", "according to BBC", "per Enab Baladi", "NNA reports" (use each phrasing only once).
 10. For Arabic-language sources, attribute with country: "Syria TV (Syria) reports...", "El Shark (Lebanon) reports..."
-11. Do NOT pad sections. If Lebanon only has 2 real stories, write 2 bullets. Never fill space with "X called for Y at a conference" filler.`;
+11. Do NOT pad sections. If Lebanon only has 2 real stories, write 2 bullets. Never fill space with "X called for Y at a conference" filler.
+12. SOURCE DIVERSITY: No single source should account for more than 30% of all links or attributions. Spread across your available sources — wire services (Al Jazeera, Reuters, BBC), Syrian outlets (Enab Baladi, Syrian Observer, Syria Direct, SANA, Levant24), and Lebanese outlets (NNA, L'Orient Today). If you find yourself citing the same source 3+ times, actively seek coverage from other outlets in the story data.`;
 
   const userPrompt = `${greeting} Here is what is happening across Syria, Lebanon, and the Levant:
 
@@ -483,6 +484,154 @@ Write the briefing now. Keep it concise but comprehensive. Every bullet must hav
 }
 
 // ============================================
+// SOURCE DIVERSITY ENFORCEMENT
+// Code gate: counts link domains AND source name mentions in the text.
+// If any single source exceeds 30%, retries once with explicit feedback.
+// Prose rules alone don't work (CLAUDE.md Rule 11).
+// ============================================
+
+function analyzeDiversity(markdown) {
+  // --- Link domain analysis ---
+  const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g;
+  const domains = {};
+  let totalLinks = 0;
+  let match;
+
+  while ((match = linkRegex.exec(markdown)) !== null) {
+    try {
+      const hostname = new URL(match[2]).hostname.replace(/^www\./, '');
+      domains[hostname] = (domains[hostname] || 0) + 1;
+      totalLinks++;
+    } catch (e) { /* skip malformed URLs */ }
+  }
+
+  // --- Source attribution analysis ---
+  // Count how many times each outlet name appears in the text
+  // (covers cases where the same source is cited by name even with varied link domains)
+  const sourceNames = [
+    'Enab Baladi', 'Syrian Observer', 'Syria Direct', 'SANA',
+    'Levant24', 'Syria TV', 'Aleppo Today', 'Shaam TV',
+    'NNA', 'L\'Orient Today', 'Nahar', 'An Nahar', 'ElNashra', 'Al Akhbar',
+    'Al Jazeera', 'Reuters', 'AP', 'BBC',
+    'Times of Israel', 'Haaretz', 'OLN News', 'El Shark'
+  ];
+  const attributions = {};
+  let totalAttributions = 0;
+
+  for (const name of sourceNames) {
+    // Case-insensitive count of each source name in the text
+    const regex = new RegExp(name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    const count = (markdown.match(regex) || []).length;
+    if (count > 0) {
+      attributions[name] = count;
+      totalAttributions += count;
+    }
+  }
+
+  return { domains, totalLinks, attributions, totalAttributions };
+}
+
+async function enforceDiversity(draft, systemPrompt, userPrompt) {
+  const MAX_SHARE = 0.30;
+  const { domains, totalLinks, attributions, totalAttributions } = analyzeDiversity(draft);
+
+  // Log link distribution
+  if (totalLinks > 0) {
+    console.log(`\nLink diversity check (${totalLinks} links):`);
+    const sortedDomains = Object.entries(domains).sort((a, b) => b[1] - a[1]);
+    for (const [domain, count] of sortedDomains) {
+      const pct = ((count / totalLinks) * 100).toFixed(0);
+      const flag = (count / totalLinks) > MAX_SHARE ? ' ⚠ OVER 30%' : '';
+      console.log(`  ${domain}: ${count}/${totalLinks} (${pct}%)${flag}`);
+    }
+  }
+
+  // Log attribution distribution
+  if (totalAttributions > 0) {
+    console.log(`\nAttribution diversity check (${totalAttributions} mentions):`);
+    const sortedAttr = Object.entries(attributions).sort((a, b) => b[1] - a[1]);
+    for (const [name, count] of sortedAttr) {
+      const pct = ((count / totalAttributions) * 100).toFixed(0);
+      const flag = (count / totalAttributions) > MAX_SHARE ? ' ⚠ OVER 30%' : '';
+      console.log(`  ${name}: ${count}/${totalAttributions} (${pct}%)${flag}`);
+    }
+  }
+
+  // Find violations in either links or attributions
+  const linkViolations = [];
+  for (const [domain, count] of Object.entries(domains)) {
+    if (totalLinks > 0 && (count / totalLinks) > MAX_SHARE) {
+      linkViolations.push({ name: domain, count, total: totalLinks, type: 'link' });
+    }
+  }
+
+  const attrViolations = [];
+  for (const [name, count] of Object.entries(attributions)) {
+    if (totalAttributions > 0 && (count / totalAttributions) > MAX_SHARE) {
+      attrViolations.push({ name, count, total: totalAttributions, type: 'attribution' });
+    }
+  }
+
+  const allViolations = [...linkViolations, ...attrViolations];
+
+  if (allViolations.length === 0) {
+    console.log('  ✓ Diversity check passed');
+    return draft;
+  }
+
+  // Build retry prompt with specific feedback
+  const violationDesc = allViolations
+    .map(v => `${v.name} has ${v.count}/${v.total} ${v.type}s (${((v.count / v.total) * 100).toFixed(0)}%)`)
+    .join('; ');
+
+  // Suggest alternative sources to use instead
+  const overusedNames = new Set(allViolations.map(v => v.name.toLowerCase()));
+  const alternatives = [
+    'Al Jazeera', 'Reuters', 'BBC', 'Syrian Observer', 'Syria Direct',
+    'SANA', 'Levant24', 'NNA', 'L\'Orient Today', 'Times of Israel'
+  ].filter(s => !overusedNames.has(s.toLowerCase()));
+
+  console.log(`\n  ⚠ Diversity violation: ${violationDesc}`);
+  console.log('  Retrying with diversity feedback...');
+
+  const diversityFeedback = `\n\nIMPORTANT CORRECTION: Your previous draft has a source diversity problem. ${violationDesc}. No single source should account for more than 30% of links or attributions. You MUST actively replace some of those references with coverage from OTHER outlets: ${alternatives.slice(0, 5).join(', ')}. The story data includes URLs from all of these sources — use them. Spread your sourcing across at least 4-5 different outlets.`;
+
+  try {
+    const retryDraft = await callClaude(userPrompt + diversityFeedback, systemPrompt);
+
+    // Check if retry improved things
+    const retry = analyzeDiversity(retryDraft);
+    const stillBadLinks = Object.entries(retry.domains).some(([_, c]) => retry.totalLinks > 0 && c / retry.totalLinks > MAX_SHARE);
+    const stillBadAttr = Object.entries(retry.attributions).some(([_, c]) => retry.totalAttributions > 0 && c / retry.totalAttributions > MAX_SHARE);
+
+    if (stillBadLinks || stillBadAttr) {
+      console.log('  ⚠ Retry still has diversity issues — using retry anyway (closer to target)');
+    } else {
+      console.log('  ✓ Retry passed diversity check');
+    }
+
+    // Log retry distribution
+    if (retry.totalLinks > 0) {
+      console.log(`  Retry links (${retry.totalLinks}):`);
+      for (const [domain, count] of Object.entries(retry.domains).sort((a, b) => b[1] - a[1])) {
+        console.log(`    ${domain}: ${count}/${retry.totalLinks} (${((count / retry.totalLinks) * 100).toFixed(0)}%)`);
+      }
+    }
+    if (retry.totalAttributions > 0) {
+      console.log(`  Retry attributions (${retry.totalAttributions}):`);
+      for (const [name, count] of Object.entries(retry.attributions).sort((a, b) => b[1] - a[1])) {
+        console.log(`    ${name}: ${count}/${retry.totalAttributions} (${((count / retry.totalAttributions) * 100).toFixed(0)}%)`);
+      }
+    }
+
+    return retryDraft;
+  } catch (e) {
+    console.warn('  Diversity retry failed — using original draft:', e.message);
+    return draft;
+  }
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -505,9 +654,12 @@ async function main() {
   const startTime = Date.now();
 
   try {
-    const briefingText = await callClaude(userPrompt, systemPrompt);
+    let briefingText = await callClaude(userPrompt, systemPrompt);
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
     console.log(`Claude responded in ${elapsed}s`);
+
+    // Source diversity code gate — retries once if any source > 30%
+    briefingText = await enforceDiversity(briefingText, systemPrompt, userPrompt);
 
     // Save markdown
     fs.writeFileSync('briefing.md', briefingText);
