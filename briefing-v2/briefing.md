@@ -1,23 +1,27 @@
+The Trump administration [asked the Supreme Court](https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants) to allow deportation of Syrian migrants by stripping their Temporary Protected Status, arguing Syria is no longer unsafe, according to Al Jazeera. The move would affect thousands of Syrians who have lived in the US for years under the protection program. The legal challenge comes as [US-Iran talks concluded](https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details) in Vienna with claims of progress but few concrete details, per Al Jazeera, while technical discussions are set to continue though it remains unclear whether differences can be resolved to avoid war. The twin developments underscore how regional conflicts continue to drive US policy decisions on both immigration and diplomacy.
+
 **Syria**
 
-• Syrian Internal Security [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, as the group [killed four security personnel](https://news.google.com/rss/articles/CBMixAFBVV85cUxPZTQ2eEJXNjU5UmVMaTc3MXZUQk5yZlJfV3ZNb0k3dUVhaVRDVkJUcVFYLVlJQzk0bU9Iam1CeGM3bk96Z3d3andFT2VZS243R041aW1PYV9oRnREblMwd1NYYmh1YVZnZkkxM3Fac1Y1bUhoMU1CRGRQS1Q3MFkzcFJOa3FnTmhMclIwX292R2xFeXZkTU9udExZZUV6MjNHQ3ZQeGJGNFJ0ZlpQN2RfZlc4bFQ1V2JCNXVMcHoxTDJwQ2Rj?oc=5) elsewhere in the country, Reuters reports.
+• Syrian Internal Security [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, Enab Baladi reports, as the new government continues operations against remaining extremist networks.
 
-• The leader of armed group Saraya al-Jawad was [killed in clashes](https://english.enabbaladi.net/archives/2026/02/leader-of-saraya-al-jawad-killed-in-clashes-with-internal-security/) with Internal Security forces, Enab Baladi reports.
+• The Syrian government [began rehabilitating](https://english.enabbaladi.net/archives/2026/02/syrian-government-begins-rehabilitation-of-qamishli-international-airport/) Qamishli International Airport in the northeast, according to Enab Baladi, signaling efforts to restore civilian infrastructure in former SDF-controlled areas.
 
-• Human Rights Watch says the [fate of 8,500 detainees](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) in northeast Syria camps remains unknown, per Enab Baladi.
+• A [prisoner exchange](https://english.enabbaladi.net/archives/2026/02/suwayda-detainee-swap-between-government-and-national-guard/) between Damascus and the Suwayda National Guard was completed, per Enab Baladi, following negotiations to resolve tensions in the southern province.
 
-• The IMF sees [signs of recovery](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) in Syria's economy and has launched a financial reform program, Enab Baladi reports.
+• The IMF [identified signs](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) of economic recovery in Syria with a financial reform program underway, Enab Baladi reports, though the country faces massive reconstruction needs.
 
-• Syria has banned foreign trucks from entering the country, prompting [Jordanian freight companies](https://english.enabbaladi.net/archives/2026/02/jordanian-freight-forwarding-and-customs-clearance-firms-protest-syrias-ban-on-foreign-trucks-entering-the-country/) to protest the move, according to Enab Baladi.
+• Human Rights Watch [warned that](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) the fate of 8,500 detainees in northeast Syria camps remains unknown, according to Enab Baladi, highlighting ongoing humanitarian concerns in former ISIS detention facilities.
 
 **Lebanon**
 
-• Lebanon's Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, calling any attack on medical facilities a violation of international law, OLN News (Lebanon) reports.
+• Israeli forces [struck Hezbollah](https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/) military compounds in eastern Lebanon, killing a teenager, Times of Israel reports, marking continued violations of the fragile ceasefire.
+
+• The Hospital Syndicate [issued an urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling the intimidation a violation of international law.
 
 **Broader Levant**
 
-• Prince Harry and Meghan met with [hospitalized Gazan children](https://www.timesofisrael.com/harry-and-meghan-meet-with-hospitalized-gazan-children-during-visit-to-jordan/) during a visit to Jordan, Times of Israel reports.
+• Jordanian freight firms [protested Syria's ban](https://english.enabbaladi.net/archives/2026/02/jordanian-freight-forwarding-and-customs-clearance-firms-protest-syrias-ban-on-foreign-trucks-entering-the-country/) on foreign trucks entering the country, Enab Baladi reports, as Damascus implements new transportation policies affecting regional trade.
 
-• Egypt has launched a [security crackdown](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians with arrests and deportations, according to Enab Baladi.
+• Egyptian security forces [launched a crackdown](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians with arrests and deportations, according to Enab Baladi, despite improving conditions in Syria that have prompted some refugee returns.
 
-• Several countries are issuing [Middle East travel](https://news.google.com/rss/articles/CBMivAFBVV85cUxOaDhwbGtwbjFldGkyaFd6c3MyeDFhY283Z0IwTlBjOXFxZTdBLXJidm9SWS1aWWtUbjhxNGNQSjZNVUlfSnJZeUhTZzF6U1daeDZXeFRkZmIwQjEzX0gtWWJwRlYtWm82dTZjMjJqMjhVb1cyUl9vUDJpNlBTQ0xvOFUzaFNmTmFTbk4tZUMwZVVwM2l3V3RyUXJEN1E5dUJ2MExDQjB3S1lka1Y4N1k3Rjd1UTVsb0dQZGloRw?oc=5) advisories as Iran tensions rise, Reuters reports.
+• Lebanon [proposed a workaround](https://english.enabbaladi.net/archives/2026/02/lebanese-proposal-to-bypass-impact-of-syrias-ban-on-foreign-trucks/) to bypass Syria's foreign truck ban, per Enab Baladi, as regional governments seek to maintain cross-border commerce flows.

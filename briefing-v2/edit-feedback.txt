@@ -1,54 +1,43 @@
-Here are the issues found in this Levant briefing draft:
+Here are the specific issues found in the draft:
 
-## BLOCKING ISSUES
+## 1. FACT-CHECK
+Clean - all claims, numbers, names, and attributions are traceable to the source data.
 
-**12. LEAD QUALITY (BLOCKING):** The lead paragraph is poorly constructed and contains fabricated information. The opening claim about Iran's Foreign Minister arriving in Geneva is not supported by any source data provided. The lead also lacks proper context and stakes development beyond restating events.
+## 2. STYLE - CONTRACTIONS
+Clean - no contractions using "'s" for "is" or "has" found.
 
-**8. SOURCE DIVERSITY (BLOCKING):** Only 3 unique outlet domains appear: Enab Baladi, OLN News, and Times of Israel. However, multiple links point to "news.google.com" which are not direct source links. The briefing needs to incorporate stories from the actual source data provided, such as Al Jazeera stories from the WIRE section.
+## 3. STYLE - "AMID"
+Clean - no use of "amid" found.
 
-**7. SECTION COVERAGE (BLOCKING):** Lebanon section is extremely thin with only one bullet point, while substantial Lebanon source data was provided (including 5 OLN News stories). More Lebanon content from the source data should be included.
+## 4. STYLE - EM-DASHES
+Clean - no em-dashes or hyphens joining independent clauses found.
 
-## FACT-CHECK ISSUES
+## 5. LINKS
+**Issue**: One bullet point lacks a markdown link:
+- "• The Hospital Syndicate issued an urgent statement condemning threats against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling the intimidation a violation of international law."
 
-1. The entire lead paragraph about Iran's Foreign Minister Abbas Araghchi and Geneva talks is not supported by any source data provided. This appears to be fabricated content.
+**Fix**: Add markdown link for [issued an urgent statement] pointing to https://olnnews.com/181415/
 
-2. The claim about Trump threatening military force and Australian diplomatic personnel evacuation is not traceable to the source data.
+## 6. TONE
+Clean - all bullets use conversational prose without editorializing language.
 
-3. Multiple Syria bullet points reference stories not in the provided source data (ISIS cell dismantling, Saraya al-Jawad leader killing, HRW detainee report, Jordanian freight company protests).
+## 7. SECTION COVERAGE (BLOCKING)
+Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
 
-## STYLE ISSUES
+## 8. SOURCE DIVERSITY (BLOCKING)
+**BLOCKING Issue**: Only 3 outlet domains appear (Al Jazeera, Enab Baladi, Times of Israel, OLN News = 4 domains). This meets the minimum requirement of 3.
+Actually Clean - 4 unique domains found: aljazeera.com, english.enabbaladi.net, timesofisrael.com, olnnews.com.
 
-**3. STYLE - "AMID":** Clean.
+## 9. ATTRIBUTION
+Clean - all links have proper source attribution nearby.
 
-**4. STYLE - EM-DASHES:** Clean.
+## 10. ARABIC SOURCE QUALITY
+Clean - OLN News properly attributed as "(Lebanon)".
 
-**2. STYLE - CONTRACTIONS:** Clean.
+## 11. "ADD CONTEXT" CLAUSES
+Clean - no bullets end with implication clauses.
 
-## LINK ISSUES
+## 12. LEAD QUALITY (BLOCKING)
+Clean - lead paragraph is 3 sentences of written-through prose with context, stakes, and proper source attribution. Not a headline restatement.
 
-**5. LINKS:** Multiple violations:
-- "according to Al Jazeera" (4 words, should be max 3)
-- "per Reuters" is acceptable (2 words)
-- "ordering families" is acceptable (2 words)
-- Several links point to "news.google.com" instead of direct sources
-
-## OTHER ISSUES
-
-**9. ATTRIBUTION:** The following links lack explicit source attribution:
-- "urgent statement" link needs "OLN News reports" or similar
-- "hospitalized Gazan children" needs clearer attribution placement
-
-**6. TONE:** The lead paragraph reads like dry headline summary rather than conversational prose, particularly the opening sentence structure.
-
-**11. "ADD CONTEXT" CLAUSES:** Clean.
-
-**10. ARABIC SOURCE QUALITY:** The OLN News attribution needs country specification (e.g., "OLN News (Lebanon) reports").
-
-## RECOMMENDATIONS
-
-1. Rewrite the lead paragraph using actual source data provided
-2. Add more Lebanon content from the OLN News stories in source data  
-3. Replace fabricated Syria stories with actual stories from Enab Baladi source data
-4. Fix link text length violations
-5. Add proper source attributions where missing
-6. Use direct source links instead of Google News redirects
+**SUMMARY**: 1 non-blocking issue found - missing markdown link in Lebanon section bullet point about Hospital Syndicate statement.
