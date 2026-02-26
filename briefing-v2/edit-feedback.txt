@@ -1,46 +1,47 @@
-Here are the specific issues found:
+## Review Issues Found:
 
-**1. FACT-CHECK**
-Clean. All claims are traceable to the source data provided.
+**1. FACT-CHECK:**
+- BLOCKING ISSUE: The lead paragraph claims "The Trump administration has asked the Supreme Court to allow deportations of Syrian migrants by stripping them of Temporary Protected Status" but this story does not appear anywhere in the provided source data. The Al Jazeera link in the lead goes to a different story about UN rapporteur Albanese sanctions.
 
-**2. STYLE - CONTRACTIONS**
-Clean. No inappropriate use of "'s" contractions found.
+**2. STYLE - CONTRACTIONS:**
+Clean.
 
-**3. STYLE - "AMID"**
-Clean. No use of "amid" found.
+**3. STYLE - "AMID":**
+Clean.
 
-**4. STYLE - EM-DASHES**
-Clean. No em-dashes used to join independent clauses.
+**4. STYLE - EM-DASHES:**
+Clean.
 
-**5. LINKS**
-Clean. All link text is 3 words or fewer, and every bullet point contains at least one markdown link.
+**5. LINKS:**
+- Issue: "dismantled an ISIS cell" (4 words) - exceeds 3-word limit
+- Issue: "rehabilitating Qamishli International Airport" (3 words) - acceptable but at limit
+- Issue: "struck Hezbollah compounds" (3 words) - acceptable
+- Issue: "bypass Syria's ban" (3 words) - acceptable
+- Issue: "claims of progress" (3 words) - acceptable
+- Issue: "protesting Syria's truck ban" (4 words) - exceeds 3-word limit
+- Issue: "security crackdown targeting Syrians" (4 words) - exceeds 3-word limit
+- Issue: "fate of 8,500 detainees" (4 words) - exceeds 3-word limit
 
-**6. TONE**
-Issue found:
-- The bullet "The IMF sees signs of recovery in Syria's economy and says a financial reform program is underway, per Enab Baladi, though specific details about sanctions relief remain unclear" - the phrase "though specific details about sanctions relief remain unclear" is editorializing commentary not found in the source material.
+**6. TONE:**
+Clean - bullets read as conversational prose rather than headline summaries.
 
-**7. SECTION COVERAGE (BLOCKING)**
-Clean. All three required sections (Syria, Lebanon, Broader Levant) are present with content.
+**7. SECTION COVERAGE (BLOCKING):**
+Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-BLOCKING ISSUE: Only 3 unique outlet domains found:
-- aljazeera.com
-- english.enabbaladi.net  
-- timesofisrael.com
+**8. SOURCE DIVERSITY (BLOCKING):**
+Only 3 unique domains found: english.enabbaladi.net, timesofisrael.com, aljazeera.com, olnnews.com (4 domains). Meets minimum requirement.
 
-The quota of "AT LEAST 3" is technically met, but barely. Consider adding OLN News content from Lebanon section to strengthen source diversity.
+**9. ATTRIBUTION:**
+Clean - all links have proper attribution ("according to Enab Baladi", "Times of Israel reports", etc.)
 
-**9. ATTRIBUTION**
-Issue found:
-- Lebanon bullet referencing "Lebanon's Hospital Syndicate issued an urgent statement" links to OLN News but has no explicit source attribution like "according to OLN News" or "OLN News reports."
+**10. ARABIC SOURCE QUALITY:**
+- Issue: "per OLN News (Lebanon)" - should be "OLN News (Lebanon) reports" for consistency with other attributions
 
-**10. ARABIC SOURCE QUALITY**
-Clean. OLN News content appears properly attributed as Lebanese source.
+**11. "ADD CONTEXT" CLAUSES:**
+Clean - bullets end with facts, not implications.
 
-**11. "ADD CONTEXT" CLAUSES**
-Clean. No bullets end with implication clauses.
+**12. LEAD QUALITY (BLOCKING):**
+- BLOCKING ISSUE: The lead is completely fabricated - it discusses a Supreme Court case about Syrian TPS deportations that doesn't exist in the source data. The entire lead paragraph needs to be rewritten based on actual stories from the provided sources.
 
-**12. LEAD QUALITY (BLOCKING)**
-Clean. The lead paragraph contains 3 sentences with context, stakes, and proper source attribution. It goes beyond headline restatement to provide background about Syrian government consolidation and potential impact.
-
-**SUMMARY**: 2 style/attribution issues found, plus marginal source diversity that meets minimum requirement. No blocking issues identified.
+**Summary:** 
+This draft has serious blocking issues with a completely fabricated lead story and multiple style violations with link text length. The lead must be completely rewritten using actual source material.

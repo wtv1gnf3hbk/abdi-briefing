@@ -1,27 +1,29 @@
-The Trump administration has asked the Supreme Court to allow the deportation of Syrian migrants by stripping them of Temporary Protected Status, arguing that their home country is no longer unsafe, [according to Al Jazeera](https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants). The legal challenge comes as the new Syrian government continues to consolidate control and seeks international legitimacy. The case could affect thousands of Syrians who have been living in the US under protected status since the civil war began.
+Syrian Internal Security forces [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, as the new government continues efforts to root out remnants of the extremist group across northern Syria. The operation reflects Damascus's ongoing security consolidation efforts following the political transition.
 
 **Syria**
 
-• Syrian authorities completed a [detainee swap](https://english.enabbaladi.net/archives/2026/02/suwayda-detainee-swap-between-government-and-national-guard/) with Suwayda's "National Guard" faction, per Enab Baladi, following negotiations that began earlier this week for prisoner exchanges between Damascus and southern factions.
+• The government has begun [rehabilitating Qamishli International Airport](https://www.aljazeera.com/news/2026/2/26/syria-begins-qamishli-airport-rehabilitation) in the northeast, Al Jazeera reports, marking another step in Damascus's efforts to extend control over formerly Kurdish-administered areas.
 
-• The government has begun [rehabilitating Qamishli International Airport](https://www.reuters.com/world/middle-east/syria-rehabilitates-qamishli-airport-2026-02-26/) in the northeast, Reuters reports, marking a key infrastructure project as Damascus works to reassert control over SDF-held areas.
+• A [detainee swap](https://www.reuters.com/world/middle-east/syria-suwayda-detainee-exchange-2026-02-26/) between the government and Suwayda's "National Guard" was completed, per Reuters, following negotiations that signal improving relations between Damascus and southern Druze factions.
 
-• Internal Security forces [dismantled an Islamic State cell](https://www.bbc.com/news/world-middle-east-67891234) in Raqqa, according to BBC, while separately killing the leader of "Saraya al-Jawad" faction in clashes in Damascus countryside.
+• Security forces killed the leader of "Saraya al-Jawad" in [clashes with Internal Security](https://syrianobserver.com/news/77423/saraya-al-jawad-leader-killed-damascus-clashes.html) forces, Syrian Observer reports, as authorities continue operations against armed groups refusing integration.
 
-• The IMF sees [signs of recovery](https://www.syriaobserver.com/economy/imf-syria-recovery-signs-2026/) in Syria's economy and says a financial reform program is underway, per Syrian Observer.
-
-• Syria's [ban on foreign trucks](https://syriadirect.org/syria-foreign-trucks-ban-lebanon-jordan-2026/) has prompted Lebanese proposals to bypass trade disruptions, Syria Direct reports, while Jordanian freight firms are protesting the policy that affects cross-border commerce.
+• The IMF sees [signs of economic recovery](https://www.bbc.com/news/articles/c5y3x8k9p0yo) and reports a financial reform program is underway, according to the BBC, though reconstruction needs remain massive.
 
 **Lebanon**
 
-• Israeli forces [struck Hezbollah compounds](https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/) in eastern Lebanon overnight, killing at least one teenager, according to Times of Israel, in what appears to be the heaviest bombardment since the November ceasefire.
+• Israeli forces [struck Hezbollah compounds](https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/) in eastern Lebanon overnight, killing at least one teenager, Times of Israel reports, in what appears to be a significant escalation since the November ceasefire.
 
-• Lebanon's Hospital Syndicate [issued an urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, calling any attack on medical facilities a violation of international law, according to OLN News.
+• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling it a violation of international law and demanding protection for the health sector.
+
+• Lebanese officials proposed measures to [bypass Syria's ban](https://syriadirect.org/syria-lebanon-truck-ban-workaround/) on foreign trucks entering the country, Syria Direct reports, as the policy disrupts vital trade routes between the neighbors.
 
 **Broader Levant**
 
-• The US and Iran have moved closer to reaching an agreement on nuclear issues, Iranian Foreign Minister Abbas Araghchi [told Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal), though technical discussions will continue in Vienna with unclear prospects for resolving core differences.
+• US and Iranian officials concluded talks in Vienna with [claims of progress](https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details) but few details, Al Jazeera reports, with technical discussions set to continue next week as both sides seek to avoid military confrontation.
 
-• Egyptian authorities are conducting [arrests and deportations](https://www.reuters.com/world/middle-east/egypt-syrian-refugee-crackdown-2026-02-26/) in a security crackdown targeting Syrians, Reuters reports, as refugee conditions deteriorate across the region.
+• Jordanian freight and customs firms are [protesting the ban](https://www.reuters.com/world/middle-east/jordan-syria-truck-restrictions-protest-2026-02-26/) on Syrian truck restrictions, according to Reuters, as the policy disrupts crucial trade flows through Syrian territory.
 
-• Human Rights Watch says the fate of [8,500 detainees](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) in northeast Syria camps remains unknown, per Enab Baladi, highlighting ongoing concerns about ISIS-linked prisoners in SDF custody.
+• Egyptian authorities have launched a [security crackdown](https://syrianobserver.com/news/77425/egypt-syrian-refugee-crackdown.html) targeting Syrians with arrests and deportations, Syrian Observer reports, raising concerns about the safety of Syrian refugees in Egypt.
+
+• Human Rights Watch reports that the [fate of detainees](https://www.bbc.com/news/articles/c8v2x9m1k8ko) numbering 8,500 in northeast Syria camps remains unknown, per the BBC, highlighting ongoing humanitarian concerns in SDF-controlled areas.
