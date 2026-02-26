@@ -4,16 +4,16 @@
     "owner": "Abdi Latif Dahir",
     "timezone": "Africa/Nairobi",
     "description": "Daily Syria/Lebanon/Levant briefing — broader Middle East regional context",
-    "generated": "2026-02-26T21:04:41.601Z",
-    "generatedTimestamp": 1772139881601
+    "generated": "2026-02-26T21:35:50.406Z",
+    "generatedTimestamp": 1772141750406
   },
   "stats": {
     "sourceCount": 25,
-    "successCount": 24,
-    "totalStories": 165,
+    "successCount": 25,
+    "totalStories": 185,
     "totalScreenshots": 3,
-    "beatFlaggedCount": 24,
-    "elapsed": "37.9s"
+    "beatFlaggedCount": 26,
+    "elapsed": "47.3s"
   },
   "stories": {
     "all": [
@@ -180,6 +180,171 @@
         "priority": "primary",
         "language": "en",
         "date": "Mon, 23 Feb 2026 08:28:03 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Independent Monitoring ‘Critical’ for Syria’s Transition, Researcher Warns",
+        "url": "https://syrianobserver.com/syrian-actors/independent-monitoring-critical-for-syrias-transition-researcher-warns.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:32:55 +0000",
+        "description": ""
+      },
+      {
+        "headline": "US-Brokered Prisoner Swap Seeks to Ease Tensions in Syria’s Suweida",
+        "url": "https://syrianobserver.com/foreign-actors/us-brokered-prisoner-swap-seeks-to-ease-tensions-in-syrias-suweida.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:00:57 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
+        "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
+        "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
+        "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Wed, 25 Feb 2026 21:00:40 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
+        "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Wed, 25 Feb 2026 21:00:16 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
+        "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Tue, 24 Feb 2026 21:00:46 +0000",
+        "description": ""
+      },
+      {
+        "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
+        "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Tue, 24 Feb 2026 21:00:31 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
+        "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Tue, 24 Feb 2026 21:00:27 +0000",
+        "description": ""
+      },
+      {
+        "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
+        "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Tue, 24 Feb 2026 21:00:09 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
+        "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Mon, 23 Feb 2026 21:00:59 +0000",
+        "description": ""
+      },
+      {
+        "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
+        "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Mon, 23 Feb 2026 21:00:43 +0000",
+        "description": ""
+      },
+      {
+        "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
+        "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Mon, 23 Feb 2026 21:00:08 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
+        "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sun, 22 Feb 2026 21:00:55 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
+        "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
+        "source": "Syrian Observer",
+        "sourceId": "syrianobserver",
+        "category": "syria",
+        "priority": "primary",
+        "language": "en",
+        "date": "Sun, 22 Feb 2026 21:00:35 +0000",
         "description": ""
       },
       {
@@ -933,124 +1098,216 @@
         "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
       },
       {
-        "headline": "86 detainees were exchanged between the Syrian government and Druze factions in Suwayda",
-        "url": "https://www.elsharkonline.com/%d8%aa%d8%a8%d8%a7%d8%af%d9%84-86-%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d8%a7%d9%8b-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%af%d8%b1%d8%b2%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+        "headline": "Jumblatt warns of mid-March",
+        "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d9%8a%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d9%85%d9%86%d8%aa%d8%b5%d9%81-%d8%a2%d8%b0%d8%a7%d8%b1/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 21:02:57 +0000",
-        "description": "",
-        "originalHeadline": "تبادل 86 محتجزاً بين الحكومة السورية وفصائل درزية في السويداء"
+        "date": "Thu, 26 Feb 2026 21:23:28 +0000",
+        "description": "The former head of the Progressive Socialist Party, Walid Jumblatt, warned in a post on his account on the “X” platform, “mid-March,” accompanying his tweet with a symbolic image showing a mythical statue spewing fire.",
+        "originalHeadline": "جنبلاط يحذّر من منتصف آذار"
       },
       {
-        "headline": "Shamkhani: Not possessing a nuclear weapon is consistent with our faith and the Supreme Leader’s fatwa",
-        "url": "https://www.elsharkonline.com/%d8%b4%d9%85%d8%ae%d8%a7%d9%86%d9%8a-%d8%b9%d8%af%d9%85-%d8%a7%d9%85%d8%aa%d9%84%d8%a7%d9%83-%d8%b3%d9%84%d8%a7%d8%ad-%d9%86%d9%88%d9%88%d9%8a-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d9%85%d8%b9-%d8%b9%d9%82%d9%8a%d8%af%d8%aa%d9%86%d8%a7-%d9%88%d9%81%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%af/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+        "headline": "Berri discussed with the Qatari Ambassador the latest developments locally and regionally",
+        "url": "https://www.elsharkonline.com/%d8%a8%d8%b1%d9%8a-%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b3%d9%81%d9%8a%d8%b1-%d9%82%d8%b7%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ac%d8%af%d9%91%d8%a7%d8%aa-%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d9%8b-%d9%88%d8%a5%d9%82%d9%84%d9%8a%d9%85%d9%8a%d8%a7%d9%8b/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:57:40 +0000",
-        "description": "",
-        "originalHeadline": "شمخاني: عدم امتلاك سلاح نووي يتوافق مع عقيدتنا وفتوى المرشد"
+        "date": "Thu, 26 Feb 2026 21:18:25 +0000",
+        "description": "Speaker of the House of Representatives, Nabih Berri, received at the Second Presidency headquarters in Ain al-Tineh the Ambassador of the State of Qatar to Lebanon, Sheikh Saud bin Abdul Rahman Al Thani. The developments in the situation in Lebanon and the region, political developments, and bilateral relations between Lebanon and Qatar were discussed. President Berri received a delegation from the Food Safety Regulatory Authority, headed by Elie Na",
+        "originalHeadline": "بري بحث مع سفير قطر في المستجدّات محلي��ً وإقليمياً"
       },
       {
-        "headline": "“Politico”: American officials prefer Israel’s initiative to attack Iran",
-        "url": "https://www.elsharkonline.com/%d8%a8%d9%88%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%88%d9%86-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%88%d9%86-%d9%8a%d9%81%d8%b6%d9%84%d9%88%d9%86-%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d9%85%d9%87%d8%a7%d8%ac%d9%85%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+        "headline": "Suleiman: The presence of weapons outside the legal framework undermines constitutions and prevents the establishment of a single authority",
+        "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d9%88%d8%ac%d9%88%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d8%ad-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d9%8a%d9%82%d9%88%d9%91%d8%b6-%d8%a7%d9%84%d8%af%d8%b3%d8%a7%d8%aa%d9%8a%d8%b1-%d9%88%d9%8a%d9%85%d9%86%d8%b9-%d9%82%d9%8a%d8%a7%d9%85-%d8%b3%d9%84%d8%b7%d8%a9-%d9%88%d8%a7%d8%ad%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:57:05 +0000",
-        "description": "",
-        "originalHeadline": "«بوليتيكو»: مسؤولون أميركيون يفضلون مبادرة إسرائيل بمهاجمة إيران"
+        "date": "Thu, 26 Feb 2026 21:15:00 +0000",
+        "description": "President General Michel Silian said in a statement: “In the midst of the proposed diplomatic and military solutions, I, as a Lebanese citizen, see that the priority must be clear and gradual: First, preventing the possession of nuclear weapons.”",
+        "originalHeadline": "سليمان: وجود السلاح خارج الشرعية يقوّض الدساتير ويمنع قيام سلطة واحدة"
       },
       {
-        "headline": "Al-Asaad: The whole world is on a hot plate",
-        "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d8%a3%d8%b3%d8%b1%d9%87-%d8%b9%d9%84%d9%89-%d8%b5%d9%81%d9%8a%d8%ad-%d8%b3%d8%a7%d8%ae%d9%86/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "Salam: We succeeded in reducing the collapse, and the President of the Republic and I have a common goal",
+        "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%a7%d9%85-%d9%86%d8%ac%d8%ad%d9%86%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%88%d9%8a%d8%ac%d9%85%d8%b9%d9%86%d9%8a-%d9%88%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a3%d8%b6%d9%88%d8%a7%d8%a1-%d8%a7%d9%84%d9%8a%d9%88%d9%85/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:26:48 +0000",
-        "description": "",
-        "originalHeadline": "الاسعد: العالم بأسره على صفيح ساخن"
+        "date": "Thu, 26 Feb 2026 21:14:04 +0000",
+        "description": "On the one-year anniversary of the government gaining confidence, Prime Minister Nawaf Salam announced that we were able to put the country on the right track after it was threatened with collapse. He said: “We are a founding government that is working on",
+        "originalHeadline": "سلام: نجحنا في الحد من الإنهيار ويجمعني ورئيس الجمهورية هدف مشترك"
       },
       {
-        "headline": "Wadih El Khazen welcomed Salam’s position and stressed the necessity of protecting social justice",
-        "url": "https://www.elsharkonline.com/%d9%88%d8%af%d9%8a%d8%b9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b2%d9%86-%d8%b1%d8%ad%d9%91%d8%a8-%d8%a8%d9%85%d9%88%d9%82%d9%81-%d8%b3%d9%84%d8%a7%d9%85-%d9%88%d8%a3%d9%83%d8%af-%d8%b6%d8%b1%d9%88%d8%b1%d8%a9-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "Sheikh Al-Aql met with the Syrians released from Ashrafieh Sahnaya",
+        "url": "https://www.elsharkonline.com/%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%b9%d9%82%d9%84-%d8%a7%d9%84%d8%aa%d9%82%d9%89-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac-%d8%b9%d9%86%d9%87%d9%85-%d9%85%d9%86-%d8%a3%d8%b4%d8%b1%d9%81%d9%8a%d8%a9-%d8%b5%d8%ad%d9%86%d8%a7%d9%8a%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:22:49 +0000",
+        "date": "Thu, 26 Feb 2026 21:12:28 +0000",
         "description": "",
-        "originalHeadline": "وديع الخازن رحّب بموقف سلام وأكد ضرورة حماية العدالة الاجتماعية"
+        "originalHeadline": "شيخ العقل التقى السوريين المفرج عنهم من أشرفية صحنايا"
       },
       {
-        "headline": "“Homeland of Man” renewed the call for neutrality and warned against plunging the country into any support war",
-        "url": "https://www.elsharkonline.com/%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d8%ac%d8%af%d9%91%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%af-%d9%88%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d8%b2%d8%ac%d9%91-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af-%d9%81%d9%8a-%d8%a3%d9%8a%d9%91-%d8%ad%d8%b1%d8%a8-%d8%a5%d8%b3%d9%86%d8%a7%d8%af/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "The Cairo meeting praised the army's performance and thanked the participants for their support",
+        "url": "https://www.elsharkonline.com/%d8%a5%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a3%d8%b4%d8%a7%d8%af-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d9%87%d9%8a%d9%83%d9%84-%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d9%8a%d9%86-%d8%b9%d9%84%d9%89-%d8%af%d8%b9%d9%85%d9%87%d9%85/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:22:10 +0000",
-        "description": "",
-        "originalHeadline": "«وطن الإنسان» جدّد الدعوة إلى الحياد وحذّر من زجّ البلاد في أيّ حرب إسناد"
+        "date": "Thu, 26 Feb 2026 21:11:41 +0000",
+        "description": "On 02/24/2026, the Commander of the Army, General Rudolph Heikal, and the Director General of the Internal Security Forces, Major General Raed Abdullah, participated in the Cairo preparatory meeting for the International Conference in Support of the Army and the Internal Security Forces.",
+        "originalHeadline": "إجتماع القاهرة أشاد بأداء بالجيش وهيكل شكر المشاركين على دعمهم"
       },
       {
-        "headline": "Fadlallah: Whoever is torn apart by sectarianism and sectarianism works to serve the Zionist enemy",
-        "url": "https://www.elsharkonline.com/%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%86-%d9%8a%d9%85%d8%b2%d9%91%d9%82-%d8%b7%d8%a7%d8%a6%d9%81%d9%8a%d8%a7%d9%8b-%d9%88%d9%85%d8%b0%d9%87%d8%a8%d9%8a%d8%a7%d9%8b-%d9%8a%d8%b9%d9%85%d9%84-%d9%84%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d9%88-%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "Saliba: To hold the elections on time",
+        "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d9%84%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d9%88%d8%b9%d8%af%d9%87%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:16:37 +0000",
-        "description": "",
-        "originalHeadline": "فضل الله: من يمزّق طائفياً ومذهبياً يعمل لخدمة العدو الصهيوني"
+        "date": "Thu, 26 Feb 2026 21:10:33 +0000",
+        "description": "Representative Najat Aoun Saliba pointed out that “there is confirmation that the parliamentary elections will be held on time from the President of the Republic and some politicians,” explaining that “the news circulating about their postponement is not confirmed.”  In an interview with the Voice of All Lebanon, she stressed that “respecting constitutional deadlines is a national duty, and anything that goes beyond that is a disruption of constitutional institutional work.”",
+        "originalHeadline": "صليبا: لإجراء الانتخابات في موعدها"
       },
       {
-        "headline": "A series of violent raids shook the Bekaa, coinciding with the overflight of enemy warplanes and a raid on a forest in Nabatieh.. The army continues its defensive measures in “Sarda”",
-        "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86%d9%8a%d9%81%d8%a9-%d8%aa%d9%87%d8%b2-%d8%a7%d9%84%d8%a8%d9%82%d8%a7%d8%b9-%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7%d9%8b-%d9%85%d8%b9-%d8%aa%d8%ad%d9%84%d9%8a%d9%82-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%af%d9%8a-%d9%88%d8%ba%d8%a7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%ad%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a8%d8%b7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa%d9%87-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b3%d8%b1%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "Death certificate of Sayyed Hassan Nasrallah",
+        "url": "https://www.elsharkonline.com/%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d8%ad%d8%b3%d9%86-%d9%86%d8%b5%d8%b1-%d8%a7%d9%84%d9%84%d9%87/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:14:53 +0000",
-        "description": "",
-        "originalHeadline": "سلسلة غارات عنيفة تهز البقاع تزامناً مع تحليق الطيران الحربي المعادي وغارة على حرج في النبطية.. الجيش يواصل إجراءاته الدفاعية في &#8220;سردة&#8221;"
+        "date": "Thu, 26 Feb 2026 21:09:54 +0000",
+        "description": "Death certificate of Sayyed Hassan Nasrallah",
+        "originalHeadline": "وثيقة وفاة السيد حسن نصر الله"
       },
       {
-        "headline": "Two buildings in Bakhoun at risk of collapse were evacuated",
-        "url": "https://www.elsharkonline.com/%d8%a5%d8%ae%d9%84%d8%a7%d8%a1-%d9%85%d8%a8%d9%86%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%ae%d8%b9%d9%88%d9%86-%d9%85%d8%b9%d8%b1%d9%91%d8%b6%d9%8a%d9%86-%d9%84%d8%ae%d8%b7%d8%b1-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+        "headline": "Jumblatt proved the rightness of his openness to Sharia: preserving the unity of Syria is a common goal",
+        "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%b5%d9%88%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%86%d9%81%d8%aa%d8%a7%d8%ad%d9%87-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:13:38 +0000",
-        "description": "Police officers from the municipality of Bakhoun - Al-Dinniyeh evacuated two buildings of their residents in the Al-Shorfa area in the town, each containing 10 floors, with the support of members of the Internal Security Forces, and under the direction of the mayor, Abdul Razzaq Al-Ghoul. They were prevented from being occupied by anyone, after an inspection conducted by engineer Haitham Bassam Al-Samad at the request of the municipality, accompanied by a police officer.",
-        "originalHeadline": "إخلاء مبنيين في بخعون معرّضين لخطر السقوط"
+        "date": "Thu, 26 Feb 2026 21:09:23 +0000",
+        "description": "",
+        "originalHeadline": "جنبلاط أثبت صوابية انفتاحه على الشرع: الحفاظ على وحدة سوريا هدف مشترك"
       },
       {
-        "headline": "Al-Asmar: “The General Labor Party” has proven to be the first defender and the loudest voice of the trade union movement",
-        "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%b1-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%a7%d9%86%d9%87-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%81%d8%b9-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%88%d8%a7%d9%84%d8%b5%d9%88%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%b1%d8%ae-%d9%84%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8%d9%8a%d8%a9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
+        "headline": "Saliba reveals: 241 collection orders worth $845,502,451 for quarry dues",
+        "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-241-%d8%a3%d9%85%d8%b1-%d8%aa%d8%ad%d8%b5%d9%8a%d9%84-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-845502451-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b9%d9%86-%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%84%d8%b9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
         "source": "El Shark",
         "sourceId": "elsharkonline",
         "category": "lebanon",
         "priority": "secondary",
         "language": "ar",
-        "date": "Thu, 26 Feb 2026 20:08:18 +0000",
-        "description": "",
-        "originalHeadline": "الاسمر: &#8220;العمالي العام&#8221; أثبت انه المدافع الأول والصوت الصارخ للحركة النقابية"
+        "date": "Thu, 26 Feb 2026 21:07:23 +0000",
+        "description": "Representative Dr. Najat Aoun Saliba revealed in a statement, “The Minister of Finance prepared 241 collection orders worth $845,502,451 for tax dues and licensing fees due on quarries and crushers,” considering that “this development did not come out of nowhere, but rather is the result of repeated demands over more than a year, and subsequent written questions directed to her.”",
+        "originalHeadline": "صليبا تكشف: 241 أمر تحصيل بقيمة 845,502,451 دولار عن مستحقات المقالع"
+      },
+      {
+        "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+      },
+      {
+        "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+      },
+      {
+        "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+      },
+      {
+        "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+      },
+      {
+        "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+        "source": "An Nahar",
+        "sourceId": "annahar",
+        "category": "lebanon",
+        "priority": "secondary",
+        "language": "ar",
+        "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
+      },
+      {
+        "headline": "Columbia University says US immigration agents lied to detain student",
+        "url": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:02:06 +0000",
+        "description": "Administrators say agents &#039;made misrepresentations&#039;, claimed missing person search to detain woman at school building."
+      },
+      {
+        "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+        "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement.",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Iran"
+        ]
+      },
+      {
+        "headline": "Columbia University students protest ICE arrest at university housing",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+        "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
       },
       {
         "headline": "US-Iran talks conclude with claims of progress but few details",
@@ -1197,37 +1454,19 @@
         "description": "India knocked out a defiant Zimbabwe in a high-scoring match in Chennai to keep alive their chances of making the semis."
       },
       {
-        "headline": "Trump U-turn: Is Venezuelan oil really available to Cuba again?",
-        "url": "https://www.aljazeera.com/economy/2026/2/26/trump-u-turn-is-venezuela-oil-really-available-to-cuba-again?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
+        "headline": "Exclusive: Washington presses Syria to shift from Chinese telecom systems - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
         "category": "wire",
-        "priority": "primary",
+        "priority": "secondary",
         "language": "en",
-        "date": "Thu, 26 Feb 2026 15:54:48 +0000",
-        "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-      },
-      {
-        "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-        "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "wire",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-        "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-      },
-      {
-        "headline": "Epstein and the politics of distraction",
-        "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "wire",
-        "priority": "primary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-        "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
+        "date": "Thu, 26 Feb 2026 18:12:01 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5\" target=\"_blank\"&gt",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
       },
       {
         "headline": "Russia questions how Trump's Board of Peace will work with UN Security Council - Reuters",
@@ -1267,17 +1506,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
       },
       {
-        "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 12:19:02 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
-      },
-      {
         "headline": "Russia says boat incident near Cuba is 'aggressive provocation' by U.S. - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0zQXc?oc=5",
         "source": "Reuters",
@@ -1287,6 +1515,17 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 06:45:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0"
+      },
+      {
+        "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 12:19:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
       },
       {
         "headline": "India's Yes Bank flags $280,000 in unauthorised forex card transactions - Reuters",
@@ -1309,6 +1548,17 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 06:36:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVJ1V1lZWkdXdjF6NjB4c29ieVRVM1NlbjVfcHhnTWl6YU45Nk9QNnh5SFg5aWpWS0lGbngweEVJNHZRejhVOHgtQUJDQ2RWRWpzQzBxbmhTbHBlUHJkZkVkZVh6UUlIRklkaHdLOHJNcXJldjFtT3VfNUlHY1g3SUp0Ymw4WWxINGhaOXRFbV9keEUxdHBQNUpPQ1NEUmxRY2dXdFAwM1VxaVhXN2FyOHpkU3VSZ1N"
+      },
+      {
+        "headline": "Russia says sending British troops to Ukraine would prolong war, not end it - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZMNEFNYg?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 12:56:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZ"
       },
       {
         "headline": "OpenAI hires ex-Apple models head from Meta, The Information reports - Reuters",
@@ -1383,43 +1633,6 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 06:25:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWR"
-      },
-      {
-        "headline": "White House envoys disappointed after morning talks with Iranians, Axios reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25IZHdyTHh3NC14OWp3b0JmMjhCX05Zdw?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 18:34:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
-      },
-      {
-        "headline": "Morning Bid: Nvidia delivers, but good no longer cuts it - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 05:32:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
-      },
-      {
-        "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-        "source": "AP",
-        "sourceId": "ap_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 19:22:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
       },
       {
         "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -1546,6 +1759,17 @@
         "language": "en",
         "date": "Wed, 25 Feb 2026 22:12:42 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX29feU5lS2YxZGVLWkgtN3p6NTI2QjNnS1hGREY1SlJndkdKel9GTERfeTRqZDRBbzA2RHZiYzhsT3BDQVBza1RtQ01NNEJSbzBHUXQwaWJXbFhXeEJLRFI2WWduZGVyV3hYcEk3UW95allLeEx0SEpsX3poQmd4WmVEdUxPV1dNQ2J4QWtnN08?oc=5\" target=\"_blank\"&gt;SnoCountry Mountain Report"
+      },
+      {
+        "headline": "The top photos of the day by AP’s photojournalists - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5",
+        "source": "AP",
+        "sourceId": "ap_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 20:59:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5\" targ"
       },
       {
         "headline": "IMF says it is releasing $2.3 billion to Egypt after reforms help to stabilize the economy - AP News",
@@ -1799,6 +2023,32 @@
         "description": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse."
       },
       {
+        "headline": "US, Iran said to agree to further talks next week, as mediator claims progress",
+        "url": "https://www.timesofisrael.com/us-iran-said-to-agree-to-further-talks-next-week-as-mediator-claims-progress/",
+        "source": "Times of Israel",
+        "sourceId": "timesofisrael",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:23:45 +0000",
+        "description": "",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Iran"
+        ]
+      },
+      {
+        "headline": "Progressive Jews sound alarm over bill cementing Orthodox control of Western Wall",
+        "url": "https://www.timesofisrael.com/progressive-jews-sound-alarm-over-bill-cementing-orthodox-control-of-western-wall/",
+        "source": "Times of Israel",
+        "sourceId": "timesofisrael",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:09:37 +0000",
+        "description": ""
+      },
+      {
         "headline": "Gaza envelope hosts Darom BaLev for 2nd year as anemones carpet south",
         "url": "https://www.timesofisrael.com/gaza-envelope-hosts-darom-balev-for-2nd-year-as-anemones-carpet-south/",
         "source": "Times of Israel",
@@ -1952,28 +2202,6 @@
         "priority": "secondary",
         "language": "en",
         "date": "Thu, 26 Feb 2026 14:29:07 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Daily Briefing Feb. 26 &#8211; Nuke talks resume even as US F-22s crowd Israeli skies",
-        "url": "https://www.timesofisrael.com/daily-briefing-feb-26-nuke-talks-resume-even-as-us-f-22s-crowd-israeli-skies/",
-        "source": "Times of Israel",
-        "sourceId": "timesofisrael",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 13:57:40 +0000",
-        "description": ""
-      },
-      {
-        "headline": "129 journalists killed worldwide in 2025, mostly by Israel, press group claims; IDF rejects findings",
-        "url": "https://www.timesofisrael.com/129-journalists-killed-worldwide-in-2025-mostly-by-israel-press-group-claims-idf-rejects-findings/",
-        "source": "Times of Israel",
-        "sourceId": "timesofisrael",
-        "category": "regional",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 13:57:11 +0000",
         "description": ""
       }
     ],
@@ -2142,6 +2370,171 @@
           "priority": "primary",
           "language": "en",
           "date": "Mon, 23 Feb 2026 08:28:03 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Independent Monitoring ‘Critical’ for Syria’s Transition, Researcher Warns",
+          "url": "https://syrianobserver.com/syrian-actors/independent-monitoring-critical-for-syrias-transition-researcher-warns.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:32:55 +0000",
+          "description": ""
+        },
+        {
+          "headline": "US-Brokered Prisoner Swap Seeks to Ease Tensions in Syria’s Suweida",
+          "url": "https://syrianobserver.com/foreign-actors/us-brokered-prisoner-swap-seeks-to-ease-tensions-in-syrias-suweida.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:00:57 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
+          "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
+          "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:40 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
+          "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
+          "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
+          "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:31 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:27 +0000",
+          "description": ""
+        },
+        {
+          "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
+          "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:09 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
+          "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:59 +0000",
+          "description": ""
+        },
+        {
+          "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
+          "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:43 +0000",
+          "description": ""
+        },
+        {
+          "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
+          "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:08 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
+          "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 21:00:55 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 21:00:35 +0000",
           "description": ""
         },
         {
@@ -2897,127 +3290,219 @@
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
-          "headline": "86 detainees were exchanged between the Syrian government and Druze factions in Suwayda",
-          "url": "https://www.elsharkonline.com/%d8%aa%d8%a8%d8%a7%d8%af%d9%84-86-%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d8%a7%d9%8b-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%af%d8%b1%d8%b2%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Jumblatt warns of mid-March",
+          "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d9%8a%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d9%85%d9%86%d8%aa%d8%b5%d9%81-%d8%a2%d8%b0%d8%a7%d8%b1/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 21:02:57 +0000",
-          "description": "",
-          "originalHeadline": "تبادل 86 محتجزاً بين الحكومة السورية وفصائل درزية في السويداء"
+          "date": "Thu, 26 Feb 2026 21:23:28 +0000",
+          "description": "The former head of the Progressive Socialist Party, Walid Jumblatt, warned in a post on his account on the “X” platform, “mid-March,” accompanying his tweet with a symbolic image showing a mythical statue spewing fire.",
+          "originalHeadline": "جنبلاط يحذّر من منتصف آذار"
         },
         {
-          "headline": "Shamkhani: Not possessing a nuclear weapon is consistent with our faith and the Supreme Leader’s fatwa",
-          "url": "https://www.elsharkonline.com/%d8%b4%d9%85%d8%ae%d8%a7%d9%86%d9%8a-%d8%b9%d8%af%d9%85-%d8%a7%d9%85%d8%aa%d9%84%d8%a7%d9%83-%d8%b3%d9%84%d8%a7%d8%ad-%d9%86%d9%88%d9%88%d9%8a-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d9%85%d8%b9-%d8%b9%d9%82%d9%8a%d8%af%d8%aa%d9%86%d8%a7-%d9%88%d9%81%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%af/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Berri discussed with the Qatari Ambassador the latest developments locally and regionally",
+          "url": "https://www.elsharkonline.com/%d8%a8%d8%b1%d9%8a-%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b3%d9%81%d9%8a%d8%b1-%d9%82%d8%b7%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ac%d8%af%d9%91%d8%a7%d8%aa-%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d9%8b-%d9%88%d8%a5%d9%82%d9%84%d9%8a%d9%85%d9%8a%d8%a7%d9%8b/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:57:40 +0000",
-          "description": "",
-          "originalHeadline": "شمخاني: عدم امتلاك سلاح نووي يتوافق مع عقيدتنا وفتوى المرشد"
+          "date": "Thu, 26 Feb 2026 21:18:25 +0000",
+          "description": "Speaker of the House of Representatives, Nabih Berri, received at the Second Presidency headquarters in Ain al-Tineh the Ambassador of the State of Qatar to Lebanon, Sheikh Saud bin Abdul Rahman Al Thani. The developments in the situation in Lebanon and the region, political developments, and bilateral relations between Lebanon and Qatar were discussed. President Berri received a delegation from the Food Safety Regulatory Authority, headed by Elie Na",
+          "originalHeadline": "بري بحث مع سفير قطر في المستجدّات محلي��ً وإقليمياً"
         },
         {
-          "headline": "“Politico”: American officials prefer Israel’s initiative to attack Iran",
-          "url": "https://www.elsharkonline.com/%d8%a8%d9%88%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%88%d9%86-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%88%d9%86-%d9%8a%d9%81%d8%b6%d9%84%d9%88%d9%86-%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d9%85%d9%87%d8%a7%d8%ac%d9%85%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Suleiman: The presence of weapons outside the legal framework undermines constitutions and prevents the establishment of a single authority",
+          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d9%88%d8%ac%d9%88%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d8%ad-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d9%8a%d9%82%d9%88%d9%91%d8%b6-%d8%a7%d9%84%d8%af%d8%b3%d8%a7%d8%aa%d9%8a%d8%b1-%d9%88%d9%8a%d9%85%d9%86%d8%b9-%d9%82%d9%8a%d8%a7%d9%85-%d8%b3%d9%84%d8%b7%d8%a9-%d9%88%d8%a7%d8%ad%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:57:05 +0000",
-          "description": "",
-          "originalHeadline": "«بوليتيكو»: مسؤولون أميركيون يفضلون مبادرة إسرائيل بمهاجمة إيران"
+          "date": "Thu, 26 Feb 2026 21:15:00 +0000",
+          "description": "President General Michel Silian said in a statement: “In the midst of the proposed diplomatic and military solutions, I, as a Lebanese citizen, see that the priority must be clear and gradual: First, preventing the possession of nuclear weapons.”",
+          "originalHeadline": "سليمان: وجود السلاح خارج الشرعية يقوّض الدساتير ويمنع قيام سلطة واحدة"
         },
         {
-          "headline": "Al-Asaad: The whole world is on a hot plate",
-          "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d8%a3%d8%b3%d8%b1%d9%87-%d8%b9%d9%84%d9%89-%d8%b5%d9%81%d9%8a%d8%ad-%d8%b3%d8%a7%d8%ae%d9%86/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Salam: We succeeded in reducing the collapse, and the President of the Republic and I have a common goal",
+          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%a7%d9%85-%d9%86%d8%ac%d8%ad%d9%86%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%88%d9%8a%d8%ac%d9%85%d8%b9%d9%86%d9%8a-%d9%88%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a3%d8%b6%d9%88%d8%a7%d8%a1-%d8%a7%d9%84%d9%8a%d9%88%d9%85/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:26:48 +0000",
-          "description": "",
-          "originalHeadline": "الاسعد: العالم بأسره على صفيح ساخن"
+          "date": "Thu, 26 Feb 2026 21:14:04 +0000",
+          "description": "On the one-year anniversary of the government gaining confidence, Prime Minister Nawaf Salam announced that we were able to put the country on the right track after it was threatened with collapse. He said: “We are a founding government that is working on",
+          "originalHeadline": "سلام: نجحنا في الحد من الإنهيار ويجمعني ورئيس الجمهورية هدف مشترك"
         },
         {
-          "headline": "Wadih El Khazen welcomed Salam’s position and stressed the necessity of protecting social justice",
-          "url": "https://www.elsharkonline.com/%d9%88%d8%af%d9%8a%d8%b9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b2%d9%86-%d8%b1%d8%ad%d9%91%d8%a8-%d8%a8%d9%85%d9%88%d9%82%d9%81-%d8%b3%d9%84%d8%a7%d9%85-%d9%88%d8%a3%d9%83%d8%af-%d8%b6%d8%b1%d9%88%d8%b1%d8%a9-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Sheikh Al-Aql met with the Syrians released from Ashrafieh Sahnaya",
+          "url": "https://www.elsharkonline.com/%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%b9%d9%82%d9%84-%d8%a7%d9%84%d8%aa%d9%82%d9%89-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac-%d8%b9%d9%86%d9%87%d9%85-%d9%85%d9%86-%d8%a3%d8%b4%d8%b1%d9%81%d9%8a%d8%a9-%d8%b5%d8%ad%d9%86%d8%a7%d9%8a%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:22:49 +0000",
+          "date": "Thu, 26 Feb 2026 21:12:28 +0000",
           "description": "",
-          "originalHeadline": "وديع الخازن رحّب بموقف سلام وأكد ضرورة حماية العدالة الاجتماعية"
+          "originalHeadline": "شيخ العقل التقى السوريين المفرج عنهم من أشرفية صحنايا"
         },
         {
-          "headline": "“Homeland of Man” renewed the call for neutrality and warned against plunging the country into any support war",
-          "url": "https://www.elsharkonline.com/%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d8%ac%d8%af%d9%91%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%af-%d9%88%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d8%b2%d8%ac%d9%91-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af-%d9%81%d9%8a-%d8%a3%d9%8a%d9%91-%d8%ad%d8%b1%d8%a8-%d8%a5%d8%b3%d9%86%d8%a7%d8%af/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "The Cairo meeting praised the army's performance and thanked the participants for their support",
+          "url": "https://www.elsharkonline.com/%d8%a5%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a3%d8%b4%d8%a7%d8%af-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d9%87%d9%8a%d9%83%d9%84-%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d9%8a%d9%86-%d8%b9%d9%84%d9%89-%d8%af%d8%b9%d9%85%d9%87%d9%85/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:22:10 +0000",
-          "description": "",
-          "originalHeadline": "«وطن الإنسان» جدّد الدعوة إلى الحياد وحذّر من زجّ البلاد في أيّ حرب إسناد"
+          "date": "Thu, 26 Feb 2026 21:11:41 +0000",
+          "description": "On 02/24/2026, the Commander of the Army, General Rudolph Heikal, and the Director General of the Internal Security Forces, Major General Raed Abdullah, participated in the Cairo preparatory meeting for the International Conference in Support of the Army and the Internal Security Forces.",
+          "originalHeadline": "إجتماع القاهرة أشاد بأداء بالجيش وهيكل شكر المشاركين على دعمهم"
         },
         {
-          "headline": "Fadlallah: Whoever is torn apart by sectarianism and sectarianism works to serve the Zionist enemy",
-          "url": "https://www.elsharkonline.com/%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%86-%d9%8a%d9%85%d8%b2%d9%91%d9%82-%d8%b7%d8%a7%d8%a6%d9%81%d9%8a%d8%a7%d9%8b-%d9%88%d9%85%d8%b0%d9%87%d8%a8%d9%8a%d8%a7%d9%8b-%d9%8a%d8%b9%d9%85%d9%84-%d9%84%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d9%88-%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Saliba: To hold the elections on time",
+          "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d9%84%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d9%88%d8%b9%d8%af%d9%87%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:16:37 +0000",
-          "description": "",
-          "originalHeadline": "فضل الله: من يمزّق طائفياً ومذهبياً يعمل لخدمة العدو الصهيوني"
+          "date": "Thu, 26 Feb 2026 21:10:33 +0000",
+          "description": "Representative Najat Aoun Saliba pointed out that “there is confirmation that the parliamentary elections will be held on time from the President of the Republic and some politicians,” explaining that “the news circulating about their postponement is not confirmed.”  In an interview with the Voice of All Lebanon, she stressed that “respecting constitutional deadlines is a national duty, and anything that goes beyond that is a disruption of constitutional institutional work.”",
+          "originalHeadline": "صليبا: لإجراء الانتخابات في موعدها"
         },
         {
-          "headline": "A series of violent raids shook the Bekaa, coinciding with the overflight of enemy warplanes and a raid on a forest in Nabatieh.. The army continues its defensive measures in “Sarda”",
-          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86%d9%8a%d9%81%d8%a9-%d8%aa%d9%87%d8%b2-%d8%a7%d9%84%d8%a8%d9%82%d8%a7%d8%b9-%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7%d9%8b-%d9%85%d8%b9-%d8%aa%d8%ad%d9%84%d9%8a%d9%82-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%af%d9%8a-%d9%88%d8%ba%d8%a7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%ad%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a8%d8%b7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa%d9%87-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b3%d8%b1%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Death certificate of Sayyed Hassan Nasrallah",
+          "url": "https://www.elsharkonline.com/%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d8%ad%d8%b3%d9%86-%d9%86%d8%b5%d8%b1-%d8%a7%d9%84%d9%84%d9%87/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:14:53 +0000",
-          "description": "",
-          "originalHeadline": "سلسلة غارات عنيفة تهز البقاع تزامناً مع تحليق الطيران الحربي المعادي وغارة على حرج في النبطية.. الجيش يواصل إجراءاته الدفاعية في &#8220;سردة&#8221;"
+          "date": "Thu, 26 Feb 2026 21:09:54 +0000",
+          "description": "Death certificate of Sayyed Hassan Nasrallah",
+          "originalHeadline": "وثيقة وفاة السيد حسن نصر الله"
         },
         {
-          "headline": "Two buildings in Bakhoun at risk of collapse were evacuated",
-          "url": "https://www.elsharkonline.com/%d8%a5%d8%ae%d9%84%d8%a7%d8%a1-%d9%85%d8%a8%d9%86%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%ae%d8%b9%d9%88%d9%86-%d9%85%d8%b9%d8%b1%d9%91%d8%b6%d9%8a%d9%86-%d9%84%d8%ae%d8%b7%d8%b1-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Jumblatt proved the rightness of his openness to Sharia: preserving the unity of Syria is a common goal",
+          "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%b5%d9%88%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%86%d9%81%d8%aa%d8%a7%d8%ad%d9%87-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:13:38 +0000",
-          "description": "Police officers from the municipality of Bakhoun - Al-Dinniyeh evacuated two buildings of their residents in the Al-Shorfa area in the town, each containing 10 floors, with the support of members of the Internal Security Forces, and under the direction of the mayor, Abdul Razzaq Al-Ghoul. They were prevented from being occupied by anyone, after an inspection conducted by engineer Haitham Bassam Al-Samad at the request of the municipality, accompanied by a police officer.",
-          "originalHeadline": "إخلاء مبنيين في بخعون معرّضين لخطر السقوط"
+          "date": "Thu, 26 Feb 2026 21:09:23 +0000",
+          "description": "",
+          "originalHeadline": "جنبلاط أثبت صوابية انفتاحه على الشرع: الحفاظ على وحدة سوريا هدف مشترك"
         },
         {
-          "headline": "Al-Asmar: “The General Labor Party” has proven to be the first defender and the loudest voice of the trade union movement",
-          "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%b1-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%a7%d9%86%d9%87-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%81%d8%b9-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%88%d8%a7%d9%84%d8%b5%d9%88%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%b1%d8%ae-%d9%84%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8%d9%8a%d8%a9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
+          "headline": "Saliba reveals: 241 collection orders worth $845,502,451 for quarry dues",
+          "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-241-%d8%a3%d9%85%d8%b1-%d8%aa%d8%ad%d8%b5%d9%8a%d9%84-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-845502451-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b9%d9%86-%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%84%d8%b9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:08:18 +0000",
-          "description": "",
-          "originalHeadline": "الاسمر: &#8220;العمالي العام&#8221; أثبت انه المدافع الأول والصوت الصارخ للحركة النقابية"
+          "date": "Thu, 26 Feb 2026 21:07:23 +0000",
+          "description": "Representative Dr. Najat Aoun Saliba revealed in a statement, “The Minister of Finance prepared 241 collection orders worth $845,502,451 for tax dues and licensing fees due on quarries and crushers,” considering that “this development did not come out of nowhere, but rather is the result of repeated demands over more than a year, and subsequent written questions directed to her.”",
+          "originalHeadline": "صليبا تكشف: 241 أمر تحصيل بقيمة 845,502,451 دولار عن مستحقات المقالع"
+        },
+        {
+          "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+        },
+        {
+          "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+        },
+        {
+          "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+        },
+        {
+          "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+        },
+        {
+          "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
         }
       ],
       "wire": [
+        {
+          "headline": "Columbia University says US immigration agents lied to detain student",
+          "url": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:02:06 +0000",
+          "description": "Administrators say agents &#039;made misrepresentations&#039;, claimed missing person search to detain woman at school building."
+        },
+        {
+          "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+          "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement.",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Iran"
+          ]
+        },
+        {
+          "headline": "Columbia University students protest ICE arrest at university housing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+          "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
+        },
         {
           "headline": "US-Iran talks conclude with claims of progress but few details",
           "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
@@ -3163,37 +3648,19 @@
           "description": "India knocked out a defiant Zimbabwe in a high-scoring match in Chennai to keep alive their chances of making the semis."
         },
         {
-          "headline": "Trump U-turn: Is Venezuelan oil really available to Cuba again?",
-          "url": "https://www.aljazeera.com/economy/2026/2/26/trump-u-turn-is-venezuela-oil-really-available-to-cuba-again?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
+          "headline": "Exclusive: Washington presses Syria to shift from Chinese telecom systems - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
           "category": "wire",
-          "priority": "primary",
+          "priority": "secondary",
           "language": "en",
-          "date": "Thu, 26 Feb 2026 15:54:48 +0000",
-          "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-        },
-        {
-          "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-          "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-        },
-        {
-          "headline": "Epstein and the politics of distraction",
-          "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-          "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
+          "date": "Thu, 26 Feb 2026 18:12:01 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5\" target=\"_blank\"&gt",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
         },
         {
           "headline": "Russia questions how Trump's Board of Peace will work with UN Security Council - Reuters",
@@ -3233,17 +3700,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
         },
         {
-          "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 12:19:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
-        },
-        {
           "headline": "Russia says boat incident near Cuba is 'aggressive provocation' by U.S. - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0zQXc?oc=5",
           "source": "Reuters",
@@ -3253,6 +3709,17 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:45:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0"
+        },
+        {
+          "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:19:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
         },
         {
           "headline": "India's Yes Bank flags $280,000 in unauthorised forex card transactions - Reuters",
@@ -3275,6 +3742,17 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:36:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVJ1V1lZWkdXdjF6NjB4c29ieVRVM1NlbjVfcHhnTWl6YU45Nk9QNnh5SFg5aWpWS0lGbngweEVJNHZRejhVOHgtQUJDQ2RWRWpzQzBxbmhTbHBlUHJkZkVkZVh6UUlIRklkaHdLOHJNcXJldjFtT3VfNUlHY1g3SUp0Ymw4WWxINGhaOXRFbV9keEUxdHBQNUpPQ1NEUmxRY2dXdFAwM1VxaVhXN2FyOHpkU3VSZ1N"
+        },
+        {
+          "headline": "Russia says sending British troops to Ukraine would prolong war, not end it - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZMNEFNYg?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:56:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZ"
         },
         {
           "headline": "OpenAI hires ex-Apple models head from Meta, The Information reports - Reuters",
@@ -3349,43 +3827,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:25:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWR"
-        },
-        {
-          "headline": "White House envoys disappointed after morning talks with Iranians, Axios reports - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25IZHdyTHh3NC14OWp3b0JmMjhCX05Zdw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 18:34:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
-        },
-        {
-          "headline": "Morning Bid: Nvidia delivers, but good no longer cuts it - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 05:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
-        },
-        {
-          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:22:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
         },
         {
           "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -3512,6 +3953,17 @@
           "language": "en",
           "date": "Wed, 25 Feb 2026 22:12:42 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX29feU5lS2YxZGVLWkgtN3p6NTI2QjNnS1hGREY1SlJndkdKel9GTERfeTRqZDRBbzA2RHZiYzhsT3BDQVBza1RtQ01NNEJSbzBHUXQwaWJXbFhXeEJLRFI2WWduZGVyV3hYcEk3UW95allLeEx0SEpsX3poQmd4WmVEdUxPV1dNQ2J4QWtnN08?oc=5\" target=\"_blank\"&gt;SnoCountry Mountain Report"
+        },
+        {
+          "headline": "The top photos of the day by AP’s photojournalists - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5\" targ"
         },
         {
           "headline": "IMF says it is releasing $2.3 billion to Egypt after reforms help to stabilize the economy - AP News",
@@ -3767,6 +4219,32 @@
       ],
       "regional": [
         {
+          "headline": "US, Iran said to agree to further talks next week, as mediator claims progress",
+          "url": "https://www.timesofisrael.com/us-iran-said-to-agree-to-further-talks-next-week-as-mediator-claims-progress/",
+          "source": "Times of Israel",
+          "sourceId": "timesofisrael",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:23:45 +0000",
+          "description": "",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Iran"
+          ]
+        },
+        {
+          "headline": "Progressive Jews sound alarm over bill cementing Orthodox control of Western Wall",
+          "url": "https://www.timesofisrael.com/progressive-jews-sound-alarm-over-bill-cementing-orthodox-control-of-western-wall/",
+          "source": "Times of Israel",
+          "sourceId": "timesofisrael",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:09:37 +0000",
+          "description": ""
+        },
+        {
           "headline": "Gaza envelope hosts Darom BaLev for 2nd year as anemones carpet south",
           "url": "https://www.timesofisrael.com/gaza-envelope-hosts-darom-balev-for-2nd-year-as-anemones-carpet-south/",
           "source": "Times of Israel",
@@ -3920,28 +4398,6 @@
           "priority": "secondary",
           "language": "en",
           "date": "Thu, 26 Feb 2026 14:29:07 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Daily Briefing Feb. 26 &#8211; Nuke talks resume even as US F-22s crowd Israeli skies",
-          "url": "https://www.timesofisrael.com/daily-briefing-feb-26-nuke-talks-resume-even-as-us-f-22s-crowd-israeli-skies/",
-          "source": "Times of Israel",
-          "sourceId": "timesofisrael",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 13:57:40 +0000",
-          "description": ""
-        },
-        {
-          "headline": "129 journalists killed worldwide in 2025, mostly by Israel, press group claims; IDF rejects findings",
-          "url": "https://www.timesofisrael.com/129-journalists-killed-worldwide-in-2025-mostly-by-israel-press-group-claims-idf-rejects-findings/",
-          "source": "Times of Israel",
-          "sourceId": "timesofisrael",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 13:57:11 +0000",
           "description": ""
         }
       ]
@@ -4111,6 +4567,171 @@
           "priority": "primary",
           "language": "en",
           "date": "Mon, 23 Feb 2026 08:28:03 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Independent Monitoring ‘Critical’ for Syria’s Transition, Researcher Warns",
+          "url": "https://syrianobserver.com/syrian-actors/independent-monitoring-critical-for-syrias-transition-researcher-warns.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:32:55 +0000",
+          "description": ""
+        },
+        {
+          "headline": "US-Brokered Prisoner Swap Seeks to Ease Tensions in Syria’s Suweida",
+          "url": "https://syrianobserver.com/foreign-actors/us-brokered-prisoner-swap-seeks-to-ease-tensions-in-syrias-suweida.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:00:57 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Cross-Border Trials: Legal Debate Erupts Over Transfer of ISIS Detainees to Iraq",
+          "url": "https://syrianobserver.com/syrian-actors/cross-border-trials-legal-debate-erupts-over-transfer-of-isis-detainees-to-iraq.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Interior Ministry: SDF Withdrew from Al-Hol Without Coordination, Security Plan Activated for Hassakeh",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-interior-ministry-sdf-withdrew-from-al-hol-without-coordination-security-plan-activated-for-hassakeh.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Iman Jarrous: Third Targeted Killing in Homs Within a Week",
+          "url": "https://syrianobserver.com/syrian-actors/iman-jarrous-third-targeted-killing-in-homs-within-a-week.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:40 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Foreign Minister and U.S. Envoy Discuss Strategic Files",
+          "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-and-u-s-envoy-discuss-strategic-files.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Wed, 25 Feb 2026 21:00:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Deadly Clashes Rock Suweida as Armed Group Storms Security Branch, Highway Attack Leaves Driver Dead",
+          "url": "https://syrianobserver.com/syrian-actors/deadly-clashes-rock-suweida-as-armed-group-storms-security-branch-highway-attack-leaves-driver-dead.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "A Reshuffle Without Reform: Power Struggles Behind Syria’s Expected Cabinet Changes",
+          "url": "https://syrianobserver.com/syrian-actors/a-reshuffle-without-reform-power-struggles-behind-syrias-expected-cabinet-changes.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:31 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Justice Minister Meets European Delegation to Discuss Legal Cooperation",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-justice-minister-meets-european-delegation-to-discuss-legal-cooperation.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:27 +0000",
+          "description": ""
+        },
+        {
+          "headline": "On Sheikh Osama Al-Rifai’s Fatwa on Agrarian Reform Lands",
+          "url": "https://syrianobserver.com/society/on-sheikh-osama-al-rifais-fatwa-on-agrarian-reform-lands.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Tue, 24 Feb 2026 21:00:09 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ghassan Alian: The Man, the Moment, and the Mission",
+          "url": "https://syrianobserver.com/foreign-actors/ghassan-alian-the-man-the-moment-and-the-mission.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:59 +0000",
+          "description": ""
+        },
+        {
+          "headline": "The Absence of Criticism Paves the Way for the Tyranny of Power",
+          "url": "https://syrianobserver.com/syrian-actors/the-absence-of-criticism-paves-the-way-for-the-tyranny-of-power.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:43 +0000",
+          "description": ""
+        },
+        {
+          "headline": "The New Amnesty Decree: A Test of Constitutional Legitimacy in Transitional Syria",
+          "url": "https://syrianobserver.com/syrian-actors/the-new-amnesty-decree-a-test-of-constitutional-legitimacy-in-transitional-syria.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Mon, 23 Feb 2026 21:00:08 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Germany’s Deportation Debate Intensifies as Conservatives Reject Syrian Appeals for Caution",
+          "url": "https://syrianobserver.com/refugees/germanys-deportation-debate-intensifies-as-conservatives-reject-syrian-appeals-for-caution.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 21:00:55 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Syrian Rights Group Challenges Legality of Amnesty Decree, Citing Constitutional Violations",
+          "url": "https://syrianobserver.com/syrian-actors/syrian-rights-group-challenges-legality-of-amnesty-decree-citing-constitutional-violations.html",
+          "source": "Syrian Observer",
+          "sourceId": "syrianobserver",
+          "category": "syria",
+          "priority": "primary",
+          "language": "en",
+          "date": "Sun, 22 Feb 2026 21:00:35 +0000",
           "description": ""
         },
         {
@@ -4514,6 +5135,43 @@
           "originalHeadline": "برلين ودمشق تبحثان التعاون المشترك لمحاربة \"داعش\" وجهود تحقيق الاستقرار"
         },
         {
+          "headline": "Columbia University says US immigration agents lied to detain student",
+          "url": "https://www.aljazeera.com/news/2026/2/26/columbia-university-says-us-immigration-agents-lied-to-detain-student?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:02:06 +0000",
+          "description": "Administrators say agents &#039;made misrepresentations&#039;, claimed missing person search to detain woman at school building."
+        },
+        {
+          "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+          "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement.",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Iran"
+          ]
+        },
+        {
+          "headline": "Columbia University students protest ICE arrest at university housing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "wire",
+          "priority": "primary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+          "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
+        },
+        {
           "headline": "US-Iran talks conclude with claims of progress but few details",
           "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4656,39 +5314,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 17:17:13 +0000",
           "description": "India knocked out a defiant Zimbabwe in a high-scoring match in Chennai to keep alive their chances of making the semis."
-        },
-        {
-          "headline": "Trump U-turn: Is Venezuelan oil really available to Cuba again?",
-          "url": "https://www.aljazeera.com/economy/2026/2/26/trump-u-turn-is-venezuela-oil-really-available-to-cuba-again?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 15:54:48 +0000",
-          "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-        },
-        {
-          "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-          "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-        },
-        {
-          "headline": "Epstein and the politics of distraction",
-          "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "wire",
-          "priority": "primary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-          "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
         }
       ],
       "secondary": [
@@ -5043,124 +5668,194 @@
           "originalHeadline": "العلماء حائرون.. هل وصلت كائنات فضائية للأرض؟ وما سر المركبة (I3/ATLAS)؟"
         },
         {
-          "headline": "86 detainees were exchanged between the Syrian government and Druze factions in Suwayda",
-          "url": "https://www.elsharkonline.com/%d8%aa%d8%a8%d8%a7%d8%af%d9%84-86-%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d8%a7%d9%8b-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%88%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%af%d8%b1%d8%b2%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Jumblatt warns of mid-March",
+          "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d9%8a%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d9%85%d9%86%d8%aa%d8%b5%d9%81-%d8%a2%d8%b0%d8%a7%d8%b1/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 21:02:57 +0000",
-          "description": "",
-          "originalHeadline": "تبادل 86 محتجزاً بين الحكومة السورية وفصائل درزية في السويداء"
+          "date": "Thu, 26 Feb 2026 21:23:28 +0000",
+          "description": "The former head of the Progressive Socialist Party, Walid Jumblatt, warned in a post on his account on the “X” platform, “mid-March,” accompanying his tweet with a symbolic image showing a mythical statue spewing fire.",
+          "originalHeadline": "جنبلاط يحذّر من منتصف آذار"
         },
         {
-          "headline": "Shamkhani: Not possessing a nuclear weapon is consistent with our faith and the Supreme Leader’s fatwa",
-          "url": "https://www.elsharkonline.com/%d8%b4%d9%85%d8%ae%d8%a7%d9%86%d9%8a-%d8%b9%d8%af%d9%85-%d8%a7%d9%85%d8%aa%d9%84%d8%a7%d9%83-%d8%b3%d9%84%d8%a7%d8%ad-%d9%86%d9%88%d9%88%d9%8a-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d9%85%d8%b9-%d8%b9%d9%82%d9%8a%d8%af%d8%aa%d9%86%d8%a7-%d9%88%d9%81%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%af/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Berri discussed with the Qatari Ambassador the latest developments locally and regionally",
+          "url": "https://www.elsharkonline.com/%d8%a8%d8%b1%d9%8a-%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d8%b3%d9%81%d9%8a%d8%b1-%d9%82%d8%b7%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ac%d8%af%d9%91%d8%a7%d8%aa-%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d9%8b-%d9%88%d8%a5%d9%82%d9%84%d9%8a%d9%85%d9%8a%d8%a7%d9%8b/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:57:40 +0000",
-          "description": "",
-          "originalHeadline": "شمخاني: عدم امتلاك سلاح نووي يتوافق مع عقيدتنا وفتوى المرشد"
+          "date": "Thu, 26 Feb 2026 21:18:25 +0000",
+          "description": "Speaker of the House of Representatives, Nabih Berri, received at the Second Presidency headquarters in Ain al-Tineh the Ambassador of the State of Qatar to Lebanon, Sheikh Saud bin Abdul Rahman Al Thani. The developments in the situation in Lebanon and the region, political developments, and bilateral relations between Lebanon and Qatar were discussed. President Berri received a delegation from the Food Safety Regulatory Authority, headed by Elie Na",
+          "originalHeadline": "بري بحث مع سفير قطر في المستجدّات محلي��ً وإقليمياً"
         },
         {
-          "headline": "“Politico”: American officials prefer Israel’s initiative to attack Iran",
-          "url": "https://www.elsharkonline.com/%d8%a8%d9%88%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%88%d9%86-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%88%d9%86-%d9%8a%d9%81%d8%b6%d9%84%d9%88%d9%86-%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d9%85%d9%87%d8%a7%d8%ac%d9%85%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86/2026/02/26/%d8%b9%d8%b1%d8%a8%d9%8a-%d9%88%d8%af%d9%88%d9%84%d9%8a/",
+          "headline": "Suleiman: The presence of weapons outside the legal framework undermines constitutions and prevents the establishment of a single authority",
+          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d9%88%d8%ac%d9%88%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d8%ad-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d9%8a%d9%82%d9%88%d9%91%d8%b6-%d8%a7%d9%84%d8%af%d8%b3%d8%a7%d8%aa%d9%8a%d8%b1-%d9%88%d9%8a%d9%85%d9%86%d8%b9-%d9%82%d9%8a%d8%a7%d9%85-%d8%b3%d9%84%d8%b7%d8%a9-%d9%88%d8%a7%d8%ad%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:57:05 +0000",
-          "description": "",
-          "originalHeadline": "«بوليتيكو»: مسؤولون أميركيون يفضلون مبادرة إسرائيل بمهاجمة إيران"
+          "date": "Thu, 26 Feb 2026 21:15:00 +0000",
+          "description": "President General Michel Silian said in a statement: “In the midst of the proposed diplomatic and military solutions, I, as a Lebanese citizen, see that the priority must be clear and gradual: First, preventing the possession of nuclear weapons.”",
+          "originalHeadline": "سليمان: وجود السلاح خارج الشرعية يقوّض الدساتير ويمنع قيام سلطة واحدة"
         },
         {
-          "headline": "Al-Asaad: The whole world is on a hot plate",
-          "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d8%a3%d8%b3%d8%b1%d9%87-%d8%b9%d9%84%d9%89-%d8%b5%d9%81%d9%8a%d8%ad-%d8%b3%d8%a7%d8%ae%d9%86/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Salam: We succeeded in reducing the collapse, and the President of the Republic and I have a common goal",
+          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%a7%d9%85-%d9%86%d8%ac%d8%ad%d9%86%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%88%d9%8a%d8%ac%d9%85%d8%b9%d9%86%d9%8a-%d9%88%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a3%d8%b6%d9%88%d8%a7%d8%a1-%d8%a7%d9%84%d9%8a%d9%88%d9%85/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:26:48 +0000",
-          "description": "",
-          "originalHeadline": "الاسعد: العالم بأسره على صفيح ساخن"
+          "date": "Thu, 26 Feb 2026 21:14:04 +0000",
+          "description": "On the one-year anniversary of the government gaining confidence, Prime Minister Nawaf Salam announced that we were able to put the country on the right track after it was threatened with collapse. He said: “We are a founding government that is working on",
+          "originalHeadline": "سلام: نجحنا في الحد من الإنهيار ويجمعني ورئيس الجمهورية هدف مشترك"
         },
         {
-          "headline": "Wadih El Khazen welcomed Salam’s position and stressed the necessity of protecting social justice",
-          "url": "https://www.elsharkonline.com/%d9%88%d8%af%d9%8a%d8%b9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b2%d9%86-%d8%b1%d8%ad%d9%91%d8%a8-%d8%a8%d9%85%d9%88%d9%82%d9%81-%d8%b3%d9%84%d8%a7%d9%85-%d9%88%d8%a3%d9%83%d8%af-%d8%b6%d8%b1%d9%88%d8%b1%d8%a9-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Sheikh Al-Aql met with the Syrians released from Ashrafieh Sahnaya",
+          "url": "https://www.elsharkonline.com/%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%b9%d9%82%d9%84-%d8%a7%d9%84%d8%aa%d9%82%d9%89-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac-%d8%b9%d9%86%d9%87%d9%85-%d9%85%d9%86-%d8%a3%d8%b4%d8%b1%d9%81%d9%8a%d8%a9-%d8%b5%d8%ad%d9%86%d8%a7%d9%8a%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:22:49 +0000",
+          "date": "Thu, 26 Feb 2026 21:12:28 +0000",
           "description": "",
-          "originalHeadline": "وديع الخازن رحّب بموقف سلام وأكد ضرورة حماية العدالة الاجتماعية"
+          "originalHeadline": "شيخ العقل التقى السوريين المفرج عنهم من أشرفية صحنايا"
         },
         {
-          "headline": "“Homeland of Man” renewed the call for neutrality and warned against plunging the country into any support war",
-          "url": "https://www.elsharkonline.com/%d9%88%d8%b7%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d8%ac%d8%af%d9%91%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%af-%d9%88%d8%ad%d8%b0%d9%91%d8%b1-%d9%85%d9%86-%d8%b2%d8%ac%d9%91-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af-%d9%81%d9%8a-%d8%a3%d9%8a%d9%91-%d8%ad%d8%b1%d8%a8-%d8%a5%d8%b3%d9%86%d8%a7%d8%af/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "The Cairo meeting praised the army's performance and thanked the participants for their support",
+          "url": "https://www.elsharkonline.com/%d8%a5%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a3%d8%b4%d8%a7%d8%af-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%a8%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d9%87%d9%8a%d9%83%d9%84-%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d9%8a%d9%86-%d8%b9%d9%84%d9%89-%d8%af%d8%b9%d9%85%d9%87%d9%85/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:22:10 +0000",
-          "description": "",
-          "originalHeadline": "«وطن الإنسان» جدّد الدعوة إلى الحياد وحذّر من زجّ البلاد في أيّ حرب إسناد"
+          "date": "Thu, 26 Feb 2026 21:11:41 +0000",
+          "description": "On 02/24/2026, the Commander of the Army, General Rudolph Heikal, and the Director General of the Internal Security Forces, Major General Raed Abdullah, participated in the Cairo preparatory meeting for the International Conference in Support of the Army and the Internal Security Forces.",
+          "originalHeadline": "إجتماع القاهرة أشاد بأداء بالجيش وهيكل شكر المشاركين على دعمهم"
         },
         {
-          "headline": "Fadlallah: Whoever is torn apart by sectarianism and sectarianism works to serve the Zionist enemy",
-          "url": "https://www.elsharkonline.com/%d9%81%d8%b6%d9%84-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%86-%d9%8a%d9%85%d8%b2%d9%91%d9%82-%d8%b7%d8%a7%d8%a6%d9%81%d9%8a%d8%a7%d9%8b-%d9%88%d9%85%d8%b0%d9%87%d8%a8%d9%8a%d8%a7%d9%8b-%d9%8a%d8%b9%d9%85%d9%84-%d9%84%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d8%af%d9%88-%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Saliba: To hold the elections on time",
+          "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d9%84%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d9%88%d8%b9%d8%af%d9%87%d8%a7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:16:37 +0000",
-          "description": "",
-          "originalHeadline": "فضل الله: من يمزّق طائفياً ومذهبياً يعمل لخدمة العدو الصهيوني"
+          "date": "Thu, 26 Feb 2026 21:10:33 +0000",
+          "description": "Representative Najat Aoun Saliba pointed out that “there is confirmation that the parliamentary elections will be held on time from the President of the Republic and some politicians,” explaining that “the news circulating about their postponement is not confirmed.”  In an interview with the Voice of All Lebanon, she stressed that “respecting constitutional deadlines is a national duty, and anything that goes beyond that is a disruption of constitutional institutional work.”",
+          "originalHeadline": "صليبا: لإجراء الانتخابات في موعدها"
         },
         {
-          "headline": "A series of violent raids shook the Bekaa, coinciding with the overflight of enemy warplanes and a raid on a forest in Nabatieh.. The army continues its defensive measures in “Sarda”",
-          "url": "https://www.elsharkonline.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%86%d9%8a%d9%81%d8%a9-%d8%aa%d9%87%d8%b2-%d8%a7%d9%84%d8%a8%d9%82%d8%a7%d8%b9-%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7%d9%8b-%d9%85%d8%b9-%d8%aa%d8%ad%d9%84%d9%8a%d9%82-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%af%d9%8a-%d9%88%d8%ba%d8%a7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%ad%d8%b1%d8%ac-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%a8%d8%b7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa%d9%87-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b3%d8%b1%d8%af%d8%a9/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Death certificate of Sayyed Hassan Nasrallah",
+          "url": "https://www.elsharkonline.com/%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d9%81%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%af-%d8%ad%d8%b3%d9%86-%d9%86%d8%b5%d8%b1-%d8%a7%d9%84%d9%84%d9%87/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:14:53 +0000",
-          "description": "",
-          "originalHeadline": "سلسلة غارات عنيفة تهز البقاع تزامناً مع تحليق الطيران الحربي المعادي وغارة على حرج في النبطية.. الجيش يواصل إجراءاته الدفاعية في &#8220;سردة&#8221;"
+          "date": "Thu, 26 Feb 2026 21:09:54 +0000",
+          "description": "Death certificate of Sayyed Hassan Nasrallah",
+          "originalHeadline": "وثيقة وفاة السيد حسن نصر الله"
         },
         {
-          "headline": "Two buildings in Bakhoun at risk of collapse were evacuated",
-          "url": "https://www.elsharkonline.com/%d8%a5%d8%ae%d9%84%d8%a7%d8%a1-%d9%85%d8%a8%d9%86%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%ae%d8%b9%d9%88%d9%86-%d9%85%d8%b9%d8%b1%d9%91%d8%b6%d9%8a%d9%86-%d9%84%d8%ae%d8%b7%d8%b1-%d8%a7%d9%84%d8%b3%d9%82%d9%88%d8%b7/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
+          "headline": "Jumblatt proved the rightness of his openness to Sharia: preserving the unity of Syria is a common goal",
+          "url": "https://www.elsharkonline.com/%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%b5%d9%88%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%86%d9%81%d8%aa%d8%a7%d8%ad%d9%87-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%87%d8%af%d9%81-%d9%85%d8%b4%d8%aa%d8%b1%d9%83/2026/02/26/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:13:38 +0000",
-          "description": "Police officers from the municipality of Bakhoun - Al-Dinniyeh evacuated two buildings of their residents in the Al-Shorfa area in the town, each containing 10 floors, with the support of members of the Internal Security Forces, and under the direction of the mayor, Abdul Razzaq Al-Ghoul. They were prevented from being occupied by anyone, after an inspection conducted by engineer Haitham Bassam Al-Samad at the request of the municipality, accompanied by a police officer.",
-          "originalHeadline": "إخلاء مبنيين في بخعون معرّضين لخطر السقوط"
+          "date": "Thu, 26 Feb 2026 21:09:23 +0000",
+          "description": "",
+          "originalHeadline": "جنبلاط أثبت صوابية انفتاحه على الشرع: الحفاظ على وحدة سوريا هدف مشترك"
         },
         {
-          "headline": "Al-Asmar: “The General Labor Party” has proven to be the first defender and the loudest voice of the trade union movement",
-          "url": "https://www.elsharkonline.com/%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%b1-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a3%d8%ab%d8%a8%d8%aa-%d8%a7%d9%86%d9%87-%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%81%d8%b9-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d9%88%d8%a7%d9%84%d8%b5%d9%88%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%b1%d8%ae-%d9%84%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8%d9%8a%d8%a9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
+          "headline": "Saliba reveals: 241 collection orders worth $845,502,451 for quarry dues",
+          "url": "https://www.elsharkonline.com/%d8%b5%d9%84%d9%8a%d8%a8%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-241-%d8%a3%d9%85%d8%b1-%d8%aa%d8%ad%d8%b5%d9%8a%d9%84-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-845502451-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%b9%d9%86-%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%84%d8%b9/2026/02/26/%d8%a5%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
           "source": "El Shark",
           "sourceId": "elsharkonline",
           "category": "lebanon",
           "priority": "secondary",
           "language": "ar",
-          "date": "Thu, 26 Feb 2026 20:08:18 +0000",
-          "description": "",
-          "originalHeadline": "الاسمر: &#8220;العمالي العام&#8221; أثبت انه المدافع الأول والصوت الصارخ للحركة النقابية"
+          "date": "Thu, 26 Feb 2026 21:07:23 +0000",
+          "description": "Representative Dr. Najat Aoun Saliba revealed in a statement, “The Minister of Finance prepared 241 collection orders worth $845,502,451 for tax dues and licensing fees due on quarries and crushers,” considering that “this development did not come out of nowhere, but rather is the result of repeated demands over more than a year, and subsequent written questions directed to her.”",
+          "originalHeadline": "صليبا تكشف: 241 أمر تحصيل بقيمة 845,502,451 دولار عن مستحقات المقالع"
+        },
+        {
+          "headline": "Paying the price: How Iran and Hezbollah shape Lebanon’s fate - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CMnVYWGhKTXR2LUx0ZzdLT1lsR1RtSWNhN2szRWFKc0RQMjlIVVhheHBob2MyOWFNbGJBTTJUWFBqcmhpcEN3VEI0U3QyUU00VFBzZVVLdTAxTk9jXzl5R3UtUldIamM3?oc=5\" target=\"_blank\"&gt;Paying the price: How Iran and Hezbollah shape Lebanon’s fate&lt;/a&gt;&amp;nbsp;"
+        },
+        {
+          "headline": "Israel threatens Lebanese army installation along border - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 12:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TczlCblRYZnJ2UVFQZ3oyREplck1Jc0NRNWx3eTQ5WEMwdFZtYnlqUDJJZlE0dkI1Y0FXcHJrSmpvMDlsNnp2TDZJeDVOX0lLWVY2MElCcXRuQ1lGMjBxVUo5SVl5X3Fs?oc=5\" target=\"_blank\"&gt;Israel threatens Lebanese army installation along border&lt;/a&gt;&amp;nbsp;&amp;"
+        },
+        {
+          "headline": "President Aoun insists on holding elections on schedule, rejects any extension of Parliament’s term - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRnZWc0NyMEFTVDE5LWF1WDMzYW4wcUR6MzI1MC10Z1E0azY4VUhhektUVFhkSnhNc3VQc0lwNTVQaFBWN1F3em1GeHlvZXhKbmpTMllycjMxR1BjMnZxUTFPMmVjV3pS?oc=5\" target=\"_blank\"&gt;President Aoun insists on holding elections on schedule, rejects any extension of"
+        },
+        {
+          "headline": "After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks on camps - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 06:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGVjRnlEMlRRcmlkNEtGQTdTWTZ0M0NQZFdMSlNHSTNuY1M5b1lZTEVGeG5QLUV0SXl6ZXBYblUyYkFsQk0yQzB4TEZVWUs2cHhieVFOMS1oSFpOV0hGU29QSnRlV3k4?oc=5\" target=\"_blank\"&gt;After Ain al Hilweh strike Palestinian fears grow over expanding Israeli attacks "
+        },
+        {
+          "headline": "Lebanon on alert: Fears over potential Israeli strikes threaten economy - annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5",
+          "source": "An Nahar",
+          "sourceId": "annahar",
+          "category": "lebanon",
+          "priority": "secondary",
+          "language": "ar",
+          "date": "Thu, 26 Feb 2026 11:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTdwWTVhaXJSSmVqNWt1X00yOHBUOUQ4S25famFSLWNoYmVfUHVRT0V0alRQSVVNNzB3bUNvZnFDVmwydEdiUFg1NUtKaThhWjhJVndhWnJfZGVfOWFKUzdfdFV3Ykd0OVpNYXNJWWRzQ2N2Sks5Qzg5dGNOZjNhU2RZS0dRTHJYZk1tR29RWEFTYndqN1FvX2lkU01zWUNuWHNDWlJLUjQ2QTAxY0tnek1n?oc=5\" "
+        },
+        {
+          "headline": "Exclusive: Washington presses Syria to shift from Chinese telecom systems - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 18:12:01 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5\" target=\"_blank\"&gt",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Syria"
+          ]
         },
         {
           "headline": "Russia questions how Trump's Board of Peace will work with UN Security Council - Reuters",
@@ -5200,17 +5895,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlraUdtRUJvZVRfQnNGdGZFWHE0Vzhmb0NBclJVNmNaLXFwcEFXTk9HZW9WWHNscDhCdUhUTHo4akNvY2hDYXhzT2FHN0tuRE9wN21hQXY5dEJyNmFvYTFmM0Y0Sm1tRTlMTGdHUUVxX1JOUkdqMXJCZjFfaV9WUnpQWkRaRnlLYU5wQkI1R0JnX09zRTBva2RUdFZxTWgydXBMQk9oaU90TGlWcjY3MV95YWdnOEZ"
         },
         {
-          "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 12:19:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
-        },
-        {
           "headline": "Russia says boat incident near Cuba is 'aggressive provocation' by U.S. - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0zQXc?oc=5",
           "source": "Reuters",
@@ -5220,6 +5904,17 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:45:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjYxTVVpbkVPVXR5TG1RN1pOQWFIci10c1dtRzBReTRRZWk5bDNUUnZGYzNOSlkyNE02UHhRb2t6RkpuZzVwTUFJajhVMkZMWDcxWURETUk5WjhSSmVlS0lKY3hXZV9oXzJqRlZkZ3NHY1NWMzZOUWlqQTVOdzFyRWZYVlZtMFdIVEtmNUdyX3hlTWJvRzFzTHptVW5zSS1LblJRRVZoWlJ5VjFnVEc4ZUMxX2haMC0"
+        },
+        {
+          "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnFhOVlv?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:19:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU9WMG05MXNCMEZJZDBzcF9WRFRic29vVTRiZm0yUDRaQkZYem1aUGlTbVV5QktCWWNDekdyeUFLdE5FYjNsVGE4NlJETVNkRGF2RVVqbks1SUplVUJYSGxiMkE3R1JaRFJ0bGRuZ2d3eTVQLVljSFN0SXp1VHpIZjBORF9CUlRXTTZ6U0JLQXBuQnVWakExWTFxMTZFU1VQN1FEb3ZLa1Qwb3FhbXV2RmhYOU93QnF"
         },
         {
           "headline": "India's Yes Bank flags $280,000 in unauthorised forex card transactions - Reuters",
@@ -5242,6 +5937,17 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:36:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVJ1V1lZWkdXdjF6NjB4c29ieVRVM1NlbjVfcHhnTWl6YU45Nk9QNnh5SFg5aWpWS0lGbngweEVJNHZRejhVOHgtQUJDQ2RWRWpzQzBxbmhTbHBlUHJkZkVkZVh6UUlIRklkaHdLOHJNcXJldjFtT3VfNUlHY1g3SUp0Ymw4WWxINGhaOXRFbV9keEUxdHBQNUpPQ1NEUmxRY2dXdFAwM1VxaVhXN2FyOHpkU3VSZ1N"
+        },
+        {
+          "headline": "Russia says sending British troops to Ukraine would prolong war, not end it - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZMNEFNYg?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 12:56:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHRCODllZmZGckNfc1IyTEJsTmw3Q01zVFRCdXpaMXFzODl2WktsaEJsRlJMeHZURzZ4dENfTWN3ZFFIS2RRQ1BWUmQ4UmZlbkJrSUpQamhLOFBrd0lhWnA2OHRlMUJjV3ZxN0pMdEFXT1ZSOWFLQ0JKOVRWVWFWbFpWb1ZNTXVEMEtQMElybWx1MTJnblNmUktQRWlDdGxtajEwa2dmaVptLTB4ZlFUY1QtLTRxZGZ"
         },
         {
           "headline": "OpenAI hires ex-Apple models head from Meta, The Information reports - Reuters",
@@ -5316,43 +6022,6 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 06:25:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXdsUWFVeFNESnNFYVE5eDNvUW52MnZOeWVhZHhQZ2FBVExjZG85ajY1c2ZsTzJuX0tBRHk1SnVvSlNHek12X1QwT3dHQm4zTlNWRXh3NnA0NHVxYUxZa2QwamNjakhjRm9ITThCeWpfRXU3WHJseVpjWFYySzhnNTB5b28tUkxtWkpqZ0NZaGhwcmdoZDBsMko3T0tVVmI5UVF4LUx3MEVsVFg1LUNqeGh6UWdLTWR"
-        },
-        {
-          "headline": "White House envoys disappointed after morning talks with Iranians, Axios reports - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25IZHdyTHh3NC14OWp3b0JmMjhCX05Zdw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 18:34:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25",
-          "beatRelevant": true,
-          "beatKeywords": [
-            "Iran"
-          ]
-        },
-        {
-          "headline": "Morning Bid: Nvidia delivers, but good no longer cuts it - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 05:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00UEpNRmpjZDBNeHRXVHhZTXJ2UjBQT1ZjV1JKVlNzVm01Sk9kRUFqRGdrXzB2S3pMWnU5Qzl4OF9Lcl91ZUFDT2RLUUNRQjJGaHpPR1c1NjM2ZE9QWHV3YkxUZEIxYWk5N3RmQ3hsa2RVWWF4V016aTdoVGNDRE0?oc=5\" target=\"_blank\"&gt;Morning Bid: Nvidia delivers, but good no longer c"
-        },
-        {
-          "headline": "Live updates: Hillary Clinton testifies she has no information on Epstein’s crimes - AP News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_levant",
-          "category": "wire",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 19:22:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SU0YzRmdxMzVLUjMtV1d1cmNONFM2bE53QU16aERGS2RETFkzSVFwanl6MVV1RWpjRi1KWE5TaHNWbHhqMzBSRVkxOWxxM2I5cVpZbTVKeThmcW1zMG5Gd3JNREtIVjd2YklULVZzeTJzVExXRWUtX2w2T3M?oc=5\" target=\"_blank\"&gt;Live updates: Hillary Clinton testifies she has no inf"
         },
         {
           "headline": "Iran would be outgunned in any war with the US but could still inflict considerable pain - AP News",
@@ -5479,6 +6148,17 @@
           "language": "en",
           "date": "Wed, 25 Feb 2026 22:12:42 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX29feU5lS2YxZGVLWkgtN3p6NTI2QjNnS1hGREY1SlJndkdKel9GTERfeTRqZDRBbzA2RHZiYzhsT3BDQVBza1RtQ01NNEJSbzBHUXQwaWJXbFhXeEJLRFI2WWduZGVyV3hYcEk3UW95allLeEx0SEpsX3poQmd4WmVEdUxPV1dNQ2J4QWtnN08?oc=5\" target=\"_blank\"&gt;SnoCountry Mountain Report"
+        },
+        {
+          "headline": "The top photos of the day by AP’s photojournalists - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_levant",
+          "category": "wire",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 20:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHlScjBKSk1CU1huSnIyQkZFMEU5ejJ3X2gyMDZoblhFUnNtLTRfTFRYTk1rMUFnZUNTVG5heW9WMDJUTTViX0Z5bnd6bU9pQlp6Tk1xUVJ0WFBqNy1ibFFaUEk0WFoxRHBFT1RKNVM1WWZnQVpGbTF5dEI3dGt0T1hZUkJWcEk0Mzg2THNtalh3NV9FLXFBSTQ3NWZiaFBNckdvRGFHOGdWakIydjQw?oc=5\" targ"
         },
         {
           "headline": "IMF says it is releasing $2.3 billion to Egypt after reforms help to stabilize the economy - AP News",
@@ -5732,6 +6412,32 @@
           "description": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse."
         },
         {
+          "headline": "US, Iran said to agree to further talks next week, as mediator claims progress",
+          "url": "https://www.timesofisrael.com/us-iran-said-to-agree-to-further-talks-next-week-as-mediator-claims-progress/",
+          "source": "Times of Israel",
+          "sourceId": "timesofisrael",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:23:45 +0000",
+          "description": "",
+          "beatRelevant": true,
+          "beatKeywords": [
+            "Iran"
+          ]
+        },
+        {
+          "headline": "Progressive Jews sound alarm over bill cementing Orthodox control of Western Wall",
+          "url": "https://www.timesofisrael.com/progressive-jews-sound-alarm-over-bill-cementing-orthodox-control-of-western-wall/",
+          "source": "Times of Israel",
+          "sourceId": "timesofisrael",
+          "category": "regional",
+          "priority": "secondary",
+          "language": "en",
+          "date": "Thu, 26 Feb 2026 21:09:37 +0000",
+          "description": ""
+        },
+        {
           "headline": "Gaza envelope hosts Darom BaLev for 2nd year as anemones carpet south",
           "url": "https://www.timesofisrael.com/gaza-envelope-hosts-darom-balev-for-2nd-year-as-anemones-carpet-south/",
           "source": "Times of Israel",
@@ -5886,33 +6592,26 @@
           "language": "en",
           "date": "Thu, 26 Feb 2026 14:29:07 +0000",
           "description": ""
-        },
-        {
-          "headline": "Daily Briefing Feb. 26 &#8211; Nuke talks resume even as US F-22s crowd Israeli skies",
-          "url": "https://www.timesofisrael.com/daily-briefing-feb-26-nuke-talks-resume-even-as-us-f-22s-crowd-israeli-skies/",
-          "source": "Times of Israel",
-          "sourceId": "timesofisrael",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 13:57:40 +0000",
-          "description": ""
-        },
-        {
-          "headline": "129 journalists killed worldwide in 2025, mostly by Israel, press group claims; IDF rejects findings",
-          "url": "https://www.timesofisrael.com/129-journalists-killed-worldwide-in-2025-mostly-by-israel-press-group-claims-idf-rejects-findings/",
-          "source": "Times of Israel",
-          "sourceId": "timesofisrael",
-          "category": "regional",
-          "priority": "secondary",
-          "language": "en",
-          "date": "Thu, 26 Feb 2026 13:57:11 +0000",
-          "description": ""
         }
       ],
       "tertiary": []
     },
     "beatFlagged": [
+      {
+        "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "wire",
+        "priority": "primary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+        "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement.",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Iran"
+        ]
+      },
       {
         "headline": "US-Iran talks conclude with claims of progress but few details",
         "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
@@ -5959,6 +6658,21 @@
         ]
       },
       {
+        "headline": "Exclusive: Washington presses Syria to shift from Chinese telecom systems - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_levant",
+        "category": "wire",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 18:12:01 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlktallSc1BuOFNTMjRZRl90cFNsOFRpMjlOVnF6VUdXUlZYeEdPUDFNMXNwRTd1SEhtQ1kySW1Ed0NPOUJSQmhVeERSQUhnSldlcUZlb3dOTUFHRlRpNXVXSGZjdXFISklyUmNDUE9tYW9XbkFXemhMbUZjUDJvY3JueXpsUVEzWnhhWlpaelItYmxLNXdDd01BdDI2LVpCbGhORw?oc=5\" target=\"_blank\"&gt",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Syria"
+        ]
+      },
+      {
         "headline": "Trump asks US Supreme Court to end protections for Syrian immigrants - Reuters",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFgwMmNPTkNBY1laMy0welNlTHQ2RWY2c1B1QU9kVWQyVUVqdkhjRXBDT2swQVhjQVlsSElfUnhYZFVtYmMzbEIzcG1oSkp3YmdROGpqWnA2X3Z1ODZQYXl0TzdockpLdHVSbUVFZThvN2JOVlBRNG8wZGRIUGl0X1J4MWlMOTQzQjFhY1kxdkc3RlJsVUtKdXBKUG0tY293TER4S0lZbGN2bHpzb1ZDNFYtd2c?oc=5",
         "source": "Reuters",
@@ -5998,21 +6712,6 @@
         "language": "en",
         "date": "Thu, 26 Feb 2026 01:46:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHItdDJVMzVxRjM0MURtTGNfdXNRTHhEbTF4N002NURRdkl0Y1V1eHRNbUp2a2dMck8wYnZIRnN4d1NoZFdPZ0xtMDd0RFBhMUF6Zmpfc3BEcXo2Q2x2YUExWmVoa21sRF9Jc2x2eGQ4WTJiZ3d6LTg1cHlzM1czVjJQZHU0M2tiYThUczFjUmNNWFQtVUh3?oc=5\" target=\"_blank\"&gt;Gold steady as ma",
-        "beatRelevant": true,
-        "beatKeywords": [
-          "Iran"
-        ]
-      },
-      {
-        "headline": "White House envoys disappointed after morning talks with Iranians, Axios reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25IZHdyTHh3NC14OWp3b0JmMjhCX05Zdw?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_levant",
-        "category": "wire",
-        "priority": "secondary",
-        "language": "en",
-        "date": "Thu, 26 Feb 2026 18:34:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQem5fdFpnMHQ0ODlJczlHMlhWTV9OZHhjMlQ0N1Y1SWcxNDRDdEM4UzZWMlUxUXYzN1phSUpZMU1kZFdXWWZ2YU1zajNjSk9WVkg5Q1ItRHpNTE55S1RBSmRzNUZTNVFpczBMZ3dIbFFtTVhBaVNpWjRzZHM1ZnloZnZ0VElCMG1YcTNnMS1HTVZqTmtDYkJwTGdkcmR3QWxRQlpzd2twYXR4UU1lbTlUd2FZcGl1N25",
         "beatRelevant": true,
         "beatKeywords": [
           "Iran"
@@ -6231,6 +6930,21 @@
         ]
       },
       {
+        "headline": "US, Iran said to agree to further talks next week, as mediator claims progress",
+        "url": "https://www.timesofisrael.com/us-iran-said-to-agree-to-further-talks-next-week-as-mediator-claims-progress/",
+        "source": "Times of Israel",
+        "sourceId": "timesofisrael",
+        "category": "regional",
+        "priority": "secondary",
+        "language": "en",
+        "date": "Thu, 26 Feb 2026 21:23:45 +0000",
+        "description": "",
+        "beatRelevant": true,
+        "beatKeywords": [
+          "Iran"
+        ]
+      },
+      {
         "headline": "IDF strikes Hezbollah military compounds in eastern Lebanon; teenager said killed",
         "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/",
         "source": "Times of Israel",
@@ -6308,11 +7022,6 @@
     }
   ],
   "feedHealth": {
-    "failed": [
-      {
-        "name": "Syrian Observer",
-        "error": "Timeout"
-      }
-    ]
+    "failed": []
   }
 }
