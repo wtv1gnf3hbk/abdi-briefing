@@ -1,55 +1,69 @@
-**BLOCKING ISSUES:**
+Here are the issues found in this Levant briefing draft:
 
-1. **LEAD QUALITY (BLOCKING)**: The lead paragraph makes factual claims not supported by the source data. The draft claims "Israeli strikes on Lebanon's Bekaa Valley killed a Syrian teenager and wounded 29 others overnight" and links to Al Jazeera, but this story does not appear in the provided source data. This entire lead appears to be fabricated or from external sources not provided.
+## 1. FACT-CHECK
+**BLOCKING ISSUE**: The lead paragraph references a mass escape from al-Hol camp with a link to Syrian Observer, but this source does not appear in the provided source data. This appears to be fabricated content not supported by the available sources.
 
-2. **SOURCE DIVERSITY (BLOCKING)**: Only 2 unique outlet domains appear: Enab Baladi and OLN News. Al Jazeera links are used but the specific stories linked don't match the provided source data. Minimum 3 domains required. Should add Times of Israel stories from the regional section.
+## 2. STYLE - CONTRACTIONS
+Clean.
 
-**FACT-CHECK ISSUES:**
+## 3. STYLE - "AMID"
+**Issue found**: "100,000 pray at Al-Aqsa amid Israeli restrictions" - the word "amid" appears in this bullet point.
 
-3. The entire lead paragraph about Israeli strikes on Bekaa Valley is unsupported by source data.
+## 4. STYLE - EM-DASHES
+Clean.
 
-4. Syria bullet 1: Claims about "dismantling an ISIS cell" - the source title is "Internal Security announces dismantling of Islamic State cell in Raqqa" but the link URL doesn't match any provided source.
+## 5. LINKS
+**Issues found**:
+- "separately reports" (2 words) - acceptable
+- "asks the Supreme Court" (4 words) - VIOLATION, exceeds 3-word limit
+- "tightened asylum laws" (3 words) - acceptable
+- "examines Lebanon's path" (3 words) - acceptable
+- "will travel to Israel" (4 words) - VIOLATION, exceeds 3-word limit
+- "leave the country 'TODAY'" (4 words) - VIOLATION, exceeds 3-word limit
 
-5. Syria bullet 4: Claims about "Saraya al-Jawad" militia leader killed - this story title doesn't appear in the provided Syria source list.
+## 6. TONE
+**Issues found**:
+- "Syria is facing a deepening water crisis as olive oil exports drain already scarce water resources" - reads like a dry headline summary rather than conversational prose
+- Use of editorializing language: "shocking conditions" in the lead paragraph
 
-6. Lebanon bullet 1: Claims about Hospital Syndicate statement - the OLN link provided (181415) doesn't match any source in the Lebanon data.
+## 7. SECTION COVERAGE (BLOCKING)
+Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
 
-7. Broader Levant bullet 1: Trump administration/deportation story - Al Jazeera link used but this specific story not in provided source data.
+## 8. SOURCE DIVERSITY (BLOCKING)
+**BLOCKING ISSUE**: Only 6 unique outlet domains found:
+1. syrianobserver.com (fabricated - not in source data)
+2. english.enabbaladi.net
+3. news.google.com
+4. halabtodaytv.net
+5. syriadirect.org
+6. syria.tv
+7. elsharkonline.com
+8. aljazeera.com
+9. timesofisrael.com
 
-8. Broader Levant bullet 3: US-Iran talks story - Al Jazeera link used but not in provided source data.
+However, several of these links are not traceable to the source data. The draft should incorporate more stories from the provided sources.
 
-9. Broader Levant bullet 4: Human Rights Watch story about 8,500 detainees - Enab Baladi link used but this title not in provided Syria source data.
+## 9. ATTRIBUTION
+**Issues found**:
+- Link to Syrian Observer in lead paragraph lacks proper attribution format
+- Several Google News links lack clear source attribution beyond "Reuters reports"
 
-**STYLE ISSUES:**
+## 10. ARABIC SOURCE QUALITY
+**Issues found**:
+- Syria TV link attribution is present: "Syria TV (Syria) reports" - acceptable
+- El Shark attribution is present: "El Shark (Lebanon)" - acceptable
+- Halabtodaytv.net link lacks country attribution - should be "Aleppo Today (Syria) reports"
 
-10. **CONTRACTIONS**: Clean.
+## 11. "ADD CONTEXT" CLAUSES
+**Issue found**: "signaling rising security concerns as regional tensions mount" - this clause adds interpretation rather than stating facts.
 
-11. **"AMID"**: Clean.
+## 12. LEAD QUALITY (BLOCKING)
+**BLOCKING ISSUE**: The lead paragraph has major problems:
+1. References a source (Syrian Observer) not in the provided data
+2. Only provides basic facts without sufficient context about the broader detention crisis
+3. Lacks a strong second beat about international implications or Syrian government capacity
+4. Needs expansion with more background on al-Hol's significance and the challenges facing Syria's new authorities
 
-12. **EM-DASHES**: Clean.
+**Suggested expansion**: Add context about the scale of Syria's detention challenges, international concerns about ISIS resurgence, and the new government's limited resources for managing these facilities.
 
-**LINKS ISSUES:**
-
-13. **LINK LENGTH**: "signs of economic recovery" (4 words) - exceeds 3-word maximum.
-
-**ATTRIBUTION ISSUES:**
-
-14. Clean - all links have proper attribution nearby.
-
-**TONE ISSUES:**
-
-15. Clean - conversational tone maintained throughout.
-
-**SECTION COVERAGE:**
-
-16. Clean - all required sections present with content.
-
-**"ADD CONTEXT" CLAUSES:**
-
-17. Clean - bullets end with facts, not implications.
-
-**ARABIC SOURCE QUALITY:**
-
-18. Clean - OLN News properly attributed as Lebanese source.
-
-**RECOMMENDATION**: This draft has serious fact-checking and source diversity issues that are blocking. The lead and multiple bullets reference stories not in the provided source data. Must be completely rewritten using only the provided sources.
+**SUMMARY**: This draft has blocking issues with fabricated content in the lead, source diversity problems due to unsupported links, and insufficient lead development. It requires substantial revision before publication.
