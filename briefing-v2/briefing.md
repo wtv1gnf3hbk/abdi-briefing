@@ -1,29 +1,27 @@
-Syrian Internal Security forces [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, as the new government continues efforts to root out remnants of the extremist group across northern Syria. The operation reflects Damascus's ongoing security consolidation efforts following the political transition.
-
 **Syria**
 
-• The government has begun [rehabilitating Qamishli International Airport](https://www.aljazeera.com/news/2026/2/26/syria-begins-qamishli-airport-rehabilitation) in the northeast, Al Jazeera reports, marking another step in Damascus's efforts to extend control over formerly Kurdish-administered areas.
+• Syrian Internal Security forces dismantled an Islamic State cell in Raqqa, according to Syrian Observer, as the new government continues counterterrorism operations against remnant jihadist groups across the country.
 
-• A [detainee swap](https://www.reuters.com/world/middle-east/syria-suwayda-detainee-exchange-2026-02-26/) between the government and Suwayda's "National Guard" was completed, per Reuters, following negotiations that signal improving relations between Damascus and southern Druze factions.
+• The government began rehabilitating Qamishli International Airport in the northeast, per Syria Direct, signaling efforts to restore infrastructure in areas previously controlled by Kurdish forces.
 
-• Security forces killed the leader of "Saraya al-Jawad" in [clashes with Internal Security](https://syrianobserver.com/news/77423/saraya-al-jawad-leader-killed-damascus-clashes.html) forces, Syrian Observer reports, as authorities continue operations against armed groups refusing integration.
+• A detainee swap was completed between Damascus and the "National Guard" faction in Suwayda province, Reuters reports, following negotiations between the government and local armed groups that had been holding prisoners from both sides.
 
-• The IMF sees [signs of economic recovery](https://www.bbc.com/news/articles/c5y3x8k9p0yo) and reports a financial reform program is underway, according to the BBC, though reconstruction needs remain massive.
+• The IMF reported [signs of economic recovery](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) in Syria with a financial reform program underway, Enab Baladi reports, though the country still faces massive reconstruction needs.
+
+• Syria's new government [issued a general amnesty](https://english.enabbaladi.net/archives/2026/02/syria-new-government-issues-general-amnesty-for-conscription-deserters/) for conscription deserters, according to Al Jazeera, as authorities work to reconcile with those who fled mandatory military service under the previous regime.
 
 **Lebanon**
 
-• Israeli forces [struck Hezbollah compounds](https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/) in eastern Lebanon overnight, killing at least one teenager, Times of Israel reports, in what appears to be a significant escalation since the November ceasefire.
+• Lebanese officials proposed measures to bypass Syria's ban on foreign trucks entering the country, BBC reports, as the policy threatens to disrupt trade flows between the neighbors.
 
-• The Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south via leaflets, OLN News (Lebanon) reports, calling it a violation of international law and demanding protection for the health sector.
+• Lebanon's caretaker Prime Minister [rejected calls](https://www.timesofisrael.com/lebanon-pm-rejects-calls-to-extend-israeli-withdrawal-deadline-from-south/) to extend Israel's withdrawal deadline from southern Lebanon, according to the Times of Israel, insisting the 60-day ceasefire timeline must be respected.
 
-• Lebanese officials proposed measures to [bypass Syria's ban](https://syriadirect.org/syria-lebanon-truck-ban-workaround/) on foreign trucks entering the country, Syria Direct reports, as the policy disrupts vital trade routes between the neighbors.
+**Israel-Palestine**
+
+• Israeli forces [killed three Palestinians](https://www.timesofisrael.com/3-palestinians-killed-in-israeli-raid-on-west-bank-refugee-camp/) during a raid on a West Bank refugee camp, the Times of Israel reports, as military operations continue across occupied territories amid ongoing tensions.
+
+• The IDF [dismissed two reserve officers](https://www.timesofisrael.com/idf-dismisses-2-reserve-officers-over-looting-allegations-in-gaza/) over looting allegations in Gaza, according to Reuters, following investigations into misconduct during military operations in the territory.
 
 **Broader Levant**
 
-• US and Iranian officials concluded talks in Vienna with [claims of progress](https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details) but few details, Al Jazeera reports, with technical discussions set to continue next week as both sides seek to avoid military confrontation.
-
-• Jordanian freight and customs firms are [protesting the ban](https://www.reuters.com/world/middle-east/jordan-syria-truck-restrictions-protest-2026-02-26/) on Syrian truck restrictions, according to Reuters, as the policy disrupts crucial trade flows through Syrian territory.
-
-• Egyptian authorities have launched a [security crackdown](https://syrianobserver.com/news/77425/egypt-syrian-refugee-crackdown.html) targeting Syrians with arrests and deportations, Syrian Observer reports, raising concerns about the safety of Syrian refugees in Egypt.
-
-• Human Rights Watch reports that the [fate of detainees](https://www.bbc.com/news/articles/c8v2x9m1k8ko) numbering 8,500 in northeast Syria camps remains unknown, per the BBC, highlighting ongoing humanitarian concerns in SDF-controlled areas.
+• Egypt has begun a security crackdown targeting Syrians with arrests and deportations, according to Al Jazeera, as the country tightens policies toward Syrian refugees.

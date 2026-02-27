@@ -1,27 +1,29 @@
-Iranian Foreign Minister Abbas Araghchi says Tehran and Washington have moved closer to reaching an agreement following technical discussions, according to [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss). The talks concluded with claims of progress but few details released, Al Jazeera [reports](https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details), with technical discussions set to continue in Vienna next week. The Times of Israel [confirms](https://www.timesofisrael.com/us-iran-said-to-agree-to-further-talks-next-week-as-mediator-claims-progress/) both sides agreed to further talks, though it remains unclear whether fundamental differences can be resolved to avoid escalating tensions.
+Israeli airstrikes on Lebanon's Bekaa Valley killed a Syrian teenager and wounded 29 others overnight, marking one of the most serious violations of the November ceasefire [according to Al Jazeera](https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss). The attack targeted areas near Baalbek, hitting civilian infrastructure and residential areas where Syrian refugees have sought shelter. The strikes come as tensions escalate along the Israel-Lebanon border, with both sides trading accusations over ceasefire implementation. Lebanese officials condemned the bombardment as a "flagrant violation" of international law, while Israel has not commented on the specific incident.
 
 **Syria**
+• Syrian government forces completed a [detainee swap](https://english.enabbaladi.net/archives/2026/02/suwayda-detainee-swap-between-government-and-national-guard/) with Suwayda's "National Guard" faction, Enab Baladi reports, following weeks of negotiations over prisoners held by both sides in the southern province.
 
-• Syrian authorities [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa, according to Enab Baladi, as the new government continues security operations against remaining extremist networks in the north.
+• Internal Security forces [dismantled an ISIS cell](https://english.enabbaladi.net/archives/2026/02/internal-security-announces-dismantling-of-islamic-state-cell-in-raqqa/) in Raqqa and killed the leader of "Saraya al-Jawad" armed group during separate operations, according to Enab Baladi, as the new government continues security sweeps across former opposition areas.
 
-• The government began [rehabilitating Qamishli International Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-begins-rehabilitation-of-qamishli-international-airport/) in northeastern Syria, Enab Baladi reports, marking another step toward restoring civilian infrastructure in former SDF-controlled territory.
+• The IMF said Syria's economy shows [early signs of recovery](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) with a financial reform program now underway, per Enab Baladi, though the Fund provided few specifics on growth projections or reform timeline.
 
-• A [prisoner exchange](https://english.enabbaladi.net/archives/2026/02/suwayda-detainee-swap-between-government-and-national-guard/) between Damascus and Suwayda's "National Guard" faction was completed, per Enab Baladi, following earlier negotiations to resolve tensions in the southern province.
+• Damascus began [rehabilitating Qamishli International Airport](https://english.enabbaladi.net/archives/2026/02/syrian-government-begins-rehabilitation-of-qamishli-international-airport/) in the northeast, Enab Baladi reports, as the government moves to reassert control over infrastructure previously managed by Kurdish-led authorities.
 
-• The IMF cited [signs of recovery](https://english.enabbaladi.net/archives/2026/02/imf-signs-of-recovery-in-syrias-economy-financial-reform-program-underway/) in Syria's economy with a financial reform program underway, according to Enab Baladi, though the fund provided few specifics on the scope of improvements.
-
-• Syria's ban on foreign trucks has prompted [Lebanese proposals](https://english.enabbaladi.net/archives/2026/02/lebanese-proposal-to-bypass-impact-of-syrias-ban-on-foreign-trucks/) to minimize trade disruption, Enab Baladi reports, while Jordanian freight firms are protesting the new restrictions.
+• Human Rights Watch said the fate of [8,500 detainees](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) in northeast Syria camps remains unknown, according to Enab Baladi, raising concerns about due process as the SDF continues holding suspected ISIS members and their families.
 
 **Lebanon**
+• Gaza Palestinians struggle to manage daily finances [with severe cash shortages](https://www.aljazeera.com/economy/2026/2/27/when-money-is-scarce-every-choice-counts-bank-cash-or-credit?traffic_source=rss) caused by the ongoing war, Al Jazeera reports, as banking infrastructure remains largely destroyed across the territory.
 
-• Israeli forces [struck Hezbollah compounds](https://www.timesofisrael.com/idf-strikes-hezbollah-military-compounds-in-eastern-lebanon-teenager-said-killed/) in eastern Lebanon overnight, killing a teenager, the Times of Israel reports, in the most significant military action since the November ceasefire.
-
-• Lebanon's Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south via leaflets, calling such actions a violation of international law, according to OLN News (Lebanon).
+• Lebanon's Hospital Syndicate issued an [urgent statement](https://olnnews.com/181415/) condemning threats against Salah Ghandour Hospital in the south, per OLN News (Lebanon), calling any attack on healthcare facilities a violation of international law.
 
 **Broader Levant**
+• The US Supreme Court is being asked to allow [deportation of Syrian migrants](https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants?traffic_source=rss) by stripping their Temporary Protected Status, Al Jazeera reports, as the Trump administration argues Syria is no longer unsafe for returns.
 
-• The Trump administration asked the Supreme Court to allow [deportation of Syrian migrants](https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants) by stripping their Temporary Protected Status, arguing Syria is no longer unsafe, Al Jazeera reports.
+• Iran's foreign minister claimed the US and Iran are [moving closer to a deal](https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss) following technical discussions, though Al Jazeera notes few details emerged and it remains unclear if differences can be resolved.
 
-• Egyptian authorities conducted [arrests and deportations](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians in a security crackdown, per Enab Baladi, as pressure grows on the Syrian diaspora across the region.
+• Jordanian freight firms are [protesting Syria's ban](https://english.enabbaladi.net/archives/2026/02/jordanian-freight-forwarding-and-customs-clearance-firms-protest-syrias-ban-on-foreign-trucks-entering-the-country/) on foreign trucks entering the country, Enab Baladi reports, as Lebanon proposes workarounds to maintain cross-border trade flows.
 
-• Human Rights Watch says the [fate of 8,500 detainees](https://english.enabbaladi.net/archives/2026/02/human-rights-watch-fate-of-8500-detainees-in-northeast-syria-camps-remains-unknown/) in northeast Syria camps remains unknown, highlighting ongoing concerns about former ISIS affiliates and their families.
+• Egyptian authorities have launched [arrests and deportations](https://english.enabbaladi.net/archives/2026/02/arrests-and-deportations-as-security-crackdown-targets-syrians-in-egypt/) targeting Syrians in a new security crackdown, according to Enab Baladi, despite improving conditions inside Syria.
+
+**Coverage Flags**
+The Bekaa Valley strike represents a significant ceasefire violation that could escalate into broader Israel-Lebanon tensions, especially given the civilian casualties and Syrian refugee angle.

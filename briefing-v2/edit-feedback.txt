@@ -1,47 +1,55 @@
-## Review Issues Found:
+**BLOCKING ISSUES:**
 
-**1. FACT-CHECK:**
-- BLOCKING ISSUE: The lead paragraph claims "The Trump administration has asked the Supreme Court to allow deportations of Syrian migrants by stripping them of Temporary Protected Status" but this story does not appear anywhere in the provided source data. The Al Jazeera link in the lead goes to a different story about UN rapporteur Albanese sanctions.
+1. **LEAD QUALITY (BLOCKING)**: The lead paragraph makes factual claims not supported by the source data. The draft claims "Israeli strikes on Lebanon's Bekaa Valley killed a Syrian teenager and wounded 29 others overnight" and links to Al Jazeera, but this story does not appear in the provided source data. This entire lead appears to be fabricated or from external sources not provided.
 
-**2. STYLE - CONTRACTIONS:**
-Clean.
+2. **SOURCE DIVERSITY (BLOCKING)**: Only 2 unique outlet domains appear: Enab Baladi and OLN News. Al Jazeera links are used but the specific stories linked don't match the provided source data. Minimum 3 domains required. Should add Times of Israel stories from the regional section.
 
-**3. STYLE - "AMID":**
-Clean.
+**FACT-CHECK ISSUES:**
 
-**4. STYLE - EM-DASHES:**
-Clean.
+3. The entire lead paragraph about Israeli strikes on Bekaa Valley is unsupported by source data.
 
-**5. LINKS:**
-- Issue: "dismantled an ISIS cell" (4 words) - exceeds 3-word limit
-- Issue: "rehabilitating Qamishli International Airport" (3 words) - acceptable but at limit
-- Issue: "struck Hezbollah compounds" (3 words) - acceptable
-- Issue: "bypass Syria's ban" (3 words) - acceptable
-- Issue: "claims of progress" (3 words) - acceptable
-- Issue: "protesting Syria's truck ban" (4 words) - exceeds 3-word limit
-- Issue: "security crackdown targeting Syrians" (4 words) - exceeds 3-word limit
-- Issue: "fate of 8,500 detainees" (4 words) - exceeds 3-word limit
+4. Syria bullet 1: Claims about "dismantling an ISIS cell" - the source title is "Internal Security announces dismantling of Islamic State cell in Raqqa" but the link URL doesn't match any provided source.
 
-**6. TONE:**
-Clean - bullets read as conversational prose rather than headline summaries.
+5. Syria bullet 4: Claims about "Saraya al-Jawad" militia leader killed - this story title doesn't appear in the provided Syria source list.
 
-**7. SECTION COVERAGE (BLOCKING):**
-Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+6. Lebanon bullet 1: Claims about Hospital Syndicate statement - the OLN link provided (181415) doesn't match any source in the Lebanon data.
 
-**8. SOURCE DIVERSITY (BLOCKING):**
-Only 3 unique domains found: english.enabbaladi.net, timesofisrael.com, aljazeera.com, olnnews.com (4 domains). Meets minimum requirement.
+7. Broader Levant bullet 1: Trump administration/deportation story - Al Jazeera link used but this specific story not in provided source data.
 
-**9. ATTRIBUTION:**
-Clean - all links have proper attribution ("according to Enab Baladi", "Times of Israel reports", etc.)
+8. Broader Levant bullet 3: US-Iran talks story - Al Jazeera link used but not in provided source data.
 
-**10. ARABIC SOURCE QUALITY:**
-- Issue: "per OLN News (Lebanon)" - should be "OLN News (Lebanon) reports" for consistency with other attributions
+9. Broader Levant bullet 4: Human Rights Watch story about 8,500 detainees - Enab Baladi link used but this title not in provided Syria source data.
 
-**11. "ADD CONTEXT" CLAUSES:**
-Clean - bullets end with facts, not implications.
+**STYLE ISSUES:**
 
-**12. LEAD QUALITY (BLOCKING):**
-- BLOCKING ISSUE: The lead is completely fabricated - it discusses a Supreme Court case about Syrian TPS deportations that doesn't exist in the source data. The entire lead paragraph needs to be rewritten based on actual stories from the provided sources.
+10. **CONTRACTIONS**: Clean.
 
-**Summary:** 
-This draft has serious blocking issues with a completely fabricated lead story and multiple style violations with link text length. The lead must be completely rewritten using actual source material.
+11. **"AMID"**: Clean.
+
+12. **EM-DASHES**: Clean.
+
+**LINKS ISSUES:**
+
+13. **LINK LENGTH**: "signs of economic recovery" (4 words) - exceeds 3-word maximum.
+
+**ATTRIBUTION ISSUES:**
+
+14. Clean - all links have proper attribution nearby.
+
+**TONE ISSUES:**
+
+15. Clean - conversational tone maintained throughout.
+
+**SECTION COVERAGE:**
+
+16. Clean - all required sections present with content.
+
+**"ADD CONTEXT" CLAUSES:**
+
+17. Clean - bullets end with facts, not implications.
+
+**ARABIC SOURCE QUALITY:**
+
+18. Clean - OLN News properly attributed as Lebanese source.
+
+**RECOMMENDATION**: This draft has serious fact-checking and source diversity issues that are blocking. The lead and multiple bullets reference stories not in the provided source data. Must be completely rewritten using only the provided sources.
