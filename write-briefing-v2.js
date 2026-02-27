@@ -413,9 +413,38 @@ function buildWritePrompt(briefing) {
   const byCategory = stories.byCategory || {};
   const beatFlagged = stories.beatFlagged || [];
 
+  // Round-robin interleave stories by source so no single outlet dominates
+  // the slice. Without this, .slice(0, 12) on Syria gives 100% Enab Baladi
+  // because the scraper groups by source order. Interleaving ensures the
+  // Writer sees URLs from multiple outlets and can actually cite them.
+  function interleaveBySource(storyList) {
+    const bySource = {};
+    for (const s of storyList) {
+      const key = s.sourceId || s.source || 'unknown';
+      if (!bySource[key]) bySource[key] = [];
+      bySource[key].push(s);
+    }
+    const sources = Object.values(bySource);
+    const result = [];
+    let i = 0;
+    while (result.length < storyList.length) {
+      let added = false;
+      for (const bucket of sources) {
+        if (i < bucket.length) {
+          result.push(bucket[i]);
+          added = true;
+        }
+      }
+      if (!added) break;
+      i++;
+    }
+    return result;
+  }
+
+  // Condense for token efficiency — interleave ensures diverse outlets per slice.
   const condensed = {
-    syria: (byCategory.syria || []).slice(0, 12),
-    lebanon: (byCategory.lebanon || []).slice(0, 10),
+    syria: interleaveBySource(byCategory.syria || []).slice(0, 12),
+    lebanon: interleaveBySource(byCategory.lebanon || []).slice(0, 10),
     wire: (byCategory.wire || []).slice(0, 8),
     regional: (byCategory.regional || []).slice(0, 5),
     beatFlagged: beatFlagged.slice(0, 5)
@@ -612,7 +641,8 @@ function analyzeDiversity(markdown) {
     'Levant24', 'Syria TV', 'Aleppo Today', 'Shaam TV',
     'NNA', 'L\'Orient Today', 'Nahar', 'An Nahar', 'ElNashra', 'Al Akhbar',
     'Al Jazeera', 'Reuters', 'AP', 'BBC',
-    'Times of Israel', 'Haaretz', 'OLN News', 'El Shark'
+    'Times of Israel', 'Haaretz', 'OLN News', 'El Shark',
+    'The Guardian', 'Guardian', 'CNN', 'France 24'
   ];
   const attributions = {};
   let totalAttributions = 0;

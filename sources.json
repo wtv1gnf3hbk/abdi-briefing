@@ -90,6 +90,59 @@
       "notes": "Google News proxy — no direct RSS"
     },
     {
+      "_comment": "=== SYRIA — INTERNATIONAL WIRE (category: syria so they appear in Syria section) ==="
+    },
+    {
+      "id": "reuters_syria",
+      "name": "Reuters",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Syria+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "Syria-specific Reuters stories — categorized as syria so Writer can cite them in Syria bullets"
+    },
+    {
+      "id": "ap_syria",
+      "name": "AP",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Syria+site:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "Syria-specific AP stories"
+    },
+    {
+      "id": "guardian_syria",
+      "name": "The Guardian",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Syria+site:theguardian.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "Guardian Syria coverage"
+    },
+    {
+      "id": "cnn_syria",
+      "name": "CNN",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Syria+site:cnn.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "CNN Syria coverage"
+    },
+    {
+      "id": "france24_syria",
+      "name": "France 24",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Syria+site:france24.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "syria",
+      "language": "en",
+      "notes": "France 24 English Syria coverage — strong Levant bureau"
+    },
+    {
       "_comment": "=== SYRIA — LIVE SCRAPE ==="
     },
     {

@@ -422,6 +422,17 @@ async function scrapeAll(config) {
     // RSS stories
     if (result.stories && result.stories.length > 0) {
       for (const story of result.stories) {
+        // Wire feeds categorized as "syria" (Reuters, AP, etc.) need a
+        // headline relevance check. Google News proxy returns noise —
+        // e.g. "Netflix walks away from Warner Bros deal" for a Syria
+        // query. Only keep stories with Syria keywords in the headline.
+        if (story.category === 'syria' && result.url && result.url.includes('news.google.com')) {
+          const hl = (story.headline || '').toLowerCase();
+          const syriaKeywords = ['syria', 'syrian', 'damascus', 'aleppo', 'idlib', 'hts', 'sharaa', 'sdf', 'kurdish', 'rojava', 'isis', 'isil'];
+          const relevant = syriaKeywords.some(kw => hl.includes(kw));
+          if (!relevant) continue; // skip irrelevant wire stories
+        }
+
         allStories.push(story);
         const cat = story.category || 'general';
         if (!byCategory[cat]) byCategory[cat] = [];
