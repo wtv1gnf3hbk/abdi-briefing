@@ -1,69 +1,49 @@
-Here are the issues found in this Levant briefing draft:
+Here are the specific issues found:
 
-## 1. FACT-CHECK
-**BLOCKING ISSUE**: The lead paragraph references a mass escape from al-Hol camp with a link to Syrian Observer, but this source does not appear in the provided source data. This appears to be fabricated content not supported by the available sources.
+**1. FACT-CHECK**
+- Clean. All claims are traceable to source data.
 
-## 2. STYLE - CONTRACTIONS
-Clean.
+**2. STYLE - CONTRACTIONS**  
+- Clean. No "'s" contractions found.
 
-## 3. STYLE - "AMID"
-**Issue found**: "100,000 pray at Al-Aqsa amid Israeli restrictions" - the word "amid" appears in this bullet point.
+**3. STYLE - "AMID"**
+- Clean. No use of "amid" found.
 
-## 4. STYLE - EM-DASHES
-Clean.
+**4. STYLE - EM-DASHES**
+- Clean. No em-dashes joining independent clauses found.
 
-## 5. LINKS
-**Issues found**:
-- "separately reports" (2 words) - acceptable
-- "asks the Supreme Court" (4 words) - VIOLATION, exceeds 3-word limit
-- "tightened asylum laws" (3 words) - acceptable
-- "examines Lebanon's path" (3 words) - acceptable
-- "will travel to Israel" (4 words) - VIOLATION, exceeds 3-word limit
-- "leave the country 'TODAY'" (4 words) - VIOLATION, exceeds 3-word limit
+**5. LINKS**
+1. Link text "asked the Supreme Court" is 4 words, exceeds 3-word maximum
+2. Link text "showcasing civil efforts" is 3 words but awkward - should be "showcasing efforts" (2 words)
+3. Link text "sentenced former Prime Minister" is 4 words, exceeds maximum
+4. Link text "established seven new positions" is 4 words, exceeds maximum
+5. Link text "handed over the last two" is 5 words, far exceeds maximum
+6. Link text "objecting to" should be condensed to one word like "objecting"
+7. Link text "urging Iran" is fine at 2 words
 
-## 6. TONE
-**Issues found**:
-- "Syria is facing a deepening water crisis as olive oil exports drain already scarce water resources" - reads like a dry headline summary rather than conversational prose
-- Use of editorializing language: "shocking conditions" in the lead paragraph
+**6. TONE**
+- Clean. No dry headline summaries or inappropriate editorializing found.
 
-## 7. SECTION COVERAGE (BLOCKING)
-Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
+**7. SECTION COVERAGE (BLOCKING)**
+- Clean. Syria, Lebanon, and Broader Levant sections all present with content.
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING ISSUE**: Only 6 unique outlet domains found:
-1. syrianobserver.com (fabricated - not in source data)
-2. english.enabbaladi.net
-3. news.google.com
-4. halabtodaytv.net
-5. syriadirect.org
-6. syria.tv
-7. elsharkonline.com
-8. aljazeera.com
-9. timesofisrael.com
+**8. SOURCE DIVERSITY (BLOCKING)**
+Unique domains found: Enab Baladi, Syria TV, Aleppo Today, Syria Direct, Levant24, L'Orient Today, El Shark, Al Jazeera = 8 domains. Quota of 3+ met.
 
-However, several of these links are not traceable to the source data. The draft should incorporate more stories from the provided sources.
+**9. ATTRIBUTION**
+1. Syria TV link missing explicit attribution text - shows link but no "Syria TV reports" or similar
+2. Halabtodaytv link has attribution "per Aleppo Today (Syria)" 
+3. Syria Direct link has attribution "Syria Direct reports"
+4. Levant24 link missing explicit attribution - only says "Levant24 describes"
+5. All other links have proper attribution
 
-## 9. ATTRIBUTION
-**Issues found**:
-- Link to Syrian Observer in lead paragraph lacks proper attribution format
-- Several Google News links lack clear source attribution beyond "Reuters reports"
+**10. ARABIC SOURCE QUALITY**
+- Clean. Syria TV and El Shark attributions include country identifiers.
 
-## 10. ARABIC SOURCE QUALITY
-**Issues found**:
-- Syria TV link attribution is present: "Syria TV (Syria) reports" - acceptable
-- El Shark attribution is present: "El Shark (Lebanon)" - acceptable
-- Halabtodaytv.net link lacks country attribution - should be "Aleppo Today (Syria) reports"
+**11. "ADD CONTEXT" CLAUSES**
+1. First bullet ends with "marking a significant shift" - should end with the fact
+2. Second bullet ends with "upending a local economy that relied on these hazardous but lucrative operations" - should end with the shutdown fact
+3. Fourth bullet ends with "highlighting continued legal fallout from the Syrian conflict" - should end with the sentencing fact
 
-## 11. "ADD CONTEXT" CLAUSES
-**Issue found**: "signaling rising security concerns as regional tensions mount" - this clause adds interpretation rather than stating facts.
-
-## 12. LEAD QUALITY (BLOCKING)
-**BLOCKING ISSUE**: The lead paragraph has major problems:
-1. References a source (Syrian Observer) not in the provided data
-2. Only provides basic facts without sufficient context about the broader detention crisis
-3. Lacks a strong second beat about international implications or Syrian government capacity
-4. Needs expansion with more background on al-Hol's significance and the challenges facing Syria's new authorities
-
-**Suggested expansion**: Add context about the scale of Syria's detention challenges, international concerns about ISIS resurgence, and the new government's limited resources for managing these facilities.
-
-**SUMMARY**: This draft has blocking issues with fabricated content in the lead, source diversity problems due to unsupported links, and insufficient lead development. It requires substantial revision before publication.
+**12. LEAD QUALITY (BLOCKING)**
+- Clean. Lead is 3 sentences with context, stakes, and proper attribution. Not a headline restatement.
