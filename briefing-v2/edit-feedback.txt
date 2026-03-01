@@ -1,49 +1,53 @@
 Here are the specific issues found:
 
 **1. FACT-CHECK**
-- Clean. All claims are traceable to source data.
+- BLOCKING ISSUE: Lead paragraph claims "Four people were killed in Syria when debris from an Iranian missile struck a building, according to Reuters" but the Reuters link is a Google News redirect, not a direct Reuters URL. The source data shows Enab Baladi reporting "fatalities from missile shrapnel" but doesn't specify four deaths.
+- Lead claims Iran launched "over 100 ballistic missiles" but Broader Levant section says Iran fired "66 missiles at Qatar" - these numbers conflict without clarification.
+- Syria section claims "mass escape from al-Hol ISIS camp has left the facility nearly empty" but this claim is not in the provided source data.
 
-**2. STYLE - CONTRACTIONS**  
-- Clean. No "'s" contractions found.
+**2. STYLE - CONTRACTIONS**
+Clean.
 
 **3. STYLE - "AMID"**
-- Clean. No use of "amid" found.
+Clean.
 
 **4. STYLE - EM-DASHES**
-- Clean. No em-dashes joining independent clauses found.
+Clean.
 
 **5. LINKS**
-1. Link text "asked the Supreme Court" is 4 words, exceeds 3-word maximum
-2. Link text "showcasing civil efforts" is 3 words but awkward - should be "showcasing efforts" (2 words)
-3. Link text "sentenced former Prime Minister" is 4 words, exceeds maximum
-4. Link text "established seven new positions" is 4 words, exceeds maximum
-5. Link text "handed over the last two" is 5 words, far exceeds maximum
-6. Link text "objecting to" should be condensed to one word like "objecting"
-7. Link text "urging Iran" is fine at 2 words
+- VIOLATION: "reassure citizens" link text is exactly 2 words (acceptable, under 3-word limit)
+- All bullet points have at least one link - Clean.
 
 **6. TONE**
-- Clean. No dry headline summaries or inappropriate editorializing found.
+- Syria bullet: "though security concerns remain high" - editorializing/interpretation not from source
+- Syria bullet: "taking advantage of security gaps" - editorializing
+- Syria bullet: "signaling shifting regional geopolitics and potential investment opportunities" - ends with implications rather than facts
+- Lebanon bullet: "underscoring how Lebanon sits in the crossfire" - editorializing
+- Broader Levant bullet: "ending nearly four decades of rule and triggering what analysts call the most significant shift in regional power dynamics since the 1979 revolution" - editorializing without specific analyst attribution
 
 **7. SECTION COVERAGE (BLOCKING)**
-- Clean. Syria, Lebanon, and Broader Levant sections all present with content.
+Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
 **8. SOURCE DIVERSITY (BLOCKING)**
-Unique domains found: Enab Baladi, Syria TV, Aleppo Today, Syria Direct, Levant24, L'Orient Today, El Shark, Al Jazeera = 8 domains. Quota of 3+ met.
+Unique domains found: Times of Israel, Enab Baladi, Syrian Observer, AP News, The Guardian, Levant24, Syria TV, Syria Direct, L'Orient Today, El Shark, Al Jazeera = 11 domains. Meets 3+ requirement.
 
 **9. ATTRIBUTION**
-1. Syria TV link missing explicit attribution text - shows link but no "Syria TV reports" or similar
-2. Halabtodaytv link has attribution "per Aleppo Today (Syria)" 
-3. Syria Direct link has attribution "Syria Direct reports"
-4. Levant24 link missing explicit attribution - only says "Levant24 describes"
-5. All other links have proper attribution
+- VIOLATION: "according to Syrian Observer" - missing for Syrian Observer link
+- VIOLATION: "AP News confirms" - missing explicit attribution near the link
+- VIOLATION: "The Guardian reports" - missing for Guardian link
+- VIOLATION: "per Levant24" - present but could be clearer
+- VIOLATION: Multiple links missing nearby attribution text
 
 **10. ARABIC SOURCE QUALITY**
-- Clean. Syria TV and El Shark attributions include country identifiers.
+- Syria TV attribution present: "Syria TV (Syria)"
+- El Shark attribution present: "El Shark (Lebanon)"
+Clean.
 
 **11. "ADD CONTEXT" CLAUSES**
-1. First bullet ends with "marking a significant shift" - should end with the fact
-2. Second bullet ends with "upending a local economy that relied on these hazardous but lucrative operations" - should end with the shutdown fact
-3. Fourth bullet ends with "highlighting continued legal fallout from the Syrian conflict" - should end with the sentencing fact
+- VIOLATION: "signaling shifting regional geopolitics and potential investment opportunities for Damascus"
+- VIOLATION: "underscoring how Lebanon sits in the crossfire of regional escalation"
 
 **12. LEAD QUALITY (BLOCKING)**
-- Clean. Lead is 3 sentences with context, stakes, and proper attribution. Not a headline restatement.
+- BLOCKING ISSUE: Lead paragraph lacks proper context and stakes. It reads like an extended headline rather than contextual prose. Missing: Why this matters beyond the immediate incident, broader regional implications, historical context of US-Iran tensions. The lead jumps between Syrian casualties, flight disruptions, and Khamenei's death without connecting these developments coherently. Needs restructuring with better flow and deeper context about the escalation's significance.
+
+The draft requires significant revision before publication, particularly the lead paragraph and fact-checking of casualty figures.
