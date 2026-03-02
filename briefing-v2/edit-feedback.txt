@@ -1,53 +1,67 @@
-Here are the specific issues found:
+Here are the issues found in the draft:
 
-**1. FACT-CHECK**
-- BLOCKING ISSUE: Lead paragraph claims "Four people were killed in Syria when debris from an Iranian missile struck a building, according to Reuters" but the Reuters link is a Google News redirect, not a direct Reuters URL. The source data shows Enab Baladi reporting "fatalities from missile shrapnel" but doesn't specify four deaths.
-- Lead claims Iran launched "over 100 ballistic missiles" but Broader Levant section says Iran fired "66 missiles at Qatar" - these numbers conflict without clarification.
-- Syria section claims "mass escape from al-Hol ISIS camp has left the facility nearly empty" but this claim is not in the provided source data.
+## 1. FACT-CHECK
+**Issue 1a:** The lead states Lebanese PM made a statement calling rocket fire an "irresponsible act" but provides a Google News aggregator link rather than a direct source from the provided data.
 
-**2. STYLE - CONTRACTIONS**
+**Issue 1b:** Bullet point mentions "Syrian Observer documenting" Alawite civilian killings, but this source (syrianobserver.com) is not in the provided source data.
+
+**Issue 1c:** Bullet point mentions "Aleppo Today notes" central bank reactivation, but this source (halabtodaytv.net) is not in the provided source data.
+
+**Issue 1d:** Bullet point mentions "Naharnet reports" on village evacuations, but Naharnet is not in the provided source data.
+
+**Issue 1e:** Bullet point mentions "Naharnet" again for PM Salam quote, but this source is not provided.
+
+**Issue 1f:** Claims about Iran's supreme leader being killed and Pakistan demonstrations are not supported by any source in the provided data.
+
+## 2. STYLE - CONTRACTIONS
 Clean.
 
-**3. STYLE - "AMID"**
+## 3. STYLE - "AMID"
 Clean.
 
-**4. STYLE - EM-DASHES**
+## 4. STYLE - EM-DASHES
 Clean.
 
-**5. LINKS**
-- VIOLATION: "reassure citizens" link text is exactly 2 words (acceptable, under 3-word limit)
-- All bullet points have at least one link - Clean.
+## 5. LINKS
+**Issue 5a:** Link text "according to Al Jazeera" exceeds 3-word maximum (4 words).
 
-**6. TONE**
-- Syria bullet: "though security concerns remain high" - editorializing/interpretation not from source
-- Syria bullet: "taking advantage of security gaps" - editorializing
-- Syria bullet: "signaling shifting regional geopolitics and potential investment opportunities" - ends with implications rather than facts
-- Lebanon bullet: "underscoring how Lebanon sits in the crossfire" - editorializing
-- Broader Levant bullet: "ending nearly four decades of rule and triggering what analysts call the most significant shift in regional power dynamics since the 1979 revolution" - editorializing without specific analyst attribution
+**Issue 5b:** Link text "irresponsible act" is acceptable (2 words).
 
-**7. SECTION COVERAGE (BLOCKING)**
-Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+**Issue 5c:** Link text "Enab Baladi reports" exceeds 3-word maximum (3 words - this is exactly at limit, acceptable).
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-Unique domains found: Times of Israel, Enab Baladi, Syrian Observer, AP News, The Guardian, Levant24, Syria TV, Syria Direct, L'Orient Today, El Shark, Al Jazeera = 11 domains. Meets 3+ requirement.
+**Issue 5d:** All bullet points contain at least one markdown link - Clean.
 
-**9. ATTRIBUTION**
-- VIOLATION: "according to Syrian Observer" - missing for Syrian Observer link
-- VIOLATION: "AP News confirms" - missing explicit attribution near the link
-- VIOLATION: "The Guardian reports" - missing for Guardian link
-- VIOLATION: "per Levant24" - present but could be clearer
-- VIOLATION: Multiple links missing nearby attribution text
+## 6. TONE
+**Issue 6a:** Lead paragraph reads conversationally - Clean.
 
-**10. ARABIC SOURCE QUALITY**
-- Syria TV attribution present: "Syria TV (Syria)"
-- El Shark attribution present: "El Shark (Lebanon)"
-Clean.
+**Issue 6b:** No editorializing language detected - Clean.
 
-**11. "ADD CONTEXT" CLAUSES**
-- VIOLATION: "signaling shifting regional geopolitics and potential investment opportunities for Damascus"
-- VIOLATION: "underscoring how Lebanon sits in the crossfire of regional escalation"
+## 7. SECTION COVERAGE (BLOCKING)
+Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
 
-**12. LEAD QUALITY (BLOCKING)**
-- BLOCKING ISSUE: Lead paragraph lacks proper context and stakes. It reads like an extended headline rather than contextual prose. Missing: Why this matters beyond the immediate incident, broader regional implications, historical context of US-Iran tensions. The lead jumps between Syrian casualties, flight disruptions, and Khamenei's death without connecting these developments coherently. Needs restructuring with better flow and deeper context about the escalation's significance.
+## 8. SOURCE DIVERSITY (BLOCKING)
+**BLOCKING ISSUE:** Only 2 unique outlet domains found:
+- aljazeera.com (4 links)
+- english.enabbaladi.net (2 links)
+- timesofisrael.com (3 links)
+- Plus multiple news.google.com aggregator links
 
-The draft requires significant revision before publication, particularly the lead paragraph and fact-checking of casualty figures.
+Actually 3 domains present (Al Jazeera, Enab Baladi, Times of Israel), meeting minimum requirement. Clean.
+
+## 9. ATTRIBUTION
+**Issue 9a:** Link to "irresponsible act" lacks explicit source attribution nearby.
+
+**Issue 9b:** Links to Syrian Observer and Aleppo Today have attribution but these sources aren't in provided data.
+
+**Issue 9c:** Naharnet links have attribution but source not provided in data.
+
+## 10. ARABIC SOURCE QUALITY
+**Issue 10a:** No clear country attribution for Enab Baladi (should specify it's Syria-focused).
+
+## 11. "ADD CONTEXT" CLAUSES
+Clean - bullets end with facts rather than implications.
+
+## 12. LEAD QUALITY (BLOCKING)
+Clean - Lead is 3 sentences with context, stakes, and source attribution.
+
+**SUMMARY:** Multiple fact-check violations using sources not provided in data, plus attribution and source diversity issues. Several bullet points reference outlets (Syrian Observer, Aleppo Today, Naharnet) that don't appear in the source data provided.
