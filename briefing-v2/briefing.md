@@ -1,23 +1,21 @@
-Israeli strikes hit Beirut's southern suburbs overnight after Hezbollah fired rockets and drones at northern Israel in retaliation for escalating attacks on Iran, [Reuters](https://www.reuters.com/world/middle-east/israel-bombs-beirut-after-hezbollah-fires-rockets-iran-war-retaliation-2026-03-02/) reports. The bombardment prompted tens of thousands of Lebanese civilians to flee the capital, per the same Reuters report, marking Hezbollah's entry into the widening Iran-Israel conflict. Lebanese caretaker Prime Minister Najib Salam condemned the rocket fire as an "irresponsible act" and warned against further "adventures" as the conflict threatens Lebanon's fragile stability.
+Israeli strikes killed more than 50 people across Lebanon overnight, according to Reuters. Israel says the attacks were a response to Hezbollah rocket fire, but the strikes have drawn widespread condemnation from Lebanese officials. The escalation comes as the region grapples with broader US-Israeli strikes on Iran and rising tensions that have shut down major airports and prompted American travel warnings across the Middle East. UN officials are calling for restraint, according to L'Orient Today.
 
 **Syria**
 
-• At least 30 Syrian civilians have been killed in "mobile killings" across Homs province over the past two months, [Syrian Observer reports](https://syrianobserver.com/news/homs-syria-mobile-killings-claim-30-civilian-lives-two-months/), as the Syria-focused outlet documents ongoing targeted violence in the region.
+• Multi-sector moves are underway in al-Hasakah to implement an [integration agreement](https://english.enabbaladi.net/archives/2026/03/al-hasakah/), Enab Baladi reports, as Syrian authorities work to merge government and SDF-controlled territories.
 
-• Syria is moving to rejoin global finance after fifteen years of isolation, with efforts underway to reconnect with international banking systems while the central bank has reactivated its account at the Federal Reserve Bank of New York, according to [SANA](https://sana.sy/en/?p=312847).
-
-• US mediation is seeking what Syria Direct calls a ["half solution"](https://syriadirect.org/us-mediation-seeks-half-solution-suwayda/) to ongoing tensions in Suwayda province, where Druze communities have been pushing for greater autonomy.
-
-• Hungary signed an [agreement](https://levant24.com/news/2026/03/syria-hungary-sign-scholarship-agreement-for-250-students/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=syria-hungary-sign-scholarship-agreement-for-250-students) to provide scholarships for 250 Syrian students, Levant24 reports, as Damascus works to rebuild international educational ties.
+• The SDF [withdrew from al-Shuyoukh](https://english.enabbaladi.net/archives/2026/03/sdf-withdraws-from-al-shuyoukh-west-of-kobani/) west of Kobani, according to Syrian Observer, marking another territorial shift in northern Syria.
 
 **Lebanon**
 
-• Israel ordered evacuations in nearly 50 villages in south Lebanon ahead of planned strikes as the conflict escalates beyond the initial Iran-Israel exchanges.
-
-• Lebanese PM Salam called the rocket fire "irresponsible and suspicious," highlighting the government's delicate position as it tries to distance itself from Hezbollah's military actions.
+• L'Orient Today examines [why Hezbollah joined](https://news.google.com/rss/articles/CBMioAFBVV85cUxPdkMzQndRZ2dqYm9KOG1naXJZSk45NjVUTEdySnRicFFNZ0Y4VzF6U3FsLTdraTB3aWpZc0ZRMFFZS3JMdkp4a0d2YkdpZS1GWWdFdUdDYkFfdkdUT09NMnctbTFVU1M0dDVGWi1NMHNna0tJZHZRSkEtZmdfUGVZVVVraFJJU0RPdGtVYUF5MmFmTmpoYlduS1NCa3BpTVpf?oc=5) the broader Iran conflict, according to L'Orient Today, as the group's regional role expands beyond Lebanon's borders.
 
 **Broader Levant**
 
-• Iraqi riot police fired tear gas to disperse [pro-Iran protesters](https://www.bbc.com/news/world-middle-east-68432891) near the US embassy in Baghdad, BBC reports, as regional tensions spill across borders.
+• Iran's foreign minister [promised China](https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss) to do its "utmost" to protect Chinese citizens during US-Israeli attacks, Al Jazeera reports.
 
-• Iranian missile strikes [hit a highway](https://www.timesofisrael.com/three-wounded-in-iranian-missile-strike-on-highway-outside-jerusalem/) outside Jerusalem, wounding three people, the Times of Israel reports, while Iranian drones [damaged](https://www.timesofisrael.com/liveblog-march-02-2026/) a British military base in Cyprus overnight.
+• An unexploded US kamikaze drone was [found on farmland](https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss) in western Iraq, according to BBC.
+
+• Dubai's airport authority [authorized limited flights](https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss) as hundreds of thousands remain stranded across the Middle East, per Syria Direct.
+
+• The Strait of Hormuz shutdown is [raising fears](https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss) of soaring oil prices, SANA reports, though US producers could benefit.

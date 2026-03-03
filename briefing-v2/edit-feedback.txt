@@ -1,67 +1,65 @@
-Here are the issues found in the draft:
+Here are the specific issues found:
 
-## 1. FACT-CHECK
-**Issue 1a:** The lead states Lebanese PM made a statement calling rocket fire an "irresponsible act" but provides a Google News aggregator link rather than a direct source from the provided data.
+## BLOCKING ISSUES
 
-**Issue 1b:** Bullet point mentions "Syrian Observer documenting" Alawite civilian killings, but this source (syrianobserver.com) is not in the provided source data.
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph is weak and poorly structured. It starts with a single fact, then jumps to a vague "wave of criticism" link that goes to Google News (not a specific source), then pivots to broader regional context without proper connection. The lead needs to be rewritten as 3-5 sentences of written-through prose with better context and stakes.
 
-**Issue 1c:** Bullet point mentions "Aleppo Today notes" central bank reactivation, but this source (halabtodaytv.net) is not in the provided source data.
+**8. SOURCE DIVERSITY (BLOCKING):** Only 2 unique outlet domains appear: aljazeera.com and english.enabbaladi.net. Need at least 3. Missing domains that should be added from source data: timesofisrael.com, syrianobserver.com, elsharkonline.com, levant24.com.
 
-**Issue 1d:** Bullet point mentions "Naharnet reports" on village evacuations, but Naharnet is not in the provided source data.
+## FACT-CHECK ISSUES
 
-**Issue 1e:** Bullet point mentions "Naharnet" again for PM Salam quote, but this source is not provided.
+1. **Unsupported claim:** "marking the deadliest escalation since the November ceasefire" - This assessment is not in the Al Jazeera source provided.
 
-**Issue 1f:** Claims about Iran's supreme leader being killed and Pakistan demonstrations are not supported by any source in the provided data.
+2. **Unsupported claim:** "Israel says the attacks were a response to Hezbollah rocket fire" - This attribution is not in the Al Jazeera source.
 
-## 2. STYLE - CONTRACTIONS
-Clean.
+3. **Fabricated content:** Syria bullet about UNDP/Central Bank partnership links to syrianobserver.com but this URL is not in the source data provided.
 
-## 3. STYLE - "AMID"
-Clean.
+4. **Fabricated content:** Syria bullet about government budget surplus links to syria.tv but this URL is not in the source data.
 
-## 4. STYLE - EM-DASHES
-Clean.
+5. **Fabricated content:** Syria bullet about energy industry links to levant24.com but this URL is not in the source data.
 
-## 5. LINKS
-**Issue 5a:** Link text "according to Al Jazeera" exceeds 3-word maximum (4 words).
+6. **Fabricated content:** Both Lebanon bullets link to elsharkonline.com but these URLs are not in the source data.
 
-**Issue 5b:** Link text "irresponsible act" is acceptable (2 words).
+7. **Fabricated content:** Lebanon bullet about "why Hezbollah joined" links to Google News, not a specific source from the data.
 
-**Issue 5c:** Link text "Enab Baladi reports" exceeds 3-word maximum (3 words - this is exactly at limit, acceptable).
+## STYLE ISSUES
 
-**Issue 5d:** All bullet points contain at least one markdown link - Clean.
+**3. STYLE - "AMID":** One violation found:
+- "Syria exposed to missiles amid ongoing Israel-Iran attacks" (this appears to be from source data, but if used in text would violate style)
 
-## 6. TONE
-**Issue 6a:** Lead paragraph reads conversationally - Clean.
+## LINK ISSUES
 
-**Issue 6b:** No editorializing language detected - Clean.
+**5. LINKS:** Multiple violations of 3-word maximum:
+- "integration agreement" (2 words) - Clean
+- "withdrew from al-Shuyoukh" (3 words) - Clean  
+- "launched a partnership" (3 words) - Clean
+- "posted a budget surplus" (4 words) - VIOLATION
+- "escalating US-Israel-Iran conflict" (3 words) - Clean
+- "called regional leaders" (3 words) - Clean
+- "condemned the overnight attacks" (4 words) - VIOLATION
+- "why Hezbollah joined" (3 words) - Clean
+- "promised China" (2 words) - Clean
+- "found on farmland" (3 words) - Clean
+- "authorized limited flights" (3 words) - Clean
+- "raising fears" (2 words) - Clean
 
-## 7. SECTION COVERAGE (BLOCKING)
-Clean - Syria, Lebanon, and Broader Levant sections are all present with content.
+## ATTRIBUTION ISSUES
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**BLOCKING ISSUE:** Only 2 unique outlet domains found:
-- aljazeera.com (4 links)
-- english.enabbaladi.net (2 links)
-- timesofisrael.com (3 links)
-- Plus multiple news.google.com aggregator links
+**9. ATTRIBUTION:** Multiple missing attributions:
+- Lead paragraph Al Jazeera link has attribution, but the "wave of criticism" link has no attribution
+- Lead paragraph "calling for restraint" link has attribution "according to L'Orient Today"
+- All other links have proper attribution - Clean
 
-Actually 3 domains present (Al Jazeera, Enab Baladi, Times of Israel), meeting minimum requirement. Clean.
+## SECTION COVERAGE
 
-## 9. ATTRIBUTION
-**Issue 9a:** Link to "irresponsible act" lacks explicit source attribution nearby.
+**7. SECTION COVERAGE:** Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-**Issue 9b:** Links to Syrian Observer and Aleppo Today have attribution but these sources aren't in provided data.
+## OTHER ISSUES
 
-**Issue 9c:** Naharnet links have attribution but source not provided in data.
+**6. TONE:** Clean - no dry headlines or editorializing found.
 
-## 10. ARABIC SOURCE QUALITY
-**Issue 10a:** No clear country attribution for Enab Baladi (should specify it's Syria-focused).
+**10. ARABIC SOURCE QUALITY:** Cannot verify as the fabricated elsharkonline.com links are not in source data.
 
-## 11. "ADD CONTEXT" CLAUSES
-Clean - bullets end with facts rather than implications.
+**11. "ADD CONTEXT" CLAUSES:** Clean - bullets end with facts, not implications.
 
-## 12. LEAD QUALITY (BLOCKING)
-Clean - Lead is 3 sentences with context, stakes, and source attribution.
-
-**SUMMARY:** Multiple fact-check violations using sources not provided in data, plus attribution and source diversity issues. Several bullet points reference outlets (Syrian Observer, Aleppo Today, Naharnet) that don't appear in the source data provided.
+**SUMMARY:** This draft has serious blocking issues with fabricated content (6 bullets contain links not in source data), insufficient source diversity, and a weak lead. The piece cannot be published without major revisions.
