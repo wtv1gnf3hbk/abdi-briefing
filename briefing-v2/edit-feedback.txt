@@ -2,64 +2,67 @@ Here are the specific issues found:
 
 ## BLOCKING ISSUES
 
-**12. LEAD QUALITY (BLOCKING):** The lead paragraph is weak and poorly structured. It starts with a single fact, then jumps to a vague "wave of criticism" link that goes to Google News (not a specific source), then pivots to broader regional context without proper connection. The lead needs to be rewritten as 3-5 sentences of written-through prose with better context and stakes.
+**1. SOURCE DIVERSITY (BLOCKING):** Only 2 unique outlet domains appear across the briefing:
+- english.enabbaladi.net (1 link)
+- timesofisrael.com (2 links)
+- aljazeera.com (4 links)
+- elsharkonline.com (2 links)
+- syrianobserver.com (1 link) 
+- syriadirect.org (1 link)
+- syria.tv (1 link)
+- news.google.com (1 link)
 
-**8. SOURCE DIVERSITY (BLOCKING):** Only 2 unique outlet domains appear: aljazeera.com and english.enabbaladi.net. Need at least 3. Missing domains that should be added from source data: timesofisrael.com, syrianobserver.com, elsharkonline.com, levant24.com.
+**Count: 8 domains** - This actually meets the 3+ requirement. Clean.
+
+**2. SECTION COVERAGE (BLOCKING):** All three required sections (Syria, Lebanon, Broader Levant) are present with content. Clean.
+
+**3. LEAD QUALITY (BLOCKING):** The lead is only 2 sentences and lacks sufficient context. It reads like "X happened, Y happened, meanwhile Z deployed troops" without explaining the stakes, background, or broader implications of this escalation pattern.
 
 ## FACT-CHECK ISSUES
 
-1. **Unsupported claim:** "marking the deadliest escalation since the November ceasefire" - This assessment is not in the Al Jazeera source provided.
+**4.** Syria has "deployed thousands of troops to the Lebanese border, per Reuters" - This attribution is to a Google News RSS link, not directly to Reuters. The source data doesn't contain this Reuters story.
 
-2. **Unsupported claim:** "Israel says the attacks were a response to Hezbollah rocket fire" - This attribution is not in the Al Jazeera source.
-
-3. **Fabricated content:** Syria bullet about UNDP/Central Bank partnership links to syrianobserver.com but this URL is not in the source data provided.
-
-4. **Fabricated content:** Syria bullet about government budget surplus links to syria.tv but this URL is not in the source data.
-
-5. **Fabricated content:** Syria bullet about energy industry links to levant24.com but this URL is not in the source data.
-
-6. **Fabricated content:** Both Lebanon bullets link to elsharkonline.com but these URLs are not in the source data.
-
-7. **Fabricated content:** Lebanon bullet about "why Hezbollah joined" links to Google News, not a specific source from the data.
+**5.** Several linked stories are not in the source data:
+- Israeli incursion in Quneitra (Syrian Observer)
+- Israeli herbicides story (Syria Direct) 
+- Afrin services crisis (Syria TV)
+- Both El Shark Lebanon stories
+- Oil prices story (Al Jazeera)
 
 ## STYLE ISSUES
 
-**3. STYLE - "AMID":** One violation found:
-- "Syria exposed to missiles amid ongoing Israel-Iran attacks" (this appears to be from source data, but if used in text would violate style)
+**6. CONTRACTIONS:** Clean.
 
-## LINK ISSUES
+**7. "AMID":** Clean.
 
-**5. LINKS:** Multiple violations of 3-word maximum:
-- "integration agreement" (2 words) - Clean
-- "withdrew from al-Shuyoukh" (3 words) - Clean  
-- "launched a partnership" (3 words) - Clean
-- "posted a budget surplus" (4 words) - VIOLATION
-- "escalating US-Israel-Iran conflict" (3 words) - Clean
-- "called regional leaders" (3 words) - Clean
-- "condemned the overnight attacks" (4 words) - VIOLATION
-- "why Hezbollah joined" (3 words) - Clean
-- "promised China" (2 words) - Clean
-- "found on farmland" (3 words) - Clean
-- "authorized limited flights" (3 words) - Clean
-- "raising fears" (2 words) - Clean
+**8. EM-DASHES:** Clean.
+
+## LINKS ISSUES
+
+**9. LINK TEXT LENGTH:** "boots on the ground" (4 words) - exceeds 3-word maximum.
+
+**10. MISSING LINKS:** The Lebanon section bullet about Cabinet decision and Arab support has only one link but references "the same outlet" for a second story - that second reference needs its own link.
 
 ## ATTRIBUTION ISSUES
 
-**9. ATTRIBUTION:** Multiple missing attributions:
-- Lead paragraph Al Jazeera link has attribution, but the "wave of criticism" link has no attribution
-- Lead paragraph "calling for restraint" link has attribution "according to L'Orient Today"
-- All other links have proper attribution - Clean
+**11.** "deployed thousands of troops to the Lebanese border, per Reuters" - attributed to Reuters but links to Google News RSS.
 
-## SECTION COVERAGE
+**12.** "Iranian blockades...are raising global oil and gas prices, per Al Jazeera" - this story is not in the provided source data.
 
-**7. SECTION COVERAGE:** Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+## TONE ISSUES
 
-## OTHER ISSUES
+**13.** "Hezbollah has destroyed itself with 3 missiles in an opinion piece" - this is editorializing language that characterizes the content rather than reporting it neutrally.
 
-**6. TONE:** Clean - no dry headlines or editorializing found.
+**14.** Several bullets end with interpretation rather than facts:
+- "adding an economic dimension to the ongoing border disputes"
+- "as European powers prepare for potential escalation"
 
-**10. ARABIC SOURCE QUALITY:** Cannot verify as the fabricated elsharkonline.com links are not in source data.
+## ARABIC SOURCE QUALITY
 
-**11. "ADD CONTEXT" CLAUSES:** Clean - bullets end with facts, not implications.
+**15.** Clean - Syria TV and El Shark are properly attributed with country identifiers.
 
-**SUMMARY:** This draft has serious blocking issues with fabricated content (6 bullets contain links not in source data), insufficient source diversity, and a weak lead. The piece cannot be published without major revisions.
+## COVERAGE FLAGS
+
+**16.** The Syria section focuses heavily on administrative/logistical stories (ports, fuel, services) while the more significant security developments (SDF withdrawal from Kobani, air corridor reopenings) from the source data are omitted.
+
+**17.** The Lebanon section relies entirely on sources not provided in the data, missing the actual Lebanon stories available (entertainment/cultural content from OLN News).

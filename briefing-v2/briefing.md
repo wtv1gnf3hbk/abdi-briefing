@@ -1,21 +1,25 @@
-Israeli strikes killed more than 50 people across Lebanon overnight, according to Reuters. Israel says the attacks were a response to Hezbollah rocket fire, but the strikes have drawn widespread condemnation from Lebanese officials. The escalation comes as the region grapples with broader US-Israeli strikes on Iran and rising tensions that have shut down major airports and prompted American travel warnings across the Middle East. UN officials are calling for restraint, according to L'Orient Today.
+Hezbollah fired rockets at Tel Aviv overnight as Israel escalated threats against Iranian officers operating in Lebanon, according to the [Times of Israel](https://www.timesofisrael.com/hezbollah-fires-on-tel-aviv-as-israel-threatens-iranian-officers-in-lebanon/). This escalation reflects the dangerous expansion of the US-Israeli military campaign against Iran into Lebanon's fragile security environment, threatening to destabilize the broader Levant region. The incident comes as Syria has deployed thousands of troops to the Lebanese border, signaling growing regional alarm about the conflict's potential to engulf neighboring countries and reshape the strategic balance across the eastern Mediterranean.
 
-**Syria**
+## Syria
 
-• Multi-sector moves are underway in al-Hasakah to implement an [integration agreement](https://english.enabbaladi.net/archives/2026/03/al-hasakah/), Enab Baladi reports, as Syrian authorities work to merge government and SDF-controlled territories.
+• The Syrian Ports Authority has put facilities on [full alert](https://english.enabbaladi.net/archives/2026/03/syrian-ports-authority-on-full-alert-to-facilitate-syrians-crossing-from-lebanon/) to handle potential mass returns from Lebanon, according to Enab Baladi, as regional tensions prompt Damascus to prepare for displacement flows.
 
-• The SDF [withdrew from al-Shuyoukh](https://english.enabbaladi.net/archives/2026/03/sdf-withdraws-from-al-shuyoukh-west-of-kobani/) west of Kobani, according to Syrian Observer, marking another territorial shift in northern Syria.
+• The Energy Ministry denied fuel shortages and said stocks remain [within safe limits](https://english.enabbaladi.net/archives/2026/03/syrian-energy-ministry-no-fuel-crisis-stocks-within-safe-limits/), per Enab Baladi, as the new government seeks to reassure the public about essential supplies.
 
-**Lebanon**
+• SDF forces [withdrew from Kobani](https://www.reuters.com/world/middle-east/sdf-withdraws-from-kobani-syria-reopens-air-corridor-2026-03-04/) as Syria reopened an air corridor, Reuters reports, marking another shift in control across northern Syria.
 
-• L'Orient Today examines [why Hezbollah joined](https://news.google.com/rss/articles/CBMioAFBVV85cUxPdkMzQndRZ2dqYm9KOG1naXJZSk45NjVUTEdySnRicFFNZ0Y4VzF6U3FsLTdraTB3aWpZc0ZRMFFZS3JMdkp4a0d2YkdpZS1GWWdFdUdDYkFfdkdUT09NMnctbTFVU1M0dDVGWi1NMHNna0tJZHZRSkEtZmdfUGVZVVVraFJJU0RPdGtVYUF5MmFmTmpoYlduS1NCa3BpTVpf?oc=5) the broader Iran conflict, according to L'Orient Today, as the group's regional role expands beyond Lebanon's borders.
+• Syria and Iraq have [reopened their air corridor](https://www.bbc.com/news/world-middle-east-68429781) after years of closure, according to BBC, restoring a key regional transportation link.
 
-**Broader Levant**
+## Lebanon
 
-• Iran's foreign minister [promised China](https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss) to do its "utmost" to protect Chinese citizens during US-Israeli attacks, Al Jazeera reports.
+• OLN News (Lebanon) reports that [entertainment venues](https://www.olnnews.com/lebanon/1733292062/%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D9%85%D9%86-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85) including the Lebanese Opera House are reopening after the war, with live broadcasts from Beirut resuming cultural activities.
 
-• An unexploded US kamikaze drone was [found on farmland](https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss) in western Iraq, according to BBC.
+• The same outlet covers a [cultural discussion](https://www.olnnews.com/lebanon/1733294215/%D8%A7%D9%84%D9%84%D9%87%D8%AC%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%A3%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D8%AD%D9%88%D9%84-%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D8%BA%D9%88%D9%8A%D8%A9) about Lebanese dialect versus standard Arabic, reflecting ongoing linguistic identity debates in post-war Lebanese society.
 
-• Dubai's airport authority [authorized limited flights](https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss) as hundreds of thousands remain stranded across the Middle East, per Syria Direct.
+## Broader Levant
 
-• The Strait of Hormuz shutdown is [raising fears](https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss) of soaring oil prices, SANA reports, though US producers could benefit.
+• Russia and China raised [diplomatic voices](https://www.syriaobserver.com/news/87342/russia-china-condemn-us-israeli-iran-strikes.html) against US-Israeli attacks on Iran, with China's foreign minister telling Israel to end attacks, Syrian Observer reports.
+
+• US senators voiced fear about [ground deployment](https://www.syriadirect.org/us-senators-express-alarm-over-potential-ground-operations-iran/) after a classified briefing on the Iran war, according to Syria Direct, as Democratic lawmakers express alarm about mission creep.
+
+• France ordered its aircraft carrier to the Mediterranean to [protect allied assets](https://www.timesofisrael.com/macron-orders-french-aircraft-carrier-to-mediterranean-to-protect-allied-assets-in-region/) in the region, reports Times of Israel.
