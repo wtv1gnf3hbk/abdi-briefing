@@ -1,68 +1,56 @@
-Here are the specific issues found:
+Here are the specific issues found in this Levant briefing draft:
 
 ## BLOCKING ISSUES
 
-**1. SOURCE DIVERSITY (BLOCKING):** Only 2 unique outlet domains appear across the briefing:
-- english.enabbaladi.net (1 link)
-- timesofisrael.com (2 links)
-- aljazeera.com (4 links)
-- elsharkonline.com (2 links)
-- syrianobserver.com (1 link) 
-- syriadirect.org (1 link)
-- syria.tv (1 link)
-- news.google.com (1 link)
+**12. LEAD QUALITY (BLOCKING)**: The lead is poorly constructed and contains unsupported claims. The opening "Israeli airstrikes killed three people near Beirut overnight" is not traceable to the provided source data. The lead also lacks proper context and reads like a headline restatement rather than 3-5 sentences of written-through prose with stakes and background.
 
-**Count: 8 domains** - This actually meets the 3+ requirement. Clean.
+**8. SOURCE DIVERSITY (BLOCKING)**: Only 2 unique outlet domains appear across the entire briefing:
+- enabbaladi.net 
+- aljazeera.com
 
-**2. SECTION COVERAGE (BLOCKING):** All three required sections (Syria, Lebanon, Broader Levant) are present with content. Clean.
+The briefing needs at least 3 different news outlet domains. Missing outlets that should be added from source data: Times of Israel stories should be incorporated to meet the quota.
 
-**3. LEAD QUALITY (BLOCKING):** The lead is only 2 sentences and lacks sufficient context. It reads like "X happened, Y happened, meanwhile Z deployed troops" without explaining the stakes, background, or broader implications of this escalation pattern.
+**1. FACT-CHECK**: Multiple unsupported claims:
+- "Israeli airstrikes killed three people near Beirut overnight" - not found in source data
+- "marking the fifth day of escalation" - not supported by sources
+- "Hezbollah deepens Lebanon's involvement in the broader US-Israeli war with Iran" - not in sources
+- "Hezbollah leader Naim Qassem vowed the group would not surrender" - not in source data
+- "French President Emmanuel Macron to urge Israeli Prime Minister Benjamin Netanyahu" - not in sources
+- Lebanon bullet about "Israeli ground forces conducting incursions" - not supported by provided sources
+- "Beirut is under fire" bullet - not traceable to source data
 
-## FACT-CHECK ISSUES
+## OTHER ISSUES
 
-**4.** Syria has "deployed thousands of troops to the Lebanese border, per Reuters" - This attribution is to a Google News RSS link, not directly to Reuters. The source data doesn't contain this Reuters story.
+**5. LINKS**: Multiple violations:
+- "confront 'aggression'" (2 words + quotes = exceeds 3 words)
+- "evaluating government ministers" (3 words - acceptable)
+- "closed its border" (3 words - acceptable) 
+- "destroyed crops and pastures" (4 words - exceeds limit)
+- "oil water treatment" (3 words - acceptable)
+- "returning to Darayya" (3 words - acceptable)
+- "1-2 more weeks" (4 words - exceeds limit)
+- "intercepted over" (2 words - acceptable)
+- "rule out" (2 words - acceptable)
 
-**5.** Several linked stories are not in the source data:
-- Israeli incursion in Quneitra (Syrian Observer)
-- Israeli herbicides story (Syria Direct) 
-- Afrin services crisis (Syria TV)
-- Both El Shark Lebanon stories
-- Oil prices story (Al Jazeera)
+**9. ATTRIBUTION**: Missing attribution for several links:
+- The Naharnet links in the lead lack proper attribution text
+- Syria Direct link lacks "Syria Direct reports" attribution
+- Levant24 link lacks "Levant24 reports" attribution
+- El Shark link lacks proper attribution format
+- Al-Akhbar link lacks "Al-Akhbar reports" attribution
 
-## STYLE ISSUES
+**10. ARABIC SOURCE QUALITY**: The El Shark attribution format is incomplete - should be "El Shark (Lebanon) reports" to include country attribution.
 
-**6. CONTRACTIONS:** Clean.
+**2. STYLE - CONTRACTIONS**: Clean.
 
-**7. "AMID":** Clean.
+**3. STYLE - "AMID"**: Clean.
 
-**8. EM-DASHES:** Clean.
+**4. STYLE - EM-DASHES**: Clean.
 
-## LINKS ISSUES
+**6. TONE**: Clean - no dry headline summaries or editorializing detected.
 
-**9. LINK TEXT LENGTH:** "boots on the ground" (4 words) - exceeds 3-word maximum.
+**7. SECTION COVERAGE**: All required sections present (Syria, Lebanon, Broader Levant).
 
-**10. MISSING LINKS:** The Lebanon section bullet about Cabinet decision and Arab support has only one link but references "the same outlet" for a second story - that second reference needs its own link.
+**11. "ADD CONTEXT" CLAUSES**: Clean.
 
-## ATTRIBUTION ISSUES
-
-**11.** "deployed thousands of troops to the Lebanese border, per Reuters" - attributed to Reuters but links to Google News RSS.
-
-**12.** "Iranian blockades...are raising global oil and gas prices, per Al Jazeera" - this story is not in the provided source data.
-
-## TONE ISSUES
-
-**13.** "Hezbollah has destroyed itself with 3 missiles in an opinion piece" - this is editorializing language that characterizes the content rather than reporting it neutrally.
-
-**14.** Several bullets end with interpretation rather than facts:
-- "adding an economic dimension to the ongoing border disputes"
-- "as European powers prepare for potential escalation"
-
-## ARABIC SOURCE QUALITY
-
-**15.** Clean - Syria TV and El Shark are properly attributed with country identifiers.
-
-## COVERAGE FLAGS
-
-**16.** The Syria section focuses heavily on administrative/logistical stories (ports, fuel, services) while the more significant security developments (SDF withdrawal from Kobani, air corridor reopenings) from the source data are omitted.
-
-**17.** The Lebanon section relies entirely on sources not provided in the data, missing the actual Lebanon stories available (entertainment/cultural content from OLN News).
+The draft has serious blocking issues with lead quality, source diversity, and multiple fact-checking problems that must be resolved before publication.

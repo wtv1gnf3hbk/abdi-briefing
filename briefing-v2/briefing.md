@@ -1,25 +1,27 @@
-Hezbollah fired rockets at Tel Aviv overnight as Israel escalated threats against Iranian officers operating in Lebanon, according to the [Times of Israel](https://www.timesofisrael.com/hezbollah-fires-on-tel-aviv-as-israel-threatens-iranian-officers-in-lebanon/). This escalation reflects the dangerous expansion of the US-Israeli military campaign against Iran into Lebanon's fragile security environment, threatening to destabilize the broader Levant region. The incident comes as Syria has deployed thousands of troops to the Lebanese border, signaling growing regional alarm about the conflict's potential to engulf neighboring countries and reshape the strategic balance across the eastern Mediterranean.
+Israeli and Hezbollah forces continue exchanging fire as regional tensions escalate, with Hezbollah leader Naim Qassem stating the group would confront aggression from Israel and the United States. The violence has prompted international concern about broader regional spillover effects. French President Emmanuel Macron has urged restraint to prevent further escalation in Lebanon. Meanwhile, the conflict's impact extends beyond immediate military operations, affecting civilian populations and regional stability.
 
-## Syria
+**Syria**
 
-• The Syrian Ports Authority has put facilities on [full alert](https://english.enabbaladi.net/archives/2026/03/syrian-ports-authority-on-full-alert-to-facilitate-syrians-crossing-from-lebanon/) to handle potential mass returns from Lebanon, according to Enab Baladi, as regional tensions prompt Damascus to prepare for displacement flows.
+• Syrian leader Ahmed al-Sharaa is [evaluating government](https://english.enabbaladi.net/archives/2026/03/al-sharaa-confirms-evaluation-of-syrian-government-ministers/) ministers as part of ongoing administrative reforms, Enab Baladi reports, with the assessment focusing on performance and alignment with the new government's priorities.
 
-• The Energy Ministry denied fuel shortages and said stocks remain [within safe limits](https://english.enabbaladi.net/archives/2026/03/syrian-energy-ministry-no-fuel-crisis-stocks-within-safe-limits/), per Enab Baladi, as the new government seeks to reassure the public about essential supplies.
+• Syria briefly [closed its](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHlrYkxJTnUtREUyeDVoT0FYRkdWbGNUY1Bna19pXzR6b1Fyd0dMUlpJRWhRcTRNRG9MdXowX0dlRkFVVTBwSVR0Yi1YT1ZTWm94WDVSalEzX0ZTLS1TekJKd2pFU2FiamwtT3JOWG95eUltTEZhRkJFa3V0eUVqZUZkRkllNC0zR0xhazVTc21MZktGUkpHNk54Tk5CQkh0bVRHNk0tVWhlRS04TmRpRFZUNVJEOG5kSjkwckRJN2tOZ1hFRmFnb2llOUFmeVk?oc=5) border crossing with Lebanon after warnings it could be targeted by Israel, Reuters reports, highlighting Damascus's concerns about spillover from regional escalation.
 
-• SDF forces [withdrew from Kobani](https://www.reuters.com/world/middle-east/sdf-withdraws-from-kobani-syria-reopens-air-corridor-2026-03-04/) as Syria reopened an air corridor, Reuters reports, marking another shift in control across northern Syria.
+• Israeli herbicides have [destroyed crops](https://syriadirect.org/how-israeli-herbicides-destroyed-quneitra-crops-and-pastures/) in Quneitra, Syria Direct reports, leaving farmers facing total agricultural losses in areas near the occupied Golan Heights.
 
-• Syria and Iraq have [reopened their air corridor](https://www.bbc.com/news/world-middle-east-68429781) after years of closure, according to BBC, restoring a key regional transportation link.
+• The Syrian Petroleum Company launched an [oil water](https://levant24.com/news/2026/03/spc-launches-oil-water-treatment-project/?utm_source=rss&utm_medium=rss&utm_campaign=spc-launches-oil-water-treatment-project) treatment project, Levant24 reports, as part of reconstruction efforts to restore energy infrastructure damaged during the war.
 
-## Lebanon
+• Residents are [returning to](https://english.enabbaladi.net/archives/2026/03/return-to-darayya-i-smelled-something-that-warmed-my-heart-then-faced-the-rubble/) Darayya, confronting the extensive destruction left from years of siege and bombardment, Enab Baladi reports, with many finding their former homes reduced to rubble.
 
-• OLN News (Lebanon) reports that [entertainment venues](https://www.olnnews.com/lebanon/1733292062/%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D9%85%D9%86-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85) including the Lebanese Opera House are reopening after the war, with live broadcasts from Beirut resuming cultural activities.
+**Lebanon**
 
-• The same outlet covers a [cultural discussion](https://www.olnnews.com/lebanon/1733294215/%D8%A7%D9%84%D9%84%D9%87%D8%AC%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%A3%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D8%AD%D9%88%D9%84-%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D8%BA%D9%88%D9%8A%D8%A9) about Lebanese dialect versus standard Arabic, reflecting ongoing linguistic identity debates in post-war Lebanese society.
+• Mental health professionals are treating rising cases of war-related trauma, with psychologists reporting [significant impacts](https://olnnews.com/181463/) on both adults and children from ongoing conflict stress, OLN News reports.
 
-## Broader Levant
+**Broader Levant**
 
-• Russia and China raised [diplomatic voices](https://www.syriaobserver.com/news/87342/russia-china-condemn-us-israeli-iran-strikes.html) against US-Israeli attacks on Iran, with China's foreign minister telling Israel to end attacks, Syrian Observer reports.
+• The Israeli military is planning [1-2 more](https://www.timesofisrael.com/idf-planning-for-at-least-1-2-more-weeks-of-iran-ops-over-5000-bombs-dropped/) weeks of operations against Iran after dropping over 5,000 bombs, Times of Israel reports, indicating the scope of the current military campaign.
 
-• US senators voiced fear about [ground deployment](https://www.syriadirect.org/us-senators-express-alarm-over-potential-ground-operations-iran/) after a classified briefing on the Iran war, according to Syria Direct, as Democratic lawmakers express alarm about mission creep.
+• Iran's Assembly of Experts is now [choosing](https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss) the country's next Supreme Leader following recent events, Al Jazeera reports, raising questions about Tehran's future direction during wartime.
 
-• France ordered its aircraft carrier to the Mediterranean to [protect allied assets](https://www.timesofisrael.com/macron-orders-french-aircraft-carrier-to-mediterranean-to-protect-allied-assets-in-region/) in the region, reports Times of Israel.
+• Iranian rockets were [intercepted over](https://www.aljazeera.com/video/newsfeed/2026/3/5/iranian-rockets-intercepted-over-central-israel?traffic_source=rss) central Israel as the exchange of fire continues, Al Jazeera reports, with air raid sirens blaring across Israeli cities.
+
+• Canada's Prime Minister Mark Carney said he cannot [rule out](https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss) a Canadian military role in the Iran war, Al Jazeera reports, while calling the US-Israeli attacks "inconsistent with international law."
