@@ -1,56 +1,56 @@
-Here are the specific issues found in this Levant briefing draft:
+Here are the specific issues found:
 
-## BLOCKING ISSUES
+**1. FACT-CHECK: Clean.**
 
-**12. LEAD QUALITY (BLOCKING)**: The lead is poorly constructed and contains unsupported claims. The opening "Israeli airstrikes killed three people near Beirut overnight" is not traceable to the provided source data. The lead also lacks proper context and reads like a headline restatement rather than 3-5 sentences of written-through prose with stakes and background.
+**2. STYLE - CONTRACTIONS: Clean.**
 
-**8. SOURCE DIVERSITY (BLOCKING)**: Only 2 unique outlet domains appear across the entire briefing:
-- enabbaladi.net 
+**3. STYLE - "AMID":**
+- Line: "In safety precaution, Israel to bar Friday Ramadan prayers at Temple Mount amid Iran war" appears in source data but not used in draft, so Clean.
+
+**4. STYLE - EM-DASHES: Clean.**
+
+**5. LINKS:**
+- Syria section, bullet 1: "[storm the facility](https://www.syria.tv/...)" - "storm the facility" is 3 words, acceptable.
+- All other links are 1-3 words. Clean.
+- Every bullet point has at least one link. Clean.
+
+**6. TONE:**
+- Syria bullet 1: "Syrian authorities moved to privatize the Deir ez-Zor flour mill, prompting workers to storm the facility after the company proposed cutting staff from 450 to 100 employees" - reads like dry headline summary rather than conversational prose.
+
+**7. SECTION COVERAGE (BLOCKING): Clean.** All three sections present with content.
+
+**8. SOURCE DIVERSITY (BLOCKING):**
+Unique domains found:
 - aljazeera.com
+- syria.tv
+- english.enabbaladi.net
+- syriadirect.org
+- levant24.com
+- news.google.com
+- elsharkonline.com
+- halabtodaytv.net
 
-The briefing needs at least 3 different news outlet domains. Missing outlets that should be added from source data: Times of Israel stories should be incorporated to meet the quota.
+**8 unique domains found, exceeding the 3-domain minimum. Clean.**
 
-**1. FACT-CHECK**: Multiple unsupported claims:
-- "Israeli airstrikes killed three people near Beirut overnight" - not found in source data
-- "marking the fifth day of escalation" - not supported by sources
-- "Hezbollah deepens Lebanon's involvement in the broader US-Israeli war with Iran" - not in sources
-- "Hezbollah leader Naim Qassem vowed the group would not surrender" - not in source data
-- "French President Emmanuel Macron to urge Israeli Prime Minister Benjamin Netanyahu" - not in sources
-- Lebanon bullet about "Israeli ground forces conducting incursions" - not supported by provided sources
-- "Beirut is under fire" bullet - not traceable to source data
+**9. ATTRIBUTION:**
+- Syria bullet 3: Missing attribution for Syria Direct link
+- Lebanon bullet 1: Missing attribution for Nahar Net link  
+- Lebanon bullet 2: Missing attribution for Nahar Net link
+- Broader Levant bullet 2: Missing attribution for "multiple outlets" link to halabtodaytv.net
 
-## OTHER ISSUES
+**10. ARABIC SOURCE QUALITY:**
+- "Syria TV (Syria) reports" - Clean
+- "El Shark (Lebanon) reports" - Clean
 
-**5. LINKS**: Multiple violations:
-- "confront 'aggression'" (2 words + quotes = exceeds 3 words)
-- "evaluating government ministers" (3 words - acceptable)
-- "closed its border" (3 words - acceptable) 
-- "destroyed crops and pastures" (4 words - exceeds limit)
-- "oil water treatment" (3 words - acceptable)
-- "returning to Darayya" (3 words - acceptable)
-- "1-2 more weeks" (4 words - exceeds limit)
-- "intercepted over" (2 words - acceptable)
-- "rule out" (2 words - acceptable)
+**11. "ADD CONTEXT" CLAUSES:**
+- Syria bullet 4: "as the country watches the Iran-US war from afar" - ends with contextual implication rather than hard fact
 
-**9. ATTRIBUTION**: Missing attribution for several links:
-- The Naharnet links in the lead lack proper attribution text
-- Syria Direct link lacks "Syria Direct reports" attribution
-- Levant24 link lacks "Levant24 reports" attribution
-- El Shark link lacks proper attribution format
-- Al-Akhbar link lacks "Al-Akhbar reports" attribution
+**12. LEAD QUALITY (BLOCKING):**
+Lead is 4 sentences with context, stakes, and proper attribution. Opens with US-Israel operations against Iran, includes Iranian response, US diplomatic offer, and regional impact. This is quality contextual prose, not a headline restatement. Clean.
 
-**10. ARABIC SOURCE QUALITY**: The El Shark attribution format is incomplete - should be "El Shark (Lebanon) reports" to include country attribution.
+**SUMMARY:**
+- 1 tone issue (Syria bullet 1)
+- 4 attribution issues 
+- 1 "add context" clause issue
 
-**2. STYLE - CONTRACTIONS**: Clean.
-
-**3. STYLE - "AMID"**: Clean.
-
-**4. STYLE - EM-DASHES**: Clean.
-
-**6. TONE**: Clean - no dry headline summaries or editorializing detected.
-
-**7. SECTION COVERAGE**: All required sections present (Syria, Lebanon, Broader Levant).
-
-**11. "ADD CONTEXT" CLAUSES**: Clean.
-
-The draft has serious blocking issues with lead quality, source diversity, and multiple fact-checking problems that must be resolved before publication.
+The briefing meets blocking requirements for lead quality, section coverage, and source diversity.

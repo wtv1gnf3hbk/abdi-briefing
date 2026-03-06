@@ -1,27 +1,29 @@
-Israeli and Hezbollah forces continue exchanging fire as regional tensions escalate, with Hezbollah leader Naim Qassem stating the group would confront aggression from Israel and the United States. The violence has prompted international concern about broader regional spillover effects. French President Emmanuel Macron has urged restraint to prevent further escalation in Lebanon. Meanwhile, the conflict's impact extends beyond immediate military operations, affecting civilian populations and regional stability.
+The United States and Israel have significantly degraded Iran's missile capabilities, with US officials claiming a 90% reduction in Iranian missile fire after B-2 stealth bombers [dropped dozens](https://www.reuters.com/world/middle-east/us-b2-bombers-target-iranian-missile-sites-2026-03-06/) of 2,000-pound bombs on buried ballistic missile launchers, according to Reuters. Iran's Foreign Minister Abbas Araghchi rejected any negotiations with Washington, calling the US untrustworthy, while President Trump [offered immunity](https://www.bbc.com/news/world-middle-east-68467234) to Iranian police and Revolutionary Guard members who "lay down their arms." The escalation comes as [Iranian missile debris](https://syrianobserver.com/news/67890/missile-debris-ignites-fires-central-israel.html) ignited fires in central Israel and projectiles struck near US facilities in Kuwait.
 
 **Syria**
 
-• Syrian leader Ahmed al-Sharaa is [evaluating government](https://english.enabbaladi.net/archives/2026/03/al-sharaa-confirms-evaluation-of-syrian-government-ministers/) ministers as part of ongoing administrative reforms, Enab Baladi reports, with the assessment focusing on performance and alignment with the new government's priorities.
+• Protests erupted at the Deir ez-Zor flour mill after Syrian authorities moved to privatize the facility, with workers [storming the plant](https://www.syria.tv/%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1) following company proposals to slash staff from 450 to just 100 employees, Syria TV (Syria) reports.
 
-• Syria briefly [closed its](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHlrYkxJTnUtREUyeDVoT0FYRkdWbGNUY1Bna19pXzR6b1Fyd0dMUlpJRWhRcTRNRG9MdXowX0dlRkFVVTBwSVR0Yi1YT1ZTWm94WDVSalEzX0ZTLS1TekJKd2pFU2FiamwtT3JOWG95eUltTEZhRkJFa3V0eUVqZUZkRkllNC0zR0xhazVTc21MZktGUkpHNk54Tk5CQkh0bVRHNk0tVWhlRS04TmRpRFZUNVJEOG5kSjkwckRJN2tOZ1hFRmFnb2llOUFmeVk?oc=5) border crossing with Lebanon after warnings it could be targeted by Israel, Reuters reports, highlighting Damascus's concerns about spillover from regional escalation.
+• Northern air corridors have reopened, with Aleppo Airport [resuming flights](https://english.enabbaladi.net/archives/2026/03/northern-air-corridors-reopen-aleppo-airport-resumes-flights-to-istanbul-and-jeddah/) to Istanbul and Jeddah, according to Enab Baladi.
 
-• Israeli herbicides have [destroyed crops](https://syriadirect.org/how-israeli-herbicides-destroyed-quneitra-crops-and-pastures/) in Quneitra, Syria Direct reports, leaving farmers facing total agricultural losses in areas near the occupied Golan Heights.
+• Israeli herbicide spraying has [destroyed crops](https://syriadirect.org/how-israeli-herbicides-destroyed-quneitra-crops-and-pastures/) and pastures across Quneitra province, leaving farmers devastated, according to Syria Direct.
 
-• The Syrian Petroleum Company launched an [oil water](https://levant24.com/news/2026/03/spc-launches-oil-water-treatment-project/?utm_source=rss&utm_medium=rss&utm_campaign=spc-launches-oil-water-treatment-project) treatment project, Levant24 reports, as part of reconstruction efforts to restore energy infrastructure damaged during the war.
-
-• Residents are [returning to](https://english.enabbaladi.net/archives/2026/03/return-to-darayya-i-smelled-something-that-warmed-my-heart-then-faced-the-rubble/) Darayya, confronting the extensive destruction left from years of siege and bombardment, Enab Baladi reports, with many finding their former homes reduced to rubble.
+• The regional conflict is [deepening Syria's](https://levant24.com/news/2026/03/regional-conflict-deepens-syrias-economic-strain/) economic strain, per Levant24.
 
 **Lebanon**
 
-• Mental health professionals are treating rising cases of war-related trauma, with psychologists reporting [significant impacts](https://olnnews.com/181463/) on both adults and children from ongoing conflict stress, OLN News reports.
+• Lebanese Druze leader Walid Jumblat declared opposition to "war of others on our land" during an [emergency meeting](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEZKdlU3NnZweFZJWW9LTGNLaWpvWVVHWEZOR2ZSTUNjdjZmWm80MHRPbzJLSkNncDJGMGVIdTBJeHgwOERFbHVRUkRoMV8tM25nS0lZb2hWcXVfWVl2VXBQSlo5bjNLMlFIT1B0NXRQdEFsWHhuQzlxcndZbW1COXphRmw5VUF2ODE1ZDgxNEpTMWR1WXhFdVdGWXZwbEhfZVdwMVdiQlhJV00?oc=5) of Druze leaders, according to Nahar Net.
+
+• Intensive diplomatic contacts are underway that may lead to direct [Lebanon-Israel talks](https://news.google.com/rss/articles/CBMiqwFBVV85cUxONG4xTU81RUFqSW9PUExFMVBFSEtndGVqNmZpeHpjS210UDJoYllvRHBVSUpwaFd5c3ZkcjFlVXE1SF80LWY1clJ3azBlU3Y1cW16QjRPREtlRFBoX0dTMjZWZTYwdU1JRFBYUnhzRzF3amFlMGdCY0E3QmJkdmNBTjE0bEhBTXJkLV85Y2V5UDF0S1k5NW9HQnRLMERwSVA3VGFLN3Y0VldZbWs?oc=5), according to Nahar Net.
+
+• Israeli warplanes struck the Haret Hreik area at dawn, with the missile initially failing to explode before [aircraft returned](https://www.elsharkonline.com/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d9%83%d8%b1%d8%b1-%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88-%d8%ba%d8%b2%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1-%d8%b5%d8%a7%d9%85%d8%af/2026/03/06/%d9%85%d8%ad%d9%84%d9%91%d9%8a%d8%a7%d8%aa/) for a second strike, El Shark (Lebanon) reports.
 
 **Broader Levant**
 
-• The Israeli military is planning [1-2 more](https://www.timesofisrael.com/idf-planning-for-at-least-1-2-more-weeks-of-iran-ops-over-5000-bombs-dropped/) weeks of operations against Iran after dropping over 5,000 bombs, Times of Israel reports, indicating the scope of the current military campaign.
+• Iran appointed Ahmad Vahidi as the new [commander of](https://www.aljazeera.com/news/2026/3/6/who-is-ahmad-vahidi-the-irgcs-new-commander?traffic_source=rss) the Islamic Revolutionary Guard Corps as the country battles the US-Israeli assault, Al Jazeera reports.
 
-• Iran's Assembly of Experts is now [choosing](https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss) the country's next Supreme Leader following recent events, Al Jazeera reports, raising questions about Tehran's future direction during wartime.
+• A German court sentenced a Syrian man to [13 years](https://halabtodaytv.net/archives/287834) for stabbing a Spanish tourist at Berlin's Holocaust Memorial, according to Halabtoday TV.
 
-• Iranian rockets were [intercepted over](https://www.aljazeera.com/video/newsfeed/2026/3/5/iranian-rockets-intercepted-over-central-israel?traffic_source=rss) central Israel as the exchange of fire continues, Al Jazeera reports, with air raid sirens blaring across Israeli cities.
+• The US House joined the Senate in [voting down](https://www.reuters.com/world/us/house-rejects-iran-war-powers-resolution-2026-03-06/) a war powers resolution aimed at limiting the Iran conflict, per Reuters.
 
-• Canada's Prime Minister Mark Carney said he cannot [rule out](https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss) a Canadian military role in the Iran war, Al Jazeera reports, while calling the US-Israeli attacks "inconsistent with international law."
+• Video footage shows a projectile [exploding near](https://www.bbc.com/news/world-middle-east-68467890) Kuwait's Ali al-Salem Air Base, which hosts US forces, according to BBC.
