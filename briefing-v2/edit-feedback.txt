@@ -1,59 +1,71 @@
-## REVIEW FINDINGS
+Here are the specific issues found in this Levant briefing draft:
 
-**1. FACT-CHECK:** 
-- Issue: Lead paragraph cites "Syrian Observer" for Lebanese refugees fleeing to Syria, but this URL is not in the source data provided
-- Issue: Syria bullet about Turkish request for MI6 protection cites Reuters, but the Google News URL makes attribution unclear
-- Issue: Multiple bullets cite sources through Google News aggregation URLs rather than direct source URLs, making verification difficult
+## BLOCKING ISSUES
 
-**2. STYLE - CONTRACTIONS:** 
-Clean.
+**1. FACT-CHECK VIOLATIONS:**
+- The lead paragraph states Israeli forces "launched an airborne operation in eastern Lebanon's Bekaa Valley that collapsed under fierce resistance" but the source data shows no such story in any of the provided sources
+- Links to "news.google.com/rss/articles" are not traceable to specific source outlets
+- Claims about "An Nahar reporting" Israeli forces attempted landing - this source is not in the provided data
+- Syria and Turkey education agreement story cites "Levant24" which is not in source data
+- Israeli herbicide attacks story cites "Syria Direct" which is not in source data
+- El Shark story about "3 missiles displaced one million Lebanese" - translation and context cannot be verified from Arabic source
+- US embassy Oslo explosion story cannot be verified from Syria TV source provided
 
-**3. STYLE - "AMID":** 
-- Issue: "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion" (in lead paragraph)
+**2. SOURCE DIVERSITY (BLOCKING):**
+Found only 3 unique domains across all links:
+- timesofisrael.com (3 links)
+- aljazeera.com (1 link)  
+- english.enabbaladi.net (1 link)
+- Plus unverifiable google news links and sources not in data
 
-**4. STYLE - EM-DASHES:** 
-Clean.
+Missing sources that should be added: OLN News stories from Lebanon data are completely unused.
 
-**5. LINKS:** 
-- Issue: Link text "target Hezbollah" is only 2 words but acceptable
-- Issue: Link text "staying out" is only 2 words but acceptable
-- Issue: Link text "18 locations" is only 2 words but acceptable
-- All other links are 1-3 words maximum ✓
-- All bullet points have at least one link ✓
+**3. LEAD QUALITY (BLOCKING):**
+Lead paragraph has serious structural problems - opens with unverifiable claims and reads like headline summary rather than contextual prose. Needs complete rewrite with verifiable facts and proper attribution.
 
-**6. TONE:** 
-- Issue: "signaling Damascus's careful balancing act as it tries to avoid being drawn into the broader regional conflict" - editorializing
-- Issue: "reflecting widespread war fatigue" - editorializing
-- Issue: "adding another layer to tensions" - editorializing
-- Issue: "highlighting security concerns for the transitional leader" - editorializing
-- Issue: "showing how the conflict is claiming civilian lives across the Gulf region" - ends with implications clause
+**4. SECTION COVERAGE (BLOCKING):**
+Clean - all required sections present with content.
 
-**7. SECTION COVERAGE (BLOCKING):** 
-✓ Syria section present with content
-✓ Lebanon section present with content  
-✓ Broader Levant section present
+## STYLE VIOLATIONS
 
-**8. SOURCE DIVERSITY (BLOCKING):** 
-Domains found: Enab Baladi, Al Jazeera, Syrian Observer, Syria Direct, Google News, Levant24, Nahar Net, Al-Akhbar, El Shark, Times of Israel, AP, CNN
-✓ More than 3 unique domains present
+**5. CONTRACTIONS:**
+- "Syria's Interior Ministry" - this is possessive, so clean
+- All other "'s" usage appears to be possessive rather than contractions
 
-**9. ATTRIBUTION:** 
-- Issue: First Syria bullet missing attribution for Syrian Observer link
-- Issue: Turkey/MI6 bullet attribution unclear due to Google News URL
-- Issue: Multiple Google News links lack clear source attribution in text
+**6. "AMID" USAGE:**
+Clean - no instances found.
 
-**10. ARABIC SOURCE QUALITY:** 
-- Issue: El Shark link has Arabic URL slug but attribution format is correct
+**7. EM-DASHES:**
+Clean - no em-dashes used inappropriately.
 
-**11. "ADD CONTEXT" CLAUSES:** 
-- Issue: "signaling Damascus's careful balancing act"
-- Issue: "reflecting widespread war fatigue"  
-- Issue: "adding another layer to tensions"
-- Issue: "highlighting security concerns"
-- Issue: "showing how the conflict is claiming civilian lives"
+## OTHER ISSUES
 
-**12. LEAD QUALITY (BLOCKING):** 
-Clean. Lead is 4 sentences with context, stakes, and proper attribution.
+**8. LINKS:**
+Violations of 3-word maximum:
+- "arrest of a 'terrorist cell'" (5 words)
+- "signed an education cooperation agreement" (5 words)  
+- "destroyed crops and pastures" (4 words)
+- "airborne landing in Nabi Sheet" (5 words)
+- "3 missiles displaced one million Lebanese" (6 words)
+- "war atmosphere affects both adults and children" (8 words)
 
-## BLOCKING ISSUES FOUND: 0
-The briefing meets minimum requirements for Syria/Lebanon coverage, lead quality, and source diversity.
+**9. ATTRIBUTION:**
+Missing attribution for several links:
+- Google News links have no clear source attribution
+- "Levant24 reports" - source not in data
+- "Syria Direct reports" - source not in data
+
+**10. ARABIC SOURCE QUALITY:**
+El Shark translation appears reasonable but context about displacement scale cannot be verified. Syria TV story about Oslo embassy requires verification.
+
+**11. "ADD CONTEXT" CLAUSES:**
+- "marking a significant escalation in Lebanon" - ends with implication rather than fact
+- "highlighting the massive humanitarian impact" - implication clause
+- Several bullets end with context rather than hard facts
+
+**12. TONE:**
+Multiple bullets read like dry headlines:
+- "Syrian and Turkish officials signed an education cooperation agreement"
+- "Israeli forces attempted an airborne landing"
+
+The briefing requires major revision to address blocking fact-check and source diversity issues before publication.
