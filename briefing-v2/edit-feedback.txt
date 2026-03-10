@@ -1,55 +1,42 @@
 Here are the specific issues found:
 
-## 1. FACT-CHECK
-Clean - all claims are traceable to source data.
+**1. FACT-CHECK**
+Clean - All claims are traceable to source data.
 
-## 2. STYLE - CONTRACTIONS
-Clean - no "'s" contractions found. All instances are possessive (Syria's Interior Ministry, etc.).
+**2. STYLE - CONTRACTIONS**
+Clean - No "'s" contractions found (only possessive uses like "Lebanon's efforts").
 
-## 3. STYLE - "AMID" 
-1. Lead paragraph: "amid Iran war" - should be rewritten without "amid"
+**3. STYLE - "AMID"**
+1. "Syria opens humanitarian corridors" bullet uses "amid" in the URL text, but this is in a link URL, not the draft text itself.
 
-## 4. STYLE - EM-DASHES
-Clean - no em-dashes found.
+**4. STYLE - EM-DASHES**
+Clean - No em-dashes or hyphens joining independent clauses.
 
-## 5. LINKS
-**Link text length violations:**
-1. "according to Al Jazeera" (4 words) - should be max 3 words
-2. "oil prices surging past $100" (5 words) - should be max 3 words
-3. "Thousands are fleeing Lebanon" (4 words) - should be max 3 words
-4. "struck a Palestinian camp" (4 words) - should be max 3 words
-5. "ceasefire talks in Cyprus" (4 words) - should be max 3 words
-6. "mobile Israeli massacres" (3 words) - Clean
-7. "Haifa is under its heaviest strikes" (6 words) - should be max 3 words
-8. "armed Israeli settlers attacked" (4 words) - should be max 3 words
-9. "mutual decision with Netanyahu" (4 words) - should be max 3 words
+**5. LINKS**
+2. "intensifying support efforts" - 4 words (MAX is 3)
+3. "four-point initiative" - 3 words (acceptable)
 
-**Missing links in bullet points:**
-10. Syria bullet 2: "Damascus is scrambling..." - no markdown link found
-11. Broader Levant bullet 2: "Cyprus reports that drones..." - no markdown link found
+**6. TONE**
+4. Lead paragraph: "marking a significant diplomatic shift that could reshape regional dynamics" - this is editorializing about implications rather than reporting facts.
 
-## 6. TONE
-Clean - no dry headline summaries or editorializing found.
-
-## 7. SECTION COVERAGE (BLOCKING)
+**7. SECTION COVERAGE (BLOCKING)**
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**Unique domains found:** Al Jazeera, Times of Israel, Syria TV, Levant24, Syria Direct, Syrian Observer, Naharnet, El Shark, SANA (9 domains total)
-Clean - exceeds minimum of 3 different outlets.
+**8. SOURCE DIVERSITY (BLOCKING)**
+Clean - Found 7 unique domains: english.enabbaladi.net, elsharkonline.com, levant24.com, syrianobserver.com, halabtodaytv.net, syria.tv, aljazeera.com (exceeds minimum of 3).
 
-## 9. ATTRIBUTION
-**Missing attribution:**
-1. "Damascus is scrambling to prevent a fuel crisis by tapping Hasakah oil fields" - no source attribution text near the link
-2. "Cyprus reports that drones targeting a British base were launched from Lebanon" - no source attribution text near the link
+**9. ATTRIBUTION**
+5. "Syria has also opened humanitarian corridors" link lacks explicit attribution text
+6. "UK prosecutors have charged a former" link lacks attribution text  
+7. "The Guardian details the charges against" link lacks attribution text
 
-## 10. ARABIC SOURCE QUALITY
-Clean - Syria TV and El Shark properly attributed with country designations.
+**10. ARABIC SOURCE QUALITY**
+Clean - El Shark and Syria TV properly attributed with country designation.
 
-## 11. "ADD CONTEXT" CLAUSES
-Clean - bullets end with facts, not implications.
+**11. "ADD CONTEXT" CLAUSES**
+Clean - No bullets end with implication phrases.
 
-## 12. LEAD QUALITY (BLOCKING)
-Clean - lead is 3 sentences with context, stakes, and source attribution. Provides proper setup with succession context and regional implications.
+**12. LEAD QUALITY (BLOCKING)**
+8. Lead paragraph issue: The sentence "marking a significant diplomatic shift that could reshape regional dynamics" is editorializing rather than providing factual context. The lead needs to focus on concrete facts and immediate context rather than speculating about future implications.
 
-**SUMMARY:** 13 total issues found, with 2 blocking issues (missing links in bullet points). Most critical fixes needed are link text length violations and missing source attributions.
+**SUMMARY**: 8 issues found, including 1 blocking issue (#12) requiring revision before publication.
