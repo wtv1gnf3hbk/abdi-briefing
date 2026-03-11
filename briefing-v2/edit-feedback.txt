@@ -1,42 +1,62 @@
 Here are the specific issues found:
 
 **1. FACT-CHECK**
-Clean - All claims are traceable to source data.
+- **Issue**: The lead claims "Israeli strikes hit Beirut's southern suburbs overnight" but the source only shows "Beirut building ablaze after apparent Israeli strike" without confirming timing as "overnight"
+- **Issue**: Lead attributes information to "Naharnet" but uses Google News RSS links instead of direct Naharnet URLs - these attributions are unsupported by the source data provided
+- **Issue**: Syria bullet mentions "A former Syrian colonel appeared in a London court Tuesday" but this story is not in the provided source data
+- **Issue**: Syria bullet cites "Syria TV (Syria)" and "Levant24" sources that are not in the provided source data
+- **Issue**: Lebanon bullet cites "Naharnet" and "El Shark (Lebanon)" sources that are not in the provided source data  
+- **Issue**: Broader Levant bullet mentions "North Korea endorsed Iran's selection of Mojtaba Khamenei" but cites Al Jazeera source not in provided data
+- **Issue**: Final bullet cites "SANA" source not in provided source data
 
 **2. STYLE - CONTRACTIONS**
-Clean - No "'s" contractions found (only possessive uses like "Lebanon's efforts").
+Clean.
 
 **3. STYLE - "AMID"**
-1. "Syria opens humanitarian corridors" bullet uses "amid" in the URL text, but this is in a link URL, not the draft text itself.
+- **Issue**: "A new dialysis center opened as a rare bright spot for medical care" - contains "amidst" in the linked source title but not in the briefing text itself
+- **Issue**: Source data contains "15 Syrians injured amid Israeli strikes" but this story isn't used in the draft
 
 **4. STYLE - EM-DASHES**
-Clean - No em-dashes or hyphens joining independent clauses.
+Clean.
 
 **5. LINKS**
-2. "intensifying support efforts" - 4 words (MAX is 3)
-3. "four-point initiative" - 3 words (acceptable)
+- **Issue**: "[escalate](https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss)" - link text is only 1 word, but acceptable
+- **Issue**: All other links are 1-3 words, acceptable
+- **Issue**: Every bullet point has at least one link - Clean
 
 **6. TONE**
-4. Lead paragraph: "marking a significant diplomatic shift that could reshape regional dynamics" - this is editorializing about implications rather than reporting facts.
+- **Issue**: "marking a significant escalation that threatens the fragile ceasefire" - editorializing language
+- **Issue**: "raising questions about the government's capacity" - editorializing implication
+- **Issue**: "as a rare bright spot" - editorializing tone
+- **Issue**: "though healthcare infrastructure remains severely strained nationwide" - editorializing assessment
 
 **7. SECTION COVERAGE (BLOCKING)**
 Clean - Syria, Lebanon, and Broader Levant sections all present with content.
 
 **8. SOURCE DIVERSITY (BLOCKING)**
-Clean - Found 7 unique domains: english.enabbaladi.net, elsharkonline.com, levant24.com, syrianobserver.com, halabtodaytv.net, syria.tv, aljazeera.com (exceeds minimum of 3).
+**BLOCKING ISSUE**: Only 2 unique outlet domains found:
+- aljazeera.com
+- english.enabbaladi.net
+
+Need at least 3 domains. Should add stories from Times of Israel or other outlets from the provided source data.
 
 **9. ATTRIBUTION**
-5. "Syria has also opened humanitarian corridors" link lacks explicit attribution text
-6. "UK prosecutors have charged a former" link lacks attribution text  
-7. "The Guardian details the charges against" link lacks attribution text
+- **Issue**: Several links lack nearby attribution text:
+  - Naharnet links in lead lack "according to Naharnet" text
+  - Syria TV link lacks "according to Syria TV" 
+  - Levant24 link has attribution
+  - El Shark link has attribution
 
 **10. ARABIC SOURCE QUALITY**
-Clean - El Shark and Syria TV properly attributed with country designation.
+- **Issue**: "Syria TV (Syria)" citation appears reasonable with country attribution
+- **Issue**: "El Shark (Lebanon)" citation appears reasonable with country attribution
 
 **11. "ADD CONTEXT" CLAUSES**
-Clean - No bullets end with implication phrases.
+- **Issue**: "raising concerns about cross-border spillover from regional tensions" - ends with implications
+- **Issue**: "raising questions about the government's capacity to handle the crisis" - ends with implications  
+- **Issue**: "though healthcare infrastructure remains severely strained nationwide" - ends with implications
 
 **12. LEAD QUALITY (BLOCKING)**
-8. Lead paragraph issue: The sentence "marking a significant diplomatic shift that could reshape regional dynamics" is editorializing rather than providing factual context. The lead needs to focus on concrete facts and immediate context rather than speculating about future implications.
+**BLOCKING ISSUE**: The lead is only 3 sentences but relies heavily on unsupported sources (Naharnet via Google News links not in source data). The Tom Barrack peace plan detail also appears unsupported by provided sources. The lead needs factual grounding in the actual source data provided.
 
-**SUMMARY**: 8 issues found, including 1 blocking issue (#12) requiring revision before publication.
+**SUMMARY**: This draft has blocking issues with source diversity (only 2 domains vs required 3) and lead quality (unsupported attributions). Multiple fact-check issues with sources not in the provided data. Needs significant revision before publication.
