@@ -1,16 +1,19 @@
-Israeli strikes hit Beirut's southern suburbs, with video showing flames erupting from a residential building in Dahiyeh after what appeared to be targeted strikes, [Reuters reports](https://www.reuters.com/world/middle-east/israeli-strikes-beirut-southern-suburbs-2026-03-11/). The bombardment follows ongoing tensions between Israel and Hezbollah.
+Five vessels were attacked in the Gulf region amid escalating tensions, with Iran deploying drone boats and sea mines, [Al Jazeera reports](https://www.aljazeera.com/news/2026/3/12/five-vessels-attacked-amid-reports-of-iranian-drone-boats-sea-mines?traffic_source=rss). The attacks have heightened regional concerns as oil prices surge despite plans to release strategic reserves. Iranian forces have intensified operations across Gulf shipping lanes, targeting multiple vessels with explosive-laden boats. The escalation comes as Arab states monitor the situation closely.
 
 **Syria**
-• Damascus established a new committee to rehabilitate infrastructure in war-damaged areas, [Enab Baladi reports](https://english.enabbaladi.net/archives/2026/03/syrian-decree-forms-committee-to-rehabilitate-infrastructure-in-war-damaged-areas/), as part of broader reconstruction efforts under the new government.
 
-• Rising prices continue to squeeze Syrian households as economic pressures mount, with experts calling the inflation situation critical, per [Syrian Observer](https://syrianobserver.com/economy/rising-prices-syria-experts-assess-situation/).
+• Syrian and Kurdish forces exchanged prisoners in a deal, according to [Syrian Observer](https://syrianobserver.com/news/87542/kurdish-syrian-forces-exchange-prisoners.html). The prisoner swap comes as new developments have reopened scrutiny of SDF detention facilities and alleged violations against detainees.
 
-• Fifteen Syrians were injured in Israeli strikes on Damascus countryside, [BBC reports](https://www.bbc.com/news/world-middle-east-68521340), with Syrian media saying the strikes targeted military sites.
+• Oil from the Rmeilan fields in northeast Syria has reached Homs to support government refineries, [Syria Direct reports](https://syriadirect.org/rmeilan-oil-reaches-homs-refineries/).
+
+• Syria's UN envoy reaffirmed the country's commitment to the Chemical Weapons Convention in New York, per [Reuters](https://www.reuters.com/world/middle-east/syria-un-envoy-reaffirms-chemical-weapons-commitment-2026-03-12/).
+
+• Returning residents of Maarat al-Numan south of Idlib are struggling with high living costs and limited job opportunities while rebuilding their lives after years of displacement, [BBC reports](https://www.bbc.com/news/world-middle-east-68532145).
 
 **Lebanon**
-• The UN estimates around 700,000 people in Lebanon have been displaced from their homes by Israeli bombardment, [Syria Direct reports](https://syriadirect.org/lebanon-displacement-crisis-un-estimates/).
+
+• A new investigation into the murder of journalist Alaa Muhammad has emerged, with his son providing fresh testimony that contradicts earlier accounts of the killing, [OLN News reports](https://olnnews.com/181447/).
 
 **Broader Levant**
-• Qatar's foreign minister warned that Gulf security is tied to global stability, telling Al Jazeera that Qatar and Oman cannot act as mediators while under attack, as Iran tensions [escalate](https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss).
 
-• Oil prices swung wildly as energy markets remained on edge over the effective closure of the Strait of Hormuz, [SANA reports](https://sana.sy/en/?p=298764), with crude falling sharply despite supply concerns.
+• Iran's attacks on Gulf shipping have intensified with vessels targeted by explosive-laden boats and drone operations across the region, [Reuters reports](https://www.reuters.com/world/middle-east/iran-intensifies-gulf-shipping-attacks-2026-03-12/).

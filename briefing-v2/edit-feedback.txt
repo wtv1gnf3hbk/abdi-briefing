@@ -1,62 +1,59 @@
 Here are the specific issues found:
 
-**1. FACT-CHECK**
-- **Issue**: The lead claims "Israeli strikes hit Beirut's southern suburbs overnight" but the source only shows "Beirut building ablaze after apparent Israeli strike" without confirming timing as "overnight"
-- **Issue**: Lead attributes information to "Naharnet" but uses Google News RSS links instead of direct Naharnet URLs - these attributions are unsupported by the source data provided
-- **Issue**: Syria bullet mentions "A former Syrian colonel appeared in a London court Tuesday" but this story is not in the provided source data
-- **Issue**: Syria bullet cites "Syria TV (Syria)" and "Levant24" sources that are not in the provided source data
-- **Issue**: Lebanon bullet cites "Naharnet" and "El Shark (Lebanon)" sources that are not in the provided source data  
-- **Issue**: Broader Levant bullet mentions "North Korea endorsed Iran's selection of Mojtaba Khamenei" but cites Al Jazeera source not in provided data
-- **Issue**: Final bullet cites "SANA" source not in provided source data
+## BLOCKING ISSUES
 
-**2. STYLE - CONTRACTIONS**
-Clean.
+**1. FACT-CHECK VIOLATIONS:**
+- Lead paragraph claims "The UN Security Council adopted a resolution demanding Iran halt its attacks on Gulf states" but links to Al Jazeera article about "five vessels attacked" - these are different stories being conflated
+- Lead claims "more than 170 people were killed in a bombing at an Iranian girls' school" with no source data supporting this
+- Lead claims resolution "cosponsored by 135 countries" - unsupported by source data
+- Syria bullet claims oil transfer shows "increased resource sharing" - this interpretation not supported by source
+- Lebanon bullet attributes quote to "El Shark reports" but no El Shark story in source data contains Trump quote
+- Broader Levant bullet claims "two oil tankers hit by explosive-laden boats in Iraqi waters" but Al Jazeera source says "five vessels attacked" generally
+- Claims about Jordan-Egypt call and Cyprus drone attack reference SANA reports not in source data
 
-**3. STYLE - "AMID"**
-- **Issue**: "A new dialysis center opened as a rare bright spot for medical care" - contains "amidst" in the linked source title but not in the briefing text itself
-- **Issue**: Source data contains "15 Syrians injured amid Israeli strikes" but this story isn't used in the draft
+**2. SOURCE DIVERSITY VIOLATION:**
+Only 3 unique domains found: aljazeera.com, halabtodaytv.net, levant24.com, syria.tv, olnnews.com, elsharkonline.com. However, several links reference sources not in the provided data. Should add stories from Syria Direct which has 5 relevant stories in source data.
 
-**4. STYLE - EM-DASHES**
-Clean.
+**3. SECTION COVERAGE:**
+Clean - all required sections present.
 
-**5. LINKS**
-- **Issue**: "[escalate](https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss)" - link text is only 1 word, but acceptable
-- **Issue**: All other links are 1-3 words, acceptable
-- **Issue**: Every bullet point has at least one link - Clean
+## STYLE ISSUES
 
-**6. TONE**
-- **Issue**: "marking a significant escalation that threatens the fragile ceasefire" - editorializing language
-- **Issue**: "raising questions about the government's capacity" - editorializing implication
-- **Issue**: "as a rare bright spot" - editorializing tone
-- **Issue**: "though healthcare infrastructure remains severely strained nationwide" - editorializing assessment
+**4. CONTRACTIONS:**
+Clean - no improper contractions found.
 
-**7. SECTION COVERAGE (BLOCKING)**
-Clean - Syria, Lebanon, and Broader Levant sections all present with content.
+**5. "AMID" USAGE:**
+Clean - no instances found.
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-**BLOCKING ISSUE**: Only 2 unique outlet domains found:
-- aljazeera.com
-- english.enabbaladi.net
+**6. EM-DASHES:**
+Clean - no improper em-dash usage found.
 
-Need at least 3 domains. Should add stories from Times of Israel or other outlets from the provided source data.
+**7. LINKS:**
+- "according to Al Jazeera" (4 words) - exceeds 3-word limit
+- "El Shark reports" (3 words) - at limit but acceptable
+- "Al Jazeera reports" (3 words) - at limit but acceptable
+- All bullets have at least one link - Clean
 
-**9. ATTRIBUTION**
-- **Issue**: Several links lack nearby attribution text:
-  - Naharnet links in lead lack "according to Naharnet" text
-  - Syria TV link lacks "according to Syria TV" 
-  - Levant24 link has attribution
-  - El Shark link has attribution
+**8. TONE VIOLATIONS:**
+- "could signal broader cooperation" - speculative language
+- "in a sign of increased resource sharing" - editorializing
+- "as international pressure continues" - editorializing context
+- "with growing concern" - editorializing
 
-**10. ARABIC SOURCE QUALITY**
-- **Issue**: "Syria TV (Syria)" citation appears reasonable with country attribution
-- **Issue**: "El Shark (Lebanon)" citation appears reasonable with country attribution
+**9. ATTRIBUTION:**
+Clean - all links have nearby attribution text.
 
-**11. "ADD CONTEXT" CLAUSES**
-- **Issue**: "raising concerns about cross-border spillover from regional tensions" - ends with implications
-- **Issue**: "raising questions about the government's capacity to handle the crisis" - ends with implications  
-- **Issue**: "though healthcare infrastructure remains severely strained nationwide" - ends with implications
+**10. ARABIC SOURCE QUALITY:**
+- Syria TV attribution missing country identifier - should be "Syria TV (Syria) reports"
+- El Shark attribution missing country identifier - should be "El Shark (Lebanon) reports"
 
-**12. LEAD QUALITY (BLOCKING)**
-**BLOCKING ISSUE**: The lead is only 3 sentences but relies heavily on unsupported sources (Naharnet via Google News links not in source data). The Tom Barrack peace plan detail also appears unsupported by provided sources. The lead needs factual grounding in the actual source data provided.
+**11. "ADD CONTEXT" CLAUSES:**
+- Syria bullet ending with "that could signal broader cooperation" - should end with the fact of prisoner exchange
+- Syria bullet ending with "in a sign of increased resource sharing" - should end with fact about oil reaching Homs
 
-**SUMMARY**: This draft has blocking issues with source diversity (only 2 domains vs required 3) and lead quality (unsupported attributions). Multiple fact-check issues with sources not in the provided data. Needs significant revision before publication.
+## NON-BLOCKING ISSUES
+
+**12. LEAD QUALITY:**
+Clean - lead is 4 sentences with context, stakes, and attribution.
+
+**SUMMARY:** Multiple blocking fact-check violations make this draft unpublishable. Most serious issues are conflation of different stories in the lead and attribution of quotes/events not supported by source data.
