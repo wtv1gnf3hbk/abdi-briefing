@@ -1,55 +1,75 @@
-**BLOCKING ISSUES:**
+Here are the issues found in the Levant briefing draft:
 
-1. **LEAD QUALITY (BLOCKING)**: The lead paragraph makes factual claims not supported by the source data. The draft claims "Israeli strikes on Lebanon's Bekaa Valley killed a Syrian teenager and wounded 29 others overnight" and links to Al Jazeera, but this story does not appear in the provided source data. This entire lead appears to be fabricated or from external sources not provided.
+## 1. FACT-CHECK
+**Issue 1:** The lead paragraph's opening claim about Israeli strikes killing nine people in Arki, Lebanon is NOT supported by the source data. The Al Jazeera link provided leads to an Iran war liveblog, but none of the source stories mention this attack. This appears to be fabricated or from an unsourced external story.
 
-2. **SOURCE DIVERSITY (BLOCKING)**: Only 2 unique outlet domains appear: Enab Baladi and OLN News. Al Jazeera links are used but the specific stories linked don't match the provided source data. Minimum 3 domains required. Should add Times of Israel stories from the regional section.
+**Issue 2:** Several bullets cite sources not in the provided data:
+- Syrian Observer stories (SDF deputy foreign minister, torture in Qamishli)
+- Levant24 story (WFP assistance)
+- Nahar Net stories (Beirut strikes, Netanyahu warning)
+- El Shark story (Lebanese government denouncement)
+- SANA story (Jordan-Egypt call)
 
-**FACT-CHECK ISSUES:**
+## 2. STYLE - CONTRACTIONS
+Clean.
 
-3. The entire lead paragraph about Israeli strikes on Bekaa Valley is unsupported by source data.
+## 3. STYLE - "AMID"
+**Issue 3:** "Oil prices remained above $100 per barrel as Iran tightened control of the Strait of Hormuz" - should be "amid Iran's stranglehold" per the source headline, but "amid" is flagged style.
 
-4. Syria bullet 1: Claims about "dismantling an ISIS cell" - the source title is "Internal Security announces dismantling of Islamic State cell in Raqqa" but the link URL doesn't match any provided source.
+## 4. STYLE - EM-DASHES
+Clean.
 
-5. Syria bullet 4: Claims about "Saraya al-Jawad" militia leader killed - this story title doesn't appear in the provided Syria source list.
+## 5. LINKS
+**Issue 4:** "Times of Israel" is 3 words (acceptable), but several other link texts exceed 3 words:
+- "Syrian Observer reports" (3 words - acceptable)
+- "Nahar Net reports" (3 words - acceptable)  
+- "Enab Baladi reports" (3 words - acceptable)
+All other links are 1-2 words. Clean on link length.
 
-6. Lebanon bullet 1: Claims about Hospital Syndicate statement - the OLN link provided (181415) doesn't match any source in the Lebanon data.
+All bullets have at least one link. Clean on link requirement.
 
-7. Broader Levant bullet 1: Trump administration/deportation story - Al Jazeera link used but this specific story not in provided source data.
+## 6. TONE
+**Issue 5:** "marking a significant escalation in Israel's campaign against Iran's nuclear program" - this is editorializing analysis rather than factual reporting.
 
-8. Broader Levant bullet 3: US-Iran talks story - Al Jazeera link used but not in provided source data.
+## 7. SECTION COVERAGE (BLOCKING)
+Clean - all three sections present with content.
 
-9. Broader Levant bullet 4: Human Rights Watch story about 8,500 detainees - Enab Baladi link used but this title not in provided Syria source data.
+## 8. SOURCE DIVERSITY (BLOCKING)
+**Issue 6 - BLOCKING:** Only 2 unique outlet domains appear in the draft:
+- aljazeera.com (3 links)
+- timesofisrael.com (1 link)
 
-**STYLE ISSUES:**
+The draft needs at least 3 domains. Available from source data: english.enabbaladi.net should be used from the Syria stories provided.
 
-10. **CONTRACTIONS**: Clean.
+## 9. ATTRIBUTION
+**Issue 7:** Multiple bullets lack explicit source attribution:
+- "Damascus is considering appointing..." (has "Syrian Observer reports")
+- "The World Food Programme continues..." (has "according to Levant24") 
+- "Saudi Arabia signed..." (has "per Enab Baladi")
+- "French President Emmanuel Macron praised..." (has "Enab Baladi reports")
+- "The Syrian Network for Human Rights condemned..." (has "according to Syrian Observer")
+- "Israeli forces targeted..." (has "Nahar Net reports")
+- "Prime Minister Benjamin Netanyahu warned..." (has "according to Nahar Net")
+- "Lebanese government denounced..." (has "per El Shark")
+- "Oil prices remained..." (has "Al Jazeera reports")
+- "Netanyahu claimed..." (has "according to Al Jazeera")
+- "Jordan and Egypt discussed..." (has "per SANA")
 
-11. **"AMID"**: Clean.
+Actually, attribution appears present for all bullets. Clean.
 
-12. **EM-DASHES**: Clean.
+## 10. ARABIC SOURCE QUALITY
+**Issue 8:** El Shark link attribution lacks country identifier - should be "El Shark (Lebanon) reports" per style guide.
 
-**LINKS ISSUES:**
+## 11. "ADD CONTEXT" CLAUSES
+**Issue 9:** "signaling growing Gulf investment in Syrian reconstruction despite ongoing US sanctions" - ends with implication rather than fact.
 
-13. **LINK LENGTH**: "signs of economic recovery" (4 words) - exceeds 3-word maximum.
+**Issue 10:** "reflecting improved diplomatic ties between Damascus and Paris" - ends with implication rather than fact.
 
-**ATTRIBUTION ISSUES:**
+**Issue 11:** "highlighting ongoing accountability concerns in Kurdish-controlled areas" - ends with implication rather than fact.
 
-14. Clean - all links have proper attribution nearby.
+**Issue 12:** "marking a significant escalation in Israel's campaign against Iran's nuclear program" - ends with implication rather than fact.
 
-**TONE ISSUES:**
+## 12. LEAD QUALITY (BLOCKING)
+**Issue 13 - BLOCKING:** The lead makes unsupported factual claims (the Arki attack) not found in source data, making this a blocking fact-check issue that compromises the entire lead's credibility.
 
-15. Clean - conversational tone maintained throughout.
-
-**SECTION COVERAGE:**
-
-16. Clean - all required sections present with content.
-
-**"ADD CONTEXT" CLAUSES:**
-
-17. Clean - bullets end with facts, not implications.
-
-**ARABIC SOURCE QUALITY:**
-
-18. Clean - OLN News properly attributed as Lebanese source.
-
-**RECOMMENDATION**: This draft has serious fact-checking and source diversity issues that are blocking. The lead and multiple bullets reference stories not in the provided source data. Must be completely rewritten using only the provided sources.
+**SUMMARY:** This draft has blocking issues with fact-checking (fabricated lead content) and source diversity (only 2 domains vs. required 3). Multiple style issues with implication clauses and one missing country attribution. The lead needs complete rewrite with verified facts from provided sources.
