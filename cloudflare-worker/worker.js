@@ -14,6 +14,23 @@
 const GITHUB_REPO = 'wtv1gnf3hbk/abdi-briefing';
 const WORKFLOW_FILE = 'briefing.yml';
 
+// Shared helper: trigger the GitHub Actions workflow
+async function triggerWorkflow(env) {
+  return await fetch(
+    `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+    {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': 'abdi-briefing-worker'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    }
+  );
+}
+
 // CORS headers — allow the GitHub Pages site to call this worker
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
@@ -34,19 +51,7 @@ export default {
     try {
       // POST /trigger — Trigger the workflow via workflow_dispatch
       if (path === '/trigger' && request.method === 'POST') {
-        const response = await fetch(
-          `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
-          {
-            method: 'POST',
-            headers: {
-              'Accept': 'application/vnd.github+json',
-              'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
-              'X-GitHub-Api-Version': '2022-11-28',
-              'User-Agent': 'abdi-briefing-worker'
-            },
-            body: JSON.stringify({ ref: 'main' })
-          }
-        );
+        const response = await triggerWorkflow(env);
 
         if (!response.ok) {
           const text = await response.text();
@@ -116,6 +121,17 @@ export default {
         status: 500,
         headers: { ...corsHeaders, 'Content-Type': 'application/json' }
       });
+    }
+  },
+
+  // Cron handler — Cloudflare calls this on schedule
+  async scheduled(event, env, ctx) {
+    const response = await triggerWorkflow(env);
+    if (!response.ok) {
+      const text = await response.text();
+      console.error(`Cron trigger failed: ${response.status} ${text}`);
+    } else {
+      console.log(`Cron trigger succeeded for ${GITHUB_REPO}`);
     }
   }
 };
