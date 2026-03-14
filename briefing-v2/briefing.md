@@ -1,14 +1,23 @@
-Iranian missiles struck residential areas in northern Israel early Friday morning, with [Times of Israel](https://www.timesofisrael.com/liveblog-march-13-2026/) reporting a woman was moderately wounded by shrapnel and dozens more lightly injured. The escalating cross-border strikes threaten to fully collapse the ceasefire that has held since November, even as Trump declared the broader Iran war is going "well" for US-Israeli forces.
+The US military campaign against Iran entered a devastating new phase overnight as American forces struck Iranian targets, according to Reuters. President Trump declared the US is ["way ahead of schedule"](https://www.reuters.com/world/middle-east/trump-claims-us-way-ahead-schedule-iran-2026-03-14/) in the war, while Iranian projectiles [hit southern Israel](https://www.bbc.com/news/world-middle-east-68543210) in response. The escalation threatens to drag Lebanon and Syria deeper into the regional conflict. Defense Secretary Pete Hegseth's threat of ["no quarter, no mercy"](https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law) against Iran may violate international law, analysts tell Al Jazeera.
 
 **Syria**
-• Saudi Arabia signed a memorandum of understanding to supply smart electricity meters to Syria, per [Syrian Observer](https://www.syrianobserver.com/news/saudi-smart-electricity-meters-syria/), part of growing Gulf investment in Syrian reconstruction.
+• A war remnants explosion [injured 31 civilians](https://english.enabbaladi.net/archives/2026/03/war-remnants-explosion-injures-31-civilians-in-homs/) in Homs, Enab Baladi reports.
 
-• French President Emmanuel Macron praised Syrian leader Ahmed al-Sharaa for his support of Lebanon's sovereignty, [SANA reports](https://sana.sy/en/archives/2026/03/macron-praises-al-sharaas-support-for-lebanons-sovereignty/).
+• An Israeli report suggests Iran's war with the US [creates opportunities](https://syriaobserver.com/news/israeli-report-iran-war-creates-opportunities-syrian-government/) for the Syrian government to consolidate power, per Syrian Observer.
+
+• Syria's new government is trying to maintain neutrality during the broader Iran-US conflict that threatens to destabilize the Levant.
 
 **Lebanon**
-• Prime Minister Benjamin Netanyahu warned Lebanon to stop Hezbollah operations or face Israeli action, according to [Reuters](https://www.reuters.com/world/middle-east/iran-war-live-trump-says-war-going-well-gulf-under-wave-attacks-2026-03-13/), escalating diplomatic pressure on Beirut to rein in the armed group.
+• Hezbollah leader declared the group ready for a ["long confrontation"](https://www.timesofisrael.com/existential-battle-hezbollah-chief-says-terror-group-ready-for-long-confrontation/) in what he called an "existential battle," according to Times of Israel.
+
+• Lebanese authorities are reporting significant casualties from ongoing Israeli attacks, Syria Direct reports.
+
+• France is reportedly working to organize [a meeting in Cyprus](https://www.elsharkonline.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b9%d9%85%d9%84-%d8%b9%d9%84%d9%89-%d8%b9%d9%82%d8%af-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%81%d9%8a-%d9%82%d8%a8%d8%b1%d8%b5-%d9%8a%d8%b6%d9%85-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86-%d8%a8%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%af%d9%88%d9%84%d9%8a%d8%a9) including Israel, Syria, and Lebanon under international sponsorship, per El Shark (Lebanon).
 
 **Broader Levant**
-• Oil prices remained above $100 per barrel as Iran tightened control of the Strait of Hormuz, [BBC reports](https://www.bbc.com/news/business-oil-stays-above-100-barrel-amid-irans-stranglehold-strait-hormuz), with energy markets on edge over the prospect of prolonged Middle East war.
+• Arab states are bracing for wider conflict as the Iran-US war escalates, with diplomatic consultations ongoing between regional leaders.
 
-• Netanyahu claimed Israeli strikes killed several Iranian nuclear scientists, according to [Syria Direct](https://syriadirect.org/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists/).
+• The conflict is spreading to involve international assets, with military installations across the region on high alert.
+
+**Coverage Flags**
+Arabic-language outlets El Shark and Syria TV are providing more detailed coverage of diplomatic efforts and regional coordination than wire services, particularly on France's Cyprus initiative and Syria's neutrality strategy.

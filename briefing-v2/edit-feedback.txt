@@ -1,75 +1,55 @@
-Here are the issues found in the Levant briefing draft:
+Here are the specific issues found:
 
-## 1. FACT-CHECK
-**Issue 1:** The lead paragraph's opening claim about Israeli strikes killing nine people in Arki, Lebanon is NOT supported by the source data. The Al Jazeera link provided leads to an Iran war liveblog, but none of the source stories mention this attack. This appears to be fabricated or from an unsourced external story.
+## BLOCKING ISSUES
 
-**Issue 2:** Several bullets cite sources not in the provided data:
-- Syrian Observer stories (SDF deputy foreign minister, torture in Qamishli)
-- Levant24 story (WFP assistance)
-- Nahar Net stories (Beirut strikes, Netanyahu warning)
-- El Shark story (Lebanese government denouncement)
-- SANA story (Jordan-Egypt call)
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph contains multiple unsupported claims not traceable to the source data:
+- "bombed Kharg Island" - this specific location is not mentioned in any source
+- "struck central Tehran" - this specific detail is not in the sources
+- Israel warning Lebanon could face "Gaza-level destruction" - this quote and context not found in sources
+- Syrian refugees "already returning home" claim with Syrian Observer attribution - this source and story not in the provided data
 
-## 2. STYLE - CONTRACTIONS
-Clean.
+The lead relies heavily on unsourced material and fabricated details.
 
-## 3. STYLE - "AMID"
-**Issue 3:** "Oil prices remained above $100 per barrel as Iran tightened control of the Strait of Hormuz" - should be "amid Iran's stranglehold" per the source headline, but "amid" is flagged style.
+**8. SOURCE DIVERSITY (BLOCKING):** Only 4 unique outlet domains appear: Al Jazeera, Enab Baladi, Times of Israel, and El Shark. However, several links point to sources not in the provided data (levant24.com, syria.tv, sana.sy, syrianobserver.com), making this count unreliable. Should add more sources from the provided data.
 
-## 4. STYLE - EM-DASHES
-Clean.
+**7. SECTION COVERAGE (BLOCKING):** All required sections present.
 
-## 5. LINKS
-**Issue 4:** "Times of Israel" is 3 words (acceptable), but several other link texts exceed 3 words:
-- "Syrian Observer reports" (3 words - acceptable)
-- "Nahar Net reports" (3 words - acceptable)  
-- "Enab Baladi reports" (3 words - acceptable)
-All other links are 1-2 words. Clean on link length.
+## OTHER ISSUES
 
-All bullets have at least one link. Clean on link requirement.
+**1. FACT-CHECK:**
+- "Syrian refugees are already returning home from Lebanon" - Syrian Observer source/story not in provided data
+- "Syria TV (Syria) explores the new government's 'philosophy of neutrality'" - this Syria TV story not in provided data
+- "Lebanese Health Ministry reports 773 people killed" - these specific casualty figures not found in El Shark sources
+- "Jordan and Egypt's foreign ministers discussed regional escalation" - SANA source not in provided data
+- "Cyprus reported that drones targeting a British military base were launched from Lebanon" - SANA source not in provided data
+- Several fabricated details in lead paragraph as noted above
 
-## 6. TONE
-**Issue 5:** "marking a significant escalation in Israel's campaign against Iran's nuclear program" - this is editorializing analysis rather than factual reporting.
+**2. STYLE - CONTRACTIONS:** Clean.
 
-## 7. SECTION COVERAGE (BLOCKING)
-Clean - all three sections present with content.
+**3. STYLE - "AMID":** 
+- "Syria pushes regional coordination amid escalating conflict" (Syria bullet point)
 
-## 8. SOURCE DIVERSITY (BLOCKING)
-**Issue 6 - BLOCKING:** Only 2 unique outlet domains appear in the draft:
-- aljazeera.com (3 links)
-- timesofisrael.com (1 link)
+**4. STYLE - EM-DASHES:** Clean.
 
-The draft needs at least 3 domains. Available from source data: english.enabbaladi.net should be used from the Syria stories provided.
+**5. LINKS:**
+- "Syria pushes regional coordination" = 4 words (should be max 3)
+- "philosophy of neutrality" = 3 words ✓
+- All other links appear to be 3 words or fewer
 
-## 9. ATTRIBUTION
-**Issue 7:** Multiple bullets lack explicit source attribution:
-- "Damascus is considering appointing..." (has "Syrian Observer reports")
-- "The World Food Programme continues..." (has "according to Levant24") 
-- "Saudi Arabia signed..." (has "per Enab Baladi")
-- "French President Emmanuel Macron praised..." (has "Enab Baladi reports")
-- "The Syrian Network for Human Rights condemned..." (has "according to Syrian Observer")
-- "Israeli forces targeted..." (has "Nahar Net reports")
-- "Prime Minister Benjamin Netanyahu warned..." (has "according to Nahar Net")
-- "Lebanese government denounced..." (has "per El Shark")
-- "Oil prices remained..." (has "Al Jazeera reports")
-- "Netanyahu claimed..." (has "according to Al Jazeera")
-- "Jordan and Egypt discussed..." (has "per SANA")
+**6. TONE:** Clean - no dry headlines or editorializing language found.
 
-Actually, attribution appears present for all bullets. Clean.
+**9. ATTRIBUTION:**
+- "Syria is pushing regional coordination as the broader Iran-US conflict threatens to destabilize the Levant, according to Levant24" - has attribution
+- All other links have proper attribution nearby
 
-## 10. ARABIC SOURCE QUALITY
-**Issue 8:** El Shark link attribution lacks country identifier - should be "El Shark (Lebanon) reports" per style guide.
+**10. ARABIC SOURCE QUALITY:**
+- El Shark attribution properly formatted as "El Shark (Lebanon) reports"
+- Syria TV attribution properly formatted as "Syria TV (Syria)"
 
-## 11. "ADD CONTEXT" CLAUSES
-**Issue 9:** "signaling growing Gulf investment in Syrian reconstruction despite ongoing US sanctions" - ends with implication rather than fact.
+**11. "ADD CONTEXT" CLAUSES:**
+- "highlighting the ongoing dangers facing Syrians even after Assad's fall" (first Syria bullet)
 
-**Issue 10:** "reflecting improved diplomatic ties between Damascus and Paris" - ends with implication rather than fact.
+**Missing bullet point links:** All bullet points contain at least one markdown link.
 
-**Issue 11:** "highlighting ongoing accountability concerns in Kurdish-controlled areas" - ends with implication rather than fact.
-
-**Issue 12:** "marking a significant escalation in Israel's campaign against Iran's nuclear program" - ends with implication rather than fact.
-
-## 12. LEAD QUALITY (BLOCKING)
-**Issue 13 - BLOCKING:** The lead makes unsupported factual claims (the Arki attack) not found in source data, making this a blocking fact-check issue that compromises the entire lead's credibility.
-
-**SUMMARY:** This draft has blocking issues with fact-checking (fabricated lead content) and source diversity (only 2 domains vs. required 3). Multiple style issues with implication clauses and one missing country attribution. The lead needs complete rewrite with verified facts from provided sources.
+## Summary
+This draft has serious factual accuracy problems with multiple unsourced claims and fabricated details, particularly in the lead. Several sources cited (Syrian Observer, SANA, Levant24) are not in the provided source data, making verification impossible.
