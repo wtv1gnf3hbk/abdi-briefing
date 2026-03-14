@@ -1,55 +1,73 @@
-Here are the specific issues found:
+## Quality Control Review - Issues Found
 
-## BLOCKING ISSUES
+**1. FACT-CHECK**
+- Issue: Lead paragraph references a "liveblog" URL that doesn't match the source data provided. The link text says "Al Jazeera" but goes to a liveblog URL not in the source list.
+- Issue: Multiple bullets contain fabricated links not in source data (Syrian Observer, Levant24, Naharnet, L'Orient Today, An Nahar, SANA, Cyprus officials story)
+- Issue: Lead claims "Defense Secretary Pete Hegseth warned of 'no quarter, no mercy'" - this quote is not traceable to provided sources
 
-**12. LEAD QUALITY (BLOCKING):** The lead paragraph contains multiple unsupported claims not traceable to the source data:
-- "bombed Kharg Island" - this specific location is not mentioned in any source
-- "struck central Tehran" - this specific detail is not in the sources
-- Israel warning Lebanon could face "Gaza-level destruction" - this quote and context not found in sources
-- Syrian refugees "already returning home" claim with Syrian Observer attribution - this source and story not in the provided data
+**2. STYLE - CONTRACTIONS**
+Clean.
 
-The lead relies heavily on unsourced material and fabricated details.
+**3. STYLE - "AMID"**  
+Clean.
 
-**8. SOURCE DIVERSITY (BLOCKING):** Only 4 unique outlet domains appear: Al Jazeera, Enab Baladi, Times of Israel, and El Shark. However, several links point to sources not in the provided data (levant24.com, syria.tv, sana.sy, syrianobserver.com), making this count unreliable. Should add more sources from the provided data.
+**4. STYLE - EM-DASHES**
+Clean.
 
-**7. SECTION COVERAGE (BLOCKING):** All required sections present.
+**5. LINKS**
+- Issue: "injured 31 civilians" is 3 words (acceptable)
+- Issue: "returning home" is 2 words (acceptable)  
+- Issue: "Syrian officials" is 2 words (acceptable)
+- Issue: "reports" is 1 word (acceptable)
+- Issue: "cut major roads" is 3 words (acceptable)
+- Issue: "Times of Israel" is 3 words (acceptable)
+- Issue: "soaring nationwide" is 2 words (acceptable)
+- Issue: "reports" is 1 word (acceptable)
+- Issue: "disrupting global shipping" is 3 words (acceptable)
+- Issue: "regional escalation" is 2 words (acceptable)
+- Issue: "launched from Lebanon" is 3 words (acceptable)
+- All bullets have at least one link ✓
 
-## OTHER ISSUES
+**6. TONE**
+- Issue: "highlighting the ongoing danger posed by unexploded ordnance" - editorializing clause
+- Issue: "reversing years of displacement patterns" - interpretive clause
+- Issue: "signaling the party remains committed to its Iran alliance" - editorializing
 
-**1. FACT-CHECK:**
-- "Syrian refugees are already returning home from Lebanon" - Syrian Observer source/story not in provided data
-- "Syria TV (Syria) explores the new government's 'philosophy of neutrality'" - this Syria TV story not in provided data
-- "Lebanese Health Ministry reports 773 people killed" - these specific casualty figures not found in El Shark sources
-- "Jordan and Egypt's foreign ministers discussed regional escalation" - SANA source not in provided data
-- "Cyprus reported that drones targeting a British military base were launched from Lebanon" - SANA source not in provided data
-- Several fabricated details in lead paragraph as noted above
+**7. SECTION COVERAGE (BLOCKING)**
+✓ Syria section present with content
+✓ Lebanon section present with content  
+✓ Broader Levant section present
+Not blocking.
 
-**2. STYLE - CONTRACTIONS:** Clean.
+**8. SOURCE DIVERSITY (BLOCKING)**
+Unique domains found:
+1. aljazeera.com (2 instances)
+2. english.enabbaladi.net (1 instance) 
+3. timesofisrael.com (1 instance)
 
-**3. STYLE - "AMID":** 
-- "Syria pushes regional coordination amid escalating conflict" (Syria bullet point)
+Count: 3 domains ✓ (meets minimum requirement)
+However, many fabricated sources used that aren't in source data.
 
-**4. STYLE - EM-DASHES:** Clean.
+**9. ATTRIBUTION**
+- Issue: First Al Jazeera link has attribution ✓
+- Issue: Second Al Jazeera link has attribution ✓  
+- Issue: Enab Baladi link has attribution ✓
+- Issue: Multiple fabricated links have attribution but sources don't exist in provided data
 
-**5. LINKS:**
-- "Syria pushes regional coordination" = 4 words (should be max 3)
-- "philosophy of neutrality" = 3 words ✓
-- All other links appear to be 3 words or fewer
+**10. ARABIC SOURCE QUALITY**
+- Syria TV attribution present ✓
+- El Shark attribution present ✓
+- However, these sources may be fabricated as they don't appear in provided source data
 
-**6. TONE:** Clean - no dry headlines or editorializing language found.
+**11. "ADD CONTEXT" CLAUSES**
+- Issue: "highlighting the ongoing danger posed by unexploded ordnance across the country"
+- Issue: "reversing years of displacement patterns"  
+- Issue: "signaling the party remains committed to its Iran alliance"
 
-**9. ATTRIBUTION:**
-- "Syria is pushing regional coordination as the broader Iran-US conflict threatens to destabilize the Levant, according to Levant24" - has attribution
-- All other links have proper attribution nearby
-
-**10. ARABIC SOURCE QUALITY:**
-- El Shark attribution properly formatted as "El Shark (Lebanon) reports"
-- Syria TV attribution properly formatted as "Syria TV (Syria)"
-
-**11. "ADD CONTEXT" CLAUSES:**
-- "highlighting the ongoing dangers facing Syrians even after Assad's fall" (first Syria bullet)
-
-**Missing bullet point links:** All bullet points contain at least one markdown link.
+**12. LEAD QUALITY (BLOCKING)**
+✓ Lead is 4 sentences with context, stakes, and attribution
+✓ Not a single sentence headline restatement
+Not blocking.
 
 ## Summary
-This draft has serious factual accuracy problems with multiple unsourced claims and fabricated details, particularly in the lead. Several sources cited (Syrian Observer, SANA, Levant24) are not in the provided source data, making verification impossible.
+**BLOCKING ISSUES:** Multiple fabricated sources and quotes not traceable to provided source data. This draft uses numerous outlets and stories not in the source material, making it unpublishable until rewritten with only verified sources.
