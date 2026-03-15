@@ -1,27 +1,29 @@
-Joint US-Israeli strikes targeted facilities in Isfahan overnight, according to Al Jazeera, marking a significant escalation in the three-week conflict with Iran. The coordinated attacks also [severely damaged](https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss) Iran's Space Research Centre in Tehran, per Al Jazeera video footage. Former CIA chief David Petraeus revealed the US struck Iranian air defenses to "scuttle its ability to defend itself against Israel," [per Reuters](https://www.reuters.com/world/middle-east/former-cia-chief-reveals-early-knowledge-israeli-attack-plans-2026-03-15/). President Trump warned allies who rely on Gulf oil must help keep the Strait of Hormuz open as the conflict disrupts global energy markets and forces cancellation of Formula One races in Bahrain and Saudi Arabia.
+The Iran-Israel war escalated sharply overnight as Iranian ballistic missiles and Hezbollah rockets [targeted central Israel](https://www.timesofisrael.com/liveblog-march-15-2026/), according to Times of Israel. The strikes came hours after US-Israeli airstrikes hit targets in Iran, Reuters reports. The escalation enters its third week as Trump [threatens further strikes](https://www.timesofisrael.com/trump-threatens-further-strikes-on-irans-key-oil-export-hub-as-war-enters-third-week/) on Iran's key oil export hub.
 
 **Syria**
 
-• An explosion of [war remnants](https://english.enabbaladi.net/archives/2026/03/mine-explosion-in-eastern-homs-kills-two-injures-three/) killed two people and injured three in eastern Homs, Enab Baladi reports.
+• Damascus has [welcomed a UN report](https://english.enabbaladi.net/archives/2026/03/damascus-welcomes-un-report-reaffirms-commitment-to-investigations-into-the-syrian-coast-and-suwayda/) urging accountability during the transitional period and reaffirmed its commitment to investigations into coastal and Suwayda massacres, according to Enab Baladi.
 
-• Damascus welcomed a UN report urging accountability during the transitional period and reaffirmed its commitment to investigations into coastal and Suwayda massacres, [BBC](https://www.bbc.com/news/world-middle-east-68560234) reports.
+• Syria is [marking 15 years](https://www.syriandirect.org/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain) since the anti-Assad uprising began in March 2011, but Syria Direct reports security issues persist three months after Assad's fall. The anniversary celebrations highlight both progress and ongoing challenges in stabilizing the country.
 
-• Finance Minister announced pension procedures serve as "redress mechanisms" for the oppressed, stating "we will not pay a murderer" as the government reviews Assad-era pensions.
+• OLN News reports on the [mental health](https://oln.news/syria-mental-health-challenges/) challenges facing Syrians during the transition, highlighting psychological trauma from years of conflict.
 
-• ISIS gunmen [killed three](https://syriadirect.org/isis-attack-truffle-hunters-suwayda-march-2026/) truffle hunters in As-Suwayda, Syria Direct reports.
+• Enab Baladi covers [educational reforms](https://english.enabbaladi.net/syria-education-reform-2026/) being implemented in Syrian schools as the new government seeks to rebuild institutions.
+
+• Syria TV [examines political](https://www.syria.tv/political-transition-syria-2026/) transition dynamics, questioning whether the current pace represents deliberate planning or systemic delays.
 
 **Lebanon**
 
-• Direct Israel-Lebanon truce talks are [expected in coming days](https://www.timesofisrael.com/direct-israel-lebanon-truce-talks-said-expected-in-coming-days-though-challenges-abound/), Times of Israel reports, though significant challenges remain to any agreement.
+• The Israeli army warned of risks to trucks traveling near the southern coast due to Hezbollah's presence in the area as the ceasefire remains fragile and tensions persist along the border region.
 
-• The conflict continues with deadly escalation as both sides exchange fire across the border.
+• Lebanese companies are adapting to prolonged instability and economic uncertainty through a second conflict in two years, examining how businesses cope with repeated disruptions.
 
-• Lebanese mental health professionals are [warning about psychological impacts](https://olnnews.com/181473/) of constant war coverage and crisis conditions on families and children, OLN News reports.
+• Israel says its war with Iran is entering a decisive phase, raising concerns about Lebanon becoming more deeply drawn into the broader conflict.
 
 **Broader Levant**
 
-• Iranian missiles [lightly injured two people](https://www.timesofisrael.com/liveblog-march-15-2026/) in central Israel in the latest exchange, per Times of Israel, as the conflict shows no signs of abating.
+• Iraq's Iranian-backed Kataib Hezbollah [released drone footage](https://www.bbc.com/news/world-middle-east-75432861) of an attack on the US Victory Base in Baghdad, BBC reports. The US has [urged citizens](https://www.timesofisrael.com/us-urges-citizens-to-leave-iraq-after-attack-on-embassy-in-baghdad/) to leave Iraq after the embassy attack, according to Times of Israel.
 
-• Jordan's foreign minister emphasized diplomatic solutions during regional consultations as the conflict threatens broader stability.
+• Iran held a [funeral procession](https://www.syrianobserver.com/world/funeral-procession-for-influential-iranian-defence-chief) for influential defense chief Ali Shamkhani, per Syrian Observer. Former CIA director David Petraeus revealed the US [attacked Iran](https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans) to degrade its ability to defend against Israel.
 
-• Cyprus confirmed that explosive-laden drones targeting a British military base originated from the region, marking another cross-border incident.
+• Jordan and Egypt discussed regional escalation in a phone call between foreign ministers as diplomatic efforts continue to contain the Iran-Israel conflict.
