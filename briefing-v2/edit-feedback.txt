@@ -1,73 +1,57 @@
-## Quality Control Review - Issues Found
+Here are the issues I found in the briefing draft:
 
-**1. FACT-CHECK**
-- Issue: Lead paragraph references a "liveblog" URL that doesn't match the source data provided. The link text says "Al Jazeera" but goes to a liveblog URL not in the source list.
-- Issue: Multiple bullets contain fabricated links not in source data (Syrian Observer, Levant24, Naharnet, L'Orient Today, An Nahar, SANA, Cyprus officials story)
-- Issue: Lead claims "Defense Secretary Pete Hegseth warned of 'no quarter, no mercy'" - this quote is not traceable to provided sources
+## BLOCKING ISSUES
 
-**2. STYLE - CONTRACTIONS**
-Clean.
+**12. LEAD QUALITY (BLOCKING):** The lead paragraph is acceptable - it's 4 sentences with context, stakes, and proper attribution. Clean.
 
-**3. STYLE - "AMID"**  
-Clean.
+**7. SECTION COVERAGE (BLOCKING):** All three required sections (Syria, Lebanon, Broader Levant) are present with content. Clean.
 
-**4. STYLE - EM-DASHES**
-Clean.
+**8. SOURCE DIVERSITY (BLOCKING):** Only 2 unique outlet domains appear (aljazeera.com, timesofisrael.com). Need minimum 3 domains. Missing sources that should be added:
+- enabbaladi.net stories about war remnants explosion, ISIS attacks, or Damascus UN report response
+- olnnews.com stories (already used but could add more)
+- syria.tv, levant24.com, halabtodaytv.net, or sana.sy stories
 
-**5. LINKS**
-- Issue: "injured 31 civilians" is 3 words (acceptable)
-- Issue: "returning home" is 2 words (acceptable)  
-- Issue: "Syrian officials" is 2 words (acceptable)
-- Issue: "reports" is 1 word (acceptable)
-- Issue: "cut major roads" is 3 words (acceptable)
-- Issue: "Times of Israel" is 3 words (acceptable)
-- Issue: "soaring nationwide" is 2 words (acceptable)
-- Issue: "reports" is 1 word (acceptable)
-- Issue: "disrupting global shipping" is 3 words (acceptable)
-- Issue: "regional escalation" is 2 words (acceptable)
-- Issue: "launched from Lebanon" is 3 words (acceptable)
-- All bullets have at least one link ✓
+## FACT-CHECK ISSUES
 
-**6. TONE**
-- Issue: "highlighting the ongoing danger posed by unexploded ordnance" - editorializing clause
-- Issue: "reversing years of displacement patterns" - interpretive clause
-- Issue: "signaling the party remains committed to its Iran alliance" - editorializing
+1. Lead paragraph claims "Joint US-Israeli strikes killed at least 15 people in a factory in Isfahan" - this casualty figure and factory location are NOT supported by the Al Jazeera source provided.
 
-**7. SECTION COVERAGE (BLOCKING)**
-✓ Syria section present with content
-✓ Lebanon section present with content  
-✓ Broader Levant section present
-Not blocking.
+2. Syria bullet about "Four people from one family died Saturday" links to Syria TV but this story is not in the provided source data.
 
-**8. SOURCE DIVERSITY (BLOCKING)**
-Unique domains found:
-1. aljazeera.com (2 instances)
-2. english.enabbaladi.net (1 instance) 
-3. timesofisrael.com (1 instance)
+3. Syria bullet about Damascus welcoming UN report links to Levant24, but source data shows this story is from Enab Baladi.
 
-Count: 3 domains ✓ (meets minimum requirement)
-However, many fabricated sources used that aren't in source data.
+4. Syria bullet about Finance Minister links to "Aleppo Today" - this outlet is not in the provided source data.
 
-**9. ATTRIBUTION**
-- Issue: First Al Jazeera link has attribution ✓
-- Issue: Second Al Jazeera link has attribution ✓  
-- Issue: Enab Baladi link has attribution ✓
-- Issue: Multiple fabricated links have attribution but sources don't exist in provided data
+5. Syria bullet about regional war economic strain links to Levant24 - this specific story is not in the provided source data.
 
-**10. ARABIC SOURCE QUALITY**
-- Syria TV attribution present ✓
-- El Shark attribution present ✓
-- However, these sources may be fabricated as they don't appear in provided source data
+6. Lebanon bullet about "thirteenth day" links to Google News - this source is not in the provided data and the timeframe conflicts with "three-week conflict" mentioned in the lead.
 
-**11. "ADD CONTEXT" CLAUSES**
-- Issue: "highlighting the ongoing danger posed by unexploded ordnance across the country"
-- Issue: "reversing years of displacement patterns"  
-- Issue: "signaling the party remains committed to its Iran alliance"
+7. Broader Levant bullets about Jordan-Egypt call and Cyprus drones link to SANA - these stories are not in the provided source data.
 
-**12. LEAD QUALITY (BLOCKING)**
-✓ Lead is 4 sentences with context, stakes, and attribution
-✓ Not a single sentence headline restatement
-Not blocking.
+## STYLE ISSUES
 
-## Summary
-**BLOCKING ISSUES:** Multiple fabricated sources and quotes not traceable to provided source data. This draft uses numerous outlets and stories not in the source material, making it unpublishable until rewritten with only verified sources.
+**2. CONTRACTIONS:** Clean.
+
+**3. "AMID":** Clean.
+
+**4. EM-DASHES:** Clean.
+
+**5. LINKS:** 
+- "killed at least 15 people" exceeds 3-word maximum
+- "severely damaged" is acceptable (2 words)
+- "according to Al Jazeera" exceeds 3-word maximum
+- All bullets have at least one link. Clean on bullet requirement.
+
+**6. TONE:**
+- Syria bullet "Damascus welcomed a UN report urging accountability..." reads like a dry headline summary
+- "The conflict has entered its thirteenth day with deadly escalation" reads like a headline summary
+
+## OTHER ISSUES
+
+**9. ATTRIBUTION:** Clean - all links have proper attribution nearby.
+
+**10. ARABIC SOURCE QUALITY:** Syria TV attribution is proper format. Clean.
+
+**11. "ADD CONTEXT" CLAUSES:** Clean - bullets end with facts, not implications.
+
+## SUMMARY
+This draft has serious blocking issues with source diversity and multiple fact-checking problems where claims cannot be traced to the provided source data. Several links point to stories not included in the source material.
